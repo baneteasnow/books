@@ -21,6 +21,36 @@
 	},
 	{
 		"bookshelf": "",
+		"title": "Strateji Yasaları",
+		"publisher": "MEDİACAT KİTAPLARI",
+		"author": "Michael A. Cusumano, David B. Yoffie",
+		"lang": "TÜRKÇE",
+		"page": 272,
+		"year": "2016",
+		"notes": "E-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Stratejik Karar Kitabı & Stratejik Düşünme İçin Elli Model",
+		"publisher": "BRANDAGE YAYINLARI",
+		"author": "Mikael Krogerus, Roman Tschappeler",
+		"lang": "TÜRKÇE",
+		"page": 177,
+		"year": "2013",
+		"notes": "D-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Stres Yogası",
+		"publisher": "TURKUAZ KİTAPLIĞI",
+		"author": "Dr. Neslihan İskit",
+		"lang": "TÜRKÇE",
+		"page": 128,
+		"year": "2008",
+		"notes": "E-2"
+	},
+	{
+		"bookshelf": "",
 		"title": "Bana Yalan Söylediler & İnternet ve Gerçek Yüzümüz",
 		"publisher": "KOÇ ÜNİVERSİTESİ YAYINLARI",
 		"author": "Seth Stephens Davidowitz",
