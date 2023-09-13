@@ -1,16 +1,6 @@
 [
 	{
 		"bookshelf": "",
-		"title": "en yeni kitap listesi",
-		"publisher": "ARTEMİS YAYINLARI",
-		"author": "Tuba Ünsal",
-		"lang": "TÜRKÇE",
-		"page": 192,
-		"year": "2014",
-		"notes": "A-2"
-	},
-	{
-		"bookshelf": "",
 		"title": "Balanced Scorecard",
 		"publisher": "SİSTEM YAYINCILIK",
 		"author": "David P. Norton, Robert S. Kaplan",
@@ -38,85 +28,5 @@
 		"page": 256,
 		"year": "2018",
 		"notes": "B-2"
-	},
-	{
-		"bookshelf": "",
-		"title": "#Moda2014",
-		"publisher": "ARTEMİS YAYINLARI",
-		"author": "Tuba Ünsal",
-		"lang": "TÜRKÇE",
-		"page": 192,
-		"year": "2014",
-		"notes": "A-2"
-	},
-	{
-		"bookshelf": "",
-		"title": "% 100 Düşünce Gücü",
-		"publisher": "AKAŞA YAYINLARI",
-		"author": "Jack Ensign Addington",
-		"lang": "TÜRKÇE",
-		"page": 224,
-		"year": "2007",
-		"notes": "B-4"
-	},
-	{
-		"bookshelf": "",
-		"title": "% 100 Yakıştır & Bütünleyici Giysi, Makyaj, Saç ve Aksesuar Tonları",
-		"publisher": "AFFECTUM LIBRIS",
-		"author": "Oya Komar",
-		"lang": "TÜRKÇE",
-		"page": 104,
-		"year": "2013",
-		"notes": "A-2"
-	},
-	{
-		"bookshelf": "",
-		"title": "%10 Daha Mutlu",
-		"publisher": "PEGASUS YAYINLARI",
-		"author": "Dan Harris",
-		"lang": "TÜRKÇE",
-		"page": 288,
-		"year": "2017",
-		"notes": "C-1"
-	},
-	{
-		"bookshelf": "",
-		"title": "%1’e Karşı Birlik",
-		"publisher": "YELKOVAN KİTAP",
-		"author": "Vandana Shiva",
-		"lang": "TÜRKÇE",
-		"page": 176,
-		"year": "2021",
-		"notes": "A-4"
-	},
-	{
-		"bookshelf": "",
-		"title": "\"Boşuna mı Okuduk?\" Türkiye'de Beyaz Yakalı İşsizliği",
-		"publisher": "İLETİŞİM YAYINLARI",
-		"author": "Necmi Erdoğan, Tanıl Bora, Aksu Bora, İlknur Üstün",
-		"lang": "TÜRKÇE",
-		"page": 352,
-		"year": "2017",
-		"notes": "B-3"
-	},
-	{
-		"bookshelf": "",
-		"title": "10 Milyar",
-		"publisher": "NTV YAYINLARI",
-		"author": "Stephen Emmott",
-		"lang": "TÜRKÇE",
-		"page": 200,
-		"year": "2014",
-		"notes": "E-4"
-	},
-	{
-		"bookshelf": "",
-		"title": "100 Yapıda Mimarinin Geleceği",
-		"publisher": "OPTİMİST YAYINLARI",
-		"author": "Marc Kushner",
-		"lang": "TÜRKÇE",
-		"page": 176,
-		"year": "2016",
-		"notes": "C-1"
 	}
 ]
