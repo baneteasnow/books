@@ -2,14 +2,14 @@
 layout: null
 ---
 [
-  {% for item in site.data.oldestbooksmockdata %}
+  {% for item in site.data.booklistjson %}
     {
 
-      "title"     : "{{ item.Title }}",
-      "url"       : "{{ site.baseurl }}bookstoc#{{ item.Title }}",
-      "author"    : "{{ item.Author }}",
-      "year"      : "{{ item.year }}",
-      "bookshelf" : "{{ item.Notes }}"
+      "title"     : "{{ item.kitapadi }}",
+      "url"       : "{{ site.baseurl }}bookstoc#{{ item.kitapadi }}",
+      "author"    : "{{ item.yazar }}",
+      "year"      : "{{ item.yayinyili }}",
+      "bookshelf" : "{{ item.not }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
