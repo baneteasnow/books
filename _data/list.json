@@ -58,5 +58,415 @@
 		"page": 256,
 		"year": "2018",
 		"notes": "B-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yetenekli Çocuğun Dramı",
+		"publisher": "PROFİL KİTAP",
+		"author": "Alice Miller",
+		"lang": "TÜRKÇE",
+		"page": 144,
+		"year": "2021",
+		"notes": "B-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yıldız Patikaları ve Yabani İşaretler & Kayıp Altıncı Hissimizin Anahtarları",
+		"publisher": "AVANTÜR",
+		"author": "Tristan Gooley",
+		"lang": "TÜRKÇE",
+		"page": 416,
+		"year": "2022",
+		"notes": "A-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yin Yoga - Prensipleri Uygulamasi",
+		"publisher": "Pingala",
+		"author": "Paul Grilley",
+		"lang": "Turkce",
+		"page": 134,
+		"year": "2022",
+		"notes": "new"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yin Yoga El Kitabi - Yin Yoga Felsefesi ve Pratigi",
+		"publisher": "Pingala",
+		"author": "Bernie Clark",
+		"lang": "Turkce",
+		"page": 314,
+		"year": "2020",
+		"notes": "new"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yırt At",
+		"publisher": "PEGASUS YAYINLARI",
+		"author": "Richard Wiseman",
+		"lang": "TÜRKÇE",
+		"page": 384,
+		"year": "2014",
+		"notes": "B-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yoga Nefes Bilimi & Sağlığın ve Ruhsal Gelişimin Anahtarı",
+		"publisher": "HERMES YAYINLARI",
+		"author": "William Walker Atkinson, Yogi Romcharaka",
+		"lang": "TÜRKÇE",
+		"page": 112,
+		"year": "2021",
+		"notes": "A-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yoga ve Siz",
+		"publisher": "OKYANUS YAYINLARI",
+		"author": "B.K.S. Iyengar",
+		"lang": "TÜRKÇE",
+		"page": 176,
+		"year": "2023",
+		"notes": "A-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yoga ve Vejetaryenlik",
+		"publisher": "PALOMA YAYINLARI",
+		"author": "Sharon Gannon",
+		"lang": "TÜRKÇE",
+		"page": 164,
+		"year": "2016",
+		"notes": "A-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yoga Zihni & Pratiğinizi Derinleştirmek İçin Yoga Felsefesine Dair 52 Temel Prensip",
+		"publisher": "OMEGA YAYINLARI",
+		"author": "Rina Jakubowicz",
+		"lang": "TÜRKÇE",
+		"page": 208,
+		"year": "2022",
+		"notes": "C-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yoga: Bir Dönüşüm Klavuzu",
+		"publisher": "OMEGA YAYINLARI",
+		"author": "Dr. Vedaçarya David Frawley",
+		"lang": "TÜRKÇE",
+		"page": 112,
+		"year": "2022",
+		"notes": "A-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yoganın Kalbi",
+		"publisher": "PANAMA YAYINCILIK",
+		"author": "T. K. V. Desikachar",
+		"lang": "TÜRKÇE",
+		"page": 408,
+		"year": "2019",
+		"notes": "B-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yönetim İletişim Kültür",
+		"publisher": "ARIKAN BASIM YAYIM DAĞITIM",
+		"author": "Jale Minibaş Poussard, Turhan Erkmen",
+		"lang": "TÜRKÇE",
+		"page": 268,
+		"year": "2008",
+		"notes": "B-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yonetim ve Orgut Teorilerinde Metafor",
+		"publisher": "MESS",
+		"author": "Gareth Morgan",
+		"lang": "Turkce",
+		"page": 424,
+		"year": "1997",
+		"notes": "B-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yönetimin Esasları & Temel Kavramlar ve Uygulamalar",
+		"publisher": "NOBEL YAYIN DAĞITIM",
+		"author": "Stephen P. Robins, David A. Decenzo, Mary Coulter",
+		"lang": "TÜRKÇE",
+		"page": 496,
+		"year": "2013",
+		"notes": ""
+	},
+	{
+		"bookshelf": "",
+		"title": "Yönetimin Geleceği (Ciltli)",
+		"publisher": "OPTİMİST YAYINLARI",
+		"author": "Gary Hamel",
+		"lang": "TÜRKÇE",
+		"page": 280,
+		"year": "2008",
+		"notes": "E-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yönetme ve Yükselme Sanatı",
+		"publisher": "ALTIN KİTAPLAR",
+		"author": "Robert H. Waterman, Thomas J. Peters",
+		"lang": "TÜRKÇE",
+		"page": 441,
+		"year": "2015",
+		"notes": "E-2\nIn Search of Excellence"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yorgunluk Toplumu",
+		"publisher": "AÇILIM KİTAP",
+		"author": "Byung-Chul Han",
+		"lang": "TÜRKÇE",
+		"page": 63,
+		"year": "2017",
+		"notes": "C-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yüksek Bilinç Kılavuzu",
+		"publisher": "AKAŞA YAYINLARI",
+		"author": "Ken Keyes JR",
+		"lang": "TÜRKÇE",
+		"page": 256,
+		"year": "2014",
+		"notes": "C-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yüksek Topuklarla Nasıl Yürüycem?",
+		"publisher": "ARTEMİS YAYINLARI",
+		"author": "Camilla Morton",
+		"lang": "TÜRKÇE",
+		"page": 537,
+		"year": "2010",
+		"notes": "C-1"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yükseliş & Krizdeki Uluslar İçin Dönüm Noktaları (Ciltli)",
+		"publisher": "PEGASUS YAYINLARI",
+		"author": "Jared Diamond",
+		"lang": "TÜRKÇE",
+		"page": 576,
+		"year": "2019",
+		"notes": "D-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yürümeye Övgü",
+		"publisher": "SEL YAYINCILIK",
+		"author": "David Le Breton",
+		"lang": "TÜRKÇE",
+		"page": 144,
+		"year": "2022",
+		"notes": "A-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yüzmek, Yaşamak ve Olma Arzusu",
+		"publisher": "EKSİK PARÇA YAYINLARI",
+		"author": "Nihan Kaya",
+		"lang": "TÜRKÇE",
+		"page": 272,
+		"year": "2022",
+		"notes": "new"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yüzyılın Sonu",
+		"publisher": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+		"author": "Nathan Gardels, Wole Soyinka",
+		"lang": "TÜRKÇE",
+		"page": 238,
+		"year": "2000",
+		"notes": "C-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Y’leri Anla, Değiştirme & Kurumsal Hayatta Milenyum Kuşağı ve İletişim",
+		"publisher": "HÜMANİST KİTAP YAYINCILIK",
+		"author": "Elif Başak Sarıoğlu",
+		"lang": "TÜRKÇE",
+		"page": 120,
+		"year": "2018",
+		"notes": "E-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Z - Bir Kuşağı Anlamak",
+		"publisher": "MUNDİ",
+		"author": "Evrim Kuran",
+		"lang": "TÜRKÇE",
+		"page": 128,
+		"year": "2019",
+		"notes": "A-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zahmetsiz: Önemli İşleri Yapmayı Kolaylaştırın",
+		"publisher": "NOVA KİTAP",
+		"author": "Greg McKeown",
+		"lang": "TÜRKÇE",
+		"page": 248,
+		"year": "2022",
+		"notes": "B-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zebralar Neden Ülser Olmaz?",
+		"publisher": "İMGE KİTABEVİ YAYINLARI",
+		"author": "Robert M. Sapolsky",
+		"lang": "TÜRKÇE",
+		"page": 598,
+		"year": "2021",
+		"notes": "A-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zehirsiz Ev & Yaşamınızdan Zararlı Kimyasalları Eksiltmenin Basit Yolları",
+		"publisher": "MODUS KİTAP",
+		"author": "Mercan Yurdakuler Uluengin",
+		"lang": "TÜRKÇE",
+		"page": 140,
+		"year": "2018",
+		"notes": "A-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zeki ama Saplantılı",
+		"publisher": "ODTÜ GELİŞTİRME VAKFI YAYINCILIK VE İLETİŞİM A.Ş.",
+		"author": "Thomas E. Brown",
+		"lang": "TÜRKÇE",
+		"page": 281,
+		"year": "1970",
+		"notes": "A-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zeki Olduğunu Düşünüyor musun?",
+		"publisher": "NTV YAYINLARI",
+		"author": "John Farndon",
+		"lang": "TÜRKÇE",
+		"page": 224,
+		"year": "2016",
+		"notes": "E-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zeki Olduğunu Hala Düşünüyor musun?",
+		"publisher": "NTV YAYINLARI",
+		"author": "John Farndon",
+		"lang": "TÜRKÇE",
+		"page": 184,
+		"year": "2015",
+		"notes": "E-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zengin Baba Yoksul Baba",
+		"publisher": "ALFA YAYINLARI",
+		"author": "Robert T. Kiyosaki",
+		"lang": "TÜRKÇE",
+		"page": 400,
+		"year": "2023",
+		"notes": "C-4"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zenginler Yoksullar ve Robotlor",
+		"publisher": "BİREŞİM YAYINLARI",
+		"author": "Deniz Can Saner",
+		"lang": "TÜRKÇE",
+		"page": 167,
+		"year": "1993",
+		"notes": "C-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zenginlik Devrimi / Nasıl Yaratılacak ve Hayatınızı Nasıl Değiştirecek",
+		"publisher": "KORİDOR YAYINCILIK",
+		"author": "Alvin Toffler, Heidi Toffler",
+		"lang": "TÜRKÇE",
+		"page": 575,
+		"year": "2006",
+		"notes": "B-1"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zihin",
+		"publisher": "ALFA YAYINLARI",
+		"author": "John Brockman",
+		"lang": "TÜRKÇE",
+		"page": 290,
+		"year": "2013",
+		"notes": "A-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zihin Çerçeveleri / Çoklu Zeka Kuramı",
+		"publisher": "ALFA YAYINLARI",
+		"author": "Howard Gardner",
+		"lang": "TÜRKÇE",
+		"page": 559,
+		"year": "2017",
+		"notes": "A-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zihin Nasıl Çalışır",
+		"publisher": "ALFA YAYINLARI",
+		"author": "Steven Pinker",
+		"lang": "TÜRKÇE",
+		"page": 712,
+		"year": "2020",
+		"notes": "A-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zihnin Geleceği",
+		"publisher": "ODTÜ GELİŞTİRME VAKFI YAYINCILIK VE İLETİŞİM A.Ş.",
+		"author": "Michio Kaku",
+		"lang": "TÜRKÇE",
+		"page": 456,
+		"year": "2015",
+		"notes": "A-2"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zirve & Uzmanlaşmanın Bilimsel Sırları",
+		"publisher": "BUZDAĞI YAYINLARI",
+		"author": "Robert Pool, Anders Ericsson",
+		"lang": "TÜRKÇE",
+		"page": 352,
+		"year": "2018",
+		"notes": "A-3"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zor Bir Ailede Büyümek & Geçmişi Onarmanın ve Hayatı Geri Kazanmanın Yolları",
+		"publisher": "İLETİŞİM YAYINLARI",
+		"author": "Susan Forward, Craig Buck",
+		"lang": "TÜRKÇE",
+		"page": 327,
+		"year": "2021",
+		"notes": "A-1"
+	},
+	{
+		"bookshelf": "",
+		"title": "Zor Kişilikler'le Yaşamak",
+		"publisher": "İLETİŞİM YAYINLARI",
+		"author": "François Lelord, Christophe Andre",
+		"lang": "TÜRKÇE",
+		"page": 336,
+		"year": "2022",
+		"notes": "A-1"
 	}
 ]
