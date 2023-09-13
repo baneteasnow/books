@@ -39,7 +39,7 @@ published: true
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/searchbooks.json',
+  json: '/search.json',
   searchResultTemplate: '<div style="text-transform: lowercase;"><li><a href="{url}" title="{title}">{title}</a></li></div>',
   noResultsText: 'No results found',
   limit: 30000,
