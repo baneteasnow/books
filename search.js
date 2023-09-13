@@ -188,7 +188,7 @@
 					return 0
 				},
 				noResultsText: "No results found",
-				limit: 300000,
+				limit: 10,
 				fuzzy: !1,
 				exclude: [],
 			},
