@@ -1,29 +1,46 @@
 [
 	{
+		"bookshelf": 1001,
+		"No": 1,
 		"title": "#Moda2014",
 		"publisher": "ARTEMİS YAYINLARI",
 		"author": "Tuba Ünsal",
 		"lang": "TÜRKÇE",
 		"page": 192,
-		"year": 2014,
+		"year": "2014",
 		"notes": "A-2"
 	},
 	{
+		"bookshelf": 1002,
+		"No": 2,
 		"title": "% 100 Düşünce Gücü",
 		"publisher": "AKAŞA YAYINLARI",
 		"author": "Jack Ensign Addington",
 		"lang": "TÜRKÇE",
 		"page": 224,
-		"year": 2007,
+		"year": "2007",
 		"notes": "B-4"
 	},
 	{
+		"bookshelf": 1003,
+		"No": 3,
 		"title": "% 100 Yakıştır & Bütünleyici Giysi, Makyaj, Saç ve Aksesuar Tonları",
 		"publisher": "AFFECTUM LIBRIS",
 		"author": "Oya Komar",
 		"lang": "TÜRKÇE",
 		"page": 104,
-		"year": 2013,
+		"year": "2013",
 		"notes": "A-2"
+	},
+	{
+		"bookshelf": 1004,
+		"No": 4,
+		"title": "%10 Daha Mutlu",
+		"publisher": "PEGASUS YAYINLARI",
+		"author": "Dan Harris",
+		"lang": "TÜRKÇE",
+		"page": 288,
+		"year": "2017",
+		"notes": "C-1"
 	}
 ]
