@@ -7,37 +7,37 @@ title: "Kitap Listesi bookstoc"
 ---
 
 {% for item in site.data.booklistjson %}
-<h3>{{ item.title }}</h3>
+<h3>{{ item.kitapadi }}</h3>
 <div>
 	<div>
 		<a
-			href="{{ site.baseurl }}bookstoc#{{ item.title }}"
-			name="{{ item.title }}"
-			>{{ site.baseurl }}bookstoc#{{ item.title }}</a
+			href="{{ site.baseurl }}bookstoc#{{ item.kitapadi }}"
+			name="{{ item.kitapadi }}"
+			>{{ site.baseurl }}bookstoc#{{ item.kitapadi }}</a
 		>
 	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.author }}</i>
+		<i>{{ item.yazar }}</i>
 	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.year }}</i>
+		<i>{{ item.yayinyili }}</i>
 	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.notes }}</i>
+		<i>{{ item.not }}</i>
 	</div>
 	<a
-		name="{{ item.title }}"
+		name="{{ item.kitapadi }}"
 		title="google search"
-		href="https://www.google.com/search?q={{ item.title }}"
+		href="https://www.google.com/search?q={{ item.kitapadi }}"
 		target="_blank"
 		rel="noreferrer,nofollow"
 	>
