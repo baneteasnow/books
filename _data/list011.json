@@ -1,0 +1,46 @@
+[
+	{
+		"bookshelf": 1721,
+		"No": 721,
+		"title": "Jaguara Dokunmak",
+		"publisher": "APRIL YAYINCILIK",
+		"author": "John Perkins",
+		"lang": "TÜRKÇE",
+		"page": 296,
+		"year": "2021",
+		"notes": "C-3"
+	},
+	{
+		"bookshelf": 1722,
+		"No": 722,
+		"title": "Japonizm (Ciltli)",
+		"publisher": "PEGASUS YAYINLARI",
+		"author": "Erin Niimi Longhurst",
+		"lang": "TÜRKÇE",
+		"page": 288,
+		"year": "2019",
+		"notes": "C-1"
+	},
+	{
+		"bookshelf": 1723,
+		"No": 723,
+		"title": "Japonların 100 Yıl Yaşama Sırrı",
+		"publisher": "DOĞAN NOVUS",
+		"author": "Junko Takahashi",
+		"lang": "TÜRKÇE",
+		"page": 224,
+		"year": "2019",
+		"notes": "C-1"
+	},
+	{
+		"bookshelf": 1724,
+		"No": 724,
+		"title": "John Berger’in Görme Biçimleri",
+		"publisher": "KETEBE YAYINEVİ",
+		"author": "Katja Lang, Emmanouil Kalkanis",
+		"lang": "TÜRKÇE",
+		"page": 120,
+		"year": "2021",
+		"notes": "B-1"
+	}
+]
