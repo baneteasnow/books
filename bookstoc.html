@@ -6,33 +6,33 @@ last_modified_at: 2023-09-11
 title: "Kitap Listesi bookstoc"
 ---
 
-{% for item in site.data.booklistjson %}
-<h3>{{ item.kitapadi }}</h3>
+{% for item in site.data.list %}
+<h3>{{ item.title }}</h3>
 <div>
 	<div>
 		<a
-			href="{{ site.baseurl }}bookstoc#{{ item.kitapadi }}"
-			name="{{ item.kitapadi }}"
-			>{{ site.baseurl }}bookstoc#{{ item.kitapadi }}</a
+			href="{{ site.baseurl }}bookstoc#{{ item.title }}"
+			name="{{ item.title }}"
+			>{{ site.baseurl }}bookstoc#{{ item.title }}</a
 		>
 	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.yazar }}</i>
+		<i>{{ item.author }}</i>
 	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.yayinyili }}</i>
+		<i>{{ item.year }}</i>
 	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.not }}</i>
+		<i>{{ item.notes }}</i>
 	</div>
 	<a
 		name="{{ item.kitapadi }}"
