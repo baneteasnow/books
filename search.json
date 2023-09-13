@@ -157,5 +157,5 @@ layout: null
       "uniqueid"  : "{{ item.bookshelf }}"
 
     } {% unless forloop.last %},{% endunless %}
-  {% endfor %},
+  {% endfor %}
 ]
