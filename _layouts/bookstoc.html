@@ -1,0 +1,50 @@
+---
+# /_data/samplelist.yml
+layout: page-6
+published: true
+last_modified_at: 2023-09-11
+title: "Kitap Listesi bookstoc"
+---
+
+{% for item in site.data.booksmockdata %}
+<h3>{{ item.title }}</h3>
+<div>
+	<div>
+		<a
+			href="{{ site.baseurl }}bookstoc#{{ item.title }}"
+			name="{{ item.title }}"
+			>{{ site.baseurl }}bookstoc#{{ item.title }}</a
+		>
+	</div>
+	<div
+		class="decorated"
+		style="font-size: 85%"
+	>
+		<i>{{ item.author }}</i>
+	</div>
+	<div
+		class="decorated"
+		style="font-size: 85%"
+	>
+		<i>{{ item.year }}</i>
+	</div>
+	<div
+		class="decorated"
+		style="font-size: 85%"
+	>
+		<i>{{ item.notes }}</i>
+	</div>
+	<a
+		name="{{ item.title }}"
+		title="google search"
+		href="https://www.google.com/search?q={{ item.title }}"
+		target="_blank"
+		rel="noreferrer,nofollow"
+	>
+		google
+	</a>
+</div>
+{% endfor %}
+
+<br />
+<br />
