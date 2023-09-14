@@ -61,14 +61,17 @@ title: "Kitap Listesi bookstoc"
 	</form>
 	<script
 		type="text/javascript"
-		src="/assets/fetch.js"
+		src="https://homelibrary.nonfictionbooks.xyz/assets/src/fetch.json"
 	></script>
 	<script
 		type="text/javascript"
-		src="/assets/search.js"
+		src="https://homelibrary.nonfictionbooks.xyz/assets/src/search.json"
 	></script>
 	<script type="text/javascript">
-		const search = new jekyllSearch("/assets/list.json")
+		const search = new jekyllSearch(
+			"https://homelibrary.nonfictionbooks.xyz/assets/list.json",
+			"https://homelibrary.nonfictionbooks.xyz/assets/list001.json"
+		)
 		search.init()
 	</script>
 	<noscript>Please enable JavaScript to use the search form.</noscript>
