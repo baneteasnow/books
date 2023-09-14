@@ -4,7 +4,7 @@ layout: null
 
 {% capture json %}
 [
-  {% for item in site.data.list %}
+  {% for item in site.assets.list001 %}
     {
 
       "title"     : "{{ item.title }}",
