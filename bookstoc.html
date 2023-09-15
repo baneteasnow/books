@@ -9,7 +9,8 @@ title: "Home Library Book List"
 <i>
 	<a href="/">Search</a>
 </i>
-
+{%-include backtotop.html-%}
+<br />
 {% for item in site.data.list %}
 <h4>
 	<a
@@ -60,13 +61,6 @@ title: "Home Library Book List"
 		>
 	</div>
 </div>
-<div
-	class="decorated"
-	style="font-size: 85%; text-align: right"
->
-	<i> {%-include backtotop.html-%} </i>
-</div>
-
 {% endfor %}
 
 <br />
