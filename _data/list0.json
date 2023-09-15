@@ -112,7 +112,7 @@
 	{
 		"bookshelf": 1011,
 		"No": 11,
-		"title": "11Eylül",
+		"title": "11 Eylül",
 		"publisher": "OM YAYINEVİ",
 		"author": "Noam Chomsky",
 		"lang": "TÜRKÇE",
@@ -16337,12 +16337,12 @@
 	{
 		"bookshelf": 2486,
 		"No": 1486,
-		"title": "bos",
-		"publisher": "bos",
-		"author": "bos",
+		"title": "bos 2486",
+		"publisher": "bo 2486",
+		"author": "bos 2486",
 		"lang": "Turkce",
-		"page": 350,
-		"year": "1999",
+		"page": 0,
+		"year": "0000",
 		"notes": ""
 	},
 	{
