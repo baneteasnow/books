@@ -3,9 +3,9 @@
 		"bookshelf": 1001,
 		"No": 1,
 		"title": "# Moda2014",
-		"publisher": "ARTEMİS YAYINLARI",
-		"author": "Tuba Ünsal",
-		"lang": "TÜRKÇE",
+		"publisher": "Artemis Yayinlari",
+		"author": "Tuba Unsal",
+		"lang": "Turkce",
 		"page": 192,
 		"year": "2014",
 		"notes": "A-2"
@@ -13,10 +13,10 @@
 	{
 		"bookshelf": 1002,
 		"No": 2,
-		"title": "% 100 Düşünce Gücü",
-		"publisher": "AKAŞA YAYINLARI",
+		"title": "% 100 Dusunce Gucu",
+		"publisher": "Akasa Yayinlari",
 		"author": "Jack Ensign Addington",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 224,
 		"year": "2007",
 		"notes": "B-4"
@@ -24,10 +24,10 @@
 	{
 		"bookshelf": 1003,
 		"No": 3,
-		"title": "% 100 Yakıştır & Bütünleyici Giysi, Makyaj, Saç ve Aksesuar Tonları",
-		"publisher": "AFFECTUM LIBRIS",
+		"title": "% 100 Yakistir & Butunleyici Giysi, Makyaj, Sac ve Aksesuar Tonlari",
+		"publisher": "Affectum Libris",
 		"author": "Oya Komar",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 104,
 		"year": "2013",
 		"notes": "A-2"
@@ -36,9 +36,9 @@
 		"bookshelf": 1004,
 		"No": 4,
 		"title": "%10 Daha Mutlu",
-		"publisher": "PEGASUS YAYINLARI",
+		"publisher": "Pegasus Yayinlari",
 		"author": "Dan Harris",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 288,
 		"year": "2017",
 		"notes": "C-1"
@@ -46,10 +46,10 @@
 	{
 		"bookshelf": 1005,
 		"No": 5,
-		"title": "%1’e Karşı Birlik",
-		"publisher": "YELKOVAN KİTAP",
+		"title": "%1’e Karsi Birlik",
+		"publisher": "Yelkovan Kitap",
 		"author": "Vandana Shiva",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 176,
 		"year": "2021",
 		"notes": "A-4"
@@ -57,10 +57,10 @@
 	{
 		"bookshelf": 1006,
 		"No": 6,
-		"title": "Boşuna mı Okuduk? Türkiye'de Beyaz Yakalı İşsizliği",
-		"publisher": "İLETİŞİM YAYINLARI",
-		"author": "Necmi Erdoğan, Tanıl Bora, Aksu Bora, İlknur Üstün",
-		"lang": "TÜRKÇE",
+		"title": "Bosuna mı Okuduk? Turkiye'de Beyaz Yakali Issizligi",
+		"publisher": "Iletisim Yayinlari",
+		"author": "Necmi Erdogan, Tanil Bora, Aksu Bora, Ilknur Ustun",
+		"lang": "Turkce",
 		"page": 352,
 		"year": "2017",
 		"notes": "B-3"
@@ -69,9 +69,9 @@
 		"bookshelf": 1007,
 		"No": 7,
 		"title": "10 Milyar",
-		"publisher": "NTV YAYINLARI",
+		"publisher": "Ntv Yayinlari",
 		"author": "Stephen Emmott",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 200,
 		"year": "2014",
 		"notes": "E-4"
@@ -80,9 +80,9 @@
 		"bookshelf": 1008,
 		"No": 8,
 		"title": "100 Yapıda Mimarinin Geleceği",
-		"publisher": "OPTİMİST YAYINLARI",
+		"publisher": "Optimist Yayinlari",
 		"author": "Marc Kushner",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 176,
 		"year": "2016",
 		"notes": "C-1"
@@ -90,10 +90,10 @@
 	{
 		"bookshelf": 1009,
 		"No": 9,
-		"title": "100 Yıllık Yaşam",
-		"publisher": "SCALA YAYINCILIK",
+		"title": "100 Yillik Yasam",
+		"publisher": "Scala Yayincilik",
 		"author": "Andrew Scott, Lynda Gratton",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 308,
 		"year": "2018",
 		"notes": "D-2"
@@ -101,10 +101,10 @@
 	{
 		"bookshelf": 1010,
 		"No": 10,
-		"title": "11 Eylül ve Sonrası Dünya Nereye Gidiyor",
-		"publisher": "ARAM YAYINLARI",
+		"title": "11 Eylul ve Sonrasi Dunya Nereye Gidiyor",
+		"publisher": "Aram Yayinlari",
 		"author": "Noam Chomsky",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 247,
 		"year": "2002",
 		"notes": "D-4"
@@ -112,10 +112,10 @@
 	{
 		"bookshelf": 1011,
 		"No": 11,
-		"title": "11 Eylül",
-		"publisher": "OM YAYINEVİ",
+		"title": "11 Eylul",
+		"publisher": "Om Yayinevi",
 		"author": "Noam Chomsky",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 110,
 		"year": "2002",
 		"notes": "D-4"
@@ -134,10 +134,10 @@
 	{
 		"bookshelf": 1013,
 		"No": 13,
-		"title": "2050 - İki Bin Elli",
-		"publisher": "KOTON KİTAP",
+		"title": "2050 - Iki Bin Elli",
+		"publisher": "Koton Kitap",
 		"author": "Prof. David Passig",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 387,
 		"year": "2011",
 		"notes": "D-4"
@@ -145,10 +145,10 @@
 	{
 		"bookshelf": 1014,
 		"No": 14,
-		"title": "2062 & Yapay Zeka Dünyası",
-		"publisher": "SAY YAYINLARI",
+		"title": "2062 & Yapay Zeka Dunyasi",
+		"publisher": "Say Yayinlari",
 		"author": "Toby Walsh",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 280,
 		"year": "2020",
 		"notes": "B-1"
@@ -156,10 +156,10 @@
 	{
 		"bookshelf": 1015,
 		"No": 15,
-		"title": "21 Günde Güç İçinizde",
-		"publisher": "DİYOJEN YAYINCILIK",
+		"title": "21 Gunde Guc Icinizde",
+		"publisher": "Diyojen Yayincilik",
 		"author": "Louise L. Hay",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 185,
 		"year": "2019",
 		"notes": "C-4"
@@ -167,10 +167,10 @@
 	{
 		"bookshelf": 1016,
 		"No": 16,
-		"title": "21. Yüzyıl İçin 21 Ders",
-		"publisher": "KOLEKTİF KİTAP",
+		"title": "21. Yuzyıl Icin 21 Ders",
+		"publisher": "Kolektif Kitap",
 		"author": "Yuval Noah Harari",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 336,
 		"year": "2018",
 		"notes": "A-3"
@@ -178,10 +178,10 @@
 	{
 		"bookshelf": 1017,
 		"No": 17,
-		"title": "21. Yüzyıl Öngörüleri Gelecek 100 Yıl",
-		"publisher": "NEDEN? KİTAP",
+		"title": "21. Yuzyıl Ongoruleri Gelecek 100 Yil",
+		"publisher": "Neden? Kitap",
 		"author": "Patrick Dixon",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 416,
 		"year": "2010",
 		"notes": "C-3"
@@ -189,10 +189,10 @@
 	{
 		"bookshelf": 1018,
 		"No": 18,
-		"title": "21. Yüzyılın Şafağında Savaş ve Savaş Karşıtı Mücadele",
-		"publisher": "SABAH KİTAPLARI",
+		"title": "21. Yuzyilin Safaginda Savas ve Savas Karsiti Mucadele",
+		"publisher": "Sabah Kitaplari",
 		"author": "Alvin Toffler, Heidi Toffler",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 280,
 		"year": "1994",
 		"notes": "B-1"
@@ -201,9 +201,9 @@
 		"bookshelf": 1019,
 		"No": 19,
 		"title": "30 Mumlu Pasta",
-		"publisher": "ALFA YAYINLARI",
+		"publisher": "Alfa Yayinlari",
 		"author": "Banu Özdemir",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 208,
 		"year": "2004",
 		"notes": "B-2"
@@ -222,9 +222,9 @@
 	{
 		"bookshelf": 1021,
 		"No": 21,
-		"title": "50 Maddede Veganlık",
+		"title": "50 Maddede Veganlik",
 		"publisher": "Karakarga",
-		"author": "Emel Ernalbant , Hazal Yılmaz",
+		"author": "Emel Ernalbant, Hazal Yılmaz",
 		"lang": "Turkce",
 		"page": 256,
 		"year": "2021",
@@ -233,10 +233,10 @@
 	{
 		"bookshelf": 1022,
 		"No": 22,
-		"title": "50 Psikoloji Klasiği",
-		"publisher": "PEGASUS YAYINLARI",
+		"title": "50 Psikoloji Klasigi",
+		"publisher": "Pegasus Yayinlari",
 		"author": "Tom Butler Bowdon",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 312,
 		"year": "2015",
 		"notes": "C-4"
@@ -245,9 +245,9 @@
 		"bookshelf": 1023,
 		"No": 23,
 		"title": "52 Liste Projesi",
-		"publisher": "FABOOKS",
+		"publisher": "Fabooks",
 		"author": "Moorea Seal",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 144,
 		"year": "2016",
 		"notes": "A-4"
@@ -255,10 +255,10 @@
 	{
 		"bookshelf": 1024,
 		"No": 24,
-		"title": "59 Saniye & Azıcık Düşünün, Çok Şeyi Değiştirin",
-		"publisher": "PEGASUS YAYINLARI",
+		"title": "59 Saniye & Azicik Dusunun, Cok Seyi Degistirin",
+		"publisher": "Pegasus Yayinlari",
 		"author": "Richard Wiseman",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 344,
 		"year": "2017",
 		"notes": "B-4"
@@ -266,10 +266,10 @@
 	{
 		"bookshelf": 1025,
 		"No": 25,
-		"title": "6 Derece & Isınınan Dünyadaki Geleceğimiz",
-		"publisher": "NTV YAYINLARI",
+		"title": "6 Derece & Isınınan Dunyadaki Gelecegimiz",
+		"publisher": "Ntv Yayinlari",
 		"author": "Mark Lynas",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 296,
 		"year": "2009",
 		"notes": "C-4"
@@ -277,10 +277,10 @@
 	{
 		"bookshelf": 1026,
 		"No": 26,
-		"title": "7/24 & Geç Kapitalizm ve Uykuların Sonu",
-		"publisher": "METİS YAYINLARI",
+		"title": "7/24 & Gec Kapitalizm ve Uykularin Sonu",
+		"publisher": "Metis Yayinlari",
 		"author": "Jonathan Crary",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 128,
 		"year": "2015",
 		"notes": "C-3"
@@ -288,10 +288,10 @@
 	{
 		"bookshelf": 1027,
 		"No": 27,
-		"title": "80 / 20 İlkesi",
-		"publisher": "VARLIK YAYINLARI",
+		"title": "80 / 20 Ilkesi",
+		"publisher": "Varlik Yayinlari",
 		"author": "Richard Koch",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 304,
 		"year": "2011",
 		"notes": "B-3"
@@ -299,10 +299,10 @@
 	{
 		"bookshelf": 1028,
 		"No": 28,
-		"title": "90'ların Yükselişi",
-		"publisher": "CSA YAYIN AJANSI",
+		"title": "90'larin Yukselisi",
+		"publisher": "Csa Yayin Ajansi",
 		"author": "Joseph E. Stiglitz",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 379,
 		"year": "2001",
 		"notes": "C-3"
@@ -310,10 +310,10 @@
 	{
 		"bookshelf": 1029,
 		"No": 29,
-		"title": "A'dan Z'ye Düşünmek",
-		"publisher": "ALFA YAYINLARI",
+		"title": "A'dan Z'ye Dusunmek",
+		"publisher": "Alfa Yayinlari",
 		"author": "Nigel Warburton",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 232,
 		"year": "2019",
 		"notes": "B-1"
@@ -322,9 +322,9 @@
 		"bookshelf": 1030,
 		"No": 30,
 		"title": "A'dan Z'ye Psikoloji",
-		"publisher": "SAY YAYINLARI",
+		"publisher": "Say Yayinlari",
 		"author": "Lisa J. Cohen",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 560,
 		"year": "2022",
 		"notes": "C-4"
@@ -332,9 +332,9 @@
 	{
 		"bookshelf": 1031,
 		"No": 31,
-		"title": "Acemi Yoginin Ayurveda Yolculuğu",
-		"publisher": "Paloma",
-		"author": "Esra E. Karaosmanoğlu",
+		"title": "Acemi Yoginin Ayurveda Yolculugu",
+		"publisher": "Paloma Yayinlari",
+		"author": "Esra E. Karaosmanoglu",
 		"lang": "Turkce",
 		"page": 144,
 		"year": "2021",
@@ -343,10 +343,10 @@
 	{
 		"bookshelf": 1032,
 		"No": 32,
-		"title": "Acemi Yoginin Elkitabı & Yeni Başlayanlar İçin Yoga",
-		"publisher": "PALOMA YAYINLARI",
-		"author": "Esra E. Karaosmanoğlu",
-		"lang": "TÜRKÇE",
+		"title": "Acemi Yoginin Elkitabı & Yeni Baslayanlar Icin Yoga",
+		"publisher": "Paloma Yayinlari",
+		"author": "Esra E. Karaosmanoglu",
+		"lang": "Turkce",
 		"page": 224,
 		"year": "2017",
 		"notes": "E-4"
@@ -354,10 +354,10 @@
 	{
 		"bookshelf": 1033,
 		"No": 33,
-		"title": "Açık Liderlik & Sosyal Teknoloji Yönetme Tarzınızı Nasıl Değiştirir?",
-		"publisher": "OPTİMİST YAYINLARI",
+		"title": "Acik Liderlik & Sosyal Teknoloji Yonetme Tarzinizi Nasil Degistirir?",
+		"publisher": "Optimist Yayinlari",
 		"author": "Charlene Li",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 302,
 		"year": "2011",
 		"notes": "D-4"
@@ -365,10 +365,10 @@
 	{
 		"bookshelf": 1034,
 		"No": 34,
-		"title": "Açılın Gençler Geliyor",
-		"publisher": "CEO PLUS",
-		"author": "Fatoş Karahasan",
-		"lang": "TÜRKÇE",
+		"title": "Acilin Gencler Geliyor",
+		"publisher": "Ceo Plus",
+		"author": "Fatos Karahasan",
+		"lang": "Turkce",
 		"page": 200,
 		"year": "2018",
 		"notes": "E-3"
@@ -376,10 +376,10 @@
 	{
 		"bookshelf": 1035,
 		"No": 35,
-		"title": "Acımasız Dünyaya Meydan Okumak",
-		"publisher": "BUTİK YAYINCILIK",
+		"title": "Acimasiz Dunyaya Meydan Okumak",
+		"publisher": "Butik Yayincilik",
 		"author": "Brene Brown",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 168,
 		"year": "2018",
 		"notes": "B-4"
@@ -387,10 +387,10 @@
 	{
 		"bookshelf": 1036,
 		"No": 36,
-		"title": "Acısız Bilim & Bilim, Günlük Hayatı Nasıl Değiştiriyor?",
-		"publisher": "NTV YAYINLARI",
+		"title": "Acisiz Bilim & Bilim, Gunluk Hayati Nasıl Degistiriyor?",
+		"publisher": "Ntv Yayinlari",
 		"author": "Chris Smith",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 304,
 		"year": "2015",
 		"notes": "B-1"
@@ -398,10 +398,10 @@
 	{
 		"bookshelf": 1037,
 		"No": 37,
-		"title": "Act’i Kolay Öğrenmek & Kabul ve Kararlılık Terapisi İçin Hızlı Bir Başlangıç",
-		"publisher": "LİTERA YAYINCILIK",
+		"title": "Act’i Kolay Ogrenmek & Kabul ve Kararlılık Terapisi Icin Hizli Bir Baslangic",
+		"publisher": "Litera Yayincilik",
 		"author": "Russ Harris",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 556,
 		"year": "2022",
 		"notes": "C-3"
@@ -409,10 +409,10 @@
 	{
 		"bookshelf": 1038,
 		"No": 38,
-		"title": "Afacan Bir Psikanalistin Düşünceleri",
-		"publisher": "YAPI KREDİ YAYINLARI",
+		"title": "Afacan Bir Psikanalistin Dusunceleri",
+		"publisher": "Yapi Kredi Yayinlari",
 		"author": "Antonino Ferro",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 152,
 		"year": "2023",
 		"notes": "new"
@@ -423,7 +423,7 @@
 		"title": "Ağ Toplumu",
 		"publisher": "KAFKA KİTAP",
 		"author": "Jan van Dijk",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 454,
 		"year": "2018",
 		"notes": "B-1"
