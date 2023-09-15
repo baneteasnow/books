@@ -434,7 +434,22 @@ details > p {
 	padding: 2px 6px;
 	margin: 0;
 }
+.tothetop {
+	place-self: end;
+	position: sticky;
+	bottom: 20px;
+	margin-right: 20px;
+	margin-top: 100vh;
 
+	/* visual styling */
+	text-decoration: none;
+	padding: 10px;
+	font-family: sans-serif;
+	color: #fff;
+	background: #000;
+	border-radius: 100px;
+	white-space: nowrap;
+}
 // 262   width: 15em;
 // .bookinforight {text-align: left; float: left; width: 50%;}
 // .bookinfoleft {float: right; width: 50%;}
