@@ -435,20 +435,11 @@ details > p {
 	margin: 0;
 }
 .tothetop {
-	place-self: end;
-	position: sticky;
-	bottom: 20px;
-	left: 100px;
-	margin-top: 100vh;
-
-	/* visual styling */
-	text-decoration: none;
-	padding: 10px;
-	font-family: sans-serif;
-	color: #fff;
-	background: #000;
-	border-radius: 100px;
-	white-space: nowrap;
+	display: flex;
+	position: fixed;
+	justify-content: space-between;
+	align-items: center;
+	width: 25%;
 }
 // 262   width: 15em;
 // .bookinforight {text-align: left; float: left; width: 50%;}
