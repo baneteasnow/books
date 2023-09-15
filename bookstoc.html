@@ -6,14 +6,14 @@ last_modified_at: 2023-09-11
 title: "Kitap Listesi bookstoc"
 ---
 
-{% for item in site.data.list0 %}
-<h3>
+{% for item in site.data.list %}
+<h4>
 	<a
 		href="{{ site.baseurl }}bookstoc#{{ item.bookshelf }}"
 		name="{{ item.bookshelf }}"
 		>{{ item.title }}</a
 	>
-</h3>
+</h4>
 <div>
 	<div
 		class="decorated"
@@ -45,9 +45,9 @@ title: "Kitap Listesi bookstoc"
 	>
 		<i
 			><a
-				name="{{ item.kitapadi }}"
+				name="{{ item.title }}"
 				title="google search"
-				href="https://www.google.com/search?q={{ item.kitapadi }}"
+				href="https://www.google.com/search?q={{ item.title }}"
 				target="_blank"
 				rel="noreferrer,nofollow"
 			>

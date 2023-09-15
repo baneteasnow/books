@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-  {% for item in site.data.list0 %}
+  {% for item in site.data.list %}
     {
 
       "title"     : "{{ item.title }}",
