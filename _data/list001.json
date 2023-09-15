@@ -3,9 +3,9 @@
 		"bookshelf": 1001,
 		"No": 1,
 		"title": "#Moda2014",
-		"publisher": "artemis",
-		"author": "Tuba Unsal",
-		"lang": "turkce",
+		"publisher": "ARTEMİS YAYINLARI",
+		"author": "Tuba Ünsal",
+		"lang": "TÜRKÇE",
 		"page": 192,
 		"year": "2014",
 		"notes": "A-2"
@@ -13,10 +13,10 @@
 	{
 		"bookshelf": 1002,
 		"No": 2,
-		"title": "% 100 dusunce gucu",
-		"publisher": "akasa",
+		"title": "% 100 Düşünce Gücü",
+		"publisher": "AKAŞA YAYINLARI",
 		"author": "Jack Ensign Addington",
-		"lang": "turkce",
+		"lang": "TÜRKÇE",
 		"page": 224,
 		"year": "2007",
 		"notes": "B-4"
@@ -24,10 +24,10 @@
 	{
 		"bookshelf": 1003,
 		"No": 3,
-		"title": "% 100 yakistir",
-		"publisher": "affectum libris",
+		"title": "% 100 Yakıştır & Bütünleyici Giysi, Makyaj, Saç ve Aksesuar Tonları",
+		"publisher": "AFFECTUM LIBRIS",
 		"author": "Oya Komar",
-		"lang": "turkce",
+		"lang": "TÜRKÇE",
 		"page": 104,
 		"year": "2013",
 		"notes": "A-2"
@@ -36,9 +36,9 @@
 		"bookshelf": 1004,
 		"No": 4,
 		"title": "%10 Daha Mutlu",
-		"publisher": "pegasus",
+		"publisher": "PEGASUS YAYINLARI",
 		"author": "Dan Harris",
-		"lang": "turkce",
+		"lang": "TÜRKÇE",
 		"page": 288,
 		"year": "2017",
 		"notes": "C-1"
@@ -46,10 +46,10 @@
 	{
 		"bookshelf": 1005,
 		"No": 5,
-		"title": "%1’e karsi birlik",
-		"publisher": "yelkovan kitap",
+		"title": "%1’e Karşı Birlik",
+		"publisher": "YELKOVAN KİTAP",
 		"author": "Vandana Shiva",
-		"lang": "turkce",
+		"lang": "TÜRKÇE",
 		"page": 176,
 		"year": "2021",
 		"notes": "A-4"
@@ -57,7 +57,7 @@
 	{
 		"bookshelf": 1006,
 		"No": 6,
-		"title": "bosuna mi okuduk",
+		"title": "Boşuna mı Okuduk? - Türkiye'de Beyaz Yakalı İşsizliği",
 		"publisher": "İLETİŞİM YAYINLARI",
 		"author": "Necmi Erdoğan, Tanıl Bora, Aksu Bora, İlknur Üstün",
 		"lang": "TÜRKÇE",
@@ -112,7 +112,7 @@
 	{
 		"bookshelf": 1011,
 		"No": 11,
-		"title": "11 Eylül",
+		"title": "11Eylül",
 		"publisher": "OM YAYINEVİ",
 		"author": "Noam Chomsky",
 		"lang": "TÜRKÇE",
