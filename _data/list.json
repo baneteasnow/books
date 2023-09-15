@@ -2,7 +2,7 @@
 	{
 		"bookshelf": 1001,
 		"No": 1,
-		"title": "#Moda2014",
+		"title": "# Moda2014",
 		"publisher": "ARTEMİS YAYINLARI",
 		"author": "Tuba Ünsal",
 		"lang": "TÜRKÇE",
@@ -16337,13 +16337,13 @@
 	{
 		"bookshelf": 2486,
 		"No": 1486,
-		"title": "bos 2486",
-		"publisher": "bo 2486",
-		"author": "bos 2486",
+		"title": "Hala Yazıyorum & Bir Yazarın Yaratıcı Yaşamının Hazları ve Riskleri",
+		"publisher": "PALOMA YAYINLARI",
+		"author": "Dani Shapiro",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": ""
+		"page": 192,
+		"year": "2019",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 2487,
@@ -16971,5 +16971,148 @@
 		"page": 336,
 		"year": "2022",
 		"notes": "A-1"
+	},
+	{
+		"bookshelf": 2544,
+		"No": 1544,
+		"title": "Her Insan Gordugu Ruyanin Tabiridir - Insan Ruhuna Derin Bir Yolculuk",
+		"publisher": "Destek Yayinlari",
+		"author": "Sigmund Freud",
+		"lang": "TÜRKÇE",
+		"page": 72,
+		"year": "2020",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2545,
+		"No": 1545,
+		"title": "Didik Didik Freud",
+		"publisher": "Can Yayinlari",
+		"author": "Serol Teber, Senol Ayla",
+		"lang": "TÜRKÇE",
+		"page": 256,
+		"year": "2022",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2546,
+		"No": 1546,
+		"title": "Kıtlık / Çok Aza Sahip Olmanın Başka Anlamları",
+		"publisher": "TÜBİTAK YAYINLARI",
+		"author": "Sendhil Mullainathan, Eldar Shafir",
+		"lang": "TÜRKÇE",
+		"page": 293,
+		"year": "2019",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2547,
+		"No": 1547,
+		"title": "En Büyük İyilik & Etkili Diğerkamlık Etik Yaşam Hakkındaki Fikirlerimizi Nasıl Değiştirir?",
+		"publisher": "KOÇ ÜNİVERSİTESİ YAYINLARI",
+		"author": "Peter Singer",
+		"lang": "TÜRKÇE",
+		"page": 208,
+		"year": "2023",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2548,
+		"No": 1548,
+		"title": "Toplumsal Cinsiyetin Sonu",
+		"publisher": "FİHRİST KİTAP",
+		"author": "Debra Soh",
+		"lang": "TÜRKÇE",
+		"page": 264,
+		"year": "2023",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2549,
+		"No": 1549,
+		"title": "Toplumsal Cinsiyet Akışkan mıdır?",
+		"publisher": "HEP KİTAP",
+		"author": "Sally Hines",
+		"lang": "TÜRKÇE",
+		"page": 144,
+		"year": "2019",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2550,
+		"No": 1550,
+		"title": "Terapide Yeni Ufuklar & Kuramdan Uygulamaya",
+		"publisher": "PİNHAN YAYINCILIK",
+		"author": "Kolektif",
+		"lang": "TÜRKÇE",
+		"page": 528,
+		"year": "2023",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2551,
+		"No": 1551,
+		"title": "Sayılara Yenik Düşmek & Facebook ve Google’dan Yalan Haberlere ve Filtre Balonlarına – Yaşamlarımızı Denetim Altına Alan Algoritmalar",
+		"publisher": "YORDAM KİTAP",
+		"author": "David Sumpter",
+		"lang": "TÜRKÇE",
+		"page": 288,
+		"year": "2022",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2552,
+		"No": 1552,
+		"title": "Önsezi & Bir Pandemi Öyküsü",
+		"publisher": "SCALA YAYINCILIK",
+		"author": "Michael Lewis",
+		"lang": "TÜRKÇE",
+		"page": 408,
+		"year": "2023",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2553,
+		"No": 1553,
+		"title": "Hakikat Sonrası Çağda Edebiyat",
+		"publisher": "The Kitap",
+		"author": "Christopher Schaberg",
+		"lang": "TÜRKÇE",
+		"page": 216,
+		"year": "2020",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2554,
+		"No": 1554,
+		"title": "Geleceği Değiştiren Dokuz Algoritma & Günümüz Bilgisayarlarının Ardındaki  Parlak Fikirler",
+		"publisher": "TÜBİTAK YAYINLARI",
+		"author": "John McCormick",
+		"lang": "TÜRKÇE",
+		"page": 291,
+		"year": "2018",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2555,
+		"No": 1555,
+		"title": "Devlet Gibi Görmek: Bazı Toplumsal Kalkınma Planlarının Başarısızlık Hikayeleri",
+		"publisher": "KOÇ ÜNİVERSİTESİ YAYINLARI",
+		"author": "James C. Scott",
+		"lang": "TÜRKÇE",
+		"page": 424,
+		"year": "2020",
+		"notes": "new"
+	},
+	{
+		"bookshelf": 2556,
+		"No": 1556,
+		"title": "Her Şey Çıkar İçin mi?",
+		"publisher": "Sander Yayinlari",
+		"author": "Martha C. Nussbaum",
+		"lang": "TÜRKÇE",
+		"page": 184,
+		"year": "2022",
+		"notes": "new"
 	}
 ]
