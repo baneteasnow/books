@@ -80,7 +80,7 @@
 		"bookshelf": 1008,
 		"No": 8,
 		"title": "100 Yapıda Mimarinin Geleceği",
-		"publisher": "Optimist Yayinlari",
+		"publisher": "Optimist Kitap",
 		"author": "Marc Kushner",
 		"lang": "Turkce",
 		"page": 176,
@@ -355,7 +355,7 @@
 		"bookshelf": 1033,
 		"No": 33,
 		"title": "Acik Liderlik & Sosyal Teknoloji Yonetme Tarzinizi Nasil Degistirir?",
-		"publisher": "Optimist Yayinlari",
+		"publisher": "Optimist Kitap",
 		"author": "Charlene Li",
 		"lang": "Turkce",
 		"page": 302,
@@ -487,7 +487,7 @@
 		"bookshelf": 1045,
 		"No": 45,
 		"title": "Akildisi Ama Ongorulebilir",
-		"publisher": "Optimist Yayinlari",
+		"publisher": "Optimist Kitap",
 		"author": "Dan Ariely",
 		"lang": "Turkce",
 		"page": 428,
@@ -498,7 +498,7 @@
 		"bookshelf": 1046,
 		"No": 46,
 		"title": "Akildisi Sevgilerimle & Kayip Coraplar ve Diger Varolussal Muammalar",
-		"publisher": "Optimist Yayinlari",
+		"publisher": "Optimist Kitap",
 		"author": "Dan Ariely",
 		"lang": "Turkce",
 		"page": 232,
@@ -509,7 +509,7 @@
 		"bookshelf": 1047,
 		"No": 47,
 		"title": "Akildisinin Mantigi & Evdeki ve Isteki Mantıga Baskaldirmanin Beklenmedik Faydalari",
-		"publisher": "Optimist Yayinlari",
+		"publisher": "Optimist Kitap",
 		"author": "Dan Ariely",
 		"lang": "Turkce",
 		"page": 293,
@@ -662,10 +662,10 @@
 	{
 		"bookshelf": 1061,
 		"No": 61,
-		"title": "Aklında Kalsın & Başarılı Öğrenme Bilimi",
-		"publisher": "BUZDAĞI YAYINLARI",
+		"title": "Aklinda Kalsin & Basarili Ogrenme Bilimi",
+		"publisher": "Buzdagi Yayinlari",
 		"author": "Peter C. Brown, Henry L. Roediger, Mark A. McDaniel",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 320,
 		"year": "2017",
 		"notes": "A-2"
@@ -673,10 +673,10 @@
 	{
 		"bookshelf": 1062,
 		"No": 62,
-		"title": "Aklını En Doğru Şekilde Kullan",
-		"publisher": "YAKAMOZ YAYINCILIK",
-		"author": "Dr. Carol S. Dweck",
-		"lang": "TÜRKÇE",
+		"title": "Aklini En Dogru Sekilde Kullan",
+		"publisher": "Yakamoz Yayincilik",
+		"author": "Carol S. Dweck",
+		"lang": "Turkce",
 		"page": 360,
 		"year": "2020",
 		"notes": "C-4"
@@ -684,10 +684,10 @@
 	{
 		"bookshelf": 1063,
 		"No": 63,
-		"title": "Aklını Kullan Aksini Düşün",
-		"publisher": "BOYNER YAYINLARI",
+		"title": "Aklini Kullan Aksini Dusun",
+		"publisher": "Boyner Holding Yayinlari",
 		"author": "Paul Arden",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 144,
 		"year": "2007",
 		"notes": "C-1"
@@ -696,9 +696,9 @@
 		"bookshelf": 1064,
 		"No": 64,
 		"title": "Aklıselim",
-		"publisher": "KETEBE YAYINEVİ",
+		"publisher": "Ketebe Yayinevi",
 		"author": "Nicholas Epley",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 280,
 		"year": "2019",
 		"notes": "B-3"
@@ -706,10 +706,10 @@
 	{
 		"bookshelf": 1065,
 		"No": 65,
-		"title": "Aldatıcı Rastlantısallık & Hayatta ve Piyasalarda Şansın Gizli Rolü",
-		"publisher": "VARLIK YAYINLARI",
+		"title": "Aldatici Rastlantisallik & Hayatta ve Piyasalarda Sansin Gizli Rolu",
+		"publisher": "Varlik Yayinlari",
 		"author": "Nassim Nicholas Taleb",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 352,
 		"year": "2019",
 		"notes": "B-4"
@@ -717,10 +717,10 @@
 	{
 		"bookshelf": 1066,
 		"No": 66,
-		"title": "Aldatma Sanatı",
-		"publisher": "ODTÜ GELİŞTİRME VAKFI YAYINCILIK VE İLETİŞİM A.Ş.",
+		"title": "Aldatma Sanati",
+		"publisher": "ODTU Gelistirme Vakfi Yayincilik",
 		"author": "William L. Simon, Kevin D. Mitnick",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 320,
 		"year": "2013",
 		"notes": "D-2"
@@ -728,10 +728,10 @@
 	{
 		"bookshelf": 1067,
 		"No": 67,
-		"title": "Alışkanlıkların Gücü & Özel ve İş Hayatımızda Alışkanlıklarımızın Ardında Ne Yatar?",
-		"publisher": "BOYNER HOLDİNG YAYINLARI",
+		"title": "Aliskanliklarin Gucu & Ozel ve İs Hayatimizda Aliskanliklarimizin Ardinda Ne Yatar?",
+		"publisher": "Boyner Holding Yayinlari",
 		"author": "Charles Duhigg",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 432,
 		"year": "2017",
 		"notes": "A-1"
@@ -739,10 +739,10 @@
 	{
 		"bookshelf": 1068,
 		"No": 68,
-		"title": "Alışveriş Merkezleri Nereye Kadar?",
-		"publisher": "GÜNIŞIĞI KİTAPLIĞI",
+		"title": "Alisveris Merkezleri Nereye Kadar?",
+		"publisher": "Gunisigi Kitapligi",
 		"author": "Paco Underhill",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 223,
 		"year": "2005",
 		"notes": "D-4"
@@ -750,10 +750,10 @@
 	{
 		"bookshelf": 1069,
 		"No": 69,
-		"title": "Alışveriş Yapmadığım Yıl",
-		"publisher": "BUTİK YAYINCILIK",
+		"title": "Alisveris Yapmadigim Yil",
+		"publisher": "Butik Yayincilik",
 		"author": "Cait Flanders",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 208,
 		"year": "2018",
 		"notes": "A-2"
@@ -761,10 +761,10 @@
 	{
 		"bookshelf": 1070,
 		"No": 70,
-		"title": "Alışverişte Kadın Erkek",
-		"publisher": "OPTİMİST YAYINLARI",
+		"title": "Alısveriste Kadın Erkek",
+		"publisher": "Optimist Kitap",
 		"author": "Elizabeth Pace",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 174,
 		"year": "2011",
 		"notes": "D-4"
@@ -772,10 +772,10 @@
 	{
 		"bookshelf": 1071,
 		"No": 71,
-		"title": "Almanlar Neden Daha İyi Yapıyor: Gelişmiş Bir Ülkeden Notlar",
-		"publisher": "İTHAKİ YAYINLARI",
+		"title": "Almanlar Neden Daha Iyi Yapiyor: Gelismis Bir Ulkeden Notlar",
+		"publisher": "Ithaki Yayinlari",
 		"author": "John Kampfner",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 312,
 		"year": "2022",
 		"notes": "D-2"
@@ -783,10 +783,10 @@
 	{
 		"bookshelf": 1072,
 		"No": 72,
-		"title": "Alternatif Eğitim & Hayatımızın Okulsuzlaştırılması",
-		"publisher": "KALKEDON YAYINLARI",
+		"title": "Alternatif Egitim & Hayatimizin Okulsuzlastirilmasi",
+		"publisher": "Kalkedon Yayinlari",
 		"author": "Matt Hern",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 280,
 		"year": "2008",
 		"notes": "A-2"
@@ -794,10 +794,10 @@
 	{
 		"bookshelf": 1073,
 		"No": 73,
-		"title": "Alternatif Medyayı Anlamak",
-		"publisher": "KAFKA KİTAP",
+		"title": "Alternatif Medyayi Anlamak",
+		"publisher": "Kafka Kitap",
 		"author": "Olga Guedes Balley, Bart Cammaerts, Nico Carpentier",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 280,
 		"year": "2015",
 		"notes": "B-2"
@@ -805,10 +805,10 @@
 	{
 		"bookshelf": 1074,
 		"No": 74,
-		"title": "Altın Kemer Efsanesi",
-		"publisher": "ROTA YAYINLARI",
+		"title": "Altin Kemer Efsanesi",
+		"publisher": "Rota Yayinlari",
 		"author": "John F. love",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 328,
 		"year": "1989",
 		"notes": "D-3"
@@ -816,10 +816,10 @@
 	{
 		"bookshelf": 1075,
 		"No": 75,
-		"title": "Altıncı Yok Oluş",
-		"publisher": "OKUYAN US YAYIN",
+		"title": "Altinci Yok Olus",
+		"publisher": "Okuyan Us Yayincilik",
 		"author": "Elizabeth Kolbert",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 368,
 		"year": "2016",
 		"notes": "C-4"
@@ -827,8 +827,8 @@
 	{
 		"bookshelf": 1076,
 		"No": 76,
-		"title": "Amaç",
-		"publisher": "OPTİMİST YAYINLARI",
+		"title": "Amac",
+		"publisher": "Optimist Kitap",
 		"author": "Jeff Cox, Eliyahu M. Goldratt",
 		"lang": "TÜRKÇE",
 		"page": 400,
@@ -838,10 +838,10 @@
 	{
 		"bookshelf": 1077,
 		"No": 77,
-		"title": "Amerika'nın Gizli Savaşı",
-		"publisher": "PEGASUS YAYINLARI",
+		"title": "Amerika'nın Gizli Savasi",
+		"publisher": "Pegasus Yayinlari",
 		"author": "George Friedman",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 384,
 		"year": "2014",
 		"notes": "C-3"
@@ -849,10 +849,10 @@
 	{
 		"bookshelf": 1078,
 		"No": 78,
-		"title": "Amerikan Rüyasına Ne Oldu?",
-		"publisher": "ARITAN YAYINEVİ",
+		"title": "Amerikan Ruyasina Ne Oldu?",
+		"publisher": "Aritan Yayinevi",
 		"author": "Burke Hedges",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 200,
 		"year": "2018",
 		"notes": "B-3"
@@ -860,10 +860,10 @@
 	{
 		"bookshelf": 1079,
 		"No": 79,
-		"title": "Anlam İstenci",
-		"publisher": "TOTEM YAYINCILIK",
+		"title": "Anlam Istenci",
+		"publisher": "Totem Yayincilik",
 		"author": "Viktor E. Frankl",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 208,
 		"year": "2021",
 		"notes": "A-1"
@@ -871,10 +871,10 @@
 	{
 		"bookshelf": 1080,
 		"No": 80,
-		"title": "Anların Gücü",
-		"publisher": "BUZDAĞI YAYINLARI",
+		"title": "Anlarin Gucu",
+		"publisher": "Buzdagi Yayinlari",
 		"author": "Chip Heath, Dan Heath",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 304,
 		"year": "2020",
 		"notes": "B-4"
@@ -882,10 +882,10 @@
 	{
 		"bookshelf": 1081,
 		"No": 81,
-		"title": "Anne Dansı & Çocuklar Hayatınızı Nasıl Değiştirir",
-		"publisher": "VARLIK YAYINLARI",
+		"title": "Anne Dansi & Cocuklar Hayatinizi Nasil Degistirir",
+		"publisher": "Varlik Yayinlari",
 		"author": "Harriet Lerner",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 328,
 		"year": "2023",
 		"notes": "new"
@@ -893,10 +893,10 @@
 	{
 		"bookshelf": 1082,
 		"No": 82,
-		"title": "Anne Yarasını İyileştirmek",
-		"publisher": "OMEGA YAYINLARI",
+		"title": "Anne Yarasini Iyilestirmek",
+		"publisher": "Omega Yayinlari",
 		"author": "Bethany Webstrer",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 328,
 		"year": "2023",
 		"notes": "new"
@@ -904,10 +904,10 @@
 	{
 		"bookshelf": 1083,
 		"No": 83,
-		"title": "Anneler, Kızları ve Beden Algısı",
-		"publisher": "OKUYAN US YAYIN",
+		"title": "Anneler, Kizlari ve Beden Algisi",
+		"publisher": "Okuyan Us Yayincilik",
 		"author": "Hillary L. McBride",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 268,
 		"year": "2021",
 		"notes": "A-1"
@@ -915,10 +915,10 @@
 	{
 		"bookshelf": 1084,
 		"No": 84,
-		"title": "Annelikten Pişman Olmak",
-		"publisher": "İLETİŞİM YAYINLARI",
+		"title": "Annelikten Pisman Olmak",
+		"publisher": "Iletisim Yayinlari",
 		"author": "Orna Donath",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 254,
 		"year": "2022",
 		"notes": "A-1"
@@ -926,10 +926,10 @@
 	{
 		"bookshelf": 1085,
 		"No": 85,
-		"title": "Anne’nin Duygusal Yokluğu",
-		"publisher": "KORİDOR YAYINCILIK",
+		"title": "Anne’nin Duygusal Yoklugu",
+		"publisher": "Koridor Yayincilik",
 		"author": "Jasmin Lee Cori",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 376,
 		"year": "2018",
 		"notes": "A-4"
@@ -937,10 +937,10 @@
 	{
 		"bookshelf": 1086,
 		"No": 86,
-		"title": "Antikırılganlık",
-		"publisher": "VARLIK YAYINLARI",
+		"title": "Antikirilganlik",
+		"publisher": "Varlik Yayinlari",
 		"author": "Nassim Nicholas Taleb",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 608,
 		"year": "2016",
 		"notes": "A-3"
@@ -948,10 +948,10 @@
 	{
 		"bookshelf": 1087,
 		"No": 87,
-		"title": "APP Kuşağı & Dijital Dünyada Kimlik, Mahremiyet ve Hayal Gücü",
-		"publisher": "OPTİMİST YAYINLARI",
+		"title": "APP Kusagi & Dijital Dunyada Kimlik, Mahremiyet ve Hayal Gucu",
+		"publisher": "Optimist Kitap",
 		"author": "Howard Gardner, Katie Davis",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 240,
 		"year": "2014",
 		"notes": "B-3"
@@ -960,9 +960,9 @@
 		"bookshelf": 1088,
 		"No": 88,
 		"title": "Apple Mucizesi",
-		"publisher": "İNKILAP KİTABEVİ",
+		"publisher": "Inkilap Kitabevi",
 		"author": "Adam Lanshinsky",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 160,
 		"year": "2012",
 		"notes": "C-4"
@@ -970,10 +970,10 @@
 	{
 		"bookshelf": 1089,
 		"No": 89,
-		"title": "Apple'ın Ardındaki Deha: Jony Ive",
-		"publisher": "MEDİACAT KİTAPLARI",
+		"title": "Apple'in Ardindaki Deha: Jony Ive",
+		"publisher": "MediaCat Kitaplari",
 		"author": "Leander Kahney",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 314,
 		"year": "2015",
 		"notes": "E-3"
@@ -982,9 +982,9 @@
 		"bookshelf": 1090,
 		"No": 90,
 		"title": "Aptal Beyin",
-		"publisher": "AGANTA KİTAP",
+		"publisher": "Aganta Kitap",
 		"author": "Dean Burnett",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 288,
 		"year": "2016",
 		"notes": "A-3"
@@ -992,10 +992,10 @@
 	{
 		"bookshelf": 1091,
 		"No": 91,
-		"title": "Aptallaştıran Eğitim",
-		"publisher": "PEDAGOJİ YAYINLARI",
+		"title": "Aptallastiran Egitim",
+		"publisher": "Pedagoji Yayinlari",
 		"author": "John Taylor Gatto",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 136,
 		"year": "2019",
 		"notes": "A-2"
@@ -1003,10 +1003,10 @@
 	{
 		"bookshelf": 1092,
 		"No": 92,
-		"title": "Aptallık Paradoksu & İş Hayatında İşlevsel Aptallığın Gücü ve Tuzakları",
-		"publisher": "PALOMA YAYINLARI",
+		"title": "Aptallik Paradoksu & Is Hayatinda Islevsel Aptalligin Gucu ve Tuzaklari",
+		"publisher": "Paloma Yayinlari",
 		"author": "Andre Spicer, Mats Alvesson",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 284,
 		"year": "2017",
 		"notes": "B-2"
@@ -1014,10 +1014,10 @@
 	{
 		"bookshelf": 1093,
 		"No": 93,
-		"title": "Araçlar ve Silahlar & Dijital Çağın Vaatleri ve Tehlikeleri",
-		"publisher": "KRONİK KİTAP",
+		"title": "Araclar ve Silahlar & Dijital Cagin Vaatleri ve Tehlikeleri",
+		"publisher": "Kronik Kitap",
 		"author": "Brad Smith, Carol Ann Browne",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 400,
 		"year": "2022",
 		"notes": "B-1"
@@ -1025,10 +1025,10 @@
 	{
 		"bookshelf": 1094,
 		"No": 94,
-		"title": "Aradığın Her Şey: Jeff Bezos ve Amazon Çağı",
-		"publisher": "PEGASUS YAYINLARI",
+		"title": "Aradigin Her Sey: Jeff Bezos ve Amazon Cagi",
+		"publisher": "Pegasus Yayinlari",
 		"author": "Brad Stone",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 472,
 		"year": "2017",
 		"notes": "E-2"
@@ -1036,10 +1036,10 @@
 	{
 		"bookshelf": 1095,
 		"No": 95,
-		"title": "Arkadaşlık… Arkadaşlığın Değerini Bilmek İçin 500 Neden",
-		"publisher": "PEGASUS YAYINLARI",
+		"title": "Arkadaslik… Arkadailigin Degerini Bilmek Icin 500 Neden",
+		"publisher": "Pegasus Yayinlari",
 		"author": "Lisa Swerling, Ralph Lazar",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 272,
 		"year": "2018",
 		"notes": "E-4"
@@ -1047,10 +1047,10 @@
 	{
 		"bookshelf": 1096,
 		"No": 96,
-		"title": "Armağan",
-		"publisher": "EPSİLON YAYINEVİ",
+		"title": "Armagan",
+		"publisher": "Epsilon Yayinevi",
 		"author": "Spencer Johnson",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 109,
 		"year": "2003",
 		"notes": "E-3"
@@ -1058,10 +1058,10 @@
 	{
 		"bookshelf": 1097,
 		"No": 97,
-		"title": "Armstrong'un Stratejik İnsan Kaynakları Yönetimi El Kitabı",
-		"publisher": "NOBEL YAYIN DAĞITIM",
+		"title": "Armstrong'un Stratejik Insan Kaynaklari Yonetimi El Kitabi",
+		"publisher": "Nobel Yayin Dagitim",
 		"author": "Michael Armstrong",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 280,
 		"year": "2017",
 		"notes": ""
@@ -1070,9 +1070,9 @@
 		"bookshelf": 1098,
 		"No": 98,
 		"title": "Artık Biliyorum",
-		"publisher": "DOĞAN NOVUS",
+		"publisher": "Dogan Novus",
 		"author": "Oprah Winfrey",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 200,
 		"year": "2016",
 		"notes": "A-3"
@@ -1080,10 +1080,10 @@
 	{
 		"bookshelf": 1099,
 		"No": 99,
-		"title": "Arzunun Botaniği & Bir Elmanın Sizi Kullandığını Düşündünüz mü Hiç?",
-		"publisher": "DOMİNGO YAYINEVİ",
+		"title": "Arzunun Botanigi & Bir Elmanin Sizi Kullandigini Dusundunuz mu Hic?",
+		"publisher": "Domingo Yayinevi",
 		"author": "Michael Pollan",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 256,
 		"year": "2018",
 		"notes": "A-4"
@@ -1091,10 +1091,10 @@
 	{
 		"bookshelf": 1100,
 		"No": 100,
-		"title": "Aşk  Dersleri",
-		"publisher": "EVEREST YAYINLARI",
+		"title": "Ask  Dersleri",
+		"publisher": "Everest Yayinlari",
 		"author": "Alain De Botton",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 256,
 		"year": "2022",
 		"notes": "A-4"
