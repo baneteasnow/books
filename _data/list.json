@@ -5502,7 +5502,7 @@
 	{
 		"bookshelf": 1501,
 		"No": 501,
-		"title": "bos 1501",
+		"title": "boss 1501",
 		"publisher": "bos 1501",
 		"author": "bos 1501",
 		"lang": "Turkce",
@@ -7559,7 +7559,7 @@
 	{
 		"bookshelf": 1688,
 		"No": 688,
-		"title": "bos 1688",
+		"title": "boss 1688",
 		"publisher": "bos 1688",
 		"author": "bos 1688",
 		"lang": "TÜRKÇE",
@@ -7570,7 +7570,7 @@
 	{
 		"bookshelf": 1689,
 		"No": 689,
-		"title": "bos 1689",
+		"title": "boss 1689",
 		"publisher": "bos 1689",
 		"author": "bos 1689",
 		"lang": "Turkce",
@@ -8076,7 +8076,7 @@
 	{
 		"bookshelf": 1735,
 		"No": 735,
-		"title": "bos 1735",
+		"title": "boss 1735",
 		"publisher": "bos 1735",
 		"author": "bps 1735",
 		"lang": "Turkce",
@@ -9462,7 +9462,7 @@
 	{
 		"bookshelf": 1861,
 		"No": 861,
-		"title": "bos 1861",
+		"title": "boss 1861",
 		"publisher": "bos 1861",
 		"author": "bos 1861",
 		"lang": "Turkce",
@@ -11134,21 +11134,21 @@
 	{
 		"bookshelf": 2013,
 		"No": 1013,
-		"title": "Negatif Orgutsel Davranis",
-		"publisher": "AKADEMİSYEN KİTABEVİ",
-		"author": "Hakan Vahit Erkutlu",
-		"lang": "TÜRKÇE",
-		"page": 186,
-		"year": "2016",
+		"title": "boss 2013",
+		"publisher": "bos 2013",
+		"author": "bos 2013",
+		"lang": "Turkce",
+		"page": 0,
+		"year": "0000",
 		"notes": ""
 	},
 	{
 		"bookshelf": 2014,
 		"No": 1014,
 		"title": "Neoliberalizmin Kısa Tarihi",
-		"publisher": "SEL YAYINCILIK",
+		"publisher": "Sel Yayincilik",
 		"author": "David Harvey",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 256,
 		"year": "2015",
 		"notes": "B-2"
@@ -11156,10 +11156,10 @@
 	{
 		"bookshelf": 2015,
 		"No": 1015,
-		"title": "Nerede Bu Goril / Fırsatları Görme ve Yakalama Kılavuzu",
-		"publisher": "ALFA YAYINLARI",
+		"title": "Nerede Bu Goril - Firsatlari Gorme ve Yakalama Kilavuzu",
+		"publisher": "Alfa Yayinlari",
 		"author": "Richard Wiseman",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 105,
 		"year": "2007",
 		"notes": "B-4"
@@ -11167,10 +11167,10 @@
 	{
 		"bookshelf": 2016,
 		"No": 1016,
-		"title": "Nesnelerin İnterneti",
-		"publisher": "OPTİMİST YAYINLARI",
+		"title": "Nesnelerin Interneti",
+		"publisher": "Optimist Kitap",
 		"author": "Samuel Greengard",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 216,
 		"year": "2017",
 		"notes": "B-1"
@@ -11178,10 +11178,10 @@
 	{
 		"bookshelf": 2017,
 		"No": 1017,
-		"title": "Nesnelerin İnterneti ve İşbirliği Çağı",
-		"publisher": "OPTİMİST YAYINLARI",
+		"title": "Nesnelerin Interneti ve Isbirligi Cagi",
+		"publisher": "Optimist Kitap",
 		"author": "Jeremy Rifkin",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 384,
 		"year": "2015",
 		"notes": "D-2"
@@ -11189,10 +11189,10 @@
 	{
 		"bookshelf": 2018,
 		"No": 1018,
-		"title": "New York / Bilmek İstediğiniz Her Şey",
-		"publisher": "NTV YAYINLARI",
+		"title": "New York - Bilmek Istediginiz Her Sey",
+		"publisher": "Ntv Yayinlari",
 		"author": "Klay Lamprell",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 96,
 		"year": "2013",
 		"notes": "E-2"
@@ -11200,10 +11200,10 @@
 	{
 		"bookshelf": 2019,
 		"No": 1019,
-		"title": "Niksen & Hollandalıların Hiçbir Şey Yapmama Sanatı",
-		"publisher": "PROFİL KİTAP",
+		"title": "Niksen & Hollandalilarin Hicbir Sey Yapmama Sanati",
+		"publisher": "Profil Kitap",
 		"author": "Olga Mecking",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 215,
 		"year": "2021",
 		"notes": "C-1"
@@ -11211,10 +11211,10 @@
 	{
 		"bookshelf": 2020,
 		"No": 1020,
-		"title": "Nöbetçi Filozof",
-		"publisher": "METROPOLİS YAYINCILIK",
+		"title": "Nöbetci Filozof",
+		"publisher": "Metropolis Yayincilik",
 		"author": "Ian Olasov",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 200,
 		"year": "2021",
 		"notes": "A-4"
@@ -11223,9 +11223,9 @@
 		"bookshelf": 2021,
 		"No": 1021,
 		"title": "Normal Efsanesi",
-		"publisher": "HEP KİTAP",
+		"publisher": "Hep Kitap",
 		"author": "Gabor Mate, Daniel Mate",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 552,
 		"year": "2023",
 		"notes": "A-4"
@@ -11234,9 +11234,9 @@
 		"bookshelf": 2022,
 		"No": 1022,
 		"title": "Not Alma Teknikleri",
-		"publisher": "ARİON YAYINLARI",
+		"publisher": "Arion Yayinlari",
 		"author": "Jean Simonet, Renee Simonet",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 152,
 		"year": "2002",
 		"notes": "B-3"
@@ -11245,9 +11245,9 @@
 		"bookshelf": 2023,
 		"No": 1023,
 		"title": "O Kadar Basit ki!",
-		"publisher": "MEDİACAT KİTAPLARI",
+		"publisher": "MediaCat Kitaplari",
 		"author": "Ken Segall",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 254,
 		"year": "2017",
 		"notes": "B-2"
@@ -11255,10 +11255,10 @@
 	{
 		"bookshelf": 2024,
 		"No": 1024,
-		"title": "O'nun Sözleri & Yaşamınızda Fark Yaratan Sözler",
-		"publisher": "ALFA YAYINLARI",
+		"title": "O'nun Sozleri & Yasaminizda Fark Yaratan Sozler",
+		"publisher": "Alfa Yayinlari",
 		"author": "Oprah Winfrey",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 167,
 		"year": "2011",
 		"notes": "C-2"
@@ -11266,10 +11266,10 @@
 	{
 		"bookshelf": 2025,
 		"No": 1025,
-		"title": "Öfke Dansı",
-		"publisher": "VARLIK YAYINLARI",
+		"title": "Ofke Dansi",
+		"publisher": "Varlik Yayinlari",
 		"author": "Harriet Lerner",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 199,
 		"year": "2019",
 		"notes": "B-4"
@@ -11277,10 +11277,10 @@
 	{
 		"bookshelf": 2026,
 		"No": 1026,
-		"title": "Öfkeden Cesarete",
-		"publisher": "OKUYAN US YAYIN",
+		"title": "Ofkeden Cesarete",
+		"publisher": "Okuyan Us Yayincilik",
 		"author": "Alice Miller",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 186,
 		"year": "2022",
 		"notes": "B-3"
@@ -11288,10 +11288,10 @@
 	{
 		"bookshelf": 2027,
 		"No": 1027,
-		"title": "Öğrenilmiş İyimserlik",
-		"publisher": "EKSİ KİTAPLAR",
+		"title": "Ogrenilmis Iyimserlik",
+		"publisher": "Eksi Kitaplar",
 		"author": "Martin E. P. Seligman",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 490,
 		"year": "2021",
 		"notes": "A-1"
@@ -11300,9 +11300,9 @@
 		"bookshelf": 2028,
 		"No": 1028,
 		"title": "Oksijen Etkisi",
-		"publisher": "MÜPTELA",
+		"publisher": "Muptela",
 		"author": "Patrick  McKeown",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 432,
 		"year": "2021",
 		"notes": "A-3"
@@ -11310,10 +11310,10 @@
 	{
 		"bookshelf": 2029,
 		"No": 1029,
-		"title": "Okulda Başarı",
-		"publisher": "REMZİ KİTABEVİ",
+		"title": "Okulda Basari",
+		"publisher": "Remzi Ktabevi",
 		"author": "Feyzi Uluğ",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 222,
 		"year": "1993",
 		"notes": "B-2"
@@ -11322,9 +11322,9 @@
 		"bookshelf": 2030,
 		"No": 1030,
 		"title": "Okulsuz Toplum",
-		"publisher": "ŞULE YAYINLARI",
+		"publisher": "Sule Yayinlari",
 		"author": "Ivan Illich",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 141,
 		"year": "2018",
 		"notes": "A-2"
@@ -11332,10 +11332,10 @@
 	{
 		"bookshelf": 2031,
 		"No": 1031,
-		"title": "Okuma İlleti & Yalnız Başına Yapılan Ahlaksızlık",
-		"publisher": "PALOMA YAYINLARI-KAMPANYA",
+		"title": "Okuma Illeti & Yalniz Basina Yapilan Ahlaksizlik",
+		"publisher": "Paloma Yayinlari",
 		"author": "Mikita Brottman",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 252,
 		"year": "2014",
 		"notes": "B-1"
@@ -11343,10 +11343,10 @@
 	{
 		"bookshelf": 2032,
 		"No": 1032,
-		"title": "Okumak Nefes Almaktır",
-		"publisher": "PORTAKAL KİTAP",
+		"title": "Okumak Nefes Almaktir",
+		"publisher": "Portakal Kitap",
 		"author": "Miha Kovac",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 128,
 		"year": "2022",
 		"notes": "B-2"
@@ -11354,10 +11354,10 @@
 	{
 		"bookshelf": 2033,
 		"No": 1033,
-		"title": "Okumanın Riski: Edebiyat Kendimizi ve Dünyamızı Anlamamıza Nasıl Yardım Eder?",
-		"publisher": "KAFKA KİTAP",
+		"title": "Okumanin Riski: Edebiyat Kendimizi ve Dunyamizi Anlamamiza Nasil Yardim Eder?",
+		"publisher": "Kafka Kitap",
 		"author": "Robert P. Waxler",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 264,
 		"year": "2022",
 		"notes": "B-1"
@@ -11365,10 +11365,10 @@
 	{
 		"bookshelf": 2034,
 		"No": 1034,
-		"title": "Öküzün A'sı",
-		"publisher": "AYRINTI YAYINLARI",
+		"title": "Okuzun A'sı",
+		"publisher": "Ayrinti Yayinlari",
 		"author": "Barry Sanders",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 240,
 		"year": "2013",
 		"notes": "C-2"
@@ -11376,10 +11376,10 @@
 	{
 		"bookshelf": 2035,
 		"No": 1035,
-		"title": "Olağanüstü Tavsiyeler (Yetenekli Kişiler İçin)",
-		"publisher": "BOYNER YAYINLARI",
+		"title": "Olaganustu Tavsiyeler (Yetenekli Kisiler Icin)",
+		"publisher": "Boyner Holding Yayinlari",
 		"author": "George Lois",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 176,
 		"year": "2012",
 		"notes": "C-1"
@@ -11387,10 +11387,10 @@
 	{
 		"bookshelf": 2036,
 		"No": 1036,
-		"title": "Olanı Sevmek & Yaşamınızı Değiştirebilecek 4 Soru",
-		"publisher": "BUTİK YAYINCILIK",
+		"title": "Olanı Sevmek & Yasaminizi Degistirebilecek 4 Soru",
+		"publisher": "Butik Yayincilik",
 		"author": "Byron Katie",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 406,
 		"year": "2013",
 		"notes": "B-4"
@@ -11398,10 +11398,10 @@
 	{
 		"bookshelf": 2037,
 		"No": 1037,
-		"title": "Öngörülemeyen Bir Dünyada Yaşamak",
-		"publisher": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+		"title": "Ongorulemeyen Bir Dunyada Yasamak",
+		"publisher": "Turkiye Is Bankasi Kultur Yayinlari",
 		"author": "Frederic Lenoir",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 72,
 		"year": "2023",
 		"notes": "B-2"
@@ -11409,10 +11409,10 @@
 	{
 		"bookshelf": 2038,
 		"No": 1038,
-		"title": "Onlar Göçtü Buradan & Türkiye'nin Yeni Göç Nesli",
-		"publisher": "MUNDİ",
+		"title": "Onlar Goctu Buradan & Turkiye'nin Yeni Goc Nesli",
+		"publisher": "Mundi",
 		"author": "Evrim Kuran",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 96,
 		"year": "2021",
 		"notes": "A-3"
@@ -11421,9 +11421,9 @@
 		"bookshelf": 2039,
 		"No": 1039,
 		"title": "Onward",
-		"publisher": "OPTİMİST YAYINLARI",
+		"publisher": "Optimist Kitap",
 		"author": "Howard Schultz, Joanne Gordon",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 412,
 		"year": "2011",
 		"notes": "E-3"
@@ -11431,10 +11431,10 @@
 	{
 		"bookshelf": 2040,
 		"No": 1040,
-		"title": "Öp ve Anlat",
-		"publisher": "SEL YAYINCILIK",
+		"title": "Op ve Anlat",
+		"publisher": "Sel Yayincilik",
 		"author": "Alain De Botton",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 256,
 		"year": "2016",
 		"notes": "A-4"
@@ -11442,10 +11442,10 @@
 	{
 		"bookshelf": 2041,
 		"No": 1041,
-		"title": "Organizasyon Kültürü",
-		"publisher": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+		"title": "Organizasyon Kulturu",
+		"publisher": "Turkiye Is Bankasi Kultur Yayinlari",
 		"author": "Naomi Stanford",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 304,
 		"year": "2014",
 		"notes": "D-4"
@@ -11453,10 +11453,10 @@
 	{
 		"bookshelf": 2042,
 		"No": 1042,
-		"title": "Organizasyonlar: Teori ve Davranış",
-		"publisher": "BİLİM TEKNİK YAYINEVİ",
+		"title": "Organizasyonlar: Teori ve Davranis",
+		"publisher": "Bilim Teknik Yayinevi",
 		"author": "Herbert G. Hicks, C. Ray Gullett",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 340,
 		"year": "1981",
 		"notes": "A-2"
@@ -11464,10 +11464,10 @@
 	{
 		"bookshelf": 2043,
 		"No": 1043,
-		"title": "Organizasyonları Yeniden Yapılandırmak (Yetenek, Tercih ve Liderlik)",
-		"publisher": "SEÇKİN YAYINCILIK",
+		"title": "Organizasyonlari Yeniden Yapilandirmak (Yetenek, Tercih ve Liderlik)",
+		"publisher": "Seckin Yayincilik",
 		"author": "Terrence E. Deal, Lee G. Bolman",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 507,
 		"year": "2013",
 		"notes": ""
@@ -11486,10 +11486,10 @@
 	{
 		"bookshelf": 2045,
 		"No": 1045,
-		"title": "Örgüt Kuramları",
-		"publisher": "İMGE KİTABEVİ YAYINLARI",
+		"title": "Orgut Kuramlari",
+		"publisher": "İmge Kitabevi Yayinlari",
 		"author": "A. Selami Sargut, Sukru Ozen",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 462,
 		"year": "2015",
 		"notes": ""
@@ -11497,10 +11497,10 @@
 	{
 		"bookshelf": 2046,
 		"No": 1046,
-		"title": "Örgüt Kuramları ve Tasarımını Anlamak",
-		"publisher": "NOBEL YAYIN DAĞITIM",
+		"title": "Orgut Kuramlari ve Tasarimini Anlamak",
+		"publisher": "Nobel Yayin Dagitim",
 		"author": "Richard L. Daft",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 632,
 		"year": "2015",
 		"notes": ""
@@ -11508,10 +11508,10 @@
 	{
 		"bookshelf": 2047,
 		"No": 1047,
-		"title": "Örgüt ve Yönetim Sosyolojisi",
-		"publisher": "DETAY YAYINCILIK",
-		"author": "Doç. Dr. Hasan Tutar",
-		"lang": "TÜRKÇE",
+		"title": "Orgut ve Yonetim Sosyolojisi",
+		"publisher": "Detay Yayincilik",
+		"author": "Hasan Tutar",
+		"lang": "Turkce",
 		"page": 450,
 		"year": "2017",
 		"notes": "E-2"
@@ -11519,10 +11519,10 @@
 	{
 		"bookshelf": 2048,
 		"No": 1048,
-		"title": "Örgütler ve Yapıları - The Structuring of Organizations",
-		"publisher": "NOBEL YAYIN DAĞITIM",
+		"title": "Orgutler ve Yapilari - The Structuring of Organizations",
+		"publisher": "Nobel Yayin Dagitim",
 		"author": "Henry Mintzberg",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 518,
 		"year": "2014",
 		"notes": ""
@@ -11531,7 +11531,7 @@
 		"bookshelf": 2049,
 		"No": 1049,
 		"title": "Orgutsel Davranis",
-		"publisher": "Nobel",
+		"publisher": "Nobel Yayin Dagitim",
 		"author": "Steven L. McShane, Mary Ann Von Glinow",
 		"lang": "Turkce",
 		"page": 320,
@@ -11541,10 +11541,10 @@
 	{
 		"bookshelf": 2050,
 		"No": 1050,
-		"title": "Örgütsel Davranış / Organizational Behavior",
-		"publisher": "NOBEL YAYIN DAĞITIM",
+		"title": "Orgutsel Davranis - Organizational Behavior",
+		"publisher": "Nobel Yayin Dagitim",
 		"author": "Stephan Robbins, Timothy A. Judge",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 688,
 		"year": "2015",
 		"notes": ""
@@ -11563,12 +11563,12 @@
 	{
 		"bookshelf": 2052,
 		"No": 1052,
-		"title": "OrgutselPsikoloji",
-		"publisher": "Eskisehir Iktisadi ve Ticari Ilimler Akademisi",
-		"author": "Edgar H. Schein",
+		"title": "boss 2052",
+		"publisher": "bos 2052",
+		"author": "bos 2052",
 		"lang": "Turkce",
-		"page": 136,
-		"year": "1976",
+		"page": 0,
+		"year": "0000",
 		"notes": ""
 	},
 	{
@@ -11585,10 +11585,10 @@
 	{
 		"bookshelf": 2054,
 		"No": 1054,
-		"title": "Orjinaller & Geleneklere Uymayanlar Dünyayı Nasıl İleri Taşıyor?",
-		"publisher": "MODUS KİTAP",
+		"title": "Orjinaller & Geleneklere Uymayanlar Dunyayi Nasıl Ileri Tasiyor?",
+		"publisher": "Modus Kitap",
 		"author": "Adam Grant",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 268,
 		"year": "2017",
 		"notes": "A-1"
@@ -11596,10 +11596,10 @@
 	{
 		"bookshelf": 2055,
 		"No": 1055,
-		"title": "Ortalamanın Sonu & Aynı Olmaya Değer Veren Bir Dünyada Başarılı Olmanın Yolu",
-		"publisher": "PALOMA YAYINLARI",
+		"title": "Ortalamanin Sonu & Ayni Olmaya Deger Veren Bir Dunyada Basarili Olmanin Yolu",
+		"publisher": "Paloma Yayinlari",
 		"author": "Todd Rose",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 252,
 		"year": "2017",
 		"notes": "D-3"
@@ -11607,10 +11607,10 @@
 	{
 		"bookshelf": 2056,
 		"No": 1056,
-		"title": "Otomatik Müşteri",
-		"publisher": "MEDİACAT KİTAPLARI",
+		"title": "Otomatik Musteri",
+		"publisher": "MediaCat Kitaplari",
 		"author": "John Warillow",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 192,
 		"year": "2018",
 		"notes": "D-3"
@@ -11618,10 +11618,10 @@
 	{
 		"bookshelf": 2057,
 		"No": 1057,
-		"title": "Outliers (Çizginin Dışındakiler) & Bazı İnsanlar Neden Daha Başarılı Olur?",
-		"publisher": "MEDİACAT KİTAPLARI",
+		"title": "Outliers (Cizginin Disindakiler) & Bazi Insanlar Neden Daha Basarili Olur?",
+		"publisher": "MediaCat Kitaplari",
 		"author": "Malcolm Gladwell",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 224,
 		"year": "2011",
 		"notes": "A-4"
@@ -11629,10 +11629,10 @@
 	{
 		"bookshelf": 2058,
 		"No": 1058,
-		"title": "Öz & Eğitimde ve Hayatta Tutku Yaratmak",
-		"publisher": "SOLA",
+		"title": "Oz & Egitimde ve Hayatta Tutku Yaratmak",
+		"publisher": "Sola Unitas",
 		"author": "Ken Robinson",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 272,
 		"year": "2018",
 		"notes": "A-2"
@@ -11640,10 +11640,10 @@
 	{
 		"bookshelf": 2059,
 		"No": 1059,
-		"title": "Öz Şefkat & Kendine Nazik Olmanın Kanıtlanmış Gücü",
-		"publisher": "DİYOJEN YAYINCILIK",
+		"title": "Oz Sefkat & Kendine Nazik Olmanin Kanitlanmia Gucu",
+		"publisher": "Diyojen Yayincilik",
 		"author": "Kristin Neff",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 336,
 		"year": "2021",
 		"notes": "A-1"
@@ -11651,10 +11651,10 @@
 	{
 		"bookshelf": 2060,
 		"No": 1060,
-		"title": "Öz Şefkatli Farkındalık",
-		"publisher": "DİYOJEN YAYINCILIK",
+		"title": "Oz Sefkatli Farkindalik",
+		"publisher": "Diyojen Yayincilik",
 		"author": "Christopher K. Germer",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 336,
 		"year": "2018",
 		"notes": "A-1"
@@ -11662,10 +11662,10 @@
 	{
 		"bookshelf": 2061,
 		"No": 1061,
-		"title": "Öz Şefkatli Farkındalık Uygulama Rehberi",
-		"publisher": "DİYOJEN YAYINCILIK",
+		"title": "Oz Şefkatli Farkındalik Uygulama Rehberi",
+		"publisher": "Diyojen Yayincilik",
 		"author": "Christopher K. Germer",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 288,
 		"year": "2020",
 		"notes": "A-1"
@@ -11673,10 +11673,10 @@
 	{
 		"bookshelf": 2062,
 		"No": 1062,
-		"title": "Özcülük: Daha Azın Disiplinli Arayışı",
-		"publisher": "NOVA KİTAP",
+		"title": "Ozculuk: Daha Azin Disiplinli Arayisi",
+		"publisher": "Nova Kitap",
 		"author": "Greg McKeown",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 280,
 		"year": "2022",
 		"notes": "B-4"
@@ -11684,10 +11684,10 @@
 	{
 		"bookshelf": 2063,
 		"No": 1063,
-		"title": "Özgür Eğitim",
-		"publisher": "AYRINTI YAYINLARI",
+		"title": "Ozgur Egitim",
+		"publisher": "Ayrinti Yayinlari",
 		"author": "Joel Spring",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 160,
 		"year": "2017",
 		"notes": "C-2"
@@ -11695,7 +11695,7 @@
 	{
 		"bookshelf": 2064,
 		"No": 1064,
-		"title": "Özgür Ruh",
+		"title": "Ozgur Ruh",
 		"publisher": "Sola Unitas",
 		"author": "Michael A. Singer",
 		"lang": "Turkce",
@@ -11706,7 +11706,7 @@
 	{
 		"bookshelf": 2065,
 		"No": 1065,
-		"title": "Özgür Ruh Günlüğü - Kendini Aşma Alıştırmaları",
+		"title": "Ozgur Ruh Gunlugu - Kendini Asma Alistirmalari",
 		"publisher": "Sola Unitas",
 		"author": "Michael A. Singer",
 		"lang": "Turkce",
@@ -11717,10 +11717,10 @@
 	{
 		"bookshelf": 2066,
 		"No": 1066,
-		"title": "Özgür ve Bedava: İnternet Çağında Bilgi",
-		"publisher": "KOÇ ÜNİVERSİTESİ YAYINLARI",
+		"title": "Ozgur ve Bedava: Internet Caginda Bilgi",
+		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Cory Doctorow",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 223,
 		"year": "2017",
 		"notes": "C-2"
@@ -11728,10 +11728,10 @@
 	{
 		"bookshelf": 2067,
 		"No": 1067,
-		"title": "Özgürlüğün Felsefesi",
-		"publisher": "REDİNGOT KİTAP",
+		"title": "Ozgurlugun Felsefesi",
+		"publisher": "Redingot Kitap",
 		"author": "Lars Svendsen",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 392,
 		"year": "2021",
 		"notes": "A-4"
@@ -11739,10 +11739,10 @@
 	{
 		"bookshelf": 2068,
 		"No": 1068,
-		"title": "Özgüven Boşluğu",
-		"publisher": "DİYOJEN YAYINCILIK",
+		"title": "Ozguven Boslugu",
+		"publisher": "Diyojen Yayincilik",
 		"author": "Russ Harris",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 340,
 		"year": "2017",
 		"notes": "B-3"
@@ -11750,10 +11750,10 @@
 	{
 		"bookshelf": 2069,
 		"No": 1069,
-		"title": "Özgüvene Dair / The School of Life / Hayat Okulu",
-		"publisher": "ARTEMİS YAYINLARI",
+		"title": "Ozguvene Dair",
+		"publisher": "Artemis Yayinlari",
 		"author": "The School of Life",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 96,
 		"year": "2023",
 		"notes": "A-2"
@@ -11761,10 +11761,10 @@
 	{
 		"bookshelf": 2070,
 		"No": 1070,
-		"title": "P&G'nin  165 Yıllık Serüveni",
-		"publisher": "TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI",
+		"title": "P&G'nin 165 Yillik Seruveni",
+		"publisher": "Turkiye Is Bankasi Kultur Yayinlari",
 		"author": "Davis Dyer, Frederick Dalzell, Rowena Olegario",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 632,
 		"year": "2009",
 		"notes": "E-4"
@@ -11772,10 +11772,10 @@
 	{
 		"bookshelf": 2071,
 		"No": 1071,
-		"title": "Pandemonimum & Retro-Örgüt Kuramına Doğru",
-		"publisher": "PARAF KİTABEVİ",
+		"title": "Pandemonimum & Retro-Orgut Kuramina Dogru",
+		"publisher": "Paraf Kitabevi",
 		"author": "Gibson Burrell",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 246,
 		"year": "2016",
 		"notes": "B-1"
@@ -11784,9 +11784,9 @@
 		"bookshelf": 2072,
 		"No": 1072,
 		"title": "Panik Atakta",
-		"publisher": "PSİKONET YAYINLARI",
-		"author": "Dr. David Burns",
-		"lang": "TÜRKÇE",
+		"publisher": "Psikonet Yayinlari",
+		"author": "David Burns",
+		"lang": "Turkce",
 		"page": 568,
 		"year": "2016",
 		"notes": "new"
@@ -11794,10 +11794,10 @@
 	{
 		"bookshelf": 2073,
 		"No": 1073,
-		"title": "Panzehir & Pozitif Düşünmeye Katlanamayanlar İçin Mutluluk",
-		"publisher": "AYLAK KİTAP",
+		"title": "Panzehir & Pozitif Dusunmeye Katlanamayanlar Icin Mutluluk",
+		"publisher": "Aylak Kitap",
 		"author": "Oliver Burkeman",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 246,
 		"year": "2014",
 		"notes": "C-1"
@@ -11805,10 +11805,10 @@
 	{
 		"bookshelf": 2074,
 		"No": 1074,
-		"title": "Para Hakkındaki Endişelerimizi Nasıl Gideririz",
-		"publisher": "SEL YAYINLARI",
+		"title": "Para Hakkindaki Endiselerimizi Nasil Gideririz",
+		"publisher": "Sel Yayincilik",
 		"author": "John Armstrong",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 160,
 		"year": "2013",
 		"notes": "C-1"
@@ -11817,9 +11817,9 @@
 		"bookshelf": 2075,
 		"No": 1075,
 		"title": "Paradoks & Bilimin En Büyük Dokuz Bilmecesi",
-		"publisher": "DOMİNGO YAYINEVİ",
+		"publisher": "Domingo Yayinevi",
 		"author": "Jim Al-Khalili",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 208,
 		"year": "2016",
 		"notes": "B-3"
@@ -11827,10 +11827,10 @@
 	{
 		"bookshelf": 2076,
 		"No": 1076,
-		"title": "Paradokslar Kitabı",
-		"publisher": "HİL YAYINLARI",
+		"title": "Paradokslar Kitabi",
+		"publisher": "Hil Yayinlari",
 		"author": "Michael Clark",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 239,
 		"year": "2009",
 		"notes": "B-2"
@@ -11839,9 +11839,9 @@
 		"bookshelf": 2077,
 		"No": 1077,
 		"title": "Paralama Defteri",
-		"publisher": "PEGASUS YAYINLARI",
+		"publisher": "Pegasus Yayinlari",
 		"author": "Keri Smith",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 224,
 		"year": "2015",
 		"notes": "C-1"
@@ -11850,9 +11850,9 @@
 		"bookshelf": 2078,
 		"No": 1078,
 		"title": "Paralama Defteri & Her Yerde",
-		"publisher": "PEGASUS YAYINLARI",
+		"publisher": "Pegasus Yayinlari",
 		"author": "Keri Smith",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 144,
 		"year": "2017",
 		"notes": "C-1"
@@ -11860,10 +11860,10 @@
 	{
 		"bookshelf": 2079,
 		"No": 1079,
-		"title": "Paranın Psikolojisi",
-		"publisher": "SCALA YAYINCILIK",
+		"title": "Paranin Psikolojisi",
+		"publisher": "Scala Yayincilik",
 		"author": "Morgan Housel",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 312,
 		"year": "2022",
 		"notes": "C-4"
@@ -11871,10 +11871,10 @@
 	{
 		"bookshelf": 2080,
 		"No": 1080,
-		"title": "Paranın Satın Alamayacağı Şeyler",
+		"title": "Paranin Satin Alamayacağı Şeyler",
 		"publisher": "EKSİ KİTAPLAR",
 		"author": "Michael J. Sandel",
-		"lang": "TÜRKÇE",
+		"lang": "Turkce",
 		"page": 304,
 		"year": "2015",
 		"notes": "B-2"
