@@ -2,7 +2,7 @@
 	{
 		"bookshelf": 1001,
 		"No": 1,
-		"title": "# Moda2014",
+		"title": "Moda2014",
 		"publisher": "Artemis Yayinlari",
 		"author": "Tuba Unsal",
 		"lang": "Turkce",
@@ -35,7 +35,7 @@
 	{
 		"bookshelf": 1004,
 		"No": 4,
-		"title": "%10 Daha Mutlu",
+		"title": "% 10 Daha Mutlu",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Dan Harris",
 		"lang": "Turkce",
@@ -46,7 +46,7 @@
 	{
 		"bookshelf": 1005,
 		"No": 5,
-		"title": "%1’e Karsi Birlik",
+		"title": "% 1’e Karsi Birlik",
 		"publisher": "Yelkovan Kitap",
 		"author": "Vandana Shiva",
 		"lang": "Turkce",
