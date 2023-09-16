@@ -12,7 +12,7 @@ layout: null
       "no"        : "{{ item.No }}",
       "bookshelf" : "{{ item.notes }}",
       "publisher" : "{{ item.publisher }}",
-      "page" : "{{ item.page }}",
+      "page"      : "{{ item.page }}",
       "uniqueid"  : "{{ item.bookshelf }}"
 
     } {% unless forloop.last %},{% endunless %}
