@@ -3686,7 +3686,7 @@
 	{
 		"bookshelf": 1308,
 		"No": 308,
-		"title": "Degisim Muhendislidi - Is Idaresinde Devrim Icin Bir Manifesto",
+		"title": "Degisim Muhendisligi - Is Idaresinde Devrim Icin Bir Manifesto",
 		"publisher": "Sabah Kitaplari",
 		"author": "Michael Hammer, James Champy",
 		"lang": "Turkce",
@@ -8230,16 +8230,17 @@
 		"notes": "D-3",
 		"status": ""
 	},
+	,
 	{
 		"bookshelf": 1687,
 		"No": 687,
-		"title": "boss 1687",
-		"publisher": "bos 1687",
-		"author": "bos 1687",
+		"title": "Gelecegi Degistiren Dokuz Algoritma & Gunumuz Bilgisayarlarinin Ardindaki Parlak Fikirler",
+		"publisher": "Tubitak Yayinlari",
+		"author": "John McCormick",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": "n/a",
+		"page": 291,
+		"year": "2018",
+		"notes": "new",
 		"status": ""
 	},
 	{
@@ -18631,18 +18632,6 @@
 		"lang": "Turkce",
 		"page": 424,
 		"year": "2020",
-		"notes": "new",
-		"status": ""
-	},
-	{
-		"bookshelf": 2554,
-		"No": 1554,
-		"title": "Gelecegi Degistiren Dokuz Algoritma & Gunumuz Bilgisayarlarinin Ardindaki Parlak Fikirler",
-		"publisher": "Tubitak Yayinlari",
-		"author": "John McCormick",
-		"lang": "Turkce",
-		"page": 291,
-		"year": "2018",
 		"notes": "new",
 		"status": ""
 	}
