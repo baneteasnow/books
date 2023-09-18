@@ -9,3 +9,4 @@
 {%- if site.data.list.item.notes == "A-1" -%}
 {{ site.data.list.item.notes == "A-1" | size}}
 {%- endif -%}
+{%-endfor-%}
