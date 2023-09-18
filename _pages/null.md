@@ -13,8 +13,8 @@ published: true
 - 2013 ok
 - 2052 ok
 - 2229 ok
-- 2486 ok  
-  2493  
+- 2486 ok
+- 2493 ok  
   2553
 
 - status: read
