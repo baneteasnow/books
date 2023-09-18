@@ -6,9 +6,17 @@
 | A-4 |     | B-4 | C-4 |     | D-4 | E-4 | F-4 |
 
 {% for item in site.data.list %}
-{%- if site.data.list.notes == "A-1" -%}
-a-1
+{%- if site.data.list.item.notes == "A-1" -%}
+1
 {%- else -%}
 2
+{%- endif -%}
+{%- endfor -%}
+
+{% for item in site.data.list %}
+{%- if site.data.list.item.bookshelf == "A-1" -%}
+3
+{%- else -%}
+4
 {%- endif -%}
 {%- endfor -%}
