@@ -7,6 +7,8 @@
 
 {% for item in site.data.list %}
 {%- if site.data.list.notes == "A-1" -%}
-{{ site.data.list.notes == "A-1" | size }}
+a-1
+{%- else -%}
+2
 {%- endif -%}
-{%-endfor-%}
+{%- endfor -%}
