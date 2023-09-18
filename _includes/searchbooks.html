@@ -43,7 +43,7 @@
 		resultsContainer: document.getElementById("results-container"),
 		json: "/search.json",
 		searchResultTemplate:
-			'<div style="text-indent: 5px;"><span style="text-transform: lowercase;"><li><a href="{url}" title="{title}">{title} | {author}</span> &rarr; {bookshelf}</a></li></div>',
+			'<div style="text-transform: lowercase"><li><a href="{url}" title="{title}">{title} | {author}<span style="text-transform: uppercase !important"> &rarr; {bookshelf}</a></span></li></div>',
 		noResultsText: "No results found",
 		limit: 300000,
 		fuzzy: false,
