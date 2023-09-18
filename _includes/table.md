@@ -9,6 +9,6 @@
 {% if item.notes == 'A-1' %}  
  {{ item.notes | size }}
 {% else %}
-1
+11
 {% endif %}
 {% endfor %}
