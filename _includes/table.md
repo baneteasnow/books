@@ -5,18 +5,16 @@
 | A-3 |     | B-3 | C-3 |     | D-3 | E-3 | F-3 |
 | A-4 |     | B-4 | C-4 |     | D-4 | E-4 | F-4 |
 
-{% for item in site.data.list %}
 {%- if site.data.list.item.notes == "A-1" -%}
 1
 {%- else -%}
 2
 {%- endif -%}
-{%- endfor -%}
 
 {% for item in site.data.list %}
-{%- if site.data.list.item.bookshelf == "A-1" -%}
-3
-{%- else -%}
-4
-{%- endif -%}
-{%- endfor -%}
+{% if item.notes == 'A-1' %}  
+ {{ item.notes == 'A-1' | size }}
+{% else %}
+1
+{% endif %}
+{% endfor %}
