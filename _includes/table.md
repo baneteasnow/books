@@ -6,5 +6,5 @@
 | A-4 |     | B-4 | C-4 |     | D-4 | E-4 | F-4 |
 
 {%- if site.data.list.item.notes == "A-1" -%}
-{{ site.data.list.item.notes == "A-1" }}
+{{ site.data.list.item.notes == "A-1" | size}}
 {%- endif -%}
