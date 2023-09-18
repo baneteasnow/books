@@ -14,7 +14,7 @@ layout: null
       "publisher" : "{{ item.publisher }}",
       "page"      : "{{ item.page }}",
       "uniqueid"  : "{{ item.bookshelf }}",
-      "www"       : "{{ item.www }}"
+      "status"    : "{{ item.status }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
