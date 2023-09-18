@@ -5,12 +5,6 @@
 | A-3 |     | B-3 | C-3 |     | D-3 | E-3 | F-3 |
 | A-4 |     | B-4 | C-4 |     | D-4 | E-4 | F-4 |
 
-{%- if site.data.list.item.notes == "A-1" -%}
-1
-{%- else -%}
-2
-{%- endif -%}
-
 {% for item in site.data.list %}
 {% if item.notes == 'A-1' %}  
  {{ item.notes == 'A-1' | size }}
