@@ -8,8 +8,7 @@
 		"lang": "Turkce",
 		"page": 192,
 		"year": "2014",
-		"notes": "A-2",
-		"www": "https://www.nonfictionbooks.xyz/book-love.html"
+		"notes": "A-2"
 	},
 	{
 		"bookshelf": 1002,
@@ -2110,7 +2109,8 @@
 		"lang": "Turkce",
 		"page": 256,
 		"year": "2017",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1193,
@@ -2737,7 +2737,8 @@
 		"lang": "Turkce",
 		"page": 78,
 		"year": "2021",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1250,
@@ -2885,13 +2886,14 @@
 	{
 		"bookshelf": 1263,
 		"No": 263,
-		"title": "Cehenneme Ovgy - Gyndelik Hayatta Totalitarizm",
+		"title": "Cehenneme Ovgu - Gyndelik Hayatta Totalitarizm",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Gunduz Vassaf",
 		"lang": "Turkce",
 		"page": 279,
 		"year": "2021",
-		"notes": "B-2"
+		"notes": "B-2",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1264,
@@ -2913,7 +2915,8 @@
 		"lang": "Turkce",
 		"page": 251,
 		"year": "2015",
-		"notes": "B-2"
+		"notes": "B-2",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1266,
@@ -3661,7 +3664,8 @@
 		"lang": "Turkce",
 		"page": 128,
 		"year": "2020",
-		"notes": "A-1"
+		"notes": "A-1",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1334,
@@ -4772,7 +4776,8 @@
 		"lang": "Turkce",
 		"page": 312,
 		"year": "2023",
-		"notes": "A-1"
+		"notes": "A-1",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1435,
@@ -5916,7 +5921,8 @@
 		"lang": "Turkce",
 		"page": 440,
 		"year": "2021",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1539,
@@ -6240,13 +6246,13 @@
 	{
 		"bookshelf": 1568,
 		"No": 568,
-		"title": "Hayallere Ulasma Rehberi",
-		"publisher": "Ceo Plus",
-		"author": "Baris Mustecaplioglu",
+		"title": "Kendinle Savasma Sanati",
+		"publisher": "Koridor Yayincilik",
+		"author": "Ichiro Kishimi, Fumitake Koga",
 		"lang": "Turkce",
-		"page": 232,
-		"year": "2018",
-		"notes": "n/a"
+		"page": 298,
+		"year": "2019",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 1569,
@@ -6257,7 +6263,8 @@
 		"lang": "Turkce",
 		"page": 192,
 		"year": "2020",
-		"notes": "A-3"
+		"notes": "A-3",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1570,
@@ -7060,7 +7067,8 @@
 		"lang": "Turkce",
 		"page": 240,
 		"year": "2023",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1643,
@@ -7560,24 +7568,24 @@
 	{
 		"bookshelf": 1688,
 		"No": 688,
-		"title": "boss 1688",
-		"publisher": "bos 1688",
-		"author": "bos 1688",
+		"title": "Mutlu Olma Cesareti",
+		"publisher": "Koridor Yayincilik",
+		"author": "Ichiro Kishimi, Fumitake Koga",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": "n/a"
+		"page": 262,
+		"year": "2022",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 1689,
 		"No": 689,
-		"title": "boss 1689",
-		"publisher": "bos 1689",
-		"author": "bos 1689",
+		"title": "Jung Psikolojisinin Ana Hatları",
+		"publisher": "Say Yayinlari",
+		"author": "Frieda Fordham",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": "n/a"
+		"page": 160,
+		"year": "2023",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 1690,
@@ -8077,13 +8085,13 @@
 	{
 		"bookshelf": 1735,
 		"No": 735,
-		"title": "boss 1735",
-		"publisher": "bos 1735",
-		"author": "bps 1735",
+		"title": "Diplomasi",
+		"publisher": "Pinhan Yayincilik",
+		"author": "Henry Kissinger",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": "n/a"
+		"page": 840,
+		"year": "2022",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 1736,
@@ -9463,13 +9471,13 @@
 	{
 		"bookshelf": 1861,
 		"No": 861,
-		"title": "boss 1861",
-		"publisher": "bos 1861",
-		"author": "bos 1861",
+		"title": "Bilgi Yanilsamasi - Neden Tek Basimiza Dusunmeyiz",
+		"publisher": "Pegasus Yayinlari",
+		"author": "Steven Sloman, Philip Fernbach",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": "n/a"
+		"page": 336,
+		"year": "2021",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 1862,
@@ -11135,13 +11143,13 @@
 	{
 		"bookshelf": 2013,
 		"No": 1013,
-		"title": "boss 2013",
-		"publisher": "bos 2013",
-		"author": "bos 2013",
+		"title": "Mahremiyetin Donusumu",
+		"publisher": "Ayrinti Yayinlari",
+		"author": "Anthony Giddens",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": "n/a"
+		"page": 188,
+		"year": "2014",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 2014,
@@ -11564,13 +11572,13 @@
 	{
 		"bookshelf": 2052,
 		"No": 1052,
-		"title": "boss 2052",
-		"publisher": "bos 2052",
-		"author": "bos 2052",
+		"title": "Sosyoloji Nedir?",
+		"publisher": "Ani Yayincilik",
+		"author": "Joseph Fichter",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": "n/a"
+		"page": 256,
+		"year": "2019",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 2053,
@@ -12197,7 +12205,8 @@
 		"lang": "Turkce",
 		"page": 336,
 		"year": "2020",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2110,
@@ -13511,13 +13520,13 @@
 	{
 		"bookshelf": 2229,
 		"No": 1229,
-		"title": "boss 2229",
-		"publisher": "bos 1229",
-		"author": "bos 1229",
+		"title": "Yavaslamak - Hiz Caginin Sonu: Dunya, Ekonomi ve Insanlik Icin Neden Boylesi Daha Iyi?",
+		"publisher": "Timas Yayinlari",
+		"author": "Danny Dorling",
 		"lang": "Turkce",
-		"page": 0,
-		"year": "0000",
-		"notes": "n/a"
+		"page": 464,
+		"year": "2023",
+		"notes": "new"
 	},
 	{
 		"bookshelf": 2230,
@@ -13858,7 +13867,8 @@
 		"lang": "Turkce",
 		"page": 336,
 		"year": "2020",
-		"notes": "B-1"
+		"notes": "B-1",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2261,
@@ -15420,7 +15430,8 @@
 		"lang": "Turkce",
 		"page": 294,
 		"year": "2022",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2403,
@@ -15772,7 +15783,8 @@
 		"lang": "Turkce",
 		"page": 272,
 		"year": "2022",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2435,
@@ -16476,7 +16488,8 @@
 		"lang": "Turkce",
 		"page": 248,
 		"year": "2016",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2499,
@@ -16982,7 +16995,8 @@
 		"lang": "Turkce",
 		"page": 72,
 		"year": "2020",
-		"notes": "Read"
+		"notes": "n/a",
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2545,
