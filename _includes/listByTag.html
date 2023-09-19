@@ -1,5 +1,5 @@
-{% assign tag = include.tag %} {% assign count = site.data.list %} {% assign
-listtt = ""| split: "/" %}
+{% assign tag = include.tag %} {% assign count = site.data.list | size %} {%
+assign listtt = ""| split: "/" %}
 <!--  -->
 {% for item in count.notes %}
 <!-- {% for raf in count.bookshelf %} -->
