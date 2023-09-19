@@ -1,13 +1,13 @@
 [
 	{
-		"bookshelf": 1001,
+		"type": "epub",
 		"No": 1,
-		"title": "",
+		"title": "Elon Musk",
 		"publisher": "",
-		"author": "",
+		"author": "Walter Isaacson",
 		"lang": "",
 		"page": 0,
-		"year": "0000",
+		"year": "2023",
 		"notes": "",
 		"status": ""
 	}
