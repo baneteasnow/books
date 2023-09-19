@@ -12,4 +12,6 @@ endif %}
 
 {% endif %}
 
-{{ site.data.list.res.notes == "A-1" | size }}.
+{% for item in site.data.list.res %}
+{{ site.data.list.res.item.notes == "A-1" | size }}
+{% endfor %}...
