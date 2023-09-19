@@ -4,8 +4,9 @@ listtt = ""| split: "/" %} {% for item in count.bookshelf %}
 {% if count.bookshelf contains tag %} {% assign listtt = listtt | push: item %}
 {% endif %}
 <!-- {% endfor %} -->
-{% endfor %} {% if listtt.size != 0 %}
+{% endfor %}
+<!-- {% if listtt.size != 0 %} -->
 
 <h3>Found {{ listtt.size }}</h3>
 
-{% endif %}
+<!-- {% endif %} -->
