@@ -1,22 +1,3 @@
-{% assign tag = include.tag %} {% assign count = site.data.list | size %} {%
-assign listtt = ""| split: "/" %}
-<!--  -->
-{% for item in count.notes %}
-<!-- {% for raf in count.bookshelf %} -->
-{% if count.notes contains tag %} {% assign listtt = listtt | push: item %} {%
-endif %}
-<!-- {% endfor %} -->
-{% endfor %} {% if listtt.size != 0 %}
-
-<h3>Found {{ listtt.size }}</h3>
-
-{% endif %}
-
-{% for item in site.data.listeng.res %}
-{{ site.data.listeng.res.item.notes == "A-1" | size }}..
-{{ site.data.listeng.res.notes == "A-1" | size }}....
-{% endfor %}...
-
-{% if site.data.listeng.res.notes == "A-1" %}
-{{ site.data.listeng.res.notes == "A-1" | size }} ,
-{% endif %}
+{% for item in site.data.list %}
+{{ item.notes == "A-1" | size }}
+{% endfor %}
