@@ -1,5 +1,7 @@
 {% assign tag = include.tag %} {% assign count = site.data.list %} {% assign
-listtt = ""| split: "/" %} {% for item in count.bookshelf %}
+listtt = ""| split: "/" %}
+<!--  -->
+{% for item in count.bookshelf %}
 <!-- {% for raf in count.bookshelf %} -->
 {% if count.bookshelf contains tag %} {% assign listtt = listtt | push: item %}
 {% endif %}
