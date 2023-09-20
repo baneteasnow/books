@@ -12,6 +12,7 @@ title: "Home Library Book List"
 {%-include backtotop.html-%}
 <br />
 {% for item in site.data.list %}
+{{ if item.reread != "yes" }}
 <h4>
 	<a
 		href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
@@ -72,7 +73,6 @@ title: "Home Library Book List"
 		<i>Reread</i>
 		{% endif %}
 	</div>
-	{% item.reread != "yes" | size %}
 	<div
 		class="decorated"
 		style="font-size: 85%"
