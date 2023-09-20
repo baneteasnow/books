@@ -26,7 +26,7 @@
 	{
 		"bookshelf": 1003,
 		"No": 3,
-		"title": "% 100 Yakistir & Butunleyici Giysi, Makyaj, Sac ve Aksesuar Tonlari",
+		"title": "% 100 Yakistir - Butunleyici Giysi, Makyaj, Sac ve Aksesuar Tonlari",
 		"publisher": "Affectum Libris",
 		"author": "Oya Komar",
 		"lang": "Turkce",
@@ -158,7 +158,7 @@
 	{
 		"bookshelf": 1014,
 		"No": 14,
-		"title": "2062 & Yapay Zeka Dunyasi",
+		"title": "2062 - Yapay Zeka Dunyasi",
 		"publisher": "Say Yayinlari",
 		"author": "Toby Walsh",
 		"lang": "Turkce",
@@ -278,7 +278,7 @@
 	{
 		"bookshelf": 1024,
 		"No": 24,
-		"title": "59 Saniye & Azicik Dusunun, Cok Seyi Degistirin",
+		"title": "59 Saniye - Azicik Dusunun, Cok Seyi Degistirin",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Richard Wiseman",
 		"lang": "Turkce",
@@ -290,19 +290,20 @@
 	{
 		"bookshelf": 1025,
 		"No": 25,
-		"title": "6 Derece & Isininan Dunyadaki Gelecegimiz",
+		"title": "6 Derece - Isininan Dunyadaki Gelecegimiz",
 		"publisher": "Ntv Yayinlari",
 		"author": "Mark Lynas",
 		"lang": "Turkce",
 		"page": 296,
 		"year": "2009",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1026,
 		"No": 26,
-		"title": "7/24 & Gec Kapitalizm ve Uykularin Sonu",
+		"title": "7/24 - Gec Kapitalizm ve Uykularin Sonu",
 		"publisher": "Metis Yayinlari",
 		"author": "Jonathan Crary",
 		"lang": "Turkce",
@@ -374,7 +375,7 @@
 	{
 		"bookshelf": 1032,
 		"No": 32,
-		"title": "Acemi Yoginin Elkitabi & Yeni Baslayanlar Icin Yoga",
+		"title": "Acemi Yoginin Elkitabi - Yeni Baslayanlar Icin Yoga",
 		"publisher": "Paloma Yayinlari",
 		"author": "Esra E. Karaosmanoglu",
 		"lang": "Turkce",
@@ -386,7 +387,7 @@
 	{
 		"bookshelf": 1033,
 		"No": 33,
-		"title": "Acik Liderlik & Sosyal Teknoloji Yonetme Tarzinizi Nasil Degistirir?",
+		"title": "Acik Liderlik - Sosyal Teknoloji Yonetme Tarzinizi Nasil Degistirir?",
 		"publisher": "Optimist Kitap",
 		"author": "Charlene Li",
 		"lang": "Turkce",
@@ -422,7 +423,7 @@
 	{
 		"bookshelf": 1036,
 		"No": 36,
-		"title": "Acisiz Bilim & Bilim, Gunluk Hayati Nasil Degistiriyor?",
+		"title": "Acisiz Bilim - Bilim, Gunluk Hayati Nasil Degistiriyor?",
 		"publisher": "Ntv Yayinlari",
 		"author": "Chris Smith",
 		"lang": "Turkce",
@@ -434,7 +435,7 @@
 	{
 		"bookshelf": 1037,
 		"No": 37,
-		"title": "Act’i Kolay Ogrenmek & Kabul ve Kararlilik Terapisi Icin Hizli Bir Baslangic",
+		"title": "Act’i Kolay Ogrenmek - Kabul ve Kararlilik Terapisi Icin Hizli Bir Baslangic",
 		"publisher": "Litera Yayincilik",
 		"author": "Russ Harris",
 		"lang": "Turkce",
@@ -489,7 +490,8 @@
 		"page": 128,
 		"year": "2013",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1042,
@@ -506,7 +508,7 @@
 	{
 		"bookshelf": 1043,
 		"No": 43,
-		"title": "Akilci Iyimser & Refahin Evrimi",
+		"title": "Akilci Iyimser - Refahin Evrimi",
 		"publisher": "Bogazici Universitesi Yayinevi",
 		"author": "Matt Ridley",
 		"lang": "Turkce",
@@ -537,12 +539,13 @@
 		"page": 428,
 		"year": "2013",
 		"notes": "B-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1046,
 		"No": 46,
-		"title": "Akildisi Sevgilerimle & Kayip Coraplar ve Diger Varolussal Muammalar",
+		"title": "Akildisi Sevgilerimle - Kayip Coraplar ve Diger Varolussal Muammalar",
 		"publisher": "Optimist Kitap",
 		"author": "Dan Ariely",
 		"lang": "Turkce",
@@ -554,19 +557,20 @@
 	{
 		"bookshelf": 1047,
 		"No": 47,
-		"title": "Akildisinin Mantigi & Evdeki ve Isteki Mantiga Baskaldirmanin Beklenmedik Faydalari",
+		"title": "Akildisinin Mantigi - Evdeki ve Isteki Mantiga Baskaldirmanin Beklenmedik Faydalari",
 		"publisher": "Optimist Kitap",
 		"author": "Dan Ariely",
 		"lang": "Turkce",
 		"page": 293,
 		"year": "2014",
 		"notes": "B-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1048,
 		"No": 48,
-		"title": "Akilgozu & Bilincli Farkindalik ve Kendini Iyilestiren Beyin",
+		"title": "Akilgozu - Bilincli Farkindalik ve Kendini Iyilestiren Beyin",
 		"publisher": "Diyojen Yayincilik",
 		"author": "Daniel J. Siegel",
 		"lang": "Turkce",
@@ -590,7 +594,7 @@
 	{
 		"bookshelf": 1050,
 		"No": 50,
-		"title": "Akilli Makineler & Yapay Zeka Hayatimizi Nasil Degistiriyor",
+		"title": "Akilli Makineler - Yapay Zeka Hayatimizi Nasil Degistiriyor",
 		"publisher": "Paloma Yayinlari",
 		"author": "Ulrich Eberl",
 		"lang": "Turkce",
@@ -614,14 +618,15 @@
 	{
 		"bookshelf": 1052,
 		"No": 52,
-		"title": "Akis: Mutluluk Bilimi",
+		"title": "Akis - Mutluluk Bilimi",
 		"publisher": "Buzdagi Yayinlari",
 		"author": "Mihaly Csikszentmihalyi",
 		"lang": "Turkce",
 		"page": 416,
 		"year": "2017",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1053,
@@ -686,7 +691,7 @@
 	{
 		"bookshelf": 1058,
 		"No": 58,
-		"title": "Aklimin Akli: Psikoloji",
+		"title": "Aklimin Akli - Psikoloji",
 		"publisher": "Nobel Yayin Dagitim",
 		"author": "McGraw-Hill",
 		"lang": "Turkce",
@@ -722,7 +727,7 @@
 	{
 		"bookshelf": 1061,
 		"No": 61,
-		"title": "Aklinda Kalsin & Basarili Ogrenme Bilimi",
+		"title": "Aklinda Kalsin - Basarili Ogrenme Bilimi",
 		"publisher": "Buzdagi Yayinlari",
 		"author": "Peter C. Brown, Henry L. Roediger, Mark A. McDaniel",
 		"lang": "Turkce",
@@ -741,7 +746,8 @@
 		"page": 360,
 		"year": "2020",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1063,
@@ -770,7 +776,7 @@
 	{
 		"bookshelf": 1065,
 		"No": 65,
-		"title": "Aldatici Rastlantisallik & Hayatta ve Piyasalarda Sansin Gizli Rolu",
+		"title": "Aldatici Rastlantisallik - Hayatta ve Piyasalarda Sansin Gizli Rolu",
 		"publisher": "Varlik Yayinlari",
 		"author": "Nassim Nicholas Taleb",
 		"lang": "Turkce",
@@ -794,7 +800,7 @@
 	{
 		"bookshelf": 1067,
 		"No": 67,
-		"title": "Aliskanliklarin Gucu & Ozel ve Is Hayatimizda Aliskanliklarimizin Ardinda Ne Yatar?",
+		"title": "Aliskanliklarin Gucu - Ozel ve Is Hayatimizda Aliskanliklarimizin Ardinda Ne Yatar?",
 		"publisher": "Boyner Holding Yayinlari",
 		"author": "Charles Duhigg",
 		"lang": "Turkce",
@@ -842,19 +848,20 @@
 	{
 		"bookshelf": 1071,
 		"No": 71,
-		"title": "Almanlar Neden Daha Iyi Yapiyor: Gelismis Bir Ulkeden Notlar",
+		"title": "Almanlar Neden Daha Iyi Yapiyor - Gelismis Bir Ulkeden Notlar",
 		"publisher": "Ithaki Yayinlari",
 		"author": "John Kampfner",
 		"lang": "Turkce",
 		"page": 312,
 		"year": "2022",
 		"notes": "D-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1072,
 		"No": 72,
-		"title": "Alternatif Egitim & Hayatimizin Okulsuzlastirilmasi",
+		"title": "Alternatif Egitim - Hayatimizin Okulsuzlastirilmasi",
 		"publisher": "Kalkedon Yayinlari",
 		"author": "Matt Hern",
 		"lang": "Turkce",
@@ -897,7 +904,8 @@
 		"page": 368,
 		"year": "2016",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1076,
@@ -962,7 +970,7 @@
 	{
 		"bookshelf": 1081,
 		"No": 81,
-		"title": "Anne Dansi & Cocuklar Hayatinizi Nasil Degistirir",
+		"title": "Anne Dansi - Cocuklar Hayatinizi Nasil Degistirir",
 		"publisher": "Varlik Yayinlari",
 		"author": "Harriet Lerner",
 		"lang": "Turkce",
@@ -1034,7 +1042,7 @@
 	{
 		"bookshelf": 1087,
 		"No": 87,
-		"title": "APP Kusagi & Dijital Dunyada Kimlik, Mahremiyet ve Hayal Gucu",
+		"title": "APP Kusagi - Dijital Dunyada Kimlik, Mahremiyet ve Hayal Gucu",
 		"publisher": "Optimist Kitap",
 		"author": "Howard Gardner, Katie Davis",
 		"lang": "Turkce",
@@ -1058,7 +1066,7 @@
 	{
 		"bookshelf": 1089,
 		"No": 89,
-		"title": "Apple'in Ardindaki Deha: Jony Ive",
+		"title": "Apple'in Ardindaki Deha - Jony Ive",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Leander Kahney",
 		"lang": "Turkce",
@@ -1089,12 +1097,13 @@
 		"page": 136,
 		"year": "2019",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1092,
 		"No": 92,
-		"title": "Aptallik Paradoksu & Is Hayatinda Islevsel Aptalligin Gucu ve Tuzaklari",
+		"title": "Aptallik Paradoksu - Is Hayatinda Islevsel Aptalligin Gucu ve Tuzaklari",
 		"publisher": "Paloma Yayinlari",
 		"author": "Andre Spicer, Mats Alvesson",
 		"lang": "Turkce",
@@ -1106,7 +1115,7 @@
 	{
 		"bookshelf": 1093,
 		"No": 93,
-		"title": "Araclar ve Silahlar & Dijital Cagin Vaatleri ve Tehlikeleri",
+		"title": "Araclar ve Silahlar - Dijital Cagin Vaatleri ve Tehlikeleri",
 		"publisher": "Kronik Kitap",
 		"author": "Brad Smith, Carol Ann Browne",
 		"lang": "Turkce",
@@ -1118,7 +1127,7 @@
 	{
 		"bookshelf": 1094,
 		"No": 94,
-		"title": "Aradigin Her Sey: Jeff Bezos ve Amazon Cagi",
+		"title": "Aradigin Her Sey - Jeff Bezos ve Amazon Cagi",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Brad Stone",
 		"lang": "Turkce",
@@ -1178,7 +1187,7 @@
 	{
 		"bookshelf": 1099,
 		"No": 99,
-		"title": "Arzunun Botanigi & Bir Elmanin Sizi Kullandigini Dusundunuz mu Hic?",
+		"title": "Arzunun Botanigi - Bir Elmanin Sizi Kullandigini Dusundunuz mu Hic?",
 		"publisher": "Domingo Yayinevi",
 		"author": "Michael Pollan",
 		"lang": "Turkce",
@@ -1233,7 +1242,8 @@
 		"page": 96,
 		"year": "2022",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1104,
@@ -1245,7 +1255,8 @@
 		"page": 128,
 		"year": "2016",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1105,
@@ -1262,7 +1273,7 @@
 	{
 		"bookshelf": 1106,
 		"No": 106,
-		"title": "Asrin Vebasi: Narsisizm Illeti",
+		"title": "Asrin Vebasi - Narsisizm Illeti",
 		"publisher": "Kaknus Yayinlari",
 		"author": "Jean M. Twenge, W. Keith Campbell",
 		"lang": "Turkce",
@@ -1293,7 +1304,8 @@
 		"page": 414,
 		"year": "2017",
 		"notes": "E-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1109,
@@ -1413,7 +1425,8 @@
 		"page": 80,
 		"year": "2015",
 		"notes": "C-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1119,
@@ -1442,7 +1455,7 @@
 	{
 		"bookshelf": 1121,
 		"No": 121,
-		"title": "Bacak Arasindan Turkiye & Bir Jinekologun Gozunden",
+		"title": "Bacak Arasindan Turkiye - Bir Jinekologun Gozunden",
 		"publisher": "Marti Yayinlari",
 		"author": "Feraye Sunev Cokgurses",
 		"lang": "Turkce",
@@ -1454,7 +1467,7 @@
 	{
 		"bookshelf": 1122,
 		"No": 122,
-		"title": "Badiou, Balibar, Ranciere & Ozgurlesmeyi Yeniden Dusunmek",
+		"title": "Badiou, Balibar, Ranciere - Ozgurlesmeyi Yeniden Dusunmek",
 		"publisher": "Metropolis Yayincilik",
 		"author": "Nick Hewlett",
 		"lang": "Turkce",
@@ -1478,7 +1491,7 @@
 	{
 		"bookshelf": 1124,
 		"No": 124,
-		"title": "Baglantilar & Is Hayatinda ve Gunluk Yasamda",
+		"title": "Baglantilar - Is Hayatinda ve Gunluk Yasamda",
 		"publisher": "Optimist Kitap",
 		"author": "Albert-Laszlo Barabasi",
 		"lang": "Turkce",
@@ -1514,7 +1527,7 @@
 	{
 		"bookshelf": 1127,
 		"No": 127,
-		"title": "Balik! Enerjiyi Yakalayin & Potansiyelinizi Ortaya Cikarin",
+		"title": "Balik! Enerjiyi Yakalayin - Potansiyelinizi Ortaya Cikarin",
 		"publisher": "Epsilon Yayinevi",
 		"author": "Stephen C. Lundin,Harry Paul,John Christensen",
 		"lang": "Turkce",
@@ -1526,7 +1539,7 @@
 	{
 		"bookshelf": 1128,
 		"No": 128,
-		"title": "Bana Yalan Soylediler & Internet ve Gercek Yuzumuz",
+		"title": "Bana Yalan Soylediler - Internet ve Gercek Yuzumuz",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Seth Stephens Davidowitz",
 		"lang": "Turkce",
@@ -1557,7 +1570,8 @@
 		"page": 176,
 		"year": "1997",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1131,
@@ -1634,7 +1648,7 @@
 	{
 		"bookshelf": 1137,
 		"No": 137,
-		"title": "Bebeklerin Ahlaki Yasami & Iyinin ve Kotunun Kokenleri",
+		"title": "Bebeklerin Ahlaki Yasami - Iyinin ve Kotunun Kokenleri",
 		"publisher": "Panama Yayincilik",
 		"author": "Paul Bloom",
 		"lang": "Turkce",
@@ -1653,7 +1667,8 @@
 		"page": 256,
 		"year": "2010",
 		"notes": "D-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1139,
@@ -1677,7 +1692,8 @@
 		"page": 462,
 		"year": "2021",
 		"notes": "A-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1141,
@@ -1814,7 +1830,7 @@
 	{
 		"bookshelf": 1152,
 		"No": 152,
-		"title": "Ben, Steve & Steve Jobs Konusuyor",
+		"title": "Ben, Steve - Steve Jobs Konusuyor",
 		"publisher": "Oglak Yayinlari",
 		"author": "George Beahm",
 		"lang": "Turkce",
@@ -1869,7 +1885,8 @@
 		"page": 226,
 		"year": "2012",
 		"notes": "E-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1157,
@@ -1886,7 +1903,7 @@
 	{
 		"bookshelf": 1158,
 		"No": 158,
-		"title": "Besinci Anlasma & Bir Toltek Bilgelik Kitabi",
+		"title": "Besinci Anlasma - Bir Toltek Bilgelik Kitabi",
 		"publisher": "Otesi Yayincilik",
 		"author": "Don Miguel Ruiz, Janet Mills, Don Jose Ruiz",
 		"lang": "Turkce",
@@ -1905,12 +1922,13 @@
 		"page": 436,
 		"year": "2011",
 		"notes": "B-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1160,
 		"No": 160,
-		"title": "Beyaz Yakali Girisimci & Girisimci Hayata Yumusak Gecis",
+		"title": "Beyaz Yakali Girisimci - Girisimci Hayata Yumusak Gecis",
 		"publisher": "Optimist Kitap",
 		"author": "Fatmanur Erdogan",
 		"lang": "Turkce",
@@ -1934,7 +1952,7 @@
 	{
 		"bookshelf": 1162,
 		"No": 162,
-		"title": "Beyin & Senin Hikayen",
+		"title": "Beyin - Senin Hikayen",
 		"publisher": "Domingo Yayinevi",
 		"author": "David Eagleman",
 		"lang": "Turkce",
@@ -1958,7 +1976,7 @@
 	{
 		"bookshelf": 1164,
 		"No": 164,
-		"title": "Beyindeki Fil: Gundelik Hayattaki Gizli Guduler",
+		"title": "Beyindeki Fil - Gundelik Hayattaki Gizli Guduler",
 		"publisher": "Nova Kitap",
 		"author": "Kevin Simler, Robin Hanson",
 		"lang": "Turkce",
@@ -2030,14 +2048,15 @@
 	{
 		"bookshelf": 1170,
 		"No": 170,
-		"title": "Big Data @ Work & Efsaneye Son Vermek, Firsatlari Kesfetmek",
+		"title": "Big Data @ Work - Efsaneye Son Vermek, Firsatlari Kesfetmek",
 		"publisher": "Optimist Kitap",
 		"author": "Thomas H. Davenport",
 		"lang": "Turkce",
 		"page": 235,
 		"year": "2016",
 		"notes": "D-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1171,
@@ -2066,7 +2085,7 @@
 	{
 		"bookshelf": 1173,
 		"No": 173,
-		"title": "Bilime Sevdalanmak & Akilda Kalan Nesneler",
+		"title": "Bilime Sevdalanmak - Akilda Kalan Nesneler",
 		"publisher": "Bogazici Universitesi Yayinevi",
 		"author": "Sherry Turkle",
 		"lang": "Turkce",
@@ -2102,7 +2121,7 @@
 	{
 		"bookshelf": 1176,
 		"No": 176,
-		"title": "Bilincaltindaki Reklamlar & Reklamlar Bizi Nasil Etkiler?",
+		"title": "Bilincaltindaki Reklamlar - Reklamlar Bizi Nasil Etkiler?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Robert Heath",
 		"lang": "Turkce",
@@ -2114,7 +2133,7 @@
 	{
 		"bookshelf": 1177,
 		"No": 177,
-		"title": "Bilincaltini Ayartmak & Reklam Psikolojisi",
+		"title": "Bilincaltini Ayartmak - Reklam Psikolojisi",
 		"publisher": "The Kitap",
 		"author": "Robert Heath",
 		"lang": "Turkce",
@@ -2126,7 +2145,7 @@
 	{
 		"bookshelf": 1178,
 		"No": 178,
-		"title": "Bilincaltinin Gucu & Zihinsel ve Bedensel Iyilesme",
+		"title": "Bilincaltinin Gucu - Zihinsel ve Bedensel Iyilesme",
 		"publisher": "Diyojen Yayincilik",
 		"author": "Joseph Murphy",
 		"lang": "Turkce",
@@ -2258,7 +2277,7 @@
 	{
 		"bookshelf": 1189,
 		"No": 189,
-		"title": "Bir Kustan Oburune & Hayat ve Yazmak Uzerine Tavsiyeler",
+		"title": "Bir Kustan Oburune - Hayat ve Yazmak Uzerine Tavsiyeler",
 		"publisher": "Hep Kitap",
 		"author": "Anne Lamott",
 		"lang": "Turkce",
@@ -2282,7 +2301,7 @@
 	{
 		"bookshelf": 1191,
 		"No": 191,
-		"title": "Bir Sanatci Gibi Araklayin & Yaratici Olmak Hakkinda Kimsenin Size Soylemedigi 10 Sey",
+		"title": "Bir Sanatci Gibi Araklayin - Yaratici Olmak Hakkinda Kimsenin Size Soylemedigi 10 Sey",
 		"publisher": "Butik Yayincilik",
 		"author": "Austin Kleon",
 		"lang": "Turkce",
@@ -2306,7 +2325,7 @@
 	{
 		"bookshelf": 1193,
 		"No": 193,
-		"title": "Bir Vegan ile Evlendim & Maalesef Gercek Bir Hikaye",
+		"title": "Bir Vegan ile Evlendim - Maalesef Gercek Bir Hikaye",
 		"publisher": "Pan Yayincilik",
 		"author": "Fausto  Brizzi",
 		"lang": "Turkce",
@@ -2342,7 +2361,7 @@
 	{
 		"bookshelf": 1196,
 		"No": 196,
-		"title": "Bir Zihin Yaratmak & Insan Dusuncesinin Esrari",
+		"title": "Bir Zihin Yaratmak - Insan Dusuncesinin Esrari",
 		"publisher": "Istanbul Bilgi Universitesi",
 		"author": "Ray Kurzweil",
 		"lang": "Turkce",
@@ -2366,7 +2385,7 @@
 	{
 		"bookshelf": 1198,
 		"No": 198,
-		"title": "Birak Daginik Kalsin & Kaza ve Hatalar Kilavuzu",
+		"title": "Birak Daginik Kalsin - Kaza ve Hatalar Kilavuzu",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Keri Smith",
 		"lang": "Turkce",
@@ -2390,7 +2409,7 @@
 	{
 		"bookshelf": 1200,
 		"No": 200,
-		"title": "Biskuviyi Caya Yatay Bandirin & Gundelik Hayata Dair 104 Garip Bilimsel Gercek",
+		"title": "Biskuviyi Caya Yatay Bandirin - Gundelik Hayata Dair 104 Garip Bilimsel Gercek",
 		"publisher": "Ntv Yayinlari",
 		"author": "Rik Kuiper, Tonie Mudde",
 		"lang": "Turkce",
@@ -2498,7 +2517,7 @@
 	{
 		"bookshelf": 1209,
 		"No": 209,
-		"title": "Biz ve Onlar & Hayvanlarla Bagimizi Anlamak",
+		"title": "Biz ve Onlar - Hayvanlarla Bagimizi Anlamak",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Leslie Irvine",
 		"lang": "Turkce",
@@ -2510,26 +2529,28 @@
 	{
 		"bookshelf": 1210,
 		"No": 210,
-		"title": "Blink & Dusunmeden Dusunebilmenin Gucu",
+		"title": "Blink - Dusunmeden Dusunebilmenin Gucu",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Malcolm Gladwell",
 		"lang": "Turkce",
 		"page": 284,
 		"year": "2014",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1211,
 		"No": 211,
-		"title": "Bolluk & Gelecek Cok Daha Guzel Olacak",
+		"title": "Bolluk - Gelecek Cok Daha Guzel Olacak",
 		"publisher": "Optimist Kitap",
 		"author": "Peter H. Diamandis",
 		"lang": "Turkce",
 		"page": 397,
 		"year": "2013",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1212,
@@ -2541,7 +2562,8 @@
 		"page": 280,
 		"year": "2018",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1213,
@@ -2553,7 +2575,8 @@
 		"page": 120,
 		"year": "2022",
 		"notes": "B-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1214,
@@ -2582,7 +2605,7 @@
 	{
 		"bookshelf": 1216,
 		"No": 216,
-		"title": "Bos Sayfa & Insan Dogasinin Modern Inkar",
+		"title": "Bos Sayfa - Insan Dogasinin Modern Inkar",
 		"publisher": "Bogazici Universitesi Yayinevi",
 		"author": "Steven Pinker",
 		"lang": "Turkce",
@@ -2613,7 +2636,8 @@
 		"page": 212,
 		"year": "2021",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1219,
@@ -2630,7 +2654,7 @@
 	{
 		"bookshelf": 1220,
 		"No": 220,
-		"title": "Brain Up & Beyninizi Yeniden Yapilandirin",
+		"title": "Brain Up - Beyninizi Yeniden Yapilandirin",
 		"publisher": "Okuyan Us Yayincilik",
 		"author": "John B. Arden",
 		"lang": "Turkce",
@@ -2661,7 +2685,8 @@
 		"page": 318,
 		"year": "2012",
 		"notes": "D-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1223,
@@ -2738,7 +2763,7 @@
 	{
 		"bookshelf": 1229,
 		"No": 229,
-		"title": "Bumerang & Yeni Ucuncu Dunyaya Yolculuk",
+		"title": "Bumerang - Yeni Ucuncu Dunyaya Yolculuk",
 		"publisher": "Scala Yayincilik",
 		"author": "Michael Lewis",
 		"lang": "Turkce",
@@ -2750,7 +2775,7 @@
 	{
 		"bookshelf": 1230,
 		"No": 230,
-		"title": "Bunlar Daha Iyi Gunlerimiz & Kapitalizm Sonrasinda Hayatta Kalmak Icin Bir Rehber",
+		"title": "Bunlar Daha Iyi Gunlerimiz - Kapitalizm Sonrasinda Hayatta Kalmak Icin Bir Rehber",
 		"publisher": "Runik Kitap",
 		"author": "Peter Fleming",
 		"lang": "Turkce",
@@ -2781,7 +2806,8 @@
 		"page": 72,
 		"year": "2020",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1233,
@@ -2793,12 +2819,13 @@
 		"page": 230,
 		"year": "2011",
 		"notes": "D-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1234,
 		"No": 234,
-		"title": "Buyuk Acik & Kiyamet Carkinin Icinde",
+		"title": "Buyuk Acik - Kiyamet Carkinin Icinde",
 		"publisher": "Scala Yayincilik",
 		"author": "Michael Lewis",
 		"lang": "Turkce",
@@ -2822,7 +2849,7 @@
 	{
 		"bookshelf": 1236,
 		"No": 236,
-		"title": "Buyuk Gerileme & Zamanimizin Ruhu Uzerine Uluslararasi Bir Tartisma",
+		"title": "Buyuk Gerileme - Zamanimizin Ruhu Uzerine Uluslararasi Bir Tartisma",
 		"publisher": "Metis Yayinlari",
 		"author": "Heinrich Geiselberger",
 		"lang": "Turkce",
@@ -2877,12 +2904,13 @@
 		"page": 368,
 		"year": "2017",
 		"notes": "E-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1241,
 		"No": 241,
-		"title": "Buyuk Veri & Yasama, Calisma ve Dusunme Seklimizi Donusturecek Bir Devrim",
+		"title": "Buyuk Veri - Yasama, Calisma ve Dusunme Seklimizi Donusturecek Bir Devrim",
 		"publisher": "Paloma Yayinlari",
 		"author": "Viktor Mayer Schonberger, Kenneth Cukier",
 		"lang": "Turkce",
@@ -2961,7 +2989,8 @@
 		"page": 200,
 		"year": "2017",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1248,
@@ -2997,7 +3026,8 @@
 		"page": 216,
 		"year": "2018",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1251,
@@ -3014,7 +3044,7 @@
 	{
 		"bookshelf": 1252,
 		"No": 252,
-		"title": "Calis(ma)mak: Daha Ciddi Bir Mesai",
+		"title": "Calis(ma)mak - Daha Ciddi Bir Mesai",
 		"publisher": "Sel Yayincilik",
 		"author": "Josh  Cohen",
 		"lang": "Turkce",
@@ -3033,7 +3063,8 @@
 		"page": 344,
 		"year": "2021",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1254,
@@ -3062,14 +3093,15 @@
 	{
 		"bookshelf": 1256,
 		"No": 256,
-		"title": "Calismanin Mitolojisi & Kapitalizm Kendine Ragmen Nasil Ayakta Kaliyor?",
+		"title": "Calismanin Mitolojisi - Kapitalizm Kendine Ragmen Nasil Ayakta Kaliyor?",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Peter Fleming",
 		"lang": "Turkce",
 		"page": 263,
 		"year": "2017",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1257,
@@ -3081,7 +3113,8 @@
 		"page": 329,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1258,
@@ -3110,7 +3143,7 @@
 	{
 		"bookshelf": 1260,
 		"No": 260,
-		"title": "Canli Devre & Durmaksizin Degisen Beynin Icyuzu",
+		"title": "Canli Devre - Durmaksizin Degisen Beynin Icyuzu",
 		"publisher": "Domingo Yayinevi",
 		"author": "David Eagleman",
 		"lang": "Turkce",
@@ -3249,12 +3282,13 @@
 		"page": 283,
 		"year": "2003",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1272,
 		"No": 272,
-		"title": "Checklist Manifesto & Isler Nasil Dogru Yapilir",
+		"title": "Checklist Manifesto - Isler Nasil Dogru Yapilir",
 		"publisher": "Domingo Yayinevi",
 		"author": "Atul Gawande",
 		"lang": "Turkce",
@@ -3273,7 +3307,8 @@
 		"page": 596,
 		"year": "2010",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1274,
@@ -3285,12 +3320,13 @@
 		"page": 144,
 		"year": "2013",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1275,
 		"No": 275,
-		"title": "Cinsiyet, Toplumsal Cinsiyet ve Cinsellikler & Feminist Teoriye Giris",
+		"title": "Cinsiyet, Toplumsal Cinsiyet ve Cinsellikler - Feminist Teoriye Giris",
 		"publisher": "Fol Kitap",
 		"author": "Elsa Dorlin",
 		"lang": "Turkce",
@@ -3338,7 +3374,7 @@
 	{
 		"bookshelf": 1279,
 		"No": 279,
-		"title": "Cizgilerle Uzunkuyruk & Neden Ticaretin Gelecegi Daha Fazla Urunden Daha Az Satmak Olacaktir?",
+		"title": "Cizgilerle Uzunkuyruk - Neden Ticaretin Gelecegi Daha Fazla Urunden Daha Az Satmak Olacaktir?",
 		"publisher": "Akilcelen Kitaplar",
 		"author": "Chris Anderson",
 		"lang": "Turkce",
@@ -3386,7 +3422,7 @@
 	{
 		"bookshelf": 1283,
 		"No": 283,
-		"title": "Cogu Insan Iyidir & Yeni Bir Insanlik Tarihi",
+		"title": "Cogu Insan Iyidir - Yeni Bir Insanlik Tarihi",
 		"publisher": "Mundi",
 		"author": "Rutger  Bregman",
 		"lang": "Turkce",
@@ -3405,12 +3441,13 @@
 		"page": 352,
 		"year": "2020",
 		"notes": "B-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1285,
 		"No": 285,
-		"title": "Coklu Zeka & Yeni Ufuklar",
+		"title": "Coklu Zeka - Yeni Ufuklar",
 		"publisher": "Optimist Kitap",
 		"author": "Howard Gardner",
 		"lang": "Turkce",
@@ -3422,7 +3459,7 @@
 	{
 		"bookshelf": 1286,
 		"No": 286,
-		"title": "Cokus & Toplumlar Basarisizligi ya da Basariyi Nasil Secerler?",
+		"title": "Cokus - Toplumlar Basarisizligi ya da Basariyi Nasil Secerler?",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Jared Diamond",
 		"lang": "Turkce",
@@ -3446,14 +3483,15 @@
 	{
 		"bookshelf": 1288,
 		"No": 288,
-		"title": "Contagious & Bir Urunu veya Fikri Populer Yapan Nedir?",
+		"title": "Contagious - Bir Urunu veya Fikri Populer Yapan Nedir?",
 		"publisher": "Optimist Kitap",
 		"author": "Jonah Berger",
 		"lang": "Turkce",
 		"page": 224,
 		"year": "2014",
 		"notes": "D-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1289,
@@ -3482,14 +3520,15 @@
 	{
 		"bookshelf": 1291,
 		"No": 291,
-		"title": "Crowdsourcing & Kalabaliklarin Gucu Bir Isin Gelecegine Nasil Sekil Verebilir?",
+		"title": "Crowdsourcing - Kalabaliklarin Gucu Bir Isin Gelecegine Nasil Sekil Verebilir?",
 		"publisher": "Optimist Kitap",
 		"author": "Jeff Howe",
 		"lang": "Turkce",
 		"page": 248,
 		"year": "2010",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1292,
@@ -3506,7 +3545,7 @@
 	{
 		"bookshelf": 1293,
 		"No": 293,
-		"title": "Daha Once Kimseden Duymadiginiz 6 Kariyer Sirri & Johnny Bunko'nun Maceralari",
+		"title": "Daha Once Kimseden Duymadiginiz 6 Kariyer Sirri - Johnny Bunko'nun Maceralari",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Daniel H. Pink",
 		"lang": "Turkce",
@@ -3530,7 +3569,7 @@
 	{
 		"bookshelf": 1295,
 		"No": 295,
-		"title": "Dakikalar Icinde Psikoloji & Aninda Aciklanan 200 Temel Kavram",
+		"title": "Dakikalar Icinde Psikoloji - Aninda Aciklanan 200 Temel Kavram",
 		"publisher": "Kronik Kitap",
 		"author": "Marcus Weeks",
 		"lang": "Turkce",
@@ -3578,7 +3617,7 @@
 	{
 		"bookshelf": 1299,
 		"No": 299,
-		"title": "Dark Net & Internetin Yeralti Dunyasi",
+		"title": "Dark Net - Internetin Yeralti Dunyasi",
 		"publisher": "Timas Yayinlari",
 		"author": "Jamie Bartlett",
 		"lang": "Turkce",
@@ -3590,7 +3629,7 @@
 	{
 		"bookshelf": 1300,
 		"No": 300,
-		"title": "Darwin Ekonomisi & Ozgurluk, Rekabet ve Kamu Yarari",
+		"title": "Darwin Ekonomisi - Ozgurluk, Rekabet ve Kamu Yarari",
 		"publisher": "Efil Yayinevi",
 		"author": "Robert H. Frank",
 		"lang": "Turkce",
@@ -3602,7 +3641,7 @@
 	{
 		"bookshelf": 1301,
 		"No": 301,
-		"title": "Darwin Hack'leniyor: Genetik Muhendislik ve Insanligin Gelecegi",
+		"title": "Darwin Hack'leniyor - Genetik Muhendislik ve Insanligin Gelecegi",
 		"publisher": "Tellekt",
 		"author": "Jamie Metzl",
 		"lang": "Turkce",
@@ -3626,7 +3665,7 @@
 	{
 		"bookshelf": 1303,
 		"No": 303,
-		"title": "Davranis: En Iyi ve En Kotu Haliyle Insan Biyolojisi",
+		"title": "Davranis - En Iyi ve En Kotu Haliyle Insan Biyolojisi",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Robert M. Sapolsky",
 		"lang": "Turkce",
@@ -3645,7 +3684,8 @@
 		"page": 276,
 		"year": "2014",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1305,
@@ -3662,7 +3702,7 @@
 	{
 		"bookshelf": 1306,
 		"No": 306,
-		"title": "Degisen Tuketici Kim? & Nicin Satin Aliyor? Ne Satin Aliyor?",
+		"title": "Degisen Tuketici Kim? - Nicin Satin Aliyor? Ne Satin Aliyor?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Rob Walker",
 		"lang": "Turkce",
@@ -3674,7 +3714,7 @@
 	{
 		"bookshelf": 1307,
 		"No": 307,
-		"title": "Degisim Kitabi & Dunyanin Nasil Sekillendigini Aciklamak Icin Elli Model",
+		"title": "Degisim Kitabi - Dunyanin Nasil Sekillendigini Aciklamak Icin Elli Model",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Mikael Krogerus, Roman Tschappeler",
 		"lang": "Turkce",
@@ -3777,7 +3817,8 @@
 		"page": 372,
 		"year": "2012",
 		"notes": "D-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1316,
@@ -3794,7 +3835,7 @@
 	{
 		"bookshelf": 1317,
 		"No": 317,
-		"title": "Derin Dusunce & Yapay Zekanin Yetmeyip Insan Yaraticiliginin Basladigi Yer",
+		"title": "Derin Dusunce - Yapay Zekanin Yetmeyip Insan Yaraticiliginin Basladigi Yer",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Garry Kasparov",
 		"lang": "Turkce",
@@ -3818,7 +3859,7 @@
 	{
 		"bookshelf": 1319,
 		"No": 319,
-		"title": "Devlet Insasi & Yirmi Birinci Yuzyilda Yonetisim ve Dunya Duzeni",
+		"title": "Devlet Insasi - Yirmi Birinci Yuzyilda Yonetisim ve Dunya Duzeni",
 		"publisher": "Profil Kitap",
 		"author": "Francis Fukuyama",
 		"lang": "Turkce",
@@ -3849,7 +3890,8 @@
 		"page": 160,
 		"year": "2013",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1322,
@@ -3890,7 +3932,7 @@
 	{
 		"bookshelf": 1325,
 		"No": 325,
-		"title": "Dijital Reklamin Gizli Dunyasi & Icerik Pazarlamasi ve Dogal Gorunen Reklamlar",
+		"title": "Dijital Reklamin Gizli Dunyasi - Icerik Pazarlamasi ve Dogal Gorunen Reklamlar",
 		"publisher": "The Kitap",
 		"author": "Mara Einstein",
 		"lang": "Turkce",
@@ -3914,14 +3956,15 @@
 	{
 		"bookshelf": 1327,
 		"No": 327,
-		"title": "Dikkat Ekonomisi & Is Dunyasinin Yeni Degerini Anlamak",
+		"title": "Dikkat Ekonomisi - Is Dunyasinin Yeni Degerini Anlamak",
 		"publisher": "Optimist Kitap",
 		"author": "Thomas H. Davenport,John C. Beck",
 		"lang": "Turkce",
 		"page": 240,
 		"year": "2010",
 		"notes": "D-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1328,
@@ -3933,7 +3976,8 @@
 		"page": 448,
 		"year": "2017",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1329,
@@ -3974,14 +4018,15 @@
 	{
 		"bookshelf": 1332,
 		"No": 332,
-		"title": "Dip & Vazgecmeyi ve Vazgecmemeyi Ogreten Kucuk Bir Kitap",
+		"title": "Dip - Vazgecmeyi ve Vazgecmemeyi Ogreten Kucuk Bir Kitap",
 		"publisher": "Profil Kitap",
 		"author": "Seth Godin",
 		"lang": "Turkce",
 		"page": 80,
 		"year": "2018",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1333,
@@ -3993,7 +4038,8 @@
 		"page": 128,
 		"year": "2020",
 		"notes": "A-1",
-		"status": "Read"
+		"status": "Read",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1334,
@@ -4010,7 +4056,7 @@
 	{
 		"bookshelf": 1335,
 		"No": 335,
-		"title": "Doga Kitabi & Bitkiler, Hayvanlar ve Gezegenimiz",
+		"title": "Doga Kitabi - Bitkiler, Hayvanlar ve Gezegenimiz",
 		"publisher": "Maya Kitap",
 		"author": "Marianne Taylor",
 		"lang": "Turkce",
@@ -4022,7 +4068,7 @@
 	{
 		"bookshelf": 1336,
 		"No": 336,
-		"title": "Dogal Iktisat & Neden Iktisat Neredeyse Herseyi Aciklar",
+		"title": "Dogal Iktisat - Neden Iktisat Neredeyse Herseyi Aciklar",
 		"publisher": "Efil Yayinevi",
 		"author": "Robert H. Frank",
 		"lang": "Turkce",
@@ -4094,7 +4140,7 @@
 	{
 		"bookshelf": 1342,
 		"No": 342,
-		"title": "Dogustan Yalanci & Neden Yalan Soylemeden Yasayamiyoruz?",
+		"title": "Dogustan Yalanci - Neden Yalan Soylemeden Yasayamiyoruz?",
 		"publisher": "Ntv Yayinlari",
 		"author": "Ian Leslie",
 		"lang": "Turkce",
@@ -4118,7 +4164,7 @@
 	{
 		"bookshelf": 1344,
 		"No": 344,
-		"title": "Dolce Vegan: Kolay, Geleneksel ve Saglikli Vegan Tatlilar",
+		"title": "Dolce Vegan - Kolay, Geleneksel ve Saglikli Vegan Tatlilar",
 		"publisher": "Kolektif Kitap",
 		"author": "Virginia Elena Patrone",
 		"lang": "Turkce",
@@ -4130,7 +4176,7 @@
 	{
 		"bookshelf": 1345,
 		"No": 345,
-		"title": "Donusum Zamani & Ruhunuzun Amacini Kesfedin",
+		"title": "Donusum Zamani - Ruhunuzun Amacini Kesfedin",
 		"publisher": "Maya Kitap",
 		"author": "Diana Cooper",
 		"lang": "Turkce",
@@ -4149,7 +4195,8 @@
 		"page": 196,
 		"year": "2016",
 		"notes": "B-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1347,
@@ -4166,14 +4213,15 @@
 	{
 		"bookshelf": 1348,
 		"No": 348,
-		"title": "Dort Anlasma: Toltek Bilgelik Kitabi",
+		"title": "Dort Anlasma - Toltek Bilgelik Kitabi",
 		"publisher": "Otesi Yayincilik",
 		"author": "Don Miguel Ruiz",
 		"lang": "Turkce",
 		"page": 122,
 		"year": "2018",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1349,
@@ -4202,26 +4250,28 @@
 	{
 		"bookshelf": 1351,
 		"No": 351,
-		"title": "Dort Gelecek: Kapitalizmden Sonra Hayat",
+		"title": "Dort Gelecek - Kapitalizmden Sonra Hayat",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Peter Frase",
 		"lang": "Turkce",
 		"page": 123,
 		"year": "2017",
 		"notes": "C-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1352,
 		"No": 352,
-		"title": "Drive & Nasil Motive Oluruz? Nasil Motive Ederiz?",
+		"title": "Drive - Nasil Motive Oluruz? Nasil Motive Ederiz?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Daniel H. Pink",
 		"lang": "Turkce",
 		"page": 256,
 		"year": "2017",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1353,
@@ -4262,7 +4312,7 @@
 	{
 		"bookshelf": 1356,
 		"No": 356,
-		"title": "Dunya Duzeni: Eskisi Yenisi",
+		"title": "Dunya Duzeni - Eskisi Yenisi",
 		"publisher": "Metis Yayinlari",
 		"author": "Noam Chomsky",
 		"lang": "Turkce",
@@ -4329,7 +4379,8 @@
 		"page": 152,
 		"year": "2013",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1362,
@@ -4430,7 +4481,7 @@
 	{
 		"bookshelf": 1370,
 		"No": 370,
-		"title": "Durtu & Sebebini Bilmeden Yaptiklarimizin Arkasindaki Neden",
+		"title": "Durtu - Sebebini Bilmeden Yaptiklarimizin Arkasindaki Neden",
 		"publisher": "Paloma Yayinlari",
 		"author": "David Lewis",
 		"lang": "Turkce",
@@ -4449,12 +4500,13 @@
 		"page": 253,
 		"year": "2013",
 		"notes": "B-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1372,
 		"No": 372,
-		"title": "Durustluk Cagi & Dijital Dunyada Iletisim ve Itibar Yonetimi",
+		"title": "Durustluk Cagi - Dijital Dunyada Iletisim ve Itibar Yonetimi",
 		"publisher": "The Kitap",
 		"author": "Gini Dietrich",
 		"lang": "Turkce",
@@ -4538,7 +4590,7 @@
 	{
 		"bookshelf": 1379,
 		"No": 379,
-		"title": "Dusuncenin Gucu & Insan Ne Dusunuyorsa Odur",
+		"title": "Dusuncenin Gucu - Insan Ne Dusunuyorsa Odur",
 		"publisher": "Koridor Yayincilik",
 		"author": "James Allen",
 		"lang": "Turkce",
@@ -4598,7 +4650,7 @@
 	{
 		"bookshelf": 1384,
 		"No": 384,
-		"title": "Duyarli & Gurultulu, Hizli ve Surekli Ustumuze Gelen Dunyada Asiri Hassas Olmanin Sakli Gucu",
+		"title": "Duyarli - Gurultulu, Hizli ve Surekli Ustumuze Gelen Dunyada Asiri Hassas Olmanin Sakli Gucu",
 		"publisher": "Timas Yayinlari",
 		"author": "Jenn Granneman, Andre Sólo",
 		"lang": "Turkce",
@@ -4641,7 +4693,8 @@
 		"page": 376,
 		"year": "2020",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1388,
@@ -4670,7 +4723,7 @@
 	{
 		"bookshelf": 1390,
 		"No": 390,
-		"title": "Duygusal Devlet & Devletler Icin Mutluluk Yonetimi",
+		"title": "Duygusal Devlet - Devletler Icin Mutluluk Yonetimi",
 		"publisher": "Dogu Kitabevi",
 		"author": "Zeki Turgut Gezgez",
 		"lang": "Turkce",
@@ -4682,7 +4735,7 @@
 	{
 		"bookshelf": 1391,
 		"No": 391,
-		"title": "Duygusal Miras & Bir Terapist, Danisanlari ve Kalitsal Aile Travmalari",
+		"title": "Duygusal Miras - Bir Terapist, Danisanlari ve Kalitsal Aile Travmalari",
 		"publisher": "Okuyan Us Yayincilik",
 		"author": "Galit Atlas",
 		"lang": "Turkce",
@@ -4742,14 +4795,15 @@
 	{
 		"bookshelf": 1396,
 		"No": 396,
-		"title": "E-Sosyal Toplum & Dijital Cagda Sosyal Medyanin Is ve Gundelik Hayata Etkisi",
+		"title": "E-Sosyal Toplum - Dijital Cagda Sosyal Medyanin Is ve Gundelik Hayata Etkisi",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Jeff Jarvis",
 		"lang": "Turkce",
 		"page": 304,
 		"year": "2012",
 		"notes": "E-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1397,
@@ -4773,12 +4827,13 @@
 		"page": 144,
 		"year": "2022",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1399,
 		"No": 399,
-		"title": "Editor Ne Is Yapar? & Sanat, Zanaat ve Ticaret Ucgeninde Kitap Editorlugu",
+		"title": "Editor Ne Is Yapar? - Sanat, Zanaat ve Ticaret Ucgeninde Kitap Editorlugu",
 		"publisher": "Delidolu",
 		"author": "Peter Ginna",
 		"lang": "Turkce",
@@ -4790,7 +4845,7 @@
 	{
 		"bookshelf": 1400,
 		"No": 400,
-		"title": "Efsaneler ve Gercekler & Pazarlama Nasil Yapilir?",
+		"title": "Efsaneler ve Gercekler - Pazarlama Nasil Yapilir?",
 		"publisher": "Ceo Plus",
 		"author": "Temel Aksoy",
 		"lang": "Turkce",
@@ -4814,7 +4869,7 @@
 	{
 		"bookshelf": 1402,
 		"No": 402,
-		"title": "Egitim: Bir Kitle Imha Silahi",
+		"title": "Egitim - Bir Kitle Imha Silahi",
 		"publisher": "EDAM",
 		"author": "John Taylor Gatto",
 		"lang": "Turkce",
@@ -4946,7 +5001,7 @@
 	{
 		"bookshelf": 1413,
 		"No": 413,
-		"title": "Elon Musk & Tesla, Spacex ve Muhtesem Gelecegin Pesinde",
+		"title": "Elon Musk - Tesla, Spacex ve Muhtesem Gelecegin Pesinde",
 		"publisher": "Buzdagi Yayinlari",
 		"author": "Ashlee Vance",
 		"lang": "Turkce",
@@ -4982,7 +5037,7 @@
 	{
 		"bookshelf": 1416,
 		"No": 416,
-		"title": "Enfokrasi & Dijitallesme ve Demokrasinin Krizi",
+		"title": "Enfokrasi - Dijitallesme ve Demokrasinin Krizi",
 		"publisher": "Ketebe Yayinevi",
 		"author": "Byung-Chul Han",
 		"lang": "Turkce",
@@ -5054,7 +5109,7 @@
 	{
 		"bookshelf": 1422,
 		"No": 422,
-		"title": "Entelektuel: Surgun Marjinal Yabanci",
+		"title": "Entelektuel - Surgun Marjinal Yabanci",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Edward W. Said",
 		"lang": "Turkce",
@@ -5090,7 +5145,7 @@
 	{
 		"bookshelf": 1425,
 		"No": 425,
-		"title": "Entropi & Dunyaya Yeni Bir Bakis",
+		"title": "Entropi - Dunyaya Yeni Bir Bakis",
 		"publisher": "Iz Yayincilik",
 		"author": "Jeremy Rifkin, Ted Howard",
 		"lang": "Turkce",
@@ -5150,7 +5205,7 @@
 	{
 		"bookshelf": 1430,
 		"No": 430,
-		"title": "Erteleme & Nedenleri ve Cozumleri",
+		"title": "Erteleme - Nedenleri ve Cozumleri",
 		"publisher": "Eksik Parca Yayinlari",
 		"author": "Nihan Kaya",
 		"lang": "Turkce",
@@ -5162,7 +5217,7 @@
 	{
 		"bookshelf": 1431,
 		"No": 431,
-		"title": "Erteleme Sanati & Oyalanma, Savsaklama ve Kaytarma Rehberi",
+		"title": "Erteleme Sanati - Oyalanma, Savsaklama ve Kaytarma Rehberi",
 		"publisher": "Sel Yayincilik",
 		"author": "John Perry",
 		"lang": "Turkce",
@@ -5174,7 +5229,7 @@
 	{
 		"bookshelf": 1432,
 		"No": 432,
-		"title": "Esitsizligin Bedeli & Bugunun Bolunmus Toplumu Gelecegimizi Nasil Tehlikeye Atiyor ?",
+		"title": "Esitsizligin Bedeli - Bugunun Bolunmus Toplumu Gelecegimizi Nasil Tehlikeye Atiyor ?",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Joseph E. Stiglitz",
 		"lang": "Turkce",
@@ -5205,7 +5260,8 @@
 		"page": 312,
 		"year": "2023",
 		"notes": "A-1",
-		"status": "Read"
+		"status": "Read",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1435,
@@ -5222,14 +5278,15 @@
 	{
 		"bookshelf": 1436,
 		"No": 436,
-		"title": "Etin Cinsel Politikasi & Feminist - Vejeteryan Elestirel Kuram",
+		"title": "Etin Cinsel Politikasi - Feminist - Vejeteryan Elestirel Kuram",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Carol J. Adams",
 		"lang": "Turkce",
 		"page": 400,
 		"year": "2017",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1437,
@@ -5265,7 +5322,8 @@
 		"page": 512,
 		"year": "2009",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1440,
@@ -5294,7 +5352,7 @@
 	{
 		"bookshelf": 1442,
 		"No": 442,
-		"title": "Evrensel Yasalar & Hayatinizi Aydinlatin",
+		"title": "Evrensel Yasalar - Hayatinizi Aydinlatin",
 		"publisher": "Maya Kitap",
 		"author": "Diana Cooper",
 		"lang": "Turkce",
@@ -5337,7 +5395,8 @@
 		"page": 272,
 		"year": "2021",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1446,
@@ -5354,7 +5413,7 @@
 	{
 		"bookshelf": 1447,
 		"No": 447,
-		"title": "Felsefe Muhabbetleri & 25 Ilginc Konu Uzerine 25 Filozofla",
+		"title": "Felsefe Muhabbetleri - 25 Ilginc Konu Uzerine 25 Filozofla",
 		"publisher": "Maya Kitap",
 		"author": "Nigel Warburton, David Edmonds",
 		"lang": "Turkce",
@@ -5366,7 +5425,7 @@
 	{
 		"bookshelf": 1448,
 		"No": 448,
-		"title": "Felsefe Muhabbetlerine Devam & Gecmisin Buyuk Dusunurleri Uzerine 27 Filozofla",
+		"title": "Felsefe Muhabbetlerine Devam - Gecmisin Buyuk Dusunurleri Uzerine 27 Filozofla",
 		"publisher": "Maya Kitap",
 		"author": "Nigel Warburton, David Edmonds",
 		"lang": "Turkce",
@@ -5402,7 +5461,7 @@
 	{
 		"bookshelf": 1451,
 		"No": 451,
-		"title": "Felsefe ve Orgut Teorisi & Orgut Sosyolojilerinde Arastirmalar",
+		"title": "Felsefe ve Orgut Teorisi - Orgut Sosyolojilerinde Arastirmalar",
 		"publisher": "Nobel Yayin Dagitim",
 		"author": "Haridimos Tsoukas, Robert Chia",
 		"lang": "Turkce",
@@ -5438,7 +5497,7 @@
 	{
 		"bookshelf": 1454,
 		"No": 454,
-		"title": "Feminist Dusunce: Kapsamli Bir Giris",
+		"title": "Feminist Dusunce - Kapsamli Bir Giris",
 		"publisher": "Sel Yayincilik",
 		"author": "Rosemarie Tong, Tina Fernandes Botts",
 		"lang": "Turkce",
@@ -5522,7 +5581,7 @@
 	{
 		"bookshelf": 1461,
 		"No": 461,
-		"title": "Fikrin Sahane: Gercekten Istersen Yapabilirsin",
+		"title": "Fikrin Sahane - Gercekten Istersen Yapabilirsin",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Mr. Wonderful",
 		"lang": "Turkce",
@@ -5606,7 +5665,7 @@
 	{
 		"bookshelf": 1468,
 		"No": 468,
-		"title": "Foya & Modanin Anti-Kapitalist Kitabi",
+		"title": "Foya - Modanin Anti-Kapitalist Kitabi",
 		"publisher": "Utopya Yayinevi",
 		"author": "Tansy E. Hoskins",
 		"lang": "Turkce",
@@ -5666,7 +5725,7 @@
 	{
 		"bookshelf": 1473,
 		"No": 473,
-		"title": "Freud'u Okumak & Freud'un Eserlerinin Kronolojik Olarak Kesfi",
+		"title": "Freud'u Okumak - Freud'un Eserlerinin Kronolojik Olarak Kesfi",
 		"publisher": "Baglam Yayincilik",
 		"author": "Jean-Michel Quinodoz",
 		"lang": "Turkce",
@@ -5738,7 +5797,7 @@
 	{
 		"bookshelf": 1479,
 		"No": 479,
-		"title": "Gelecegi Kesfedenler & Dijital Cagin Biyografisi",
+		"title": "Gelecegi Kesfedenler - Dijital Cagin Biyografisi",
 		"publisher": "Domingo Yayinevi",
 		"author": "Walter Isaacson",
 		"lang": "Turkce",
@@ -5793,7 +5852,8 @@
 		"page": 286,
 		"year": "2017",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1484,
@@ -5805,12 +5865,13 @@
 		"page": 454,
 		"year": "2014",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1485,
 		"No": 485,
-		"title": "Gelecegin Suclari & Dijital Dunyanin Karanlik Yuzu",
+		"title": "Gelecegin Suclari - Dijital Dunyanin Karanlik Yuzu",
 		"publisher": "Timas Yayinlari",
 		"author": "Marc Goodman",
 		"lang": "Turkce",
@@ -5834,14 +5895,15 @@
 	{
 		"bookshelf": 1487,
 		"No": 487,
-		"title": "Gelecek & Global Degisimi Yaratan 6 Dinamik",
+		"title": "Gelecek - Global Degisimi Yaratan 6 Dinamik",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Al Gore",
 		"lang": "Turkce",
 		"page": 608,
 		"year": "2013",
 		"notes": "E-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1488,
@@ -5858,7 +5920,7 @@
 	{
 		"bookshelf": 1489,
 		"No": 489,
-		"title": "Gelecek 100 Yil & 21. Yuzyil Icin Ongoruler",
+		"title": "Gelecek 100 Yil - 21. Yuzyil Icin Ongoruler",
 		"publisher": "Pegasus Yayinlari",
 		"author": "George Friedman",
 		"lang": "Turkce",
@@ -5901,12 +5963,13 @@
 		"page": 132,
 		"year": "2017",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1493,
 		"No": 493,
-		"title": "Gelecek Dosyalari & Gelecek 50 Yilin Tarihi",
+		"title": "Gelecek Dosyalari - Gelecek 50 Yilin Tarihi",
 		"publisher": "Yakamoz Yayincilik",
 		"author": "Richard Watson",
 		"lang": "Turkce",
@@ -5942,7 +6005,7 @@
 	{
 		"bookshelf": 1496,
 		"No": 496,
-		"title": "Gelecekte Bilim & Bilimde Son Gelismeler",
+		"title": "Gelecekte Bilim - Bilimde Son Gelismeler",
 		"publisher": "Alfa Yayinlari",
 		"author": "Max Brockman",
 		"lang": "Turkce",
@@ -5990,7 +6053,7 @@
 	{
 		"bookshelf": 1500,
 		"No": 500,
-		"title": "Gercek Mad Men & Madison Bulvari'nin Altin Caginin Olaganustu Oykusu",
+		"title": "Gercek Mad Men - Madison Bulvari'nin Altin Caginin Olaganustu Oykusu",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Andrew Cracknell",
 		"lang": "Turkce",
@@ -6002,7 +6065,7 @@
 	{
 		"bookshelf": 1501,
 		"No": 501,
-		"title": "Algoritmalarla Yasamak & Robosurecler Dunyamizi Nasil Yeniden Yaratiyorlar?",
+		"title": "Algoritmalarla Yasamak - Robosurecler Dunyamizi Nasil Yeniden Yaratiyorlar?",
 		"publisher": "The Kitap",
 		"author": "Catherine Besteman, Hugh Gusterson",
 		"lang": "Turkce",
@@ -6033,7 +6096,8 @@
 		"page": 328,
 		"year": "2018",
 		"notes": "A-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1504,
@@ -6074,7 +6138,7 @@
 	{
 		"bookshelf": 1507,
 		"No": 507,
-		"title": "Geveze & Kafamizin Icindeki Dirdirci Ses ve Onu Dizginlemenin Yollari",
+		"title": "Geveze - Kafamizin Icindeki Dirdirci Ses ve Onu Dizginlemenin Yollari",
 		"publisher": "Domingo Yayinevi",
 		"author": "Ethan Cross",
 		"lang": "Turkce",
@@ -6086,7 +6150,7 @@
 	{
 		"bookshelf": 1508,
 		"No": 508,
-		"title": "Gezegen Fabrikasi & Otegezegenler ve Ikinci Bir Duunya Arayisi",
+		"title": "Gezegen Fabrikasi - Otegezegenler ve Ikinci Bir Duunya Arayisi",
 		"publisher": "Say Yayinlari",
 		"author": "Elizabeth Tasker",
 		"lang": "Turkce",
@@ -6105,7 +6169,8 @@
 		"page": 440,
 		"year": "2020",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1510,
@@ -6122,7 +6187,7 @@
 	{
 		"bookshelf": 1511,
 		"No": 511,
-		"title": "Gizli Ikna & Insan Davranisini Sekillendiren Hayalet Etkiler",
+		"title": "Gizli Ikna - Insan Davranisini Sekillendiren Hayalet Etkiler",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Jonah Berger",
 		"lang": "Turkce",
@@ -6182,7 +6247,7 @@
 	{
 		"bookshelf": 1516,
 		"No": 516,
-		"title": "Gocebeler Diyari: Yirmi Birinci Yuzyilda Amerika’da Hayatta Kalmak",
+		"title": "Gocebeler Diyari - Yirmi Birinci Yuzyilda Amerika’da Hayatta Kalmak",
 		"publisher": "Ithaki Yayinlari",
 		"author": "Jessica Bruder",
 		"lang": "Turkce",
@@ -6206,7 +6271,7 @@
 	{
 		"bookshelf": 1518,
 		"No": 518,
-		"title": "Golge Etkisi & Isigin Gucuyle Icindeki Karanligi Dagit",
+		"title": "Golge Etkisi - Isigin Gucuyle Icindeki Karanligi Dagit",
 		"publisher": "Omega Yayinlari",
 		"author": "Marianne Williamson, Deepak Chopra, Debbie Ford",
 		"lang": "Turkce",
@@ -6230,7 +6295,7 @@
 	{
 		"bookshelf": 1520,
 		"No": 520,
-		"title": "Golgeyle Bulusma & Insan Dogasindaki Karanlik Yuzun Gizli Gucu",
+		"title": "Golgeyle Bulusma - Insan Dogasindaki Karanlik Yuzun Gizli Gucu",
 		"publisher": "Timas Yayinlari",
 		"author": "Connie  Zweig",
 		"lang": "Turkce",
@@ -6249,7 +6314,8 @@
 		"page": 72,
 		"year": "2022",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1522,
@@ -6386,7 +6452,7 @@
 	{
 		"bookshelf": 1533,
 		"No": 533,
-		"title": "Gorunmeyen Ekonomistin Geri Donusu: Bir Ekonomi Nasil Yonetilir (Ya Da Mahvedilir)?",
+		"title": "Gorunmeyen Ekonomistin Geri Donusu - Bir Ekonomi Nasil Yonetilir (Ya Da Mahvedilir)?",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Tim Harford",
 		"lang": "Turkce",
@@ -6441,24 +6507,26 @@
 		"page": 280,
 		"year": "2012",
 		"notes": "B-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1538,
 		"No": 538,
-		"title": "Gorunmez Kadinlar & Erkekler Icin Tasarlanmis Bir Dunyada Veri Yanliligi Ile Yasamak",
+		"title": "Gorunmez Kadinlar - Erkekler Icin Tasarlanmis Bir Dunyada Veri Yanliligi Ile Yasamak",
 		"publisher": "Epsilon Yayinevi",
 		"author": "Caroline Criado Perez",
 		"lang": "Turkce",
 		"page": 440,
 		"year": "2021",
 		"notes": "n/a",
-		"status": "Read"
+		"status": "Read",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1539,
 		"No": 539,
-		"title": "Gorus Devrimi & Gorme Yetimizle Ilgili Bildigimiz Her Sey",
+		"title": "Gorus Devrimi - Gorme Yetimizle Ilgili Bildigimiz Her Sey",
 		"publisher": "Alfa Yayinlari",
 		"author": "Mark Changizi",
 		"lang": "Turkce",
@@ -6566,7 +6634,7 @@
 	{
 		"bookshelf": 1548,
 		"No": 548,
-		"title": "Gumus Kursun: Enron'un Inanilmaz Yukselisi ve Onlenemeyen Cokusu",
+		"title": "Gumus Kursun - Enron'un Inanilmaz Yukselisi ve Onlenemeyen Cokusu",
 		"publisher": "Scala Yayincilik",
 		"author": "Bethany McLean, Peter Elkind",
 		"lang": "Turkce",
@@ -6602,7 +6670,7 @@
 	{
 		"bookshelf": 1551,
 		"No": 551,
-		"title": "Gunumuzde TA & Transaksiyonel Analiz’e Yeni Bir Giris",
+		"title": "Gunumuzde TA - Transaksiyonel Analiz’e Yeni Bir Giris",
 		"publisher": "Eksi Kitaplar",
 		"author": "Ian Stewart, Vann Joines",
 		"lang": "Turkce",
@@ -6614,19 +6682,20 @@
 	{
 		"bookshelf": 1552,
 		"No": 552,
-		"title": "Haberler & Bir Kullanma Kilavuzu",
+		"title": "Haberler - Bir Kullanma Kilavuzu",
 		"publisher": "Sel Yayincilik",
 		"author": "Alain De Botton",
 		"lang": "Turkce",
 		"page": 262,
 		"year": "2015",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1553,
 		"No": 553,
-		"title": "Hacker Etigi: Is Hayatina Yikici Bir Yaklasim",
+		"title": "Hacker Etigi - Is Hayatina Yikici Bir Yaklasim",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Pekka Himanen",
 		"lang": "Turkce",
@@ -6638,7 +6707,7 @@
 	{
 		"bookshelf": 1554,
 		"No": 554,
-		"title": "Hackerlar & Bilgisayar Devriminin Kahramanlari",
+		"title": "Hackerlar - Bilgisayar Devriminin Kahramanlari",
 		"publisher": "ODTU Gelistirme Vakfi Yayincilik",
 		"author": "Steven Levy",
 		"lang": "Turkce",
@@ -6650,14 +6719,15 @@
 	{
 		"bookshelf": 1555,
 		"No": 555,
-		"title": "Hackers & Painters - Bilgisayar Cagindan Buyuk Fikirler",
+		"title": "Hackers - Painters - Bilgisayar Cagindan Buyuk Fikirler",
 		"publisher": "ODTU Gelistirme Vakfi Yayincilik",
 		"author": "Paul Graham",
 		"lang": "Turkce",
 		"page": 302,
 		"year": "2007",
 		"notes": "C-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1556,
@@ -6674,7 +6744,7 @@
 	{
 		"bookshelf": 1557,
 		"No": 557,
-		"title": "Hakikat Sonrasi & Guc Oyunu Olarak Bilgi",
+		"title": "Hakikat Sonrasi - Guc Oyunu Olarak Bilgi",
 		"publisher": "Fol Kitap",
 		"author": "Steve Fuller",
 		"lang": "Turkce",
@@ -6686,7 +6756,7 @@
 	{
 		"bookshelf": 1558,
 		"No": 558,
-		"title": "Hakikat Sonrasi Cag & Gunumuz Dunyasinda Yalancilik ve Aldatma",
+		"title": "Hakikat Sonrasi Cag - Gunumuz Dunyasinda Yalancilik ve Aldatma",
 		"publisher": "Deli Dolu",
 		"author": "Ralph Keyes",
 		"lang": "Turkce",
@@ -6705,12 +6775,13 @@
 		"page": 341,
 		"year": "2004",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1560,
 		"No": 560,
-		"title": "Harciyorum Oyleyse Varim & Ekonominin Gercek Maliyeti",
+		"title": "Harciyorum Oyleyse Varim - Ekonominin Gercek Maliyeti",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Philip Roscoe",
 		"lang": "Turkce",
@@ -6722,7 +6793,7 @@
 	{
 		"bookshelf": 1561,
 		"No": 561,
-		"title": "Harvard Business School'da Size Ne Ogretirler? & Kapitalizmin Mutfaginda Gecirdigim Iki Yil",
+		"title": "Harvard Business School'da Size Ne Ogretirler? - Kapitalizmin Mutfaginda Gecirdigim Iki Yil",
 		"publisher": "Optimist Kitap",
 		"author": "Philip Delves Broughton",
 		"lang": "Turkce",
@@ -6734,7 +6805,7 @@
 	{
 		"bookshelf": 1562,
 		"No": 562,
-		"title": "Haset ve Rekabet & Kendi Kuyrugunu Yiyen Yilan",
+		"title": "Haset ve Rekabet - Kendi Kuyrugunu Yiyen Yilan",
 		"publisher": "Remzi Ktabevi",
 		"author": "Leyla Navaro",
 		"lang": "Turkce",
@@ -6777,7 +6848,8 @@
 		"page": 224,
 		"year": "2007",
 		"notes": "B-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1566,
@@ -6825,12 +6897,13 @@
 		"page": 192,
 		"year": "2020",
 		"notes": "A-3",
-		"status": "Read"
+		"status": "Read",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1570,
 		"No": 570,
-		"title": "Hayat Kurtaran Vitamin ve Mineraller & Bilincli Kullanim Icin En Guvenilir Rehber",
+		"title": "Hayat Kurtaran Vitamin ve Mineraller - Bilincli Kullanim Icin En Guvenilir Rehber",
 		"publisher": "Hayy Kita[",
 		"author": "Metin Ozata",
 		"lang": "Turkce",
@@ -6854,7 +6927,7 @@
 	{
 		"bookshelf": 1572,
 		"No": 572,
-		"title": "Hayata Yer Ac & Bir Sadelesme Rehberi",
+		"title": "Hayata Yer Ac - Bir Sadelesme Rehberi",
 		"publisher": "Paloma Yayinlari",
 		"author": "Regina Wong",
 		"lang": "Turkce",
@@ -6885,12 +6958,13 @@
 		"page": 456,
 		"year": "2014",
 		"notes": "A-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1575,
 		"No": 575,
-		"title": "Hayatimizdaki Algoritmalar: Gunluk Kararlarin Bilgisayar Bilimi",
+		"title": "Hayatimizdaki Algoritmalar - Gunluk Kararlarin Bilgisayar Bilimi",
 		"publisher": "Buzdagi Yayinlari",
 		"author": "Tom Griffith, Brian Christian",
 		"lang": "Turkce",
@@ -6926,7 +7000,7 @@
 	{
 		"bookshelf": 1578,
 		"No": 578,
-		"title": "Hayatin En'leri & Dunyanin En Ilginc Istatistikleri",
+		"title": "Hayatin En'leri - Dunyanin En Ilginc Istatistikleri",
 		"publisher": "Ntv Yayinlari",
 		"author": "Martin Toseland, Simon Toseland",
 		"lang": "Turkce",
@@ -6974,7 +7048,7 @@
 	{
 		"bookshelf": 1582,
 		"No": 582,
-		"title": "Hayattan Keyif Almak Icin: At, Kurtul, Ferahla",
+		"title": "Hayattan Keyif Almak Icin - At, Kurtul, Ferahla",
 		"publisher": "Epsilon Yayinevi",
 		"author": "Marie Kondo",
 		"lang": "Turkce",
@@ -7041,7 +7115,8 @@
 		"page": 352,
 		"year": "2017",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1588,
@@ -7070,7 +7145,7 @@
 	{
 		"bookshelf": 1590,
 		"No": 590,
-		"title": "Hayvanlardan Tanrilara - Sapiens & Insan Turunun Kisa Bir Tarihi",
+		"title": "Hayvanlardan Tanrilara - Sapiens - Insan Turunun Kisa Bir Tarihi",
 		"publisher": "Kolektif Kitap",
 		"author": "Yuval Noah Harari",
 		"lang": "Turkce",
@@ -7130,7 +7205,7 @@
 	{
 		"bookshelf": 1595,
 		"No": 595,
-		"title": "Hazzin Bilimi & Sevdigimiz Seyleri Neden Sevdigimiz Hakkinda Yeni Bilim",
+		"title": "Hazzin Bilimi - Sevdigimiz Seyleri Neden Sevdigimiz Hakkinda Yeni Bilim",
 		"publisher": "Panama Yayincilik",
 		"author": "Paul Bloom",
 		"lang": "Turkce",
@@ -7237,7 +7312,7 @@
 	{
 		"bookshelf": 1604,
 		"No": 604,
-		"title": "Her Sey Darmadagin Oldugunda & Zor Zamanlar Icin Yurekten Ogutler",
+		"title": "Her Sey Darmadagin Oldugunda - Zor Zamanlar Icin Yurekten Ogutler",
 		"publisher": "Okyanus Yayinlari",
 		"author": "Pema Chodron",
 		"lang": "Turkce",
@@ -7249,7 +7324,7 @@
 	{
 		"bookshelf": 1605,
 		"No": 605,
-		"title": "Her Sey Ne Anlama Geliyor & Felsefeye Kucuk Bir Giris",
+		"title": "Her Sey Ne Anlama Geliyor - Felsefeye Kucuk Bir Giris",
 		"publisher": "Say Yayinlari",
 		"author": "Thomas Nagel",
 		"lang": "Turkce",
@@ -7273,26 +7348,28 @@
 	{
 		"bookshelf": 1607,
 		"No": 607,
-		"title": "Herkes Orgut & Internet Gruplarinin Gucu",
+		"title": "Herkes Orgut - Internet Gruplarinin Gucu",
 		"publisher": "Optimist Kitap",
 		"author": "Clay Shirky",
 		"lang": "Turkce",
 		"page": 282,
 		"year": "2010",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1608,
 		"No": 608,
-		"title": "Herkese Soyle & Sosyal Medyada Neden Paylasimda Bulunuruz",
+		"title": "Herkese Soyle - Sosyal Medyada Neden Paylasimda Bulunuruz",
 		"publisher": "Kafka Kitap",
 		"author": "Alfred Hermida",
 		"lang": "Turkce",
 		"page": 216,
 		"year": "2017",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1609,
@@ -7321,14 +7398,15 @@
 	{
 		"bookshelf": 1611,
 		"No": 611,
-		"title": "Hit Makers & Dikkat Daginikligi Caginda Populerlik Bilimi",
+		"title": "Hit Makers - Dikkat Daginikligi Caginda Populerlik Bilimi",
 		"publisher": "The Kitap",
 		"author": "Derek Thompson",
 		"lang": "Turkce",
 		"page": 320,
 		"year": "2017",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1612,
@@ -7345,7 +7423,7 @@
 	{
 		"bookshelf": 1613,
 		"No": 613,
-		"title": "Hizli Cocuklar & Bir Wall Street Isyani",
+		"title": "Hizli Cocuklar - Bir Wall Street Isyani",
 		"publisher": "Scala Yayincilik",
 		"author": "Michael Lewis",
 		"lang": "Turkce",
@@ -7381,7 +7459,7 @@
 	{
 		"bookshelf": 1616,
 		"No": 616,
-		"title": "Homo Deus: Yarinin Kisa Bir Tarihi",
+		"title": "Homo Deus - Yarinin Kisa Bir Tarihi",
 		"publisher": "Kolektif Kitap",
 		"author": "Yuval Noah Harari",
 		"lang": "Turkce",
@@ -7393,7 +7471,7 @@
 	{
 		"bookshelf": 1617,
 		"No": 617,
-		"title": "Homo Dijital & 21. Yuzyilda Bizi Zorlayan 21 Nevroz",
+		"title": "Homo Dijital - 21. Yuzyilda Bizi Zorlayan 21 Nevroz",
 		"publisher": "Serenad",
 		"author": "Johannes Hepp",
 		"lang": "Turkce",
@@ -7405,7 +7483,7 @@
 	{
 		"bookshelf": 1618,
 		"No": 618,
-		"title": "Homo Economicus’un Olumu & Is, Borc ve Sonsuz Birikim Efsanesi",
+		"title": "Homo Economicus’un Olumu - Is, Borc ve Sonsuz Birikim Efsanesi",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Peter Fleming",
 		"lang": "Turkce",
@@ -7417,7 +7495,7 @@
 	{
 		"bookshelf": 1619,
 		"No": 619,
-		"title": "How (Nasil) & Is Hayatinda ve Siyasette Kazananlarin Sorusu",
+		"title": "How (Nasil) - Is Hayatinda ve Siyasette Kazananlarin Sorusu",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Dov Seidman",
 		"lang": "Turkce",
@@ -7429,7 +7507,7 @@
 	{
 		"bookshelf": 1620,
 		"No": 620,
-		"title": "HYGGE & Danimarkalilarin Mutluluk Sirri",
+		"title": "Hygge - Danimarkalilarin Mutluluk Sirri",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Meik Wiking",
 		"lang": "Turkce",
@@ -7453,7 +7531,7 @@
 	{
 		"bookshelf": 1622,
 		"No": 622,
-		"title": "Ichigo Ichie & Japonlarin Her Ani En Iyi Sekilde Yasama Sanati",
+		"title": "Ichigo Ichie - Japonlarin Her Ani En Iyi Sekilde Yasama Sanati",
 		"publisher": "Nepal Kitap",
 		"author": "Francesc Miralles, Hector Garcia",
 		"lang": "Turkce",
@@ -7525,7 +7603,7 @@
 	{
 		"bookshelf": 1628,
 		"No": 628,
-		"title": "Ihmal Edilen Anahtar & Yaraticilik ve Yikicilikta Cocukluk Travmalarinin Izini Surmek",
+		"title": "Ihmal Edilen Anahtar - Yaraticilik ve Yikicilikta Cocukluk Travmalarinin Izini Surmek",
 		"publisher": "Profil Kitap",
 		"author": "Alice Miller",
 		"lang": "Turkce",
@@ -7537,7 +7615,7 @@
 	{
 		"bookshelf": 1629,
 		"No": 629,
-		"title": "IK Donusumu & Insan Kaynaklarini Disaridan Iceriye Dogru Insa Etmek",
+		"title": "IK Donusumu - Insan Kaynaklarini Disaridan Iceriye Dogru Insa Etmek",
 		"publisher": "Humanist Kitap",
 		"author": "Dave Ulrich, Jon Younger, Justin Allen, Mark Nyman, Wayne Brockbank",
 		"lang": "Turkce",
@@ -7573,7 +7651,7 @@
 	{
 		"bookshelf": 1632,
 		"No": 632,
-		"title": "Ikigai & Japon Yasam Sanati",
+		"title": "Ikigai - Japon Yasam Sanati",
 		"publisher": "Kuraldisi Yayinlari",
 		"author": "Ken Mogi",
 		"lang": "Turkce",
@@ -7585,7 +7663,7 @@
 	{
 		"bookshelf": 1633,
 		"No": 633,
-		"title": "Ikigai & Japonlarin Uzun ve Mutlu Yasam Sirri",
+		"title": "Ikigai - Japonlarin Uzun ve Mutlu Yasam Sirri",
 		"publisher": "Indigo Kitap",
 		"author": "Francesc Miralles, Hector Garcia",
 		"lang": "Turkce",
@@ -7621,7 +7699,7 @@
 	{
 		"bookshelf": 1636,
 		"No": 636,
-		"title": "Iklim Direnisi & Bir Hayatta Kalma Stratejisi",
+		"title": "Iklim Direnisi - Bir Hayatta Kalma Stratejisi",
 		"publisher": "Yeni Insan Yayinevi",
 		"author": "Jeremy Brecher",
 		"lang": "Turkce",
@@ -7669,7 +7747,7 @@
 	{
 		"bookshelf": 1640,
 		"No": 640,
-		"title": "Iletisim Kitabi & Dogru Iletisim Icin 44 Fikir",
+		"title": "Iletisim Kitabi - Dogru Iletisim Icin 44 Fikir",
 		"publisher": "The Kitap",
 		"author": "Mikael Krogerus, Roman Tschappeler",
 		"lang": "Turkce",
@@ -7724,7 +7802,8 @@
 		"page": 144,
 		"year": "2016",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1645,
@@ -7748,7 +7827,8 @@
 		"page": 192,
 		"year": "2020",
 		"notes": "C-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1647,
@@ -7765,7 +7845,7 @@
 	{
 		"bookshelf": 1648,
 		"No": 648,
-		"title": "Incognito & Beynin Gizli Hayati",
+		"title": "Incognito - Beynin Gizli Hayati",
 		"publisher": "Domingo Yayinevi",
 		"author": "David Eagleman",
 		"lang": "Turkce",
@@ -7904,7 +7984,8 @@
 		"page": 136,
 		"year": "2016",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1660,
@@ -8029,7 +8110,7 @@
 	{
 		"bookshelf": 1670,
 		"No": 670,
-		"title": "Insan Vucudunun Oykusu & Saglik, Hastalik ve Evrim",
+		"title": "Insan Vucudunun Oykusu - Saglik, Hastalik ve Evrim",
 		"publisher": "Say Yayinlari",
 		"author": "Daniel E. Lieberman",
 		"lang": "Turkce",
@@ -8089,7 +8170,7 @@
 	{
 		"bookshelf": 1675,
 		"No": 675,
-		"title": "Insanin 8 Yetenegi & Yoga Sayesinde Icsel Huzuru Kazanmanin  Yollari",
+		"title": "Insanin 8 Yetenegi - Yoga Sayesinde Icsel Huzuru Kazanmanin Yollari",
 		"publisher": "Panama Yayincilik",
 		"author": "Gurmukh Kaur Khalsa, Cathryn Michon",
 		"lang": "Turkce",
@@ -8180,7 +8261,8 @@
 		"page": 279,
 		"year": "2012",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1683,
@@ -8221,7 +8303,7 @@
 	{
 		"bookshelf": 1686,
 		"No": 686,
-		"title": "Is Satma Sanati: Gizli Gundem",
+		"title": "Is Satma Sanati - Gizli Gundem",
 		"publisher": "The Kitap",
 		"author": "Kevin Allen",
 		"lang": "Turkce",
@@ -8233,7 +8315,7 @@
 	{
 		"bookshelf": 1687,
 		"No": 687,
-		"title": "Gelecegi Degistiren Dokuz Algoritma & Gunumuz Bilgisayarlarinin Ardindaki Parlak Fikirler",
+		"title": "Gelecegi Degistiren Dokuz Algoritma - Gunumuz Bilgisayarlarinin Ardindaki Parlak Fikirler",
 		"publisher": "Tubitak Yayinlari",
 		"author": "John McCormick",
 		"lang": "Turkce",
@@ -8305,7 +8387,7 @@
 	{
 		"bookshelf": 1693,
 		"No": 693,
-		"title": "Iskandinav Uzun Yasam Rehberi & 10 Yil Fazla Yasamak Icin 10 Ipucu",
+		"title": "Iskandinav Uzun Yasam Rehberi - 10 Yil Fazla Yasamak Icin 10 Ipucu",
 		"publisher": "Epsilon Yayinevi",
 		"author": "Bertil Marklund",
 		"lang": "Turkce",
@@ -8389,7 +8471,7 @@
 	{
 		"bookshelf": 1700,
 		"No": 700,
-		"title": "Issiz Yasam & Issizligin ve Is Guvencesizliginin Birey ve Aile Uzerindeki Etkileri",
+		"title": "Issiz Yasam - Issizligin ve Is Guvencesizliginin Birey ve Aile Uzerindeki Etkileri",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Nebi Sumer, Nevin Solak, Mehmet Harma",
 		"lang": "Turkce",
@@ -8473,7 +8555,7 @@
 	{
 		"bookshelf": 1707,
 		"No": 707,
-		"title": "Isveren Markasi & Yuksek Nitelikli Calisanlari Cekmenin ve Elde Tutmanin Anahtari",
+		"title": "Isveren Markasi - Yuksek Nitelikli Calisanlari Cekmenin ve Elde Tutmanin Anahtari",
 		"publisher": "Optimist Kitap",
 		"author": "Turker Bas",
 		"lang": "Turkce",
@@ -8509,14 +8591,15 @@
 	{
 		"bookshelf": 1710,
 		"No": 710,
-		"title": "yi Aile Yoktur",
+		"title": "Iyi Aile Yoktur",
 		"publisher": "Ithaki Yayinlari",
 		"author": "Nihan Kaya",
 		"lang": "Turkce",
 		"page": 296,
 		"year": "2021",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1711,
@@ -8564,7 +8647,8 @@
 		"page": 168,
 		"year": "2019",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1715,
@@ -8593,7 +8677,7 @@
 	{
 		"bookshelf": 1717,
 		"No": 717,
-		"title": "Iyi, Kotu Ekonomi & Gilgamis’tan Wall Street’e Iktisadi Anlam Arayisi",
+		"title": "Iyi, Kotu Ekonomi - Gilgamis’tan Wall Street’e Iktisadi Anlam Arayisi",
 		"publisher": "Turkiye Is Bankasi Kultur Yayinlari",
 		"author": "Thomas Sedlacek",
 		"lang": "Turkce",
@@ -8605,7 +8689,7 @@
 	{
 		"bookshelf": 1718,
 		"No": 718,
-		"title": "Iyilestiren Nefes & Nefesin Iyilestirici, Huzur Verici ve Aydinlatici Gucunu Kullanmak",
+		"title": "Iyilestiren Nefes - Nefesin Iyilestirici, Huzur Verici ve Aydinlatici Gucunu Kullanmak",
 		"publisher": "Akasa Yayinlari",
 		"author": "Luis S. R. Vas",
 		"lang": "Turkce",
@@ -8629,14 +8713,15 @@
 	{
 		"bookshelf": 1720,
 		"No": 720,
-		"title": "Izleniyoruz & Yeni Reklam Sektorunun Elindeki Kimligimiz ve Degerimiz",
+		"title": "Izleniyoruz - Yeni Reklam Sektorunun Elindeki Kimligimiz ve Degerimiz",
 		"publisher": "Hil Yayinlari",
 		"author": "Joseph Turow",
 		"lang": "Turkce",
 		"page": 320,
 		"year": "2016",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1721,
@@ -8713,7 +8798,7 @@
 	{
 		"bookshelf": 1727,
 		"No": 727,
-		"title": "Kacinci Cocuksunuz? & Dogum Siranizin Is, Ask ve Aile Hayatiniza Etkileri",
+		"title": "Kacinci Cocuksunuz? - Dogum Siranizin Is, Ask ve Aile Hayatiniza Etkileri",
 		"publisher": "Tara Kitap",
 		"author": "Kevin Leman",
 		"lang": "Turkce",
@@ -8821,7 +8906,7 @@
 	{
 		"bookshelf": 1736,
 		"No": 736,
-		"title": "Kadinlara Pazarlama & Kadin Tuketicilerin Kalbine Ulasmanin Yollari",
+		"title": "Kadinlara Pazarlama - Kadin Tuketicilerin Kalbine Ulasmanin Yollari",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Mary Lou Quinlan",
 		"lang": "Turkce",
@@ -8893,7 +8978,7 @@
 	{
 		"bookshelf": 1742,
 		"No": 742,
-		"title": "Kahve & Topraktan Fincana",
+		"title": "Kahve - Topraktan Fincana",
 		"publisher": "Cinius Yayinlari",
 		"author": "Cenk R. Girginol",
 		"lang": "Turkce",
@@ -8941,7 +9026,7 @@
 	{
 		"bookshelf": 1746,
 		"No": 746,
-		"title": "Kan, Ter ve Pikseller: Video Oyun Yapimciliginin Arkasindaki Calkantili ve Zafer Dolu Hikayeler",
+		"title": "Kan, Ter ve Pikseller - Video Oyun Yapimciliginin Arkasindaki Calkantili ve Zafer Dolu Hikayeler",
 		"publisher": "Ithaki Yayinlari",
 		"author": "Jason Schreier",
 		"lang": "Turkce",
@@ -8953,7 +9038,7 @@
 	{
 		"bookshelf": 1747,
 		"No": 747,
-		"title": "Kancaya Takilinca: Aliskanlik Yaratan Urunler Nasil Gelistirilir?",
+		"title": "Kancaya Takilinca - Aliskanlik Yaratan Urunler Nasil Gelistirilir?",
 		"publisher": "Nova Kitap",
 		"author": "Nir Eyal",
 		"lang": "Turkce",
@@ -8989,7 +9074,7 @@
 	{
 		"bookshelf": 1750,
 		"No": 750,
-		"title": "Kaos & Kaosun Kutsal Kitabi",
+		"title": "Kaos - Kaosun Kutsal Kitabi",
 		"publisher": "Alfa Yayinlari",
 		"author": "James Gleick",
 		"lang": "Turkce",
@@ -9001,7 +9086,7 @@
 	{
 		"bookshelf": 1751,
 		"No": 751,
-		"title": "Kaos: Daginikligin Hayatlarimizi Degistirme Gucu",
+		"title": "Kaos - Daginikligin Hayatlarimizi Degistirme Gucu",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Tim Harford",
 		"lang": "Turkce",
@@ -9061,7 +9146,7 @@
 	{
 		"bookshelf": 1756,
 		"No": 756,
-		"title": "Kaplani Uyandirmak & Travmayi Iyilestirmek",
+		"title": "Kaplani Uyandirmak - Travmayi Iyilestirmek",
 		"publisher": "Butik Yayincilik",
 		"author": "Peter A. Levine, Ann Frederick",
 		"lang": "Turkce",
@@ -9109,7 +9194,7 @@
 	{
 		"bookshelf": 1760,
 		"No": 760,
-		"title": "Kariyer ve Varolus & Bir Benlik Eylemi",
+		"title": "Kariyer ve Varolus - Bir Benlik Eylemi",
 		"publisher": "Elma Yayinevi",
 		"author": "Danis Navaro",
 		"lang": "Turkce",
@@ -9157,14 +9242,15 @@
 	{
 		"bookshelf": 1764,
 		"No": 764,
-		"title": "Karsi Konulmaz & Bagimlilik Yapici Teknolojinin Yukselisi ve Bizim Ona Esir Edilisimiz",
+		"title": "Karsi Konulmaz - Bagimlilik Yapici Teknolojinin Yukselisi ve Bizim Ona Esir Edilisimiz",
 		"publisher": "Paloma Yayinlari",
 		"author": "Adam Alter",
 		"lang": "Turkce",
 		"page": 344,
 		"year": "2018",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1765,
@@ -9181,7 +9267,7 @@
 	{
 		"bookshelf": 1766,
 		"No": 766,
-		"title": "Kaybolan Baglar & Depresyonun Gercek Nedenleri ve Beklenmedik Cozumler",
+		"title": "Kaybolan Baglar - Depresyonun Gercek Nedenleri ve Beklenmedik Cozumler",
 		"publisher": "Metis Yayinlari",
 		"author": "Johann Hari",
 		"lang": "Turkce",
@@ -9205,7 +9291,7 @@
 	{
 		"bookshelf": 1768,
 		"No": 768,
-		"title": "Kaygisiz Beyin & Beyninizi Donusturerek Kaygi, Panik ve Endiseden Kurtulmanin Yollari",
+		"title": "Kaygisiz Beyin - Beyninizi Donusturerek Kaygi, Panik ve Endiseden Kurtulmanin Yollari",
 		"publisher": "Saltokur",
 		"author": "Catherine M. Pittman, Elizabeth M. Karle",
 		"lang": "Turkce",
@@ -9229,7 +9315,7 @@
 	{
 		"bookshelf": 1770,
 		"No": 770,
-		"title": "Kazanma Hayali & Kosedeki Dukkandan Kosedeki Ofise",
+		"title": "Kazanma Hayali - Kosedeki Dukkandan Kosedeki Ofise",
 		"publisher": "Modus Kitap",
 		"author": "Joanne Gordon, Bill McDermott",
 		"lang": "Turkce",
@@ -9241,7 +9327,7 @@
 	{
 		"bookshelf": 1771,
 		"No": 771,
-		"title": "Kazanma Hirsi & Girisimciler Icin Hayat Dersleri",
+		"title": "Kazanma Hirsi - Girisimciler Icin Hayat Dersleri",
 		"publisher": "Ceo Plus",
 		"author": "Robert Herjavec",
 		"lang": "Turkce",
@@ -9265,7 +9351,7 @@
 	{
 		"bookshelf": 1773,
 		"No": 773,
-		"title": "Kazara Milyarder & Facebook'un Kurulus Hikayesi",
+		"title": "Kazara Milyarder - Facebook'un Kurulus Hikayesi",
 		"publisher": "Dogan Kitap",
 		"author": "Ben Mezrich",
 		"lang": "Turkce",
@@ -9277,7 +9363,7 @@
 	{
 		"bookshelf": 1774,
 		"No": 774,
-		"title": "Kendi Benliginle Nasil Tanisilir ? & Kendini Kesfetmek Icin Calisma Kitabi",
+		"title": "Kendi Benliginle Nasil Tanisilir? - Kendini Kesfetmek Icin Calisma Kitabi",
 		"publisher": "Butik Yayincilik",
 		"author": "Nicole Lepera",
 		"lang": "Turkce",
@@ -9332,12 +9418,13 @@
 		"page": 160,
 		"year": "2013",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1779,
 		"No": 779,
-		"title": "Kendinden Kacarken Yakaladim Seni & Mutluluk Kilavuzu",
+		"title": "Kendinden Kacarken Yakaladim Seni - Mutluluk Kilavuzu",
 		"publisher": "Humanist Kitap",
 		"author": "Ebru Nurluoglu",
 		"lang": "Turkce",
@@ -9349,7 +9436,7 @@
 	{
 		"bookshelf": 1780,
 		"No": 780,
-		"title": "Kendine Ait Bir Yuva & Yetiskinlikte Ayrilma - Bireylesme Mucadeleleri",
+		"title": "Kendine Ait Bir Yuva - Yetiskinlikte Ayrilma - Bireylesme Mucadeleleri",
 		"publisher": "Metropolis Yayincilik",
 		"author": "Sarah Fels Usher",
 		"lang": "Turkce",
@@ -9433,7 +9520,7 @@
 	{
 		"bookshelf": 1787,
 		"No": 787,
-		"title": "Kendini Iyilestirmenin 2500 Yillik Tarihi: Yang Sheng",
+		"title": "Kendini Iyilestirmenin 2500 Yillik Tarihi - Yang Sheng",
 		"publisher": "Profil Kitap",
 		"author": "Katie Brindle",
 		"lang": "Turkce",
@@ -9464,7 +9551,8 @@
 		"page": 96,
 		"year": "2023",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1790,
@@ -9505,7 +9593,7 @@
 	{
 		"bookshelf": 1793,
 		"No": 793,
-		"title": "Keyif A.S. & Calismaktan Keyif Alinan Bir Isyeri",
+		"title": "Keyif A.S. - Calismaktan Keyif Alinan Bir Isyeri",
 		"publisher": "Optimist Kitap",
 		"author": "Richard Sheridan",
 		"lang": "Turkce",
@@ -9553,7 +9641,7 @@
 	{
 		"bookshelf": 1797,
 		"No": 797,
-		"title": "Kim Korkar Kahveden ? & Kahve Kulturune Dair Resimli Elkitabi",
+		"title": "Kim Korkar Kahveden? - Kahve Kulturune Dair Resimli Elkitabi",
 		"publisher": "Nail Kitabevi Yayinlari",
 		"author": "Chung-Leng Tran, Sebastien Racineux",
 		"lang": "Turkce",
@@ -9572,7 +9660,8 @@
 		"page": 264,
 		"year": "2016",
 		"notes": "D-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1799,
@@ -9704,7 +9793,8 @@
 		"page": 304,
 		"year": "2009",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1810,
@@ -9716,12 +9806,13 @@
 		"page": 304,
 		"year": "2006",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1811,
 		"No": 811,
-		"title": "Kizimla Ekonomi Sohbetleri & Kapitalizmin Kisa Tarihi",
+		"title": "Kizimla Ekonomi Sohbetleri - Kapitalizmin Kisa Tarihi",
 		"publisher": "Epsilon Yayinevi",
 		"author": "Yanis Varoufakis",
 		"lang": "Turkce",
@@ -9733,7 +9824,7 @@
 	{
 		"bookshelf": 1812,
 		"No": 812,
-		"title": "Klasik Yonetim Dusuncesi & Geleneksel ve Klasik Paradigmalarla Klasik ve Neo-Klasik Orgut Teorileri",
+		"title": "Klasik Yonetim Dusuncesi - Geleneksel ve Klasik Paradigmalarla Klasik ve Neo-Klasik Orgut Teorileri",
 		"publisher": "Alfa Yayinlari",
 		"author": "Aykut Berber",
 		"lang": "Turkce",
@@ -9769,7 +9860,7 @@
 	{
 		"bookshelf": 1815,
 		"No": 815,
-		"title": "Kod Ekonomisi & Kirk Bin Yillik Bir Tarih",
+		"title": "Kod Ekonomisi - Kirk Bin Yillik Bir Tarih",
 		"publisher": "Bogazici Universitesi Yayinevi",
 		"author": "Philip E. Auerswald",
 		"lang": "Turkce",
@@ -9805,7 +9896,7 @@
 	{
 		"bookshelf": 1818,
 		"No": 818,
-		"title": "Konusmayi Kes Harekete Gec & Size Gaz Verecek Pratik Araclar ve Alistirmalar",
+		"title": "Konusmayi Kes Harekete Gec - Size Gaz Verecek Pratik Araclar ve Alistirmalar",
 		"publisher": "Paloma Yayinlari",
 		"author": "Shaa Wasmund",
 		"lang": "Turkce",
@@ -9817,7 +9908,7 @@
 	{
 		"bookshelf": 1819,
 		"No": 819,
-		"title": "Kor Bakis: Pazarlamanin Beynimizi Yeniden Sekillendirdigi (Cogunlukla) Gizli Yollar",
+		"title": "Kor Bakis - Pazarlamanin Beynimizi Yeniden Sekillendirdigi (Cogunlukla) Gizli Yollar",
 		"publisher": "Nova Kitap",
 		"author": "Matt Johnson, Prince Ghuman",
 		"lang": "Turkce",
@@ -9829,7 +9920,7 @@
 	{
 		"bookshelf": 1820,
 		"No": 820,
-		"title": "Kor Nokta & Gelecek Senaryolarini Ongormek",
+		"title": "Kor Nokta - Gelecek Senaryolarini Ongormek",
 		"publisher": "Profil Kitap",
 		"author": "Francis Fukuyama",
 		"lang": "Turkce",
@@ -9872,7 +9963,8 @@
 		"page": 86,
 		"year": "1997",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1824,
@@ -9889,7 +9981,7 @@
 	{
 		"bookshelf": 1825,
 		"No": 825,
-		"title": "Kotuluk & Insanligin Karanlik Tarafinin Ardindaki Bilim",
+		"title": "Kotuluk - Insanligin Karanlik Tarafinin Ardindaki Bilim",
 		"publisher": "Say Yayinlari",
 		"author": "Julia Shaw",
 		"lang": "Turkce",
@@ -9901,7 +9993,7 @@
 	{
 		"bookshelf": 1826,
 		"No": 826,
-		"title": "Kralin Yeni Akli & Bilgisayar, Zeka ve Fizik Yasalari",
+		"title": "Kralin Yeni Akli - Bilgisayar, Zeka ve Fizik Yasalari",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Roger Penrose",
 		"lang": "Turkce",
@@ -9913,7 +10005,7 @@
 	{
 		"bookshelf": 1827,
 		"No": 827,
-		"title": "Kriptopara Cagi & Bitcoin ve Dijital Paranin Kuresel Ekonomik Sisteme Meydan Okumasi",
+		"title": "Kriptopara Cagi - Bitcoin ve Dijital Paranin Kuresel Ekonomik Sisteme Meydan Okumasi",
 		"publisher": "Buzdagi Yayinlari",
 		"author": "Paul Vigna, Michael J. Casey",
 		"lang": "Turkce",
@@ -9925,7 +10017,7 @@
 	{
 		"bookshelf": 1828,
 		"No": 828,
-		"title": "Kuantum Benlik & Yeni Fizigin Isiginda Insan Dogasi ve Bilinci",
+		"title": "Kuantum Benlik - Yeni Fizigin Isiginda Insan Dogasi ve Bilinci",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Danah Zohar",
 		"lang": "Turkce",
@@ -9985,7 +10077,7 @@
 	{
 		"bookshelf": 1833,
 		"No": 833,
-		"title": "Kultur & Onde Gelen Bilim Insanlari Toplum, Sanat, Iktidar ve Teknolojiyi Tartisiyor",
+		"title": "Kultur - Onde Gelen Bilim Insanlari Toplum, Sanat, Iktidar ve Teknolojiyi Tartisiyor",
 		"publisher": "Alfa Yayinlari",
 		"author": "John Brockman",
 		"lang": "Turkce",
@@ -10093,7 +10185,7 @@
 	{
 		"bookshelf": 1842,
 		"No": 842,
-		"title": "Kuresel Put & Tuketim Ekonomisi Yeni Sapkinlik: Sosyal Bilinc",
+		"title": "Kuresel Put - Tuketim Ekonomisi Yeni Sapkinlik - Sosyal Bilinc",
 		"publisher": "Nobel Yayin Dagitim",
 		"author": "Ogul Zengingonul",
 		"lang": "Turkce",
@@ -10105,7 +10197,7 @@
 	{
 		"bookshelf": 1843,
 		"No": 843,
-		"title": "Kuresellesme & Toplumsal Sonuclari",
+		"title": "Kuresellesme - Toplumsal Sonuclari",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Zygmunt Bauman",
 		"lang": "Turkce",
@@ -10153,7 +10245,7 @@
 	{
 		"bookshelf": 1847,
 		"No": 847,
-		"title": "Kuresellesmenin Cokusu & Dunyanin Yeniden Kesfi",
+		"title": "Kuresellesmenin Cokusu - Dunyanin Yeniden Kesfi",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "John Ralston Saul",
 		"lang": "Turkce",
@@ -10189,7 +10281,7 @@
 	{
 		"bookshelf": 1850,
 		"No": 850,
-		"title": "Kuresellesmenin Sonu & Kasvetli Yeni Dunya, Tarihin Nihai Savasi",
+		"title": "Kuresellesmenin Sonu - Kasvetli Yeni Dunya, Tarihin Nihai Savasi",
 		"publisher": "Profil Kitap",
 		"author": "Stephen D. King",
 		"lang": "Turkce",
@@ -10201,7 +10293,7 @@
 	{
 		"bookshelf": 1851,
 		"No": 851,
-		"title": "Kurum Kulturu & Kuruludunuzun Kurumsal Kulturunun Isiniz Uzerindeki Yikici ve Yapici Etkileri",
+		"title": "Kurum Kulturu - Kuruludunuzun Kurumsal Kulturunun Isiniz Uzerindeki Yikici ve Yapici Etkileri",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Gareth Jones, Rob Goffee",
 		"lang": "Turkce",
@@ -10249,7 +10341,7 @@
 	{
 		"bookshelf": 1855,
 		"No": 855,
-		"title": "Kutsal Ekonomi & Gecis Caginda Para, Armagan ve Toplum",
+		"title": "Kutsal Ekonomi - Gecis Caginda Para, Armagan ve Toplum",
 		"publisher": "Okuyan Us Yayincilik",
 		"author": "Charles Einstein",
 		"lang": "Turkce",
@@ -10261,7 +10353,7 @@
 	{
 		"bookshelf": 1856,
 		"No": 856,
-		"title": "Lagom & Isvevlilerin Dengeli ve Mutlu Yasama Sanati",
+		"title": "Lagom - Isvevlilerin Dengeli ve Mutlu Yasama Sanati",
 		"publisher": "Salon Yayinlari",
 		"author": "Niki Brantmark",
 		"lang": "Turkce",
@@ -10273,7 +10365,7 @@
 	{
 		"bookshelf": 1857,
 		"No": 857,
-		"title": "Lagom & Isvevlilerin Dengeli Yasama Sanati",
+		"title": "Lagom - Isvevlilerin Dengeli Yasama Sanati",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Linnea Dunne",
 		"lang": "Turkce",
@@ -10292,12 +10384,13 @@
 		"page": 340,
 		"year": "2018",
 		"notes": "E-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1859,
 		"No": 859,
-		"title": "Lean In Sinirlarini Zorla & Kadinlar, Is ve Liderlik Istegi",
+		"title": "Lean In Sinirlarini Zorla - Kadinlar, Is ve Liderlik Istegi",
 		"publisher": "Ceo Plus",
 		"author": "Sheryl Sandberg",
 		"lang": "Turkce",
@@ -10381,7 +10474,7 @@
 	{
 		"bookshelf": 1866,
 		"No": 866,
-		"title": "Londra & Bilmek Istediginiz Her Sey",
+		"title": "Londra - Bilmek Istediginiz Her Sey",
 		"publisher": "Ntv Yayinlari",
 		"author": "Klay Lamprell",
 		"lang": "Turkce",
@@ -10393,7 +10486,7 @@
 	{
 		"bookshelf": 1867,
 		"No": 867,
-		"title": "Lovemarks Etkisi & Tuketici Devriminde Galip Gelmek",
+		"title": "Lovemarks Etkisi - Tuketici Devriminde Galip Gelmek",
 		"publisher": "Humanist Kitap",
 		"author": "Kevin Roberts",
 		"lang": "Turkce",
@@ -10417,7 +10510,7 @@
 	{
 		"bookshelf": 1869,
 		"No": 869,
-		"title": "Lykke & Dunyanin En Mutlu Insanlarinin Sirlari",
+		"title": "Lykke - Dunyanin En Mutlu Insanlarinin Sirlari",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Meik Wiking",
 		"lang": "Turkce",
@@ -10429,7 +10522,7 @@
 	{
 		"bookshelf": 1870,
 		"No": 870,
-		"title": "Maddesiz & Bilgi, Deger ve Sermaye",
+		"title": "Maddesiz - Bilgi, Deger ve Sermaye",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Andre Gorz",
 		"lang": "Turkce",
@@ -10453,14 +10546,15 @@
 	{
 		"bookshelf": 1872,
 		"No": 872,
-		"title": "Mahremiyet & Dijital Toplumda Ozel Hayat",
+		"title": "Mahremiyet - Dijital Toplumda Ozel Hayat",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Eirik Lokke",
 		"lang": "Turkce",
 		"page": 217,
 		"year": "2018",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1873,
@@ -10484,7 +10578,8 @@
 		"page": 424,
 		"year": "2018",
 		"notes": "B-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1875,
@@ -10501,7 +10596,7 @@
 	{
 		"bookshelf": 1876,
 		"No": 876,
-		"title": "Makinelerin Yaratici Gucu & Gelecekte Duygularimizi ve Dusuncelerimizi Yapay Zeka mi Belirleyecek?",
+		"title": "Makinelerin Yaratici Gucu - Gelecekte Duygularimizi ve Dusuncelerimizi Yapay Zeka mi Belirleyecek?",
 		"publisher": "Orenda Yayinevi",
 		"author": "Holger Volland",
 		"lang": "Turkce",
@@ -10513,7 +10608,7 @@
 	{
 		"bookshelf": 1877,
 		"No": 877,
-		"title": "Makinenin Kalbi & Yapay Duygusal Zeka Dunyasinda Gelecegimiz",
+		"title": "Makinenin Kalbi - Yapay Duygusal Zeka Dunyasinda Gelecegimiz",
 		"publisher": "Paloma Yayinlari",
 		"author": "Richard Yonck",
 		"lang": "Turkce",
@@ -10573,7 +10668,7 @@
 	{
 		"bookshelf": 1882,
 		"No": 882,
-		"title": "Marka Kulturu & Seth Godin'den Malcolm Gladwell'e Bircok Ustanin Gorusu",
+		"title": "Marka Kulturu - Seth Godin'den Malcolm Gladwell'e Bircok Ustanin Gorusu",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Debbie Millman",
 		"lang": "Turkce",
@@ -10645,7 +10740,7 @@
 	{
 		"bookshelf": 1888,
 		"No": 888,
-		"title": "Master Algoritma & Yapay Ogrenme Hayatimizi Nasil Degistirecek?",
+		"title": "Master Algoritma - Yapay Ogrenme Hayatimizi Nasil Degistirecek?",
 		"publisher": "Paloma Yayinlari",
 		"author": "Pedro Domingos",
 		"lang": "Turkce",
@@ -10657,7 +10752,7 @@
 	{
 		"bookshelf": 1889,
 		"No": 889,
-		"title": "Mastermind & Sherlock Holmes Gibi Dusunmek",
+		"title": "Mastermind - Sherlock Holmes Gibi Dusunmek",
 		"publisher": "Domingo Yayinevi",
 		"author": "Maria Konnikova",
 		"lang": "Turkce",
@@ -10868,7 +10963,8 @@
 		"page": 256,
 		"year": "2019",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1907,
@@ -10945,7 +11041,7 @@
 	{
 		"bookshelf": 1913,
 		"No": 913,
-		"title": "Mikrobiyota Icimizdeki Mikroplar & Yasama Buyuleyici Bir Bakis",
+		"title": "Mikrobiyota Icimizdeki Mikroplar - Yasama Buyuleyici Bir Bakis",
 		"publisher": "Domingo Yayinevi",
 		"author": "Ed Yong",
 		"lang": "Turkce",
@@ -10957,7 +11053,7 @@
 	{
 		"bookshelf": 1914,
 		"No": 914,
-		"title": "Mikroplarinizla Tanisin & Minicik Yaratiklarin Devasa Etkisi",
+		"title": "Mikroplarinizla Tanisin - Minicik Yaratiklarin Devasa Etkisi",
 		"publisher": "Optimist Kitap",
 		"author": "Rob Knight",
 		"lang": "Turkce",
@@ -10981,7 +11077,7 @@
 	{
 		"bookshelf": 1916,
 		"No": 916,
-		"title": "Mindfulness & Zivanadan Cikmis Bir Dunyada Huzur Bulmak Icin 8 Haftalik Bir Rehber",
+		"title": "Mindfulness - Zivanadan Cikmis Bir Dunyada Huzur Bulmak Icin 8 Haftalik Bir Rehber",
 		"publisher": "Diyojen Yayincilik",
 		"author": "Mark Williams, Danny Penman",
 		"lang": "Turkce",
@@ -11029,7 +11125,7 @@
 	{
 		"bookshelf": 1920,
 		"No": 920,
-		"title": "Minimalizm & Anlamli Bir Yasam",
+		"title": "Minimalizm - Anlamli Bir Yasam",
 		"publisher": "Eksik Parca Yayinlari",
 		"author": "Joshua Fields Millburn , Ryan Nicodemus",
 		"lang": "Turkce",
@@ -11041,7 +11137,7 @@
 	{
 		"bookshelf": 1921,
 		"No": 921,
-		"title": "Minimalizm & Geriye Kalan Her Sey",
+		"title": "Minimalizm - Geriye Kalan Her Sey",
 		"publisher": "Eksik Parca Yayinlari",
 		"author": "Joshua Fields Millburn , Ryan Nicodemus",
 		"lang": "Turkce",
@@ -11053,7 +11149,7 @@
 	{
 		"bookshelf": 1922,
 		"No": 922,
-		"title": "Minimalizm: Insanlari Sev Esyalari Kullan & Cunku Tersi Asla Ise Yaramaz",
+		"title": "Minimalizm - Insanlari Sev Esyalari Kullan - Cunku Tersi Asla Ise Yaramaz",
 		"publisher": "Eksik Parca Yayinlari",
 		"author": "Joshua Fields Millburn , Ryan Nicodemus",
 		"lang": "Turkce",
@@ -11077,7 +11173,7 @@
 	{
 		"bookshelf": 1924,
 		"No": 924,
-		"title": "Mod Terapisi & Diger Yollardan Gitmek",
+		"title": "Mod Terapisi - Diger Yollardan Gitmek",
 		"publisher": "Psikonet Yayinlari",
 		"author": "Hannie van Genderen, Gitta Jacob, Laura Seebauer",
 		"lang": "Turkce",
@@ -11091,7 +11187,7 @@
 		"No": 925,
 		"title": "Moda",
 		"publisher": "Dost Kitabevi",
-		"author": "D. Waquet , M. Laporte",
+		"author": "D. Waquet, M. Laporte",
 		"lang": "Turkce",
 		"page": 142,
 		"year": "2011",
@@ -11173,7 +11269,7 @@
 	{
 		"bookshelf": 1932,
 		"No": 932,
-		"title": "Moda-loji & Moda Calismalarina Giris",
+		"title": "Moda-loji - Moda Calismalarina Giris",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Yuniya Kawamura",
 		"lang": "Turkce",
@@ -11192,7 +11288,8 @@
 		"page": 272,
 		"year": "2006",
 		"notes": "D-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1934,
@@ -11281,7 +11378,7 @@
 	{
 		"bookshelf": 1941,
 		"No": 941,
-		"title": "Modernligin Sosyolojisi & Ozgurluk ve Cezalandirma",
+		"title": "Modernligin Sosyolojisi - Ozgurluk ve Cezalandirma",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Peter Wagner",
 		"lang": "Turkce",
@@ -11300,7 +11397,8 @@
 		"page": 208,
 		"year": "2016",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1943,
@@ -11329,7 +11427,7 @@
 	{
 		"bookshelf": 1945,
 		"No": 945,
-		"title": "Mukemmel Olmamanin Hediyeleri & Olmaniz Gerektihini Ousundugunuz Kisiyi Birakin Oldugunuz Kisiyi Kucaklayin",
+		"title": "Mukemmel Olmamanin Hediyeleri - Olmaniz Gerektihini Ousundugunuz Kisiyi Birakin Oldugunuz Kisiyi Kucaklayin",
 		"publisher": "Butik Yayincilik",
 		"author": "Brene Brown",
 		"lang": "Turkce",
@@ -11401,7 +11499,7 @@
 	{
 		"bookshelf": 1951,
 		"No": 951,
-		"title": "Mutfak Sirlari & Ascilik Dunyasindan Mahrem Maceralar",
+		"title": "Mutfak Sirlari - Ascilik Dunyasindan Mahrem Maceralar",
 		"publisher": "Domingo Yayinevi",
 		"author": "Anthony Bourdain",
 		"lang": "Turkce",
@@ -11413,7 +11511,7 @@
 	{
 		"bookshelf": 1952,
 		"No": 952,
-		"title": "Mutlu Beyin & Mutluluk Hormonlarinizi Yonetin",
+		"title": "Mutlu Beyin - Mutluluk Hormonlarinizi Yonetin",
 		"publisher": "Aganta Kitap",
 		"author": "Loretta Graziano Breuning",
 		"lang": "Turkce",
@@ -11425,7 +11523,7 @@
 	{
 		"bookshelf": 1953,
 		"No": 953,
-		"title": "Mutlu Beyin: Mutluluk Nereden ve Nasil Gelir",
+		"title": "Mutlu Beyin - Mutluluk Nereden ve Nasil Gelir",
 		"publisher": "Nova Kitap",
 		"author": "Dean Burnett",
 		"lang": "Turkce",
@@ -11444,7 +11542,8 @@
 		"page": 200,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1955,
@@ -11461,7 +11560,7 @@
 	{
 		"bookshelf": 1956,
 		"No": 956,
-		"title": "Mutlu Yurttas Imalati & Mutluluk Endustrisi Hayatimizi Nasil Kontrol Ediyor?",
+		"title": "Mutlu Yurttas Imalati - Mutluluk Endustrisi Hayatimizi Nasil Kontrol Ediyor?",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Eva Illouz, Edgar Cabanas",
 		"lang": "Turkce",
@@ -11504,7 +11603,8 @@
 		"page": 400,
 		"year": "2010",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1960,
@@ -11569,7 +11669,7 @@
 	{
 		"bookshelf": 1965,
 		"No": 965,
-		"title": "Mutluluk Arayisi & Doyuma Yonelik Farkindalik Adimlari",
+		"title": "Mutluluk Arayisi - Doyuma Yonelik Farkindalik Adimlari",
 		"publisher": "The Kitap",
 		"author": "Mike Annesley",
 		"lang": "Turkce",
@@ -11581,7 +11681,7 @@
 	{
 		"bookshelf": 1966,
 		"No": 966,
-		"title": "Mutluluk Avantaji & Pozitif Dusunme Yontemiyle Basariyla Yakalamak",
+		"title": "Mutluluk Avantaji - Pozitif Dusunme Yontemiyle Basariyla Yakalamak",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Shawn Achor",
 		"lang": "Turkce",
@@ -11605,7 +11705,7 @@
 	{
 		"bookshelf": 1968,
 		"No": 968,
-		"title": "Mutluluk Ciddi Bir Sorundur & Insan Dogasi Onarim El Kitabi",
+		"title": "Mutluluk Ciddi Bir Sorundur - Insan Dogasi Onarim El Kitabi",
 		"publisher": "Butik Yayincilik",
 		"author": "Dennis Prager",
 		"lang": "Turkce",
@@ -11696,7 +11796,8 @@
 		"page": 296,
 		"year": "2009",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1976,
@@ -11713,7 +11814,7 @@
 	{
 		"bookshelf": 1977,
 		"No": 977,
-		"title": "Mutluluk Varsayimi & Modern Gercekligi Kadim Bilgelikte Bulmak",
+		"title": "Mutluluk Varsayimi - Modern Gercekligi Kadim Bilgelikte Bulmak",
 		"publisher": "Hil Yayinlari",
 		"author": "Jonathan Haidt",
 		"lang": "Turkce",
@@ -11737,7 +11838,7 @@
 	{
 		"bookshelf": 1979,
 		"No": 979,
-		"title": "Mutluluk… & Mutlu Olunacak 500 Sey",
+		"title": "Mutluluk… - Mutlu Olunacak 500 Sey",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Lisa Swerling, Ralph Lazar",
 		"lang": "Turkce",
@@ -11749,7 +11850,7 @@
 	{
 		"bookshelf": 1980,
 		"No": 980,
-		"title": "Mutsuz Olmak & Bir Yureklendirme",
+		"title": "Mutsuz Olmak - Bir Yureklendirme",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Wilhelm Schmid",
 		"lang": "Turkce",
@@ -11761,7 +11862,7 @@
 	{
 		"bookshelf": 1981,
 		"No": 981,
-		"title": "Mutsuzlugun Kokenleri & Kisisel Buhranlara Yeni Bir Yaklasim",
+		"title": "Mutsuzlugun Kokenleri - Kisisel Buhranlara Yeni Bir Yaklasim",
 		"publisher": "Okuyan Us Yayincilik",
 		"author": "David Smail",
 		"lang": "Turkce",
@@ -11804,12 +11905,13 @@
 		"page": 272,
 		"year": "2021",
 		"notes": "A-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1985,
 		"No": 985,
-		"title": "Narsisizm Kulturu & Beklentilerin Azaldigi Bir Cagda Amerikan Hayati",
+		"title": "Narsisizm Kulturu - Beklentilerin Azaldigi Bir Cagda Amerikan Hayati",
 		"publisher": "Alfa Yayinlari",
 		"author": "Christopher Lasch",
 		"lang": "Turkce",
@@ -11917,7 +12019,7 @@
 	{
 		"bookshelf": 1994,
 		"No": 994,
-		"title": "Ne Adam Ne Hayvan & Feminizm ve Hayvanlarin Savunulmasi",
+		"title": "Ne Adam Ne Hayvan - Feminizm ve Hayvanlarin Savunulmasi",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Carol J. Adams",
 		"lang": "Turkce",
@@ -11929,7 +12031,7 @@
 	{
 		"bookshelf": 1995,
 		"No": 995,
-		"title": "Ne Kadari Yeterli? & Para Sevgisi ve Iyi Yasam Mucadelesi",
+		"title": "Ne Kadari Yeterli? - Para Sevgisi ve Iyi Yasam Mucadelesi",
 		"publisher": "Istanbul Bilgi Universitesi",
 		"author": "Robert Skidelsky, Edward Skidelsky",
 		"lang": "Turkce",
@@ -11941,7 +12043,7 @@
 	{
 		"bookshelf": 1996,
 		"No": 996,
-		"title": "Ne Okursan O Olursun & Iyi Okuma icin Uygulamali Bir Kilavuz",
+		"title": "Ne Okursan O Olursun - Iyi Okuma icin Uygulamali Bir Kilavuz",
 		"publisher": "Antre",
 		"author": "Robert Diyanni",
 		"lang": "Turkce",
@@ -11953,7 +12055,7 @@
 	{
 		"bookshelf": 1997,
 		"No": 997,
-		"title": "Ne Oldu Sana? & Travma, Psikolojik Dayaniklilik ve Iyiledme Uzerine Sohbetler",
+		"title": "Ne Oldu Sana? - Travma, Psikolojik Dayaniklilik ve Iyiledme Uzerine Sohbetler",
 		"publisher": "Koridor Yayincilik",
 		"author": "Bruce D. Perry, Oprah Winfrey",
 		"lang": "Turkce",
@@ -11989,7 +12091,7 @@
 	{
 		"bookshelf": 2000,
 		"No": 1000,
-		"title": "Neden Ozur Dilemiyorsun? & Buyuk Ihanetleri ve Gundelik Yaralari Iyilestirmek",
+		"title": "Neden Ozur Dilemiyorsun? - Buyuk Ihanetleri ve Gundelik Yaralari Iyilestirmek",
 		"publisher": "Varlik Yayinlari",
 		"author": "Harriet Lerner",
 		"lang": "Turkce",
@@ -12073,14 +12175,15 @@
 	{
 		"bookshelf": 2007,
 		"No": 1007,
-		"title": "Neden Vegan? & Etik Beslenme",
+		"title": "Neden Vegan? - Etik Beslenme",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Peter Singer",
 		"lang": "Turkce",
 		"page": 96,
 		"year": "2022",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2008,
@@ -12092,7 +12195,8 @@
 		"page": 80,
 		"year": "2022",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2009,
@@ -12121,14 +12225,15 @@
 	{
 		"bookshelf": 2011,
 		"No": 1011,
-		"title": "Nefes: Kayip Bir Sanatin Yeni Bilimi",
+		"title": "Nefes - Kayip Bir Sanatin Yeni Bilimi",
 		"publisher": "Mundi",
 		"author": "James Nestor",
 		"lang": "Turkce",
 		"page": 304,
 		"year": "2021",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2012,
@@ -12200,7 +12305,8 @@
 		"page": 384,
 		"year": "2015",
 		"notes": "D-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2018,
@@ -12217,7 +12323,7 @@
 	{
 		"bookshelf": 2019,
 		"No": 1019,
-		"title": "Niksen & Hollandalilarin Hicbir Sey Yapmama Sanati",
+		"title": "Niksen - Hollandalilarin Hicbir Sey Yapmama Sanati",
 		"publisher": "Profil Kitap",
 		"author": "Olga Mecking",
 		"lang": "Turkce",
@@ -12277,7 +12383,7 @@
 	{
 		"bookshelf": 2024,
 		"No": 1024,
-		"title": "O'nun Sozleri & Yasaminizda Fark Yaratan Sozler",
+		"title": "O'nun Sozleri - Yasaminizda Fark Yaratan Sozler",
 		"publisher": "Alfa Yayinlari",
 		"author": "Oprah Winfrey",
 		"lang": "Turkce",
@@ -12361,7 +12467,7 @@
 	{
 		"bookshelf": 2031,
 		"No": 1031,
-		"title": "Okuma Illeti & Yalniz Basina Yapilan Ahlaksizlik",
+		"title": "Okuma Illeti - Yalniz Basina Yapilan Ahlaksizlik",
 		"publisher": "Paloma Yayinlari",
 		"author": "Mikita Brottman",
 		"lang": "Turkce",
@@ -12385,7 +12491,7 @@
 	{
 		"bookshelf": 2033,
 		"No": 1033,
-		"title": "Okumanin Riski: Edebiyat Kendimizi ve Dunyamizi Anlamamiza Nasil Yardim Eder?",
+		"title": "Okumanin Riski - Edebiyat Kendimizi ve Dunyamizi Anlamamiza Nasil Yardim Eder?",
 		"publisher": "Kafka Kitap",
 		"author": "Robert P. Waxler",
 		"lang": "Turkce",
@@ -12421,7 +12527,7 @@
 	{
 		"bookshelf": 2036,
 		"No": 1036,
-		"title": "Olani Sevmek & Yasaminizi Degistirebilecek 4 Soru",
+		"title": "Olani Sevmek - Yasaminizi Degistirebilecek 4 Soru",
 		"publisher": "Butik Yayincilik",
 		"author": "Byron Katie",
 		"lang": "Turkce",
@@ -12440,12 +12546,13 @@
 		"page": 72,
 		"year": "2023",
 		"notes": "B-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2038,
 		"No": 1038,
-		"title": "Onlar Goctu Buradan & Turkiye'nin Yeni Goc Nesli",
+		"title": "Onlar Goctu Buradan - Turkiye'nin Yeni Goc Nesli",
 		"publisher": "Mundi",
 		"author": "Evrim Kuran",
 		"lang": "Turkce",
@@ -12493,7 +12600,7 @@
 	{
 		"bookshelf": 2042,
 		"No": 1042,
-		"title": "Organizasyonlar: Teori ve Davranis",
+		"title": "Organizasyonlar - Teori ve Davranis",
 		"publisher": "Bilim Teknik Yayinevi",
 		"author": "Herbert G. Hicks, C. Ray Gullett",
 		"lang": "Turkce",
@@ -12637,19 +12744,20 @@
 	{
 		"bookshelf": 2054,
 		"No": 1054,
-		"title": "Orjinaller & Geleneklere Uymayanlar Dunyayi Nasil Ileri Tasiyor?",
+		"title": "Orjinaller - Geleneklere Uymayanlar Dunyayi Nasil Ileri Tasiyor?",
 		"publisher": "Modus Kitap",
 		"author": "Adam Grant",
 		"lang": "Turkce",
 		"page": 268,
 		"year": "2017",
 		"notes": "A-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2055,
 		"No": 1055,
-		"title": "Ortalamanin Sonu & Ayni Olmaya Deger Veren Bir Dunyada Basarili Olmanin Yolu",
+		"title": "Ortalamanin Sonu - Ayni Olmaya Deger Veren Bir Dunyada Basarili Olmanin Yolu",
 		"publisher": "Paloma Yayinlari",
 		"author": "Todd Rose",
 		"lang": "Turkce",
@@ -12673,19 +12781,20 @@
 	{
 		"bookshelf": 2057,
 		"No": 1057,
-		"title": "Outliers (Cizginin Disindakiler) & Bazi Insanlar Neden Daha Basarili Olur?",
+		"title": "Outliers (Cizginin Disindakiler) - Bazi Insanlar Neden Daha Basarili Olur?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Malcolm Gladwell",
 		"lang": "Turkce",
 		"page": 224,
 		"year": "2011",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2058,
 		"No": 1058,
-		"title": "Oz & Egitimde ve Hayatta Tutku Yaratmak",
+		"title": "Oz - Egitimde ve Hayatta Tutku Yaratmak",
 		"publisher": "Sola Unitas",
 		"author": "Ken Robinson",
 		"lang": "Turkce",
@@ -12697,7 +12806,7 @@
 	{
 		"bookshelf": 2059,
 		"No": 1059,
-		"title": "Oz Sefkat & Kendine Nazik Olmanin Kanitlanmia Gucu",
+		"title": "Oz Sefkat - Kendine Nazik Olmanin Kanitlanmia Gucu",
 		"publisher": "Diyojen Yayincilik",
 		"author": "Kristin Neff",
 		"lang": "Turkce",
@@ -12733,7 +12842,7 @@
 	{
 		"bookshelf": 2062,
 		"No": 1062,
-		"title": "Ozculuk: Daha Azin Disiplinli Arayisi",
+		"title": "Ozculuk - Daha Azin Disiplinli Arayisi",
 		"publisher": "Nova Kitap",
 		"author": "Greg McKeown",
 		"lang": "Turkce",
@@ -12781,7 +12890,7 @@
 	{
 		"bookshelf": 2066,
 		"No": 1066,
-		"title": "Ozgur ve Bedava: Internet Caginda Bilgi",
+		"title": "Ozgur ve Bedava - Internet Caginda Bilgi",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Cory Doctorow",
 		"lang": "Turkce",
@@ -12824,7 +12933,8 @@
 		"page": 96,
 		"year": "2023",
 		"notes": "A-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2070,
@@ -12841,7 +12951,7 @@
 	{
 		"bookshelf": 2071,
 		"No": 1071,
-		"title": "Pandemonimum & Retro-Orgut Kuramina Dogru",
+		"title": "Pandemonimum - Retro-Orgut Kuramina Dogru",
 		"publisher": "Paraf Kitabevi",
 		"author": "Gibson Burrell",
 		"lang": "Turkce",
@@ -12865,7 +12975,7 @@
 	{
 		"bookshelf": 2073,
 		"No": 1073,
-		"title": "Panzehir & Pozitif Dusunmeye Katlanamayanlar Icin Mutluluk",
+		"title": "Panzehir - Pozitif Dusunmeye Katlanamayanlar Icin Mutluluk",
 		"publisher": "Aylak Kitap",
 		"author": "Oliver Burkeman",
 		"lang": "Turkce",
@@ -12884,12 +12994,13 @@
 		"page": 160,
 		"year": "2013",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2075,
 		"No": 1075,
-		"title": "Paradoks & Bilimin En Buyuk Dokuz Bilmecesi",
+		"title": "Paradoks - Bilimin En Buyuk Dokuz Bilmecesi",
 		"publisher": "Domingo Yayinevi",
 		"author": "Jim Al-Khalili",
 		"lang": "Turkce",
@@ -12925,7 +13036,7 @@
 	{
 		"bookshelf": 2078,
 		"No": 1078,
-		"title": "Paralama Defteri & Her Yerde",
+		"title": "Paralama Defteri - Her Yerde",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Keri Smith",
 		"lang": "Turkce",
@@ -12973,7 +13084,7 @@
 	{
 		"bookshelf": 2082,
 		"No": 1082,
-		"title": "Paravatan & Neden Dunyayi Hirsizlar ve Dolandiricilar Yonetiyor ve Onlardan Nasil Geri Aliriz",
+		"title": "Paravatan - Neden Dunyayi Hirsizlar ve Dolandiricilar Yonetiyor ve Onlardan Nasil Geri Aliriz",
 		"publisher": "Domingo Yayinevi",
 		"author": "Oliver Bullough",
 		"lang": "Turkce",
@@ -12997,7 +13108,7 @@
 	{
 		"bookshelf": 2084,
 		"No": 1084,
-		"title": "Parisli Kadinin Farki & Tarzini Bul",
+		"title": "Parisli Kadinin Farki - Tarzini Bul",
 		"publisher": "Epsilon Yayinevi",
 		"author": "Anne Berest, Audrey Diwan, Caroline de Maigret, Sophie Mas",
 		"lang": "Turkce",
@@ -13040,7 +13151,8 @@
 		"page": 358,
 		"year": "2013",
 		"notes": "D-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2088,
@@ -13076,7 +13188,8 @@
 		"page": 214,
 		"year": "2012",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2091,
@@ -13112,7 +13225,8 @@
 		"page": 360,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2094,
@@ -13129,7 +13243,7 @@
 	{
 		"bookshelf": 2095,
 		"No": 1095,
-		"title": "Piggle & Kucuk Bir Kiz Cocugunun Psikanalizle Tedavisinin Oykusu",
+		"title": "Piggle - Kucuk Bir Kiz Cocugunun Psikanalizle Tedavisinin Oykusu",
 		"publisher": "Yapi Kredi Yayinlari",
 		"author": "Donald W. Winnicott",
 		"lang": "Turkce",
@@ -13141,7 +13255,7 @@
 	{
 		"bookshelf": 2096,
 		"No": 1096,
-		"title": "Piramidin Altindaki Servet & Yoksullugu Refaha Donusturmek",
+		"title": "Piramidin Altindaki Servet - Yoksullugu Refaha Donusturmek",
 		"publisher": "Sistem Yayincilik",
 		"author": "C. K. Prahalad",
 		"lang": "Turkce",
@@ -13153,7 +13267,7 @@
 	{
 		"bookshelf": 2097,
 		"No": 1097,
-		"title": "Pis Isler & ABD’de Hayati Isler ve Esitsizligin Gizli Bedeli",
+		"title": "Pis Isler - ABD’de Hayati Isler ve Esitsizligin Gizli Bedeli",
 		"publisher": "Metis Yayinlari",
 		"author": "Eyal Press",
 		"lang": "Turkce",
@@ -13201,7 +13315,7 @@
 	{
 		"bookshelf": 2101,
 		"No": 1101,
-		"title": "Pomodoro Teknigi & Hayat Kurtaran Zaman Yonetimi Sistemi",
+		"title": "Pomodoro Teknigi - Hayat Kurtaran Zaman Yonetimi Sistemi",
 		"publisher": "Buzdagi Yayinlari",
 		"author": "Francesco Cirillo",
 		"lang": "Turkce",
@@ -13237,7 +13351,7 @@
 	{
 		"bookshelf": 2104,
 		"No": 1104,
-		"title": "Pozitivist Metodoloji ve Otesi & Arastirma Tasarimlari, Niteliksel ve Istatiksel Yontemler",
+		"title": "Pozitivist Metodoloji ve Otesi - Arastirma Tasarimlari, Niteliksel ve Istatiksel Yontemler",
 		"publisher": "Erk Yayinlari",
 		"author": "Irfan Erdogan",
 		"lang": "Turkce",
@@ -13273,7 +13387,7 @@
 	{
 		"bookshelf": 2107,
 		"No": 1107,
-		"title": "Proust Ve Murekkepbaligi: Okuyan Beynin Bilimi Ve Hikayesi",
+		"title": "Proust Ve Murekkepbaligi - Okuyan Beynin Bilimi Ve Hikayesi",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Maryanne Wolf",
 		"lang": "Turkce",
@@ -13304,7 +13418,8 @@
 		"page": 336,
 		"year": "2020",
 		"notes": "n/a",
-		"status": "Read"
+		"status": "Read",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2110,
@@ -13333,7 +13448,7 @@
 	{
 		"bookshelf": 2112,
 		"No": 1112,
-		"title": "Psiko 101 & Zihin Biliminde Hizlandirilmis Kurs",
+		"title": "Psiko 101 - Zihin Biliminde Hizlandirilmis Kurs",
 		"publisher": "Okuyan Us Yayincilik",
 		"author": "Paul Kleinman",
 		"lang": "Turkce",
@@ -13345,7 +13460,7 @@
 	{
 		"bookshelf": 2113,
 		"No": 1113,
-		"title": "Psiko-Lojik: Ruh Sagligi Neden Kotulesir ve Buna Nasil Anlam Verilir",
+		"title": "Psiko-Lojik - Ruh Sagligi Neden Kotulesir ve Buna Nasil Anlam Verilir",
 		"publisher": "Nova Kitap",
 		"author": "Dean Burnett",
 		"lang": "Turkce",
@@ -13369,7 +13484,7 @@
 	{
 		"bookshelf": 2115,
 		"No": 1115,
-		"title": "Psikolog ve Filozof & Bir Yasam Rehberi",
+		"title": "Psikolog ve Filozof - Bir Yasam Rehberi",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Julian Baggini, Antonia Macaro",
 		"lang": "Turkce",
@@ -13405,7 +13520,7 @@
 	{
 		"bookshelf": 2118,
 		"No": 1118,
-		"title": "Psikoloji 101 & Yasantimizi Bicimlendirmis 101 Fikir, Kavram ve Kuram",
+		"title": "Psikoloji 101 - Yasantimizi Bicimlendirmis 101 Fikir, Kavram ve Kuram",
 		"publisher": "Orenda Yayinevi",
 		"author": "Adrian Furnham",
 		"lang": "Turkce",
@@ -13453,7 +13568,7 @@
 	{
 		"bookshelf": 2122,
 		"No": 1122,
-		"title": "Psikopolitika & Neoliberalizm ve Yeni Iktidar Teknikleri",
+		"title": "Psikopolitika - Neoliberalizm ve Yeni Iktidar Teknikleri",
 		"publisher": "Metis Yayinlari",
 		"author": "Byung-Chul Han",
 		"lang": "Turkce",
@@ -13465,7 +13580,7 @@
 	{
 		"bookshelf": 2123,
 		"No": 1123,
-		"title": "Psikotest & Kendinizi ve Arkadaslarinizi Analiz Edin",
+		"title": "Psikotest - Kendinizi ve Arkadaslarinizi Analiz Edin",
 		"publisher": "Buzdagi Yayinlari",
 		"author": "Kollektif",
 		"lang": "Turkce",
@@ -13496,12 +13611,13 @@
 		"page": 224,
 		"year": "2017",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2126,
 		"No": 1126,
-		"title": "Purdikkat: Dikkatinizi Nasil Toplar ve Hayatinizin Kontrolunu Elinize Alirsiniz?",
+		"title": "Purdikkat - Dikkatinizi Nasil Toplar ve Hayatinizin Kontrolunu Elinize Alirsiniz?",
 		"publisher": "Nova Kitap",
 		"author": "Nir Eyal",
 		"lang": "Turkce",
@@ -13513,7 +13629,7 @@
 	{
 		"bookshelf": 2127,
 		"No": 1127,
-		"title": "Quirkoloji & Gundelik Hayatin Tuhaf Bilimi",
+		"title": "Quirkoloji - Gundelik Hayatin Tuhaf Bilimi",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Richard Wiseman",
 		"lang": "Turkce",
@@ -13525,7 +13641,7 @@
 	{
 		"bookshelf": 2128,
 		"No": 1128,
-		"title": "Radikal Mutluluk: Musterek Nese Anlari",
+		"title": "Radikal Mutluluk - Musterek Nese Anlari",
 		"publisher": "Sel Yayincilik",
 		"author": "Lynne Segal",
 		"lang": "Turkce",
@@ -13544,7 +13660,8 @@
 		"page": 124,
 		"year": "2016",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2130,
@@ -13597,7 +13714,7 @@
 	{
 		"bookshelf": 2134,
 		"No": 1134,
-		"title": "Rekabette Ustunlugun Sirri: Insan",
+		"title": "Rekabette Ustunlugun Sirri - Insan",
 		"publisher": "Sabah Kitaplari",
 		"author": "Jefferey Pfeffer",
 		"lang": "Turkce",
@@ -13609,7 +13726,7 @@
 	{
 		"bookshelf": 2135,
 		"No": 1135,
-		"title": "Reklam & Zekayi Sihre Donusturmek",
+		"title": "Reklam - Zekayi Sihre Donusturmek",
 		"publisher": "MediaCat Kitaplari",
 		"author": "John Hegarty",
 		"lang": "Turkce",
@@ -13657,7 +13774,7 @@
 	{
 		"bookshelf": 2139,
 		"No": 1139,
-		"title": "Reset At: Video Oyun Sektorundeki Cokus ve Toparlanmalar",
+		"title": "Reset At - Video Oyun Sektorundeki Cokus ve Toparlanmalar",
 		"publisher": "Ithaki Yayinlari",
 		"author": "Jason Schreier",
 		"lang": "Turkce",
@@ -13693,7 +13810,7 @@
 	{
 		"bookshelf": 2142,
 		"No": 1142,
-		"title": "Robotlari Beklerken Neler Olacak? & Insan-Robot Is Birliginin Gelecegi",
+		"title": "Robotlari Beklerken Neler Olacak? - Insan-Robot Is Birliginin Gelecegi",
 		"publisher": "Timas Yayinlari",
 		"author": "Julie Shah, Laura Major",
 		"lang": "Turkce",
@@ -13705,7 +13822,7 @@
 	{
 		"bookshelf": 2143,
 		"No": 1143,
-		"title": "Robotlarin Iktidari & Yapay Zeka Dunyaya Nasil Hukmedecek?",
+		"title": "Robotlarin Iktidari - Yapay Zeka Dunyaya Nasil Hukmedecek?",
 		"publisher": "Kronik Kitap",
 		"author": "Martin Ford",
 		"lang": "Turkce",
@@ -13717,19 +13834,20 @@
 	{
 		"bookshelf": 2144,
 		"No": 1144,
-		"title": "Robotlarin Yukselisi & Yapay Zeka ve Issiz Bir Gelecek Tehlikesi",
+		"title": "Robotlarin Yukselisi - Yapay Zeka ve Issiz Bir Gelecek Tehlikesi",
 		"publisher": "Kronik Kitap",
 		"author": "Martin Ford",
 		"lang": "Turkce",
 		"page": 336,
 		"year": "2018",
 		"notes": "C-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2145,
 		"No": 1145,
-		"title": "Roma & Bilmek Istediginiz Her Sey",
+		"title": "Roma - Bilmek Istediginiz Her Sey",
 		"publisher": "Ntv Yayinlari",
 		"author": "Klay Lamprell",
 		"lang": "Turkce",
@@ -13753,7 +13871,7 @@
 	{
 		"bookshelf": 2147,
 		"No": 1147,
-		"title": "Ruhsal Psikoloji & On Iki Temel Yasam Dersi",
+		"title": "Ruhsal Psikoloji - On Iki Temel Yasam Dersi",
 		"publisher": "Akasa Yayinlari",
 		"author": "Steve Rother",
 		"lang": "Turkce",
@@ -13777,7 +13895,7 @@
 	{
 		"bookshelf": 2149,
 		"No": 1149,
-		"title": "Ruhun Arayisi - Kapitalizmin Otesi: Modern Dunyada Amac Arayisi",
+		"title": "Ruhun Arayisi - Kapitalizmin Otesi - Modern Dunyada Amac Arayisi",
 		"publisher": "Boyner Holding Yayinlari",
 		"author": "Charles Handy",
 		"lang": "Turkce",
@@ -13849,14 +13967,15 @@
 	{
 		"bookshelf": 2155,
 		"No": 1155,
-		"title": "Sacmaliklar Cagi & Modern Hayat Neden Mutlu Olmayi Zorlastiriyor?",
+		"title": "Sacmaliklar Cagi - Modern Hayat Neden Mutlu Olmayi Zorlastiriyor?",
 		"publisher": "Domingo Yayinevi",
 		"author": "Michael Foley",
 		"lang": "Turkce",
 		"page": 250,
 		"year": "2016",
 		"notes": "A-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2156,
@@ -13885,7 +14004,7 @@
 	{
 		"bookshelf": 2158,
 		"No": 1158,
-		"title": "Sadeles Rahatla & Japon Minimalizmi Danshari",
+		"title": "Sadeles Rahatla - Japon Minimalizmi Danshari",
 		"publisher": "Dogan Novus",
 		"author": "Fumio Sasaki",
 		"lang": "Turkce",
@@ -13964,7 +14083,8 @@
 		"page": 415,
 		"year": "2012",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2165,
@@ -13981,7 +14101,7 @@
 	{
 		"bookshelf": 2166,
 		"No": 1166,
-		"title": "Saklanacak Yer Yok & Edward Snowden Ulusal Guuenlik Dairesi ve ABD Gozetleme Devleti",
+		"title": "Saklanacak Yer Yok - Edward Snowden Ulusal Guuenlik Dairesi ve ABD Gozetleme Devleti",
 		"publisher": "Profil Kitap",
 		"author": "Gleen Greenwald",
 		"lang": "Turkce",
@@ -14048,7 +14168,8 @@
 		"page": 316,
 		"year": "2009",
 		"notes": "C-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2172,
@@ -14113,7 +14234,7 @@
 	{
 		"bookshelf": 2177,
 		"No": 1177,
-		"title": "Satin Alma Translari & Satis ve Pazarlamanin Yeni Psikolojisi",
+		"title": "Satin Alma Translari - Satis ve Pazarlamanin Yeni Psikolojisi",
 		"publisher": "Optimist Kitap",
 		"author": "Joe Vitale",
 		"lang": "Turkce",
@@ -14125,7 +14246,7 @@
 	{
 		"bookshelf": 2178,
 		"No": 1178,
-		"title": "Satisin Yeni Kurallari & Insanlari Harekete Gecirmenin Sirlari",
+		"title": "Satisin Yeni Kurallari - Insanlari Harekete Gecirmenin Sirlari",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Daniel H. Pink",
 		"lang": "Turkce",
@@ -14173,7 +14294,7 @@
 	{
 		"bookshelf": 2182,
 		"No": 1182,
-		"title": "Savasin Gelecegi & 21. Yuzyilda Guc, Teknoloji ve Amerikan Dunya Egemenligi",
+		"title": "Savasin Gelecegi - 21. Yuzyilda Guc, Teknoloji ve Amerikan Dunya Egemenligi",
 		"publisher": "Pegasus Yayinlari",
 		"author": "George Friedman, Meredith Friedman",
 		"lang": "Turkce",
@@ -14185,7 +14306,7 @@
 	{
 		"bookshelf": 2183,
 		"No": 1183,
-		"title": "Sayisal Zeka & Matematik ve Fende Basarili Olmanin Sirlari (Cebirden Kalmis Olsaniz Bile)",
+		"title": "Sayisal Zeka - Matematik ve Fende Basarili Olmanin Sirlari (Cebirden Kalmis Olsaniz Bile)",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Barbara Oakley",
 		"lang": "Turkce",
@@ -14197,7 +14318,7 @@
 	{
 		"bookshelf": 2184,
 		"No": 1184,
-		"title": "Sazan Avi & Manipulasyon ve Hile Ekonomisi",
+		"title": "Sazan Avi - Manipulasyon ve Hile Ekonomisi",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Robert J. Shiller, George A. Akerlof",
 		"lang": "Turkce",
@@ -14228,7 +14349,8 @@
 		"page": 144,
 		"year": "2010",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2187,
@@ -14257,7 +14379,7 @@
 	{
 		"bookshelf": 2189,
 		"No": 1189,
-		"title": "Sema Terapi: Ayirici Ozellikler",
+		"title": "Sema Terapi - Ayirici Ozellikler",
 		"publisher": "Psikonet Yayinlari",
 		"author": "Jeffrey E. Young, Eshkol Rafaeli, David P. Bernstein",
 		"lang": "Turkce",
@@ -14312,7 +14434,8 @@
 		"page": 280,
 		"year": "2016",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2194,
@@ -14353,7 +14476,7 @@
 	{
 		"bookshelf": 2197,
 		"No": 1197,
-		"title": "Serbest Dusus & Amerika, Serbest Piyasalar ve Dunya Ekonomisinin Cokusu",
+		"title": "Serbest Dusus - Amerika, Serbest Piyasalar ve Dunya Ekonomisinin Cokusu",
 		"publisher": "Gundogan Yayinlari",
 		"author": "Joseph E. Stiglitz",
 		"lang": "Turkce",
@@ -14372,7 +14495,8 @@
 		"page": 368,
 		"year": "2004",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2199,
@@ -14413,14 +14537,15 @@
 	{
 		"bookshelf": 2202,
 		"No": 1202,
-		"title": "Sevdiklerimiz, Tiksindiklerimiz, Yediklerimiz & Hayvanlar Hakkinda Tutarli Dusunmek Neden Bu Kadar Zordur?",
+		"title": "Sevdiklerimiz, Tiksindiklerimiz, Yediklerimiz - Hayvanlar Hakkinda Tutarli Dusunmek Neden Bu Kadar Zordur?",
 		"publisher": "Yapi Kredi Yayinlari",
 		"author": "Hal Herzog",
 		"lang": "Turkce",
 		"page": 392,
 		"year": "2019",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2203,
@@ -14468,7 +14593,8 @@
 		"page": 311,
 		"year": "2021",
 		"notes": "A-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2207,
@@ -14509,7 +14635,7 @@
 	{
 		"bookshelf": 2210,
 		"No": 1210,
-		"title": "Shinrin Yoku & Orman Banyosu & Doganin Iyilestirici Gucu",
+		"title": "Shinrin Yoku - Orman Banyosu - Doganin Iyilestirici Gucu",
 		"publisher": "Indigo Kitap",
 		"author": "Francesc Miralles, Hector Garcia",
 		"lang": "Turkce",
@@ -14557,7 +14683,7 @@
 	{
 		"bookshelf": 2214,
 		"No": 1214,
-		"title": "Sifa & Zihnin Iyilestirici Gucune Dair Bilimsel Bir Yolculuk",
+		"title": "Sifa - Zihnin Iyilestirici Gucune Dair Bilimsel Bir Yolculuk",
 		"publisher": "Domingo Yayinevi",
 		"author": "Jo Marchant",
 		"lang": "Turkce",
@@ -14629,7 +14755,7 @@
 	{
 		"bookshelf": 2220,
 		"No": 1220,
-		"title": "Simdi Anladim! & Perakende ve Kisitlar Teorisi",
+		"title": "Simdi Anladim! - Perakende ve Kisitlar Teorisi",
 		"publisher": "Optimist Kitap",
 		"author": "Eliyahu M. Goldratt",
 		"lang": "Turkce",
@@ -14672,7 +14798,8 @@
 		"page": 248,
 		"year": "2001",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2224,
@@ -14732,7 +14859,8 @@
 		"page": 264,
 		"year": "2020",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2229,
@@ -14749,7 +14877,7 @@
 	{
 		"bookshelf": 2230,
 		"No": 1230,
-		"title": "Sinirsiz Kaynak & Sinirli Bir Gezegende Fikirlerin Gucu",
+		"title": "Sinirsiz Kaynak - Sinirli Bir Gezegende Fikirlerin Gucu",
 		"publisher": "Nail Kitabevi Yayinlari",
 		"author": "Ramez Naam",
 		"lang": "Turkce",
@@ -14761,7 +14889,7 @@
 	{
 		"bookshelf": 2231,
 		"No": 1231,
-		"title": "Sinirsiz Zihin: Sinirlari Asarak Ogren, Yonet Ve Yasa",
+		"title": "Sinirsiz Zihin - Sinirlari Asarak Ogren, Yonet Ve Yasa",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Jo Boaler",
 		"lang": "Turkce",
@@ -14773,7 +14901,7 @@
 	{
 		"bookshelf": 2232,
 		"No": 1232,
-		"title": "Sinyal ve Parazit: Neden Bazi Tahminler Tutar, Bazilari Tutmaz",
+		"title": "Sinyal ve Parazit - Neden Bazi Tahminler Tutar, Bazilari Tutmaz",
 		"publisher": "Epsilon Yayinevi",
 		"author": "Nate Silver",
 		"lang": "Turkce",
@@ -14797,7 +14925,7 @@
 	{
 		"bookshelf": 2234,
 		"No": 1234,
-		"title": "Siradisi Terapi & Milton H. Erickson Psikiyatrik Teknikleri",
+		"title": "Siradisi Terapi - Milton H. Erickson Psikiyatrik Teknikleri",
 		"publisher": "Yol Yayinlari",
 		"author": "Jay Haley",
 		"lang": "Turkce",
@@ -14857,7 +14985,7 @@
 	{
 		"bookshelf": 2239,
 		"No": 1239,
-		"title": "Sirket ve Populer Kultur & Tuketim Psikolojisi ve Imaj Yonetimi",
+		"title": "Sirket ve Populer Kultur - Tuketim Psikolojisi ve Imaj Yonetimi",
 		"publisher": "Beta Basim Yayim",
 		"author": "Ata Ozdemirci",
 		"lang": "Turkce",
@@ -14929,19 +15057,20 @@
 	{
 		"bookshelf": 2245,
 		"No": 1245,
-		"title": "Siyah Kugu & Olasiliksiz Gorunenin Etkisi",
+		"title": "Siyah Kugu - Olasiliksiz Gorunenin Etkisi",
 		"publisher": "Varlik Yayinlari",
 		"author": "Nassim Nicholas Taleb",
 		"lang": "Turkce",
 		"page": 511,
 		"year": "2011",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2246,
 		"No": 1246,
-		"title": "Siyaset Felsefesine Giris & Birey, Toplum, Devlet ve Uluslararasi Iliskiler Baglaminda Siyasi Ideolojiler",
+		"title": "Siyaset Felsefesine Giris - Birey, Toplum, Devlet ve Uluslararasi Iliskiler Baglaminda Siyasi Ideolojiler",
 		"publisher": "Metropolis Yayincilik",
 		"author": "Alexander Moseley",
 		"lang": "Turkce",
@@ -14953,7 +15082,7 @@
 	{
 		"bookshelf": 2247,
 		"No": 1247,
-		"title": "Siyaset Nedir? & Temel Kavramlar ve Guncel Tartismalar",
+		"title": "Siyaset Nedir? - Temel Kavramlar ve Guncel Tartismalar",
 		"publisher": "Metropolis Yayincilik",
 		"author": "Iain Mackenzie",
 		"lang": "Turkce",
@@ -15001,14 +15130,15 @@
 	{
 		"bookshelf": 2251,
 		"No": 1251,
-		"title": "Small Data & Devasa Trendleri Aciga Cikaran Kucuk Ipuclari",
+		"title": "Small Data - Devasa Trendleri Aciga Cikaran Kucuk Ipuclari",
 		"publisher": "Optimist Kitap",
 		"author": "Martin Lindstrom",
 		"lang": "Turkce",
 		"page": 272,
 		"year": "2016",
 		"notes": "D-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2252,
@@ -15037,7 +15167,7 @@
 	{
 		"bookshelf": 2254,
 		"No": 1254,
-		"title": "Soguk Yakinliklar & Duygusal Kapitalizmin Sekillenmesi",
+		"title": "Soguk Yakinliklar - Duygusal Kapitalizmin Sekillenmesi",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Eva Illouz",
 		"lang": "Turkce",
@@ -15061,7 +15191,7 @@
 	{
 		"bookshelf": 2256,
 		"No": 1256,
-		"title": "Sok Doktrini & Felaket Kapitalizminin Yukselisi",
+		"title": "Sok Doktrini - Felaket Kapitalizminin Yukselisi",
 		"publisher": "Agora Kitapligi",
 		"author": "Naomi Klein",
 		"lang": "Turkce",
@@ -15109,26 +15239,28 @@
 	{
 		"bookshelf": 2260,
 		"No": 1260,
-		"title": "Son Icadimiz & Yapay Zeka ve Insanlik Caginin Sonu",
+		"title": "Son Icadimiz - Yapay Zeka ve Insanlik Caginin Sonu",
 		"publisher": "Pegasus Yayinlari",
 		"author": "James Barrat",
 		"lang": "Turkce",
 		"page": 336,
 		"year": "2020",
 		"notes": "B-1",
-		"status": "Read"
+		"status": "Read",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2261,
 		"No": 1261,
-		"title": "Sonsuz Dikkat Daginikligi & Gundelik Yasamda Sosyal Medyaya Odaklanmak",
+		"title": "Sonsuz Dikkat Daginikligi - Gundelik Yasamda Sosyal Medyaya Odaklanmak",
 		"publisher": "Sel Yayincilik",
 		"author": "Dominic Pettman",
 		"lang": "Turkce",
 		"page": 126,
 		"year": "2017",
 		"notes": "B-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2262,
@@ -15145,7 +15277,7 @@
 	{
 		"bookshelf": 2263,
 		"No": 1263,
-		"title": "Soru Kitabi & Nasil Bir Insansiniz?",
+		"title": "Soru Kitabi - Nasil Bir Insansiniz?",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Mikael Krogerus, Roman Tschappeler",
 		"lang": "Turkce",
@@ -15188,7 +15320,8 @@
 		"page": 392,
 		"year": "2012",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2267,
@@ -15253,7 +15386,7 @@
 	{
 		"bookshelf": 2272,
 		"No": 1272,
-		"title": "Sosyalizm 101 & Bolsevikler Ve Karl Marx’tan Demokratik Sosyalistlere Kadar Sosyalizm Hakkinda Bilmeniz Gereken Her Sey",
+		"title": "Sosyalizm 101 - Bolsevikler Ve Karl Marx’tan Demokratik Sosyalistlere Kadar Sosyalizm Hakkinda Bilmeniz Gereken Her Sey",
 		"publisher": "Say Yayinlari",
 		"author": "Kathleen Sears",
 		"lang": "Turkce",
@@ -15265,7 +15398,7 @@
 	{
 		"bookshelf": 2273,
 		"No": 1273,
-		"title": "Sosyoloji & Baslangic Okumalari",
+		"title": "Sosyoloji - Baslangic Okumalari",
 		"publisher": "Say Yayinlari",
 		"author": "Anthony Giddens",
 		"lang": "Turkce",
@@ -15277,7 +15410,7 @@
 	{
 		"bookshelf": 2274,
 		"No": 1274,
-		"title": "Sosyoloji & Kisa Fakat Elestirel Bir Giris",
+		"title": "Sosyoloji - Kisa Fakat Elestirel Bir Giris",
 		"publisher": "Siyasal Kitabevi",
 		"author": "Anthony Giddens",
 		"lang": "Turkce",
@@ -15325,7 +15458,7 @@
 	{
 		"bookshelf": 2278,
 		"No": 1278,
-		"title": "Sozcuklerdir Butun Derdim: Hayat ve Kitaplar Uzerine Yazilar",
+		"title": "Sozcuklerdir Butun Derdim - Hayat ve Kitaplar Uzerine Yazilar",
 		"publisher": "Hep Kitap",
 		"author": "Ursula K. Le Guin",
 		"lang": "Turkce",
@@ -15337,7 +15470,7 @@
 	{
 		"bookshelf": 2279,
 		"No": 1279,
-		"title": "Spirituel Yasalar & Dunya'daki Cennetin Anahtari Elinizde...",
+		"title": "Spirituel Yasalar - Dunya'daki Cennetin Anahtari Elinizde...",
 		"publisher": "Maya Kitap",
 		"author": "Diana Cooper",
 		"lang": "Turkce",
@@ -15433,7 +15566,7 @@
 	{
 		"bookshelf": 2287,
 		"No": 1287,
-		"title": "Steve Jobs - Apple & Dev Bir Markanin Yaraticisinin Inanilmaz Hikayesi",
+		"title": "Steve Jobs - Apple - Dev Bir Markanin Yaraticisinin Inanilmaz Hikayesi",
 		"publisher": "Yakamoz Yayincilik",
 		"author": "Jeffrey S. Young",
 		"lang": "Turkce",
@@ -15445,7 +15578,7 @@
 	{
 		"bookshelf": 2288,
 		"No": 1288,
-		"title": "Steve Jobs Olmak & Kendini Bilmez Bir Kustahin, Vizyoner Bir Lidere Donusumu",
+		"title": "Steve Jobs Olmak - Kendini Bilmez Bir Kustahin, Vizyoner Bir Lidere Donusumu",
 		"publisher": "Timas Yayinlari",
 		"author": "Brent Schlender, Rick Tetzeli",
 		"lang": "Turkce",
@@ -15493,7 +15626,7 @@
 	{
 		"bookshelf": 2292,
 		"No": 1292,
-		"title": "Stratejik Karar Kitabi & Stratejik Dusunme Icin Elli Model",
+		"title": "Stratejik Karar Kitabi - Stratejik Dusunme Icin Elli Model",
 		"publisher": "Brandage Yayinlari",
 		"author": "Mikael Krogerus, Roman Tschappeler",
 		"lang": "Turkce",
@@ -15517,7 +15650,7 @@
 	{
 		"bookshelf": 2294,
 		"No": 1294,
-		"title": "Su Hayatta Kac Arkadas Lazim? & Dunbar Sayisi ve Diger Evrimsel Acayiplikler",
+		"title": "Su Hayatta Kac Arkadas Lazim? - Dunbar Sayisi ve Diger Evrimsel Acayiplikler",
 		"publisher": "Ntv Yayinlari",
 		"author": "Robin Dunbar",
 		"lang": "Turkce",
@@ -15541,7 +15674,7 @@
 	{
 		"bookshelf": 2296,
 		"No": 1296,
-		"title": "Subliminal & Bilincdisiniz Davranislarinizi Nasil Yonetir?",
+		"title": "Subliminal - Bilincdisiniz Davranislarinizi Nasil Yonetir?",
 		"publisher": "Okuyan Us Yayincilik",
 		"author": "Leonard Mlodinow",
 		"lang": "Turkce",
@@ -15553,7 +15686,7 @@
 	{
 		"bookshelf": 2297,
 		"No": 1297,
-		"title": "Suc & Bir Ceza Avukatindan Gercek Hikayeler",
+		"title": "Suc - Bir Ceza Avukatindan Gercek Hikayeler",
 		"publisher": "Ntv Yayinlari",
 		"author": "Ferdinand von Schirach",
 		"lang": "Turkce",
@@ -15565,7 +15698,7 @@
 	{
 		"bookshelf": 2298,
 		"No": 1298,
-		"title": "Suc II & Bir Ceza Avukatindan Gercek Hikayeler",
+		"title": "Suc II - Bir Ceza Avukatindan Gercek Hikayeler",
 		"publisher": "Ntv Yayinlari",
 		"author": "Ferdinand von Schirach",
 		"lang": "Turkce",
@@ -15637,7 +15770,7 @@
 	{
 		"bookshelf": 2304,
 		"No": 1304,
-		"title": "Super Zeka: Yapay Zeka Uygulamalari, Tehlikeler Ve Stratejiler",
+		"title": "Super Zeka - Yapay Zeka Uygulamalari, Tehlikeler Ve Stratejiler",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Nick Bostrom",
 		"lang": "Turkce",
@@ -15685,7 +15818,7 @@
 	{
 		"bookshelf": 2308,
 		"No": 1308,
-		"title": "Suru & Kitle Davranisi Nasil Yonetilir? Nasil Degistirilir?",
+		"title": "Suru - Kitle Davranisi Nasil Yonetilir? Nasil Degistirilir?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Mark Earls",
 		"lang": "Turkce",
@@ -15721,14 +15854,15 @@
 	{
 		"bookshelf": 2311,
 		"No": 1311,
-		"title": "Tabagindaki Yuz & Gida Hakkindaki Gercekler",
+		"title": "Tabagindaki Yuz - Gida Hakkindaki Gercekler",
 		"publisher": "Paloma Yayinlari",
 		"author": "Jeffrey Moussaieff Masson",
 		"lang": "Turkce",
 		"page": 288,
 		"year": "2015",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2312,
@@ -15745,7 +15879,7 @@
 	{
 		"bookshelf": 2313,
 		"No": 1313,
-		"title": "Takintilarla Basa Cikma & Obsesif Kompulsif Bozuklugunuzu Kontrol Altina Almanin Yollari",
+		"title": "Takintilarla Basa Cikma - Obsesif Kompulsif Bozuklugunuzu Kontrol Altina Almanin Yollari",
 		"publisher": "Psikonet Yayinlari",
 		"author": "Christine Purdon, David A. Clark",
 		"lang": "Turkce",
@@ -15913,7 +16047,7 @@
 	{
 		"bookshelf": 2327,
 		"No": 1327,
-		"title": "Taslar Yerinden Oynarken & Dijital Pazarlamanin Kurallari",
+		"title": "Taslar Yerinden Oynarken - Dijital Pazarlamanin Kurallari",
 		"publisher": "Ceo Plus",
 		"author": "Fatos Karahasan",
 		"lang": "Turkce",
@@ -15925,7 +16059,7 @@
 	{
 		"bookshelf": 2328,
 		"No": 1328,
-		"title": "TED Gibi Konus & Dunyanin En Iyi Beyinlerine Gore Topluluk Onunde Konusmanin 9 Sirri",
+		"title": "TED Gibi Konus - Dunyanin En Iyi Beyinlerine Gore Topluluk Onunde Konusmanin 9 Sirri",
 		"publisher": "Aganta Kitap",
 		"author": "Carmine Gallo",
 		"lang": "Turkce",
@@ -15961,7 +16095,7 @@
 	{
 		"bookshelf": 2331,
 		"No": 1331,
-		"title": "Teknoloji & Kisa Tarihce",
+		"title": "Teknoloji - Kisa Tarihce",
 		"publisher": "Ntv Yayinlari",
 		"author": "Paul Beaupere, Anne Sophie Cayrey",
 		"lang": "Turkce",
@@ -15973,14 +16107,15 @@
 	{
 		"bookshelf": 2332,
 		"No": 1332,
-		"title": "Teknolojinin Dogasi & Nedir ve Nasil Evrilir",
+		"title": "Teknolojinin Dogasi - Nedir ve Nasil Evrilir",
 		"publisher": "Optimist Kitap",
 		"author": "Brian Arthur",
 		"lang": "Turkce",
 		"page": 260,
 		"year": "2011",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2333,
@@ -15992,7 +16127,8 @@
 		"page": 224,
 		"year": "2018",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2334,
@@ -16129,7 +16265,7 @@
 	{
 		"bookshelf": 2345,
 		"No": 1345,
-		"title": "Tesekkur Ekonomisi & Musteri Bagliligi Yaratmak Icin Sosyal Medyayi Nasil Kullanmalisiniz?",
+		"title": "Tesekkur Ekonomisi - Musteri Bagliligi Yaratmak Icin Sosyal Medyayi Nasil Kullanmalisiniz?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Gary Vaynerchuk",
 		"lang": "Turkce",
@@ -16165,14 +16301,15 @@
 	{
 		"bookshelf": 2348,
 		"No": 1348,
-		"title": "The Second Machine Age & Akilli Teknolojiler Devrinde Calisma, Ilerleme ve Refah",
+		"title": "The Second Machine Age - Akilli Teknolojiler Devrinde Calisma, Ilerleme ve Refah",
 		"publisher": "Optimist Kitap",
 		"author": "Erik Brynjolfsson, Andrew Mcafee",
 		"lang": "Turkce",
 		"page": 336,
 		"year": "2015",
 		"notes": "D-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2349,
@@ -16232,7 +16369,8 @@
 		"page": 416,
 		"year": "2021",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2354,
@@ -16249,7 +16387,7 @@
 	{
 		"bookshelf": 2355,
 		"No": 1355,
-		"title": "Toplumsal Cinsiyet & Sosyal Psikolojik Aciklamalar",
+		"title": "Toplumsal Cinsiyet - Sosyal Psikolojik Aciklamalar",
 		"publisher": "Remzi Ktabevi",
 		"author": "Zehra Y. Dokmen",
 		"lang": "Turkce",
@@ -16273,7 +16411,7 @@
 	{
 		"bookshelf": 2357,
 		"No": 1357,
-		"title": "Toplumsal Sicrama & Bizi Biz Yapan ve Mutlu Eden Seylerin Yeni Evrimsel Bilimi",
+		"title": "Toplumsal Sicrama - Bizi Biz Yapan ve Mutlu Eden Seylerin Yeni Evrimsel Bilimi",
 		"publisher": "Fol Kitap",
 		"author": "William von Hippel",
 		"lang": "Turkce",
@@ -16328,7 +16466,8 @@
 		"page": 384,
 		"year": "2016",
 		"notes": "C-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2362,
@@ -16352,12 +16491,13 @@
 		"page": 372,
 		"year": "2019",
 		"notes": "B-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2364,
 		"No": 1364,
-		"title": "Transhumanist Devrim & Tekno-Tip ve Dunyanin Uberlesmesi",
+		"title": "Transhumanist Devrim - Tekno-Tip ve Dunyanin Uberlesmesi",
 		"publisher": "Turkiye Is Bankasi Kultur Yayinlari",
 		"author": "Luc Ferry, Kagan Kahveci",
 		"lang": "Turkce",
@@ -16393,7 +16533,7 @@
 	{
 		"bookshelf": 2367,
 		"No": 1367,
-		"title": "Trend Avcisi & Bildigimiz Her Sey Yanlis",
+		"title": "Trend Avcisi - Bildigimiz Her Sey Yanlis",
 		"publisher": "Optimist Kitap",
 		"author": "Magnus Lindkvist",
 		"lang": "Turkce",
@@ -16405,7 +16545,7 @@
 	{
 		"bookshelf": 2368,
 		"No": 1368,
-		"title": "Troleybus Problemi ya da Sisman Adami Ust Gecitten Asagi Atar misiniz?: Felsefi Bir Muamma",
+		"title": "Troleybus Problemi ya da Sisman Adami Ust Gecitten Asagi Atar misiniz? - Felsefi Bir Muamma",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Thomas Cathcart",
 		"lang": "Turkce",
@@ -16441,7 +16581,7 @@
 	{
 		"bookshelf": 2371,
 		"No": 1371,
-		"title": "Tuhaf Kurgu Yazmak Uzerine Notlar & Secme Yazilar",
+		"title": "Tuhaf Kurgu Yazmak Uzerine Notlar - Secme Yazilar",
 		"publisher": "Laputa Kitap",
 		"author": "H. P. Lovecraft",
 		"lang": "Turkce",
@@ -16520,7 +16660,8 @@
 		"page": 420,
 		"year": "2012",
 		"notes": "D-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2378,
@@ -16561,7 +16702,7 @@
 	{
 		"bookshelf": 2381,
 		"No": 1381,
-		"title": "Tuketimin Evrimi & Cinsiyet, Statu ve Tuketim",
+		"title": "Tuketimin Evrimi - Cinsiyet, Statu ve Tuketim",
 		"publisher": "Alfa Yayinlari",
 		"author": "Geoffrey Miller",
 		"lang": "Turkce",
@@ -16573,7 +16714,7 @@
 	{
 		"bookshelf": 2382,
 		"No": 1382,
-		"title": "Tum Beyin ile Yasam & Secim Yapmanin Anatomisi ve Yasamimizi Yonlendiren Dort Karakter",
+		"title": "Tum Beyin ile Yasam - Secim Yapmanin Anatomisi ve Yasamimizi Yonlendiren Dort Karakter",
 		"publisher": "Tuti Kitap",
 		"author": "Jill Bolte Taylor",
 		"lang": "Turkce",
@@ -16645,7 +16786,7 @@
 	{
 		"bookshelf": 2388,
 		"No": 1388,
-		"title": "Ucuncu Sanayi Devrimi & Yanal Guc, Enerjiyi, Ekonomiyi ve Dunyayi Nasil Donusturuyor",
+		"title": "Ucuncu Sanayi Devrimi - Yanal Guc, Enerjiyi, Ekonomiyi ve Dunyayi Nasil Donusturuyor",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Jeremy Rifkin",
 		"lang": "Turkce",
@@ -16657,7 +16798,7 @@
 	{
 		"bookshelf": 2389,
 		"No": 1389,
-		"title": "Ucuncu Sempanze: Insan Turunun Evrimi ve Gelecegi",
+		"title": "Ucuncu Sempanze - Insan Turunun Evrimi ve Gelecegi",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Jared Diamond",
 		"lang": "Turkce",
@@ -16801,7 +16942,7 @@
 	{
 		"bookshelf": 2401,
 		"No": 1401,
-		"title": "Uzerime Giyecek Hicbir Seyim Yok! & Giysi: Keyif mi Iskence mi?",
+		"title": "Uzerime Giyecek Hicbir Seyim Yok! - Giysi - Keyif mi Iskence mi?",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Elise Ricadat, Lydia Taieb",
 		"lang": "Turkce",
@@ -16820,7 +16961,8 @@
 		"page": 294,
 		"year": "2022",
 		"notes": "n/a",
-		"status": "Read"
+		"status": "Read",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2403,
@@ -16832,7 +16974,8 @@
 		"page": 248,
 		"year": "2008",
 		"notes": "D-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2404,
@@ -16928,7 +17071,8 @@
 		"page": 216,
 		"year": "2019",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2412,
@@ -16945,7 +17089,7 @@
 	{
 		"bookshelf": 2413,
 		"No": 1413,
-		"title": "Vegan Etik & Herkes Icin Sefkatli Bir Yasama Kucak Acmak",
+		"title": "Vegan Etik - Herkes Icin Sefkatli Bir Yasama Kucak Acmak",
 		"publisher": "Pales Yayinlari",
 		"author": "Mark Hawthorne",
 		"lang": "Turkce",
@@ -17029,7 +17173,7 @@
 	{
 		"bookshelf": 2420,
 		"No": 1420,
-		"title": "Veganlik: Siyaset, Pratik ve Kuram",
+		"title": "Veganlik - Siyaset, Pratik ve Kuram",
 		"publisher": "Akademik Yayincilik",
 		"author": "Eva Haifa Giraud",
 		"lang": "Turkce",
@@ -17077,7 +17221,7 @@
 	{
 		"bookshelf": 2424,
 		"No": 1424,
-		"title": "Vesikali Yurttas & Gozetim Araci Olarak Kimlik Kartlari",
+		"title": "Vesikali Yurttas - Gozetim Araci Olarak Kimlik Kartlari",
 		"publisher": "Kalkedon Yayinlari",
 		"author": "David Lyon",
 		"lang": "Turkce",
@@ -17113,7 +17257,7 @@
 	{
 		"bookshelf": 2427,
 		"No": 1427,
-		"title": "Vucudunuz Hayir Diyorsa & Duygusal Stresin Bedelleri",
+		"title": "Vucudunuz Hayir Diyorsa - Duygusal Stresin Bedelleri",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Gabor Mate",
 		"lang": "Turkce",
@@ -17125,7 +17269,7 @@
 	{
 		"bookshelf": 2428,
 		"No": 1428,
-		"title": "Wabi Sabi & Kusurlu Mukemmel Bir Hayat Icin Japon Mucizesi",
+		"title": "Wabi Sabi - Kusurlu Mukemmel Bir Hayat Icin Japon Mucizesi",
 		"publisher": "Pena Yayinlari",
 		"author": "Beth Kempton",
 		"lang": "Turkce",
@@ -17161,14 +17305,15 @@
 	{
 		"bookshelf": 2431,
 		"No": 1431,
-		"title": "What the Dog Saw & Kopegin Gordugu ve Diger Maceralar",
+		"title": "What the Dog Saw - Kopegin Gordugu ve Diger Maceralar",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Malcolm Gladwell",
 		"lang": "Turkce",
 		"page": 440,
 		"year": "2011",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2432,
@@ -17197,7 +17342,7 @@
 	{
 		"bookshelf": 2434,
 		"No": 1434,
-		"title": "Yakin Iliski & Yeniden Kadin ve Erkek Olabilmek",
+		"title": "Yakin Iliski - Yeniden Kadin ve Erkek Olabilmek",
 		"publisher": "Aya Kitap",
 		"author": "David Deida",
 		"lang": "Turkce",
@@ -17276,12 +17421,13 @@
 		"page": 216,
 		"year": "2022",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2441,
 		"No": 1441,
-		"title": "Yapay Zeka Cagi & Dorduncu Cag: Akilli Robotlar, Bilincli Bilgisayarlar ve Insanligin Gelecegi",
+		"title": "Yapay Zeka Cagi - Dorduncu Cag - Akilli Robotlar, Bilincli Bilgisayarlar ve Insanligin Gelecegi",
 		"publisher": "Say Yayinlari",
 		"author": "Byron Reese",
 		"lang": "Turkce",
@@ -17312,7 +17458,8 @@
 		"page": 304,
 		"year": "2023",
 		"notes": "B-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2444,
@@ -17348,12 +17495,13 @@
 		"page": 160,
 		"year": "2015",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2447,
 		"No": 1447,
-		"title": "Yaratici Ogrenciler & Cocuklarin Gelecegini Dusunenler Icin Egitimde Yaraticilik Devrimi",
+		"title": "Yaratici Ogrenciler - Cocuklarin Gelecegini Dusunenler Icin Egitimde Yaraticilik Devrimi",
 		"publisher": "Sola Unitas",
 		"author": "Ken Robinson",
 		"lang": "Turkce",
@@ -17365,19 +17513,20 @@
 	{
 		"bookshelf": 2448,
 		"No": 1448,
-		"title": "Yaratici Sinif Adres Degistiriyor & Yetenek Icin Kuresel Rekabet",
+		"title": "Yaratici Sinif Adres Degistiriyor - Yetenek Icin Kuresel Rekabet",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Richard Florida",
 		"lang": "Turkce",
 		"page": 436,
 		"year": "2011",
 		"notes": "B-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2449,
 		"No": 1449,
-		"title": "Yaratici Tur & Fikirler Dunyayi Nasil Yeniden Yaratiyor",
+		"title": "Yaratici Tur - Fikirler Dunyayi Nasil Yeniden Yaratiyor",
 		"publisher": "Domingo Yayinevi",
 		"author": "David Eagleman, Anthony Brandt",
 		"lang": "Turkce",
@@ -17389,7 +17538,7 @@
 	{
 		"bookshelf": 2450,
 		"No": 1450,
-		"title": "Yaraticilik & Kurallari Bosverin",
+		"title": "Yaraticilik - Kurallari Bosverin",
 		"publisher": "MediaCat Kitaplari",
 		"author": "John Hegarty",
 		"lang": "Turkce",
@@ -17425,7 +17574,7 @@
 	{
 		"bookshelf": 2453,
 		"No": 1453,
-		"title": "Yaratilistaki Catlak: Gen Duzenlemenin Evrime Hukmeden Inanilmaz Gucu",
+		"title": "Yaratilistaki Catlak - Gen Duzenlemenin Evrime Hukmeden Inanilmaz Gucu",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Jennifer A. Doudna, Samuel H. Sternberg",
 		"lang": "Turkce",
@@ -17473,7 +17622,7 @@
 	{
 		"bookshelf": 2457,
 		"No": 1457,
-		"title": "Yasam 3.0 & Yapay Zeka Caginda Insan Olmak",
+		"title": "Yasam 3.0 - Yapay Zeka Caginda Insan Olmak",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Max Tegmark",
 		"lang": "Turkce",
@@ -17509,7 +17658,7 @@
 	{
 		"bookshelf": 2460,
 		"No": 1460,
-		"title": "Yasanmaz Bir Dunya & Isinma Sonrasinda Hayat",
+		"title": "Yasanmaz Bir Dunya - Isinma Sonrasinda Hayat",
 		"publisher": "Domingo Yayinevi",
 		"author": "David Wallace-Wells",
 		"lang": "Turkce",
@@ -17581,7 +17730,7 @@
 	{
 		"bookshelf": 2466,
 		"No": 1466,
-		"title": "Yazma Ugrasi & Eli Kalem Tutan Herkesin Karsilastigi  21 Soruna 210 Cozum Onerisi",
+		"title": "Yazma Ugrasi - Eli Kalem Tutan Herkesin Karsilastigi 21 Soruna 210 Cozum Onerisi",
 		"publisher": "Metropolis Yayincilik",
 		"author": "Roy Peter Clark",
 		"lang": "Turkce",
@@ -17617,7 +17766,7 @@
 	{
 		"bookshelf": 2469,
 		"No": 1469,
-		"title": "Yemegin Psikopolitikasi & Neoliberal Cagda Yemek Rituelleri",
+		"title": "Yemegin Psikopolitikasi - Neoliberal Cagda Yemek Rituelleri",
 		"publisher": "Ayrinti Yayinlari",
 		"author": "Mihalis Mentinis",
 		"lang": "Turkce",
@@ -17665,7 +17814,7 @@
 	{
 		"bookshelf": 2473,
 		"No": 1473,
-		"title": "Yeni Dijital Cag & Insanlarin, Uluslarin ve Is Dunyasinin Gelecegini Yeni Bastan Sekillendirmek",
+		"title": "Yeni Dijital Cag - Insanlarin, Uluslarin ve Is Dunyasinin Gelecegini Yeni Bastan Sekillendirmek",
 		"publisher": "Optimist Kitap",
 		"author": "Eric Schmidt, Jared Cohen",
 		"lang": "Turkce",
@@ -17749,14 +17898,15 @@
 	{
 		"bookshelf": 2480,
 		"No": 1480,
-		"title": "Yeni Karanlik Cag & Teknoloji ve Gelecegin Sonu",
+		"title": "Yeni Karanlik Cag - Teknoloji ve Gelecegin Sonu",
 		"publisher": "Metis Yayinlari",
 		"author": "James Bridle",
 		"lang": "Turkce",
 		"page": 280,
 		"year": "2020",
 		"notes": "A-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2481,
@@ -17785,7 +17935,7 @@
 	{
 		"bookshelf": 2483,
 		"No": 1483,
-		"title": "Yeni Nesil Reklamcilik & Dijital Cag Icin Yeni Kurallar",
+		"title": "Yeni Nesil Reklamcilik - Dijital Cag Icin Yeni Kurallar",
 		"publisher": "The Kitap",
 		"author": "Fons Van Dyck",
 		"lang": "Turkce",
@@ -17797,7 +17947,7 @@
 	{
 		"bookshelf": 2484,
 		"No": 1484,
-		"title": "Yeni Nesil Yonetim & Yari Gerceklere Degil Kanitlara Dayali",
+		"title": "Yeni Nesil Yonetim - Yari Gerceklere Degil Kanitlara Dayali",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Jeffrey Pfeffer, Robert I. Sutton",
 		"lang": "Turkce",
@@ -17821,7 +17971,7 @@
 	{
 		"bookshelf": 2486,
 		"No": 1486,
-		"title": "Hala Yaziyorum & Bir Yazarin Yaratici Yasaminin Hazlari ve Riskleri",
+		"title": "Hala Yaziyorum - Bir Yazarin Yaratici Yasaminin Hazlari ve Riskleri",
 		"publisher": "Paloma Yayinlari",
 		"author": "Dani Shapiro",
 		"lang": "Turkce",
@@ -17833,7 +17983,7 @@
 	{
 		"bookshelf": 2487,
 		"No": 1487,
-		"title": "Yeni Ulke Yeni Hayat & Turkiye’den Gidenlerin Hikayeleri",
+		"title": "Yeni Ulke Yeni Hayat - Turkiye’den Gidenlerin Hikayeleri",
 		"publisher": "Artemis Yayinlari",
 		"author": "Bahar Cuhadar",
 		"lang": "Turkce",
@@ -17845,7 +17995,7 @@
 	{
 		"bookshelf": 2488,
 		"No": 1488,
-		"title": "Yeniden Dusun & Ne Bilmedigini Bilmenin Verdigi Guc",
+		"title": "Yeniden Dusun - Ne Bilmedigini Bilmenin Verdigi Guc",
 		"publisher": "Modus Kitap",
 		"author": "Adam Grant",
 		"lang": "Turkce",
@@ -17888,7 +18038,8 @@
 		"page": 320,
 		"year": "2015",
 		"notes": "A-4",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2492,
@@ -17941,7 +18092,7 @@
 	{
 		"bookshelf": 2496,
 		"No": 1496,
-		"title": "Yesil Mutfak & Vegan - Vejetaryen Yemek Tarifleri ve Yemek Kulturu Kitabi",
+		"title": "Yesil Mutfak - Vegan - Vejetaryen Yemek Tarifleri ve Yemek Kulturu Kitabi",
 		"publisher": "Sub Basim Yayin",
 		"author": "Lisa Jervis",
 		"lang": "Turkce",
@@ -17953,7 +18104,7 @@
 	{
 		"bookshelf": 2497,
 		"No": 1497,
-		"title": "Yesilden Altina & Akilli Sirketler Cevreci Stratejiler ile Nasil Avantaj Yaratir?",
+		"title": "Yesilden Altina - Akilli Sirketler Cevreci Stratejiler ile Nasil Avantaj Yaratir?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Daniel C. Esty, Andrew S. Winston",
 		"lang": "Turkce",
@@ -17977,19 +18128,20 @@
 	{
 		"bookshelf": 2499,
 		"No": 1499,
-		"title": "Yetenek Dedigin Nedir Ki? & Dunya Capinda Basarili Kisileri Farkli Kilan Ne?",
+		"title": "Yetenek Dedigin Nedir Ki? - Dunya Capinda Basarili Kisileri Farkli Kilan Ne?",
 		"publisher": "Elma Yayinevi",
 		"author": "Geoff Colvin",
 		"lang": "Turkce",
 		"page": 320,
 		"year": "2010",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2500,
 		"No": 1500,
-		"title": "Yetenek Sarraflari & Akilli Liderler Nicin Insanlara Rakamlardan Fazla Deger Verir?",
+		"title": "Yetenek Sarraflari - Akilli Liderler Nicin Insanlara Rakamlardan Fazla Deger Verir?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Ram Charan, Bill Conaty",
 		"lang": "Turkce",
@@ -18001,7 +18153,7 @@
 	{
 		"bookshelf": 2501,
 		"No": 1501,
-		"title": "Yetenek Yonetimi & Insan Kaynaklari Yonetiminin Yeni Vizyonu",
+		"title": "Yetenek Yonetimi - Insan Kaynaklari Yonetiminin Yeni Vizyonu",
 		"publisher": "Crea Yayincilik",
 		"author": "Dincer Atli",
 		"lang": "Turkce",
@@ -18032,12 +18184,13 @@
 		"page": 144,
 		"year": "2021",
 		"notes": "B-3",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2504,
 		"No": 1504,
-		"title": "Yildiz Patikalari ve Yabani Isaretler & Kayip Altinci Hissimizin Anahtarlari",
+		"title": "Yildiz Patikalari ve Yabani Isaretler - Kayip Altinci Hissimizin Anahtarlari",
 		"publisher": "Avantur",
 		"author": "Tristan Gooley",
 		"lang": "Turkce",
@@ -18085,7 +18238,7 @@
 	{
 		"bookshelf": 2508,
 		"No": 1508,
-		"title": "Yoga Nefes Bilimi & Sagligin ve Ruhsal Gelisimin Anahtari",
+		"title": "Yoga Nefes Bilimi - Sagligin ve Ruhsal Gelisimin Anahtari",
 		"publisher": "Hermes Yayinlari",
 		"author": "William Walker Atkinson, Yogi Romcharaka",
 		"lang": "Turkce",
@@ -18121,7 +18274,7 @@
 	{
 		"bookshelf": 2511,
 		"No": 1511,
-		"title": "Yoga Zihni & Pratiginizi Derinlestirmek Icin Yoga Felsefesine Dair 52 Temel Prensip",
+		"title": "Yoga Zihni - Pratiginizi Derinlestirmek Icin Yoga Felsefesine Dair 52 Temel Prensip",
 		"publisher": "Omega Yayinlari",
 		"author": "Rina Jakubowicz",
 		"lang": "Turkce",
@@ -18133,7 +18286,7 @@
 	{
 		"bookshelf": 2512,
 		"No": 1512,
-		"title": "Yoga: Bir Donusum Klavuzu",
+		"title": "Yoga - Bir Donusum Klavuzu",
 		"publisher": "Omega Yayinlari",
 		"author": "Vedacarya David Frawley",
 		"lang": "Turkce",
@@ -18181,7 +18334,7 @@
 	{
 		"bookshelf": 2516,
 		"No": 1516,
-		"title": "Yonetimin Esaslari & Temel Kavramlar ve Uygulamalar",
+		"title": "Yonetimin Esaslari - Temel Kavramlar ve Uygulamalar",
 		"publisher": "Nobel Yayin Dagitim",
 		"author": "Stephen P. Robins, David A. Decenzo, Mary Coulter",
 		"lang": "Turkce",
@@ -18224,7 +18377,8 @@
 		"page": 63,
 		"year": "2017",
 		"notes": "C-2",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2520,
@@ -18253,7 +18407,7 @@
 	{
 		"bookshelf": 2522,
 		"No": 1522,
-		"title": "Yukselis & Krizdeki Uluslar Icin Donum Noktalari",
+		"title": "Yukselis - Krizdeki Uluslar Icin Donum Noktalari",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Jared Diamond",
 		"lang": "Turkce",
@@ -18301,7 +18455,7 @@
 	{
 		"bookshelf": 2526,
 		"No": 1526,
-		"title": "Y’leri Anla, Degistirme & Kurumsal Hayatta Milenyum Kusagi ve Iletisim",
+		"title": "Y’leri Anla, Degistirme - Kurumsal Hayatta Milenyum Kusagi ve Iletisim",
 		"publisher": "Humanist Kitap",
 		"author": "Elif Basak Sarioglu",
 		"lang": "Turkce",
@@ -18325,7 +18479,7 @@
 	{
 		"bookshelf": 2528,
 		"No": 1528,
-		"title": "Zahmetsiz: Onemli Isleri Yapmayi Kolaylastirin",
+		"title": "Zahmetsiz - Onemli Isleri Yapmayi Kolaylastirin",
 		"publisher": "Nova Kitap",
 		"author": "Greg McKeown",
 		"lang": "Turkce",
@@ -18349,7 +18503,7 @@
 	{
 		"bookshelf": 2530,
 		"No": 1530,
-		"title": "Zehirsiz Ev & Yasaminizdan Zararli Kimyasallari Eksiltmenin Basit Yollari",
+		"title": "Zehirsiz Ev - Yasaminizdan Zararli Kimyasallari Eksiltmenin Basit Yollari",
 		"publisher": "Modus Kitap",
 		"author": "Mercan Yurdakuler Uluengin",
 		"lang": "Turkce",
@@ -18481,7 +18635,7 @@
 	{
 		"bookshelf": 2541,
 		"No": 1541,
-		"title": "Zirve & Uzmanlasmanin Bilimsel Sirlari",
+		"title": "Zirve - Uzmanlasmanin Bilimsel Sirlari",
 		"publisher": "Buzdagi Yayinlari",
 		"author": "Robert Pool, Anders Ericsson",
 		"lang": "Turkce",
@@ -18493,14 +18647,15 @@
 	{
 		"bookshelf": 2542,
 		"No": 1542,
-		"title": "Zor Bir Ailede Buyumek & Gecmisi Onarmanin ve Hayati Geri Kazanmanin Yollari",
+		"title": "Zor Bir Ailede Buyumek - Gecmisi Onarmanin ve Hayati Geri Kazanmanin Yollari",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Susan Forward, Craig Buck",
 		"lang": "Turkce",
 		"page": 327,
 		"year": "2021",
 		"notes": "A-1",
-		"status": ""
+		"status": "",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2543,
@@ -18524,7 +18679,8 @@
 		"page": 72,
 		"year": "2020",
 		"notes": "n/a",
-		"status": "Read"
+		"status": "Read",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2545,
@@ -18553,7 +18709,7 @@
 	{
 		"bookshelf": 2547,
 		"No": 1547,
-		"title": "En Buyuk Iyilik & Etkili Digerkamlik Etik Yasam Hakkindaki Fikirlerimizi Nasil Degistirir?",
+		"title": "En Buyuk Iyilik - Etkili Digerkamlik Etik Yasam Hakkindaki Fikirlerimizi Nasil Degistirir?",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "Peter Singer",
 		"lang": "Turkce",
@@ -18589,7 +18745,7 @@
 	{
 		"bookshelf": 2550,
 		"No": 1550,
-		"title": "Terapide Yeni Ufuklar & Kuramdan Uygulamaya",
+		"title": "Terapide Yeni Ufuklar - Kuramdan Uygulamaya",
 		"publisher": "Pinhan Yayincilik",
 		"author": "Kolektif",
 		"lang": "Turkce",
@@ -18601,7 +18757,7 @@
 	{
 		"bookshelf": 2551,
 		"No": 1551,
-		"title": "Sayilara Yenik Dusmek & Facebook ve Google’dan Yalan Haberlere ve Filtre Balonlarina – Yasamlarimizi Denetim Altina Alan Algoritmalar",
+		"title": "Sayilara Yenik Dusmek - Facebook ve Google’dan Yalan Haberlere ve Filtre Balonlarina – Yasamlarimizi Denetim Altina Alan Algoritmalar",
 		"publisher": "Yordam Kitap",
 		"author": "David Sumpter",
 		"lang": "Turkce",
@@ -18613,7 +18769,7 @@
 	{
 		"bookshelf": 2552,
 		"No": 1552,
-		"title": "Onsezi & Bir Pandemi Oykusu",
+		"title": "Onsezi - Bir Pandemi Oykusu",
 		"publisher": "Scala Yayincilik",
 		"author": "Michael Lewis",
 		"lang": "Turkce",
@@ -18625,12 +18781,36 @@
 	{
 		"bookshelf": 2553,
 		"No": 1553,
-		"title": "Devlet Gibi Gormek: Bazi Toplumsal Kalkinma Planlarinin Basarisizlik Hikayeleri",
+		"title": "Devlet Gibi Gormek - Bazi Toplumsal Kalkinma Planlarinin Basarisizlik Hikayeleri",
 		"publisher": "Koc Universitesi Yayinlari",
 		"author": "James C. Scott",
 		"lang": "Turkce",
 		"page": 424,
 		"year": "2020",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2554,
+		"No": 1554,
+		"title": "Onemli Olani Olc - OKR: 10 Kat Buyumek Icin Basit Bir Yontem",
+		"publisher": "Buzdagi Yayinlari",
+		"author": "Johne E. Doerr, John Doerr",
+		"lang": "Turkce",
+		"page": 253,
+		"year": "2022",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2555,
+		"No": 1555,
+		"title": "Dijital Yetenek",
+		"publisher": "The Kitap",
+		"author": "Matt Alder, Mervyn Dinnen",
+		"lang": "Turkce",
+		"page": 296,
+		"year": "2023",
 		"notes": "new",
 		"status": ""
 	}
