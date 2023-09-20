@@ -20,9 +20,13 @@ published: true
 
 - status: read
 - notes
+
   - n/a
   - a-1, etc
   - new
+
+    ## Reread
+
 - Building a Second Brain
 - Atomic Habits
 - The Job
