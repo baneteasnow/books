@@ -5,4 +5,4 @@ published: true
 ---
 
 {%-include table.md-%}
-{%-listByTag.html-%}
+{%-include listByTag.html-%}
