@@ -62,11 +62,15 @@ title: "Home Library Book List"
 	>
 		<i>{{ item.status }}</i>
 	</div>
-		<div
+	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
+	{% if item.reread != "yes" %}
+    <div style="visibility: hidden;"></div>
+    {% else %}
 		<i>Reread: {{ item.reread }}</i>
+		{% endif %}
 	</div>
 	<div
 		class="decorated"
