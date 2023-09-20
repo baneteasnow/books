@@ -1,3 +1,5 @@
-{% for item in site.data.list %}
-{{ item.notes == "A-1" | size }}
-{% endfor %}
+
+
+{{ site.data.list | size }}
+{{ site.data.list.notes | size }}
+{{ site.data.list.notes == "B-1" | size }}
