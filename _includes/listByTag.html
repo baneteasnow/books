@@ -1,5 +1,4 @@
 {% assign books_data = site.data.list %}
 {% assign reread_yes = books_data | where: "reread", "yes" | size %}
-
-reread: {{ reread_yes }}
+<i>reread: {{ reread_yes }}</i>
 
