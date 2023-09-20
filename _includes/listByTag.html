@@ -1,9 +1,8 @@
 
 
 {{ site.data.list | size }}
-{{ site.data.list.notes | size }}
-{{ site.data.list.notes == "B-1" | size }}
-{{ site.data.list.notes == "B-1" | length }}
-{{ forloop.index }}
-{{ site.data.list.index }}
-{{ site.data.list.length }}
+
+-
+{% assign books_2023 = page.json_data | where: "year", "2023" | size %}
+Number of Books Published in 2023: {{ books_2023 }}
+-
