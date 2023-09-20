@@ -14,7 +14,8 @@ layout: null
       "publisher" : "{{ item.publisher }}",
       "page"      : "{{ item.page }}",
       "uniqueid"  : "{{ item.bookshelf }}",
-      "status"    : "{{ item.status }}"
+      "status"    : "{{ item.status }}",
+      "reread"    : "{{ item.reread }}
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
