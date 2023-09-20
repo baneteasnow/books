@@ -12,7 +12,6 @@ title: "Home Library Book List"
 {%-include backtotop.html-%}
 <br />
 {% for item in site.data.list %}
-{{ item.reread != "yes" | size }}
 <h4>
 	<a
 		href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
