@@ -4,7 +4,7 @@
 
 -
 {% assign books_data = site.data.list %}
-{% assign books_2023 = books_data | where: "year", "2023" | size %}
+{% assign shelf_a1 = books_data | where: "notes", "A-1" | size %}
 
-Number of Books Published in 2023: {{ books_2023 }}
+A-1: {{ shelf_a1 }}
 -
