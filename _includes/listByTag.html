@@ -3,8 +3,8 @@
 {{ site.data.list | size }}
 
 -
-{% assign books_data = site.data.books %}
-{% assign books_2023 = books_data | where: "year", "2023" | size %}
+{% assign books_data = site.data.list %}
+{% assign books_2023 = books_list | where: "year", "2023" | size %}
 
 Number of Books Published in 2023: {{ books_2023 }}
 -
