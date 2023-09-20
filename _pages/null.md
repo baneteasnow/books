@@ -41,7 +41,3 @@ published: true
 - Humans Are Overrated
 - Talking to Strangers
 - Bad Blood
--
-
-,
-"reread": "yes"
