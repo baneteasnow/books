@@ -1,0 +1,3 @@
+{% assign books_data = site.data.list %}
+{% assign shelf_a1 = books_data | where: "bookshelf", "A-1" | size %}
+<i>{{ shelf_a1 }}</i>
