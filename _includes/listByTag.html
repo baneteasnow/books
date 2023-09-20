@@ -1,10 +1,5 @@
-
-
-{{ site.data.list | size }}
-
--
 {% assign books_data = site.data.list %}
-{% assign shelf_a1 = books_data | where: "notes", "A-1" | size %}
+{% assign reread_yes = books_data | where: "reread", "yes" | size %}
 
-A-1: {{ shelf_a1 }}
--
+reread: {{ reread_yes }}
+
