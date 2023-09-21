@@ -1,6 +1,8 @@
 |  A  |     |  B  |  C  |     |  D  |  E  |  F  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| {%-include a1.html-%} |     | B-1 | C-1 |     |  -  |  -  |  -  |
+| {% assign books_data = site.data.list %}
+{% assign shelf_a1 = books_data | where: "bookshelf", "A-1" | size %}
+<i>{{ shelf_a1 }}</i> |     | B-1 | C-1 |     |  -  |  -  |  -  |
 | A-2 |     | B-2 | C-2 |     | D-2 | E-2 | F-2 |
 | A-3 |     | B-3 | C-3 |     | D-3 | E-3 | F-3 |
 | A-4 |     | B-4 | C-4 |     | D-4 | E-4 | F-4 |
