@@ -1,4 +1,4 @@
-Building a Second Brain  
+<ı>Building a Second Brain   
 Atomic Habits  
 The Job  
 The Almanack of Naval Ravikant  
@@ -15,4 +15,4 @@ Digital Minimalism
 Payoff  
 Humans Are Overrated  
 Talking to Strangers  
-Bad Blood  
+Bad Blood  </ı>
