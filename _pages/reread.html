@@ -9,65 +9,16 @@ title: "Reread List"
 <br />
 {% for item in site.data.list %}
 {% if item.reread == "yes" %}
-<h4>
+<i>
 	<a
 		href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
 		name="{{ item.bookshelf }}"
 		>{{ item.title }}</a
-	>
-</h4>
-<div style="margin-left: 5%">
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.notes }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.author }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.year }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.publisher }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.page }} sayfa</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i># {{ item.bookshelf }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.status }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
+	> | {{ item.author }}
+</i>
 	  {% else %}
     <div style="visibility: hidden;"></div>
 		{% endif %}
-	</div>
-</div>
 {% endfor %}
 
 <br />
