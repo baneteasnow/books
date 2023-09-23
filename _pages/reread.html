@@ -7,20 +7,19 @@ title: "Reread List"
 
 {%-include backtotop.html-%}
 <br />
-{% for item in site.data.list %}
-{% if item.reread == "yes" %}
+{% for item in site.data.list %} {% if item.reread == "yes" %}
 <i>
 	<a
 		href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
 		name="{{ item.bookshelf }}"
 		>{{ item.title }}</a
-	> | {{ item.author }}
+	>
+	| {{ item.author }}
 </i>
-	  {% else %}
-    <div style="visibility: hidden;"></div>
-		{% endif %}
-{% endfor %}
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
 
 <br />
-{%-include Reread.md-%}
+{%-include reread.md-%}
 <br />
