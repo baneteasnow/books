@@ -7,11 +7,9 @@ title: "Reread List"
 
 {%-include backtotop.html-%}
 <br />
-{% for item in site.data.list %} {% if item.reread == "yes" %}
-<i> {{ item.title }} | {{ item.author }} </i>
+{% for item in site.data.list %} {% if item.reread == "yes" %} #{{ forloop.index
+}}<i> {{ item.title }} | {{ item.author }} </i>
 {% else %}
 <div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-{%-include reread.html-%}
+{% endif %} {% endfor %} {%-include reread.html-%}
 <br />
