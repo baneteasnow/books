@@ -8,6 +8,7 @@ title: "Reread List"
 {%-include backtotop.html-%}
 <br />
 {% for item in site.data.list %} {% if item.reread == "yes" %}
+<div>
 <i
 	><a
 		href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
@@ -16,6 +17,7 @@ title: "Reread List"
 	>
 	{{ item.title }} | {{ item.author }}
 </i>
+</div>
 {% else %}
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
