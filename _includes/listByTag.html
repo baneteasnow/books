@@ -9,4 +9,11 @@ gaveaway_data | size %}
 	><a href="https://homelibrary.nonfictionbooks.xyz/reread">reread: </a>{{
 	reread_yes | plus: ereread_yes }}</i
 >
-<div><i>read: {{ status_read | plus: gaveaway_yes }}</i></div>
+<div>
+	<i>read: {{ status_read | plus: gaveaway_yes | plus: '46' }}</i>
+</div>
+<br />
+<div>ereread_yes {{ ereread_yes }}</div>
+<div>status_read {{ status_read }}</div>
+<div>reread_yes {{ reread_yes }}</div>
+<div>gaveaway {{ gaveaway_yes }}</div>
