@@ -11,7 +11,7 @@
 	},
 	{
 		"no": 2,
-		"title": "Bir Psikanalistin Notları - Psikoterapi Dünyasından Gerçek Hikayeler",
+		"title": "Bir Psikanalistin Notlari - Psikoterapi Dunyasindan Gercek Hikayeler",
 		"author": "Gabriel Rolon ",
 		"publisher": "Diyojen",
 		"lang": "Turkce",
@@ -21,16 +21,6 @@
 	},
 	{
 		"no": 3,
-		"title": "Sıfır Atık İçin 101 Yol",
-		"author": "Kathryn Kellogg",
-		"publisher": "Orenda",
-		"lang": "Turkce",
-		"page": 256,
-		"year": "2021",
-		"status": "Read"
-	},
-	{
-		"no": 4,
 		"title": "Biri Beni Dinliyor",
 		"author": "Dilek Yildirim Akgun",
 		"publisher": "Optimist",
@@ -40,7 +30,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 5,
+		"no": 4,
 		"title": "Bir Terapistin Gizemli Anilari",
 		"author": "Ulker Uzun Polat",
 		"publisher": "Iskendiriye",
@@ -50,7 +40,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 6,
+		"no": 5,
 		"title": "Insan Vucuduna Seyahat",
 		"author": "Gavin Francis",
 		"publisher": "Domingo",
@@ -60,7 +50,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 7,
+		"no": 6,
 		"title": "Dogfight",
 		"author": "Fred Vogelstein",
 		"publisher": "Tutikitap",
@@ -70,7 +60,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 8,
+		"no": 7,
 		"title": "The Amazon Way",
 		"author": "John Rossman",
 		"publisher": "Marti",
@@ -80,7 +70,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 9,
+		"no": 8,
 		"title": "Smart Cities, Digital Nations",
 		"author": "Caspar Herzberg",
 		"publisher": "Optimist",
@@ -90,7 +80,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 10,
+		"no": 9,
 		"title": "Digital Wars",
 		"author": "Charles Arthur",
 		"publisher": "Is Bankasi Kultur Yayinlari",
@@ -100,7 +90,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 11,
+		"no": 10,
 		"title": "Alibaba",
 		"author": "Duncan Clark",
 		"publisher": "CEO Plus",
@@ -110,7 +100,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 12,
+		"no": 11,
 		"title": "Happy Hour Is 9 to 5",
 		"author": "Alexander Kjerulf",
 		"publisher": "CEO Plus",
@@ -120,7 +110,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 13,
+		"no": 12,
 		"title": "Sam Walton",
 		"author": "Sally Lee",
 		"publisher": "Infomag",
@@ -130,7 +120,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 14,
+		"no": 13,
 		"title": "Ebay Fenomeni",
 		"author": "Richard Luecke, David Bunnell",
 		"publisher": "Ledo",
@@ -140,7 +130,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 15,
+		"no": 14,
 		"title": "Insan Kaynaklari Yonetiminde NLP",
 		"author": "Elvan Acar",
 		"publisher": "Kariyer Yayincilik",
@@ -150,7 +140,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 16,
+		"no": 15,
 		"title": "A Repurposed Life",
 		"author": "Ronni Kahn, Jessica Chapnik Kahn",
 		"publisher": "Murdoch Books",
