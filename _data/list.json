@@ -1297,7 +1297,7 @@
 	{
 		"bookshelf": 1108,
 		"No": 108,
-		"title": "Augmented Artirilmis Gerceklik",
+		"title": "Augmented - Artirilmis Gerceklik",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Brett King",
 		"lang": "Turkce",
@@ -2320,7 +2320,7 @@
 		"page": 256,
 		"year": "2017",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1193,
@@ -3014,7 +3014,7 @@
 		"page": 78,
 		"year": "2021",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1250,
@@ -3179,14 +3179,14 @@
 	{
 		"bookshelf": 1263,
 		"No": 263,
-		"title": "Cehenneme Ovgu - Gyndelik Hayatta Totalitarizm",
+		"title": "Cehenneme Ovgu - Gundelik Hayatta Totalitarizm",
 		"publisher": "Iletisim Yayinlari",
 		"author": "Gunduz Vassaf",
 		"lang": "Turkce",
 		"page": 279,
 		"year": "2021",
 		"notes": "B-2",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1264,
@@ -3210,7 +3210,7 @@
 		"page": 251,
 		"year": "2015",
 		"notes": "B-2",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1266,
@@ -4038,7 +4038,7 @@
 		"page": 128,
 		"year": "2020",
 		"notes": "A-1",
-		"status": "Read",
+		"status": "JustRead",
 		"reread": "yes"
 	},
 	{
@@ -5212,7 +5212,7 @@
 		"page": 200,
 		"year": "2023",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1431,
@@ -5260,7 +5260,7 @@
 		"page": 312,
 		"year": "2023",
 		"notes": "A-1",
-		"status": "Read",
+		"status": "JustRead",
 		"reread": "yes"
 	},
 	{
@@ -6520,7 +6520,7 @@
 		"page": 440,
 		"year": "2021",
 		"notes": "new",
-		"status": "Read",
+		"status": "JustRead",
 		"reread": "yes"
 	},
 	{
@@ -6897,7 +6897,7 @@
 		"page": 192,
 		"year": "2020",
 		"notes": "A-3",
-		"status": "Read",
+		"status": "JustRead",
 		"reread": "yes"
 	},
 	{
@@ -7778,7 +7778,7 @@
 		"page": 240,
 		"year": "2023",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1643,
@@ -8009,7 +8009,7 @@
 		"page": 192,
 		"year": "2023",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1662,
@@ -9673,7 +9673,7 @@
 		"page": 144,
 		"year": "2018",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1800,
@@ -10591,7 +10591,7 @@
 		"page": 271,
 		"year": "2019",
 		"notes": "B-1",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1876,
@@ -11857,7 +11857,7 @@
 		"page": 92,
 		"year": "2015",
 		"notes": "C-1",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1981,
@@ -13250,7 +13250,7 @@
 		"page": 160,
 		"year": "2019",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 2096,
@@ -13418,7 +13418,7 @@
 		"page": 336,
 		"year": "2020",
 		"notes": "new",
-		"status": "Read",
+		"status": "JustRead",
 		"reread": "yes"
 	},
 	{
@@ -14132,7 +14132,7 @@
 		"page": 232,
 		"year": "2023",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 2169,
@@ -15246,7 +15246,7 @@
 		"page": 336,
 		"year": "2020",
 		"notes": "B-1",
-		"status": "Read",
+		"status": "JustRead",
 		"reread": "yes"
 	},
 	{
@@ -16961,7 +16961,7 @@
 		"page": 294,
 		"year": "2022",
 		"notes": "new",
-		"status": "Read",
+		"status": "JustRead",
 		"reread": "yes"
 	},
 	{
@@ -17349,7 +17349,7 @@
 		"page": 272,
 		"year": "2022",
 		"notes": "new",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 2435,
@@ -18123,7 +18123,7 @@
 		"page": 248,
 		"year": "2016",
 		"notes": "n/a",
-		"status": "Read"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 2499,
@@ -18679,7 +18679,7 @@
 		"page": 72,
 		"year": "2020",
 		"notes": "n/a",
-		"status": "Read",
+		"status": "JustRead",
 		"reread": "yes"
 	},
 	{
