@@ -21,12 +21,32 @@
 	},
 	{
 		"no": 1,
-		"title": "Bir Psikanalistin Notları - Psikoterapi Dünyasından Gerçek Hikayeler ",
+		"title": "Bir Psikanalistin Notları - Psikoterapi Dünyasından Gerçek Hikayeler",
 		"author": "Gabriel Rolon ",
 		"publisher": "Diyojen",
 		"lang": "Turkce",
 		"page": 224,
 		"year": "2020",
+		"status": "Read"
+	},
+	{
+		"no": 1,
+		"title": "Sıfır Atık İçin 101 Yol",
+		"author": "Kathryn Kellogg",
+		"publisher": "Orenda",
+		"lang": "Turkce",
+		"page": 256,
+		"year": "2021",
+		"status": "Read"
+	},
+	{
+		"no": 1,
+		"title": "Biri Beni Dinliyor",
+		"author": "Dilek Yildirim Akgun",
+		"publisher": "Optimist",
+		"lang": "Turkce",
+		"page": 195,
+		"year": "2012",
 		"status": "Read"
 	}
 ]
