@@ -3786,7 +3786,7 @@
 	{
 		"bookshelf": 1313,
 		"No": 313,
-		"title": "Deneme Yazmanin Kurallari",
+		"title": "Deneme Yazmanin Temel Kurallari",
 		"publisher": "Alfa Yayinlari",
 		"author": "Nigel Warburton",
 		"lang": "Turkce",
@@ -14714,7 +14714,7 @@
 		"page": 256,
 		"year": "2021",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2217,
