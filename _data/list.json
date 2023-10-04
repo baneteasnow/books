@@ -1242,7 +1242,7 @@
 		"page": 96,
 		"year": "2022",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -1692,7 +1692,7 @@
 		"page": 462,
 		"year": "2021",
 		"notes": "A-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2319,7 +2319,7 @@
 		"lang": "Turkce",
 		"page": 256,
 		"year": "2017",
-		"notes": "n/a",
+		"notes": "new",
 		"status": "Read"
 	},
 	{
@@ -2380,7 +2380,7 @@
 		"page": 200,
 		"year": "2013",
 		"notes": "F-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1198,
@@ -2416,7 +2416,7 @@
 		"page": 216,
 		"year": "2011",
 		"notes": "F-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1201,
@@ -2636,7 +2636,7 @@
 		"page": 212,
 		"year": "2021",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2722,7 +2722,7 @@
 		"page": 208,
 		"year": "2022",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1226,
@@ -3013,7 +3013,7 @@
 		"lang": "Turkce",
 		"page": 78,
 		"year": "2021",
-		"notes": "n/a",
+		"notes": "new",
 		"status": "Read"
 	},
 	{
@@ -3026,7 +3026,7 @@
 		"page": 216,
 		"year": "2018",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3063,7 +3063,7 @@
 		"page": 344,
 		"year": "2021",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3282,7 +3282,7 @@
 		"page": 283,
 		"year": "2003",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4827,7 +4827,7 @@
 		"page": 144,
 		"year": "2022",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -5212,7 +5212,7 @@
 		"page": 200,
 		"year": "2023",
 		"notes": "new",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1431,
@@ -6314,7 +6314,7 @@
 		"page": 72,
 		"year": "2022",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -6519,7 +6519,7 @@
 		"lang": "Turkce",
 		"page": 440,
 		"year": "2021",
-		"notes": "n/a",
+		"notes": "new",
 		"status": "Read",
 		"reread": "yes"
 	},
@@ -7777,7 +7777,7 @@
 		"lang": "Turkce",
 		"page": 240,
 		"year": "2023",
-		"notes": "n/a",
+		"notes": "new",
 		"status": "Read"
 	},
 	{
@@ -8009,7 +8009,7 @@
 		"page": 192,
 		"year": "2023",
 		"notes": "new",
-		"status": "Reading"
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1662,
@@ -9576,7 +9576,7 @@
 		"page": 224,
 		"year": "2014",
 		"notes": "F-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1792,
@@ -9673,7 +9673,7 @@
 		"page": 144,
 		"year": "2018",
 		"notes": "new",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1800,
@@ -9745,7 +9745,7 @@
 		"page": 144,
 		"year": "2021",
 		"notes": "B-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1806,
@@ -10831,7 +10831,7 @@
 		"page": 304,
 		"year": "2016",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1896,
@@ -10963,7 +10963,7 @@
 		"page": 256,
 		"year": "2019",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12195,7 +12195,7 @@
 		"page": 80,
 		"year": "2022",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12546,7 +12546,7 @@
 		"page": 72,
 		"year": "2023",
 		"notes": "B-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12933,7 +12933,7 @@
 		"page": 96,
 		"year": "2023",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -13417,7 +13417,7 @@
 		"lang": "Turkce",
 		"page": 336,
 		"year": "2020",
-		"notes": "n/a",
+		"notes": "new",
 		"status": "Read",
 		"reread": "yes"
 	},
@@ -14132,7 +14132,7 @@
 		"page": 232,
 		"year": "2023",
 		"notes": "new",
-		"status": "Reading"
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2169,
@@ -14434,7 +14434,7 @@
 		"page": 280,
 		"year": "2016",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -14606,7 +14606,7 @@
 		"page": 280,
 		"year": "2018",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2208,
@@ -15837,7 +15837,7 @@
 		"page": 200,
 		"year": "2013",
 		"notes": "F-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2310,
@@ -16552,7 +16552,7 @@
 		"page": 144,
 		"year": "2016",
 		"notes": "B-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2369,
@@ -16960,7 +16960,7 @@
 		"lang": "Turkce",
 		"page": 294,
 		"year": "2022",
-		"notes": "n/a",
+		"notes": "new",
 		"status": "Read",
 		"reread": "yes"
 	},
@@ -17348,7 +17348,7 @@
 		"lang": "Turkce",
 		"page": 272,
 		"year": "2022",
-		"notes": "n/a",
+		"notes": "new",
 		"status": "Read"
 	},
 	{
@@ -17628,7 +17628,7 @@
 		"lang": "Turkce",
 		"page": 464,
 		"year": "2019",
-		"notes": "n/a",
+		"notes": "new",
 		"status": ""
 	},
 	{
@@ -18438,7 +18438,7 @@
 		"page": 272,
 		"year": "2022",
 		"notes": "new",
-		"status": ""
+		"status": "Reading"
 	},
 	{
 		"bookshelf": 2525,
@@ -18498,7 +18498,7 @@
 		"page": 598,
 		"year": "2021",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2530,

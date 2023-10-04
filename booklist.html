@@ -64,12 +64,22 @@ title: "Home Library Book List"
 	</div>
 	<div
 		class="decorated"
-		style="font-size: 85%"
+		style="font-size: 85%; color: lighygray"
 	>
-	{% if item.reread != "yes" %}
-    <div style="visibility: hidden;"></div>
-    {% else %}
-		<i>Reread</i>
+		{% if item.reread != "yes" %}
+		<div style="visibility: hidden"></div>
+		{% else %}
+		<i>reread</i>
+		{% endif %}
+	</div>
+	<div
+		class="decorated"
+		style="font-size: 85%; color: lighygray"
+	>
+		{% if item.status != "Read" %}
+		<div style="visibility: hidden"></div>
+		{% else %}
+		<i>read</i>
 		{% endif %}
 	</div>
 	<div

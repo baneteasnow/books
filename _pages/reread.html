@@ -21,9 +21,9 @@ title: "Reread List"
 {% else %}
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
-<div>...</div>
+<div>.....</div>
 <!-- {%-include reread.html-%} -->
-..... {% for item in site.data.reread %}
+{% for item in site.data.reread %}
 <div>
 	<i>{{ forloop.index }}. {{ item.title }} | {{ item.author }} </i>
 </div>
