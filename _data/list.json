@@ -2327,7 +2327,7 @@
 		"No": 193,
 		"title": "Bir Vegan ile Evlendim - Maalesef Gercek Bir Hikaye",
 		"publisher": "Pan Yayincilik",
-		"author": "Fausto  Brizzi",
+		"author": "Fausto Brizzi",
 		"lang": "Turkce",
 		"page": 144,
 		"year": "2020",
@@ -6309,7 +6309,7 @@
 		"No": 521,
 		"title": "Gonul Yarasi",
 		"publisher": "Artemis Yayinlari",
-		"author": "Alain De Botton",
+		"author": "The School of Life",
 		"lang": "Turkce",
 		"page": 72,
 		"year": "2022",
@@ -13829,7 +13829,7 @@
 		"page": 336,
 		"year": "2022",
 		"notes": "B-1",
-		"status": "Read"
+		"status": ""
 	},
 	{
 		"bookshelf": 2144,
@@ -13841,7 +13841,7 @@
 		"page": 336,
 		"year": "2018",
 		"notes": "C-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16877,7 +16877,7 @@
 		"page": 376,
 		"year": "2022",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2396,
