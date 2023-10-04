@@ -1,6 +1,6 @@
 [
 	{
-		"no": 1,
+		"no": 0,
 		"title": "",
 		"author": "",
 		"publisher": "",
@@ -20,7 +20,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 1,
+		"no": 2,
 		"title": "Bir Psikanalistin Notları - Psikoterapi Dünyasından Gerçek Hikayeler",
 		"author": "Gabriel Rolon ",
 		"publisher": "Diyojen",
@@ -30,7 +30,7 @@
 		"status": "Read"
 	},
 	{
-		"no": 1,
+		"no": 3,
 		"title": "Sıfır Atık İçin 101 Yol",
 		"author": "Kathryn Kellogg",
 		"publisher": "Orenda",
@@ -40,13 +40,113 @@
 		"status": "Read"
 	},
 	{
-		"no": 1,
+		"no": 4,
 		"title": "Biri Beni Dinliyor",
 		"author": "Dilek Yildirim Akgun",
 		"publisher": "Optimist",
 		"lang": "Turkce",
 		"page": 195,
 		"year": "2012",
+		"status": "Read"
+	},
+	{
+		"no": 5,
+		"title": "Bir Terapistin Gizemli Anilari",
+		"author": "Ulker Uzun Polat",
+		"publisher": "Iskendiriye",
+		"lang": "Turkce",
+		"page": 424,
+		"year": "2015",
+		"status": "Read"
+	},
+	{
+		"no": 6,
+		"title": "Insan Vucuduna Seyahat",
+		"author": "Gavin Francis",
+		"publisher": "Domingo",
+		"lang": "Turkce",
+		"page": 266,
+		"year": "2015",
+		"status": "Read"
+	},
+	{
+		"no": 7,
+		"title": "Dogfight",
+		"author": "Fred Vogelstein",
+		"publisher": "Tutikitap",
+		"lang": "Turkce",
+		"page": 256,
+		"year": "2014",
+		"status": "Read"
+	},
+	{
+		"no": 8,
+		"title": "The Amazon Way",
+		"author": "John Rossman",
+		"publisher": "Marti",
+		"lang": "Turkce",
+		"page": 224,
+		"year": "2018",
+		"status": "Read"
+	},
+	{
+		"no": 9,
+		"title": "Smart Cities, Digital Nations",
+		"author": "Caspar Herzberg",
+		"publisher": "Optimist",
+		"lang": "Turkce",
+		"page": 240,
+		"year": "2017",
+		"status": "Read"
+	},
+	{
+		"no": 10,
+		"title": "Digital Wars",
+		"author": "Charles Arthur",
+		"publisher": "Is Bankasi Kultur Yayinlari",
+		"lang": "Turkce",
+		"page": 392,
+		"year": "2017",
+		"status": "Read"
+	},
+	{
+		"no": 11,
+		"title": "Alibaba",
+		"author": "Duncan Clark",
+		"publisher": "CEO Plus",
+		"lang": "Turkce",
+		"page": 312,
+		"year": "2017",
+		"status": "Read"
+	},
+	{
+		"no": 12,
+		"title": "Happy Hour Is 9 to 5",
+		"author": "Alexander Kjerulf",
+		"publisher": "CEO Plus",
+		"lang": "Turkce",
+		"page": 208,
+		"year": "2015",
+		"status": "Read"
+	},
+	{
+		"no": 13,
+		"title": "Sam Walton",
+		"author": "Sally Lee",
+		"publisher": "Infomag",
+		"lang": "Turkce",
+		"page": 120,
+		"year": "2011",
+		"status": "Read"
+	},
+	{
+		"no": 14,
+		"title": "Ebay Fenomeni",
+		"author": "Ebay Fenomeni",
+		"publisher": "Ledo",
+		"lang": "Turkce",
+		"page": 270,
+		"year": "2005",
 		"status": "Read"
 	}
 ]

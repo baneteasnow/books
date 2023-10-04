@@ -273,7 +273,7 @@
 		"page": 144,
 		"year": "2016",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1024,
@@ -322,7 +322,7 @@
 		"page": 304,
 		"year": "2011",
 		"notes": "B-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1028,
@@ -552,7 +552,7 @@
 		"page": 232,
 		"year": "2015",
 		"notes": "B-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1047,
@@ -564,7 +564,7 @@
 		"page": 293,
 		"year": "2014",
 		"notes": "B-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -759,7 +759,7 @@
 		"page": 144,
 		"year": "2007",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1064,
@@ -831,7 +831,7 @@
 		"page": 208,
 		"year": "2018",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1070,
@@ -843,7 +843,7 @@
 		"page": 174,
 		"year": "2011",
 		"notes": "D-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1071,
@@ -1049,7 +1049,7 @@
 		"page": 240,
 		"year": "2014",
 		"notes": "B-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1088,
@@ -1061,7 +1061,7 @@
 		"page": 160,
 		"year": "2012",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1089,
@@ -1073,7 +1073,7 @@
 		"page": 314,
 		"year": "2015",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1090,
@@ -1097,7 +1097,7 @@
 		"page": 136,
 		"year": "2019",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -1134,7 +1134,7 @@
 		"page": 472,
 		"year": "2017",
 		"notes": "E-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1095,
@@ -1182,7 +1182,7 @@
 		"page": 200,
 		"year": "2016",
 		"notes": "A-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1099,
@@ -1199,7 +1199,7 @@
 	{
 		"bookshelf": 1100,
 		"No": 100,
-		"title": "Ask  Dersleri",
+		"title": "Ask Dersleri",
 		"publisher": "Everest Yayinlari",
 		"author": "Alain De Botton",
 		"lang": "Turkce",
@@ -1304,7 +1304,7 @@
 		"page": 414,
 		"year": "2017",
 		"notes": "E-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -1425,7 +1425,7 @@
 		"page": 80,
 		"year": "2015",
 		"notes": "C-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -1438,7 +1438,7 @@
 		"page": 231,
 		"year": "2016",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1120,
@@ -1667,7 +1667,7 @@
 		"page": 256,
 		"year": "2010",
 		"notes": "D-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -1922,7 +1922,7 @@
 		"page": 436,
 		"year": "2011",
 		"notes": "B-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2055,7 +2055,7 @@
 		"page": 235,
 		"year": "2016",
 		"notes": "D-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2308,7 +2308,7 @@
 		"page": 160,
 		"year": "2012",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1192,
@@ -2332,7 +2332,7 @@
 		"page": 144,
 		"year": "2020",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1194,
@@ -2536,7 +2536,7 @@
 		"page": 284,
 		"year": "2014",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2549,7 +2549,7 @@
 		"page": 397,
 		"year": "2013",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2562,7 +2562,7 @@
 		"page": 280,
 		"year": "2018",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2685,7 +2685,7 @@
 		"page": 318,
 		"year": "2012",
 		"notes": "D-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2734,7 +2734,7 @@
 		"page": 136,
 		"year": "2018",
 		"notes": "A-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1227,
@@ -2794,7 +2794,7 @@
 		"page": 348,
 		"year": "2015",
 		"notes": "B-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1232,
@@ -2806,7 +2806,7 @@
 		"page": 72,
 		"year": "2020",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2819,7 +2819,7 @@
 		"page": 230,
 		"year": "2011",
 		"notes": "D-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -2904,7 +2904,7 @@
 		"page": 368,
 		"year": "2017",
 		"notes": "E-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3076,7 +3076,7 @@
 		"page": 276,
 		"year": "2004",
 		"notes": "B-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1255,
@@ -3100,7 +3100,7 @@
 		"page": 263,
 		"year": "2017",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3113,7 +3113,7 @@
 		"page": 329,
 		"year": "2018",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3307,7 +3307,7 @@
 		"page": 596,
 		"year": "2010",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3320,7 +3320,7 @@
 		"page": 144,
 		"year": "2013",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3441,7 +3441,7 @@
 		"page": 352,
 		"year": "2020",
 		"notes": "B-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3490,7 +3490,7 @@
 		"page": 224,
 		"year": "2014",
 		"notes": "D-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3527,7 +3527,7 @@
 		"page": 248,
 		"year": "2010",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3540,7 +3540,7 @@
 		"page": 168,
 		"year": "2017",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1293,
@@ -3600,7 +3600,7 @@
 		"page": 144,
 		"year": "2017",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1298,
@@ -3624,7 +3624,7 @@
 		"page": 304,
 		"year": "2016",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1300,
@@ -3672,7 +3672,7 @@
 		"page": 800,
 		"year": "2021",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1304,
@@ -3684,7 +3684,7 @@
 		"page": 276,
 		"year": "2014",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3817,7 +3817,7 @@
 		"page": 372,
 		"year": "2012",
 		"notes": "D-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3854,7 +3854,7 @@
 		"page": 224,
 		"year": "2020",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1319,
@@ -3939,7 +3939,7 @@
 		"page": 264,
 		"year": "2018",
 		"notes": "D-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1326,
@@ -3963,7 +3963,7 @@
 		"page": 240,
 		"year": "2010",
 		"notes": "D-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -3976,7 +3976,7 @@
 		"page": 448,
 		"year": "2017",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4025,7 +4025,7 @@
 		"page": 80,
 		"year": "2018",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4195,7 +4195,7 @@
 		"page": 196,
 		"year": "2016",
 		"notes": "B-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4220,7 +4220,7 @@
 		"page": 122,
 		"year": "2018",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4257,7 +4257,7 @@
 		"page": 123,
 		"year": "2017",
 		"notes": "C-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4270,7 +4270,7 @@
 		"page": 256,
 		"year": "2017",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4367,7 +4367,7 @@
 		"page": 384,
 		"year": "2016",
 		"notes": "B-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1361,
@@ -4404,7 +4404,7 @@
 		"page": 448,
 		"year": "2018",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1364,
@@ -4464,7 +4464,7 @@
 		"page": 192,
 		"year": "2019",
 		"notes": "A-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1369,
@@ -4500,7 +4500,7 @@
 		"page": 253,
 		"year": "2013",
 		"notes": "B-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4573,7 +4573,7 @@
 		"page": 112,
 		"year": "2015",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1378,
@@ -4802,7 +4802,7 @@
 		"page": 304,
 		"year": "2012",
 		"notes": "E-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4810,7 +4810,7 @@
 		"No": 397,
 		"title": "Ebay Fenomeni",
 		"publisher": "Ledo Yayincilik",
-		"author": "Richard Luecke, David Bunnell",
+		"author": "Ebay Fenomeni",
 		"lang": "Turkce",
 		"page": 270,
 		"year": "2005",
@@ -4888,7 +4888,7 @@
 		"page": 128,
 		"year": "2018",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1404,
@@ -5008,7 +5008,7 @@
 		"page": 448,
 		"year": "2016",
 		"notes": "E-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1414,
@@ -5285,7 +5285,7 @@
 		"page": 400,
 		"year": "2017",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -5322,7 +5322,7 @@
 		"page": 512,
 		"year": "2009",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -5383,7 +5383,7 @@
 		"page": 295,
 		"year": "2016",
 		"notes": "B-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1445,
@@ -5528,7 +5528,7 @@
 		"page": 200,
 		"year": "2017",
 		"notes": "C-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1457,
@@ -5552,7 +5552,7 @@
 		"page": 150,
 		"year": "2005",
 		"notes": "C-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1459,
@@ -5564,7 +5564,7 @@
 		"page": 128,
 		"year": "1999",
 		"notes": "C-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1460,
@@ -5756,7 +5756,7 @@
 		"page": 259,
 		"year": "2009",
 		"notes": "B-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1476,
@@ -5828,7 +5828,7 @@
 		"page": 248,
 		"year": "2014",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1482,
@@ -5852,7 +5852,7 @@
 		"page": 286,
 		"year": "2017",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -5865,7 +5865,7 @@
 		"page": 454,
 		"year": "2014",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -5878,7 +5878,7 @@
 		"page": 632,
 		"year": "2016",
 		"notes": "B-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1486,
@@ -5902,7 +5902,7 @@
 		"page": 608,
 		"year": "2013",
 		"notes": "E-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -5963,7 +5963,7 @@
 		"page": 132,
 		"year": "2017",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -6091,12 +6091,12 @@
 		"No": 503,
 		"title": "Gercekciler Icin Utopya",
 		"publisher": "Domingo Yayinevi",
-		"author": "Rutger  Bregman",
+		"author": "Rutger Bregman",
 		"lang": "Turkce",
 		"page": 328,
 		"year": "2018",
 		"notes": "A-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -6266,7 +6266,7 @@
 		"page": 152,
 		"year": "2020",
 		"notes": "A-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1518,
@@ -6327,7 +6327,7 @@
 		"page": 306,
 		"year": "2016",
 		"notes": "B-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1523,
@@ -6351,7 +6351,7 @@
 		"page": 320,
 		"year": "2018",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1525,
@@ -6363,7 +6363,7 @@
 		"page": 326,
 		"year": "2010",
 		"notes": "D-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1526,
@@ -6375,7 +6375,7 @@
 		"page": 432,
 		"year": "2017",
 		"notes": "D-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1527,
@@ -6387,7 +6387,7 @@
 		"page": 352,
 		"year": "2014",
 		"notes": "B-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1528,
@@ -6507,7 +6507,7 @@
 		"page": 280,
 		"year": "2012",
 		"notes": "B-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -6641,7 +6641,7 @@
 		"page": 588,
 		"year": "2005",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1549,
@@ -6726,7 +6726,7 @@
 		"page": 302,
 		"year": "2007",
 		"notes": "C-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -6775,7 +6775,7 @@
 		"page": 341,
 		"year": "2004",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -6800,7 +6800,7 @@
 		"page": 296,
 		"year": "2011",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1562,
@@ -6836,7 +6836,7 @@
 		"page": 196,
 		"year": "2009",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1565,
@@ -6848,7 +6848,7 @@
 		"page": 224,
 		"year": "2007",
 		"notes": "B-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -6934,7 +6934,7 @@
 		"page": 156,
 		"year": "2018",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1573,
@@ -7079,7 +7079,7 @@
 		"page": 181,
 		"year": "2013",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1585,
@@ -7115,7 +7115,7 @@
 		"page": 352,
 		"year": "2017",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -7236,7 +7236,7 @@
 		"page": 310,
 		"year": "2013",
 		"notes": "B-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1598,
@@ -7355,7 +7355,7 @@
 		"page": 282,
 		"year": "2010",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -7368,7 +7368,7 @@
 		"page": 216,
 		"year": "2017",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -7405,7 +7405,7 @@
 		"page": 320,
 		"year": "2017",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -7514,7 +7514,7 @@
 		"page": 288,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1621,
@@ -7658,7 +7658,7 @@
 		"page": 152,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1633,
@@ -7670,7 +7670,7 @@
 		"page": 176,
 		"year": "2017",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1634,
@@ -7682,7 +7682,7 @@
 		"page": 256,
 		"year": "2019",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1635,
@@ -7802,7 +7802,7 @@
 		"page": 144,
 		"year": "2016",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -7840,7 +7840,7 @@
 		"page": 354,
 		"year": "2013",
 		"notes": "D-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1648,
@@ -7864,7 +7864,7 @@
 		"page": 144,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1650,
@@ -7984,7 +7984,7 @@
 		"page": 136,
 		"year": "2016",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -8237,7 +8237,7 @@
 		"page": 720,
 		"year": "2018",
 		"notes": "C-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1681,
@@ -8261,7 +8261,7 @@
 		"page": 279,
 		"year": "2012",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -8418,7 +8418,7 @@
 		"page": 101,
 		"year": "2012",
 		"notes": "E-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1696,
@@ -8598,7 +8598,7 @@
 		"page": 296,
 		"year": "2021",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -8647,7 +8647,7 @@
 		"page": 168,
 		"year": "2019",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -8720,7 +8720,7 @@
 		"page": 320,
 		"year": "2016",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -9117,7 +9117,7 @@
 		"page": 344,
 		"year": "2015",
 		"notes": "C-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1754,
@@ -9249,7 +9249,7 @@
 		"page": 344,
 		"year": "2018",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -9358,7 +9358,7 @@
 		"page": 208,
 		"year": "2010",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1774,
@@ -9418,7 +9418,7 @@
 		"page": 160,
 		"year": "2013",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -9600,7 +9600,7 @@
 		"page": 280,
 		"year": "2016",
 		"notes": "E-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1794,
@@ -9660,7 +9660,7 @@
 		"page": 264,
 		"year": "2016",
 		"notes": "D-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -9793,7 +9793,7 @@
 		"page": 304,
 		"year": "2009",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -9806,7 +9806,7 @@
 		"page": 304,
 		"year": "2006",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -9898,12 +9898,12 @@
 		"No": 818,
 		"title": "Konusmayi Kes Harekete Gec - Size Gaz Verecek Pratik Araclar ve Alistirmalar",
 		"publisher": "Paloma Yayinlari",
-		"author": "Shaa Wasmund",
+		"author": "Shaa Wasmund, Richard Newton",
 		"lang": "Turkce",
 		"page": 224,
 		"year": "2016",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1819,
@@ -10360,19 +10360,19 @@
 		"page": 288,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1857,
 		"No": 857,
-		"title": "Lagom - Isvevlilerin Dengeli Yasama Sanati",
+		"title": "Lagom - Isveclilerin Dengeli Yasama Sanati",
 		"publisher": "Pegasus Yayinlari",
 		"author": "Linnea Dunne",
 		"lang": "Turkce",
 		"page": 160,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1858,
@@ -10384,7 +10384,7 @@
 		"page": 340,
 		"year": "2018",
 		"notes": "E-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -10517,7 +10517,7 @@
 		"page": 288,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1870,
@@ -10553,7 +10553,7 @@
 		"page": 217,
 		"year": "2018",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -10578,7 +10578,7 @@
 		"page": 424,
 		"year": "2018",
 		"notes": "B-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -10771,7 +10771,7 @@
 		"page": 390,
 		"year": "1997",
 		"notes": "B-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1891,
@@ -10976,7 +10976,7 @@
 		"page": 116,
 		"year": "2006",
 		"notes": "B-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1908,
@@ -10988,7 +10988,7 @@
 		"page": 128,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1909,
@@ -11072,7 +11072,7 @@
 		"page": 212,
 		"year": "2018",
 		"notes": "E-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1916,
@@ -11120,7 +11120,7 @@
 		"page": 72,
 		"year": "2018",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1920,
@@ -11240,7 +11240,7 @@
 		"page": 101,
 		"year": "2011",
 		"notes": "E-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1930,
@@ -11288,7 +11288,7 @@
 		"page": 272,
 		"year": "2006",
 		"notes": "D-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -11397,7 +11397,7 @@
 		"page": 208,
 		"year": "2016",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -11422,7 +11422,7 @@
 		"page": 216,
 		"year": "2014",
 		"notes": "E-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1945,
@@ -11494,7 +11494,7 @@
 		"page": 101,
 		"year": "2011",
 		"notes": "E-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1951,
@@ -11542,7 +11542,7 @@
 		"page": 200,
 		"year": "2018",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -11555,7 +11555,7 @@
 		"page": 216,
 		"year": "2003",
 		"notes": "D-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1956,
@@ -11603,7 +11603,7 @@
 		"page": 400,
 		"year": "2010",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -11724,7 +11724,7 @@
 		"page": 256,
 		"year": "2011",
 		"notes": "B-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1970,
@@ -11796,7 +11796,7 @@
 		"page": 296,
 		"year": "2009",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12170,7 +12170,7 @@
 		"page": 357,
 		"year": "2012",
 		"notes": "D-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2007,
@@ -12182,7 +12182,7 @@
 		"page": 96,
 		"year": "2022",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12305,7 +12305,7 @@
 		"page": 384,
 		"year": "2015",
 		"notes": "D-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12378,7 +12378,7 @@
 		"page": 254,
 		"year": "2017",
 		"notes": "B-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2024,
@@ -12522,7 +12522,7 @@
 		"page": 176,
 		"year": "2012",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2036,
@@ -12571,7 +12571,7 @@
 		"page": 412,
 		"year": "2011",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2040,
@@ -12751,7 +12751,7 @@
 		"page": 268,
 		"year": "2017",
 		"notes": "A-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12788,7 +12788,7 @@
 		"page": 224,
 		"year": "2011",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -13127,7 +13127,7 @@
 		"page": 256,
 		"year": "2017",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2086,
@@ -13151,7 +13151,7 @@
 		"page": 358,
 		"year": "2013",
 		"notes": "D-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -13188,7 +13188,7 @@
 		"page": 214,
 		"year": "2012",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -13225,7 +13225,7 @@
 		"page": 360,
 		"year": "2018",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -13382,7 +13382,7 @@
 		"page": 120,
 		"year": "2016",
 		"notes": "B-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2107,
@@ -13599,7 +13599,7 @@
 		"page": 344,
 		"year": "2016",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2125,
@@ -13611,7 +13611,7 @@
 		"page": 224,
 		"year": "2017",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -13660,7 +13660,7 @@
 		"page": 124,
 		"year": "2016",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -13829,7 +13829,7 @@
 		"page": 336,
 		"year": "2022",
 		"notes": "B-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2144,
@@ -13938,7 +13938,7 @@
 		"page": 96,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2153,
@@ -13974,7 +13974,7 @@
 		"page": 250,
 		"year": "2016",
 		"notes": "A-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -13987,7 +13987,7 @@
 		"page": 168,
 		"year": "2018",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2157,
@@ -14023,7 +14023,7 @@
 		"page": 128,
 		"year": "2018",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2160,
@@ -14083,7 +14083,7 @@
 		"page": 415,
 		"year": "2012",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -14168,7 +14168,7 @@
 		"page": 316,
 		"year": "2009",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -14495,7 +14495,7 @@
 		"page": 368,
 		"year": "2004",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -14532,7 +14532,7 @@
 		"page": 256,
 		"year": "2016",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2202,
@@ -14544,7 +14544,7 @@
 		"page": 392,
 		"year": "2019",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -14654,7 +14654,7 @@
 		"page": 400,
 		"year": "2018",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2212,
@@ -14726,7 +14726,7 @@
 		"page": 224,
 		"year": "2016",
 		"notes": "D-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2218,
@@ -14798,7 +14798,7 @@
 		"page": 248,
 		"year": "2001",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -15052,7 +15052,7 @@
 		"page": 275,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2245,
@@ -15064,7 +15064,7 @@
 		"page": 511,
 		"year": "2011",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -15137,7 +15137,7 @@
 		"page": 272,
 		"year": "2016",
 		"notes": "D-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -15259,7 +15259,7 @@
 		"page": 126,
 		"year": "2017",
 		"notes": "B-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -15320,7 +15320,7 @@
 		"page": 392,
 		"year": "2012",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -15494,7 +15494,7 @@
 	{
 		"bookshelf": 2281,
 		"No": 1281,
-		"title": "Starbucks - Gonlono Ise Vermek",
+		"title": "Starbucks - Gonlunu Ise Vermek",
 		"publisher": "Babiali Kultur Yayincilik",
 		"author": "Howard Schultz, Dori Jones Young",
 		"lang": "Turkce",
@@ -15525,7 +15525,7 @@
 		"page": 266,
 		"year": "2007",
 		"notes": "D-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2284,
@@ -15537,7 +15537,7 @@
 		"page": 128,
 		"year": "2016",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2285,
@@ -15561,7 +15561,7 @@
 		"page": 540,
 		"year": "2014",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2287,
@@ -15585,7 +15585,7 @@
 		"page": 480,
 		"year": "2015",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2289,
@@ -15861,7 +15861,7 @@
 		"page": 288,
 		"year": "2015",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16114,7 +16114,7 @@
 		"page": 260,
 		"year": "2011",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16127,7 +16127,7 @@
 		"page": 224,
 		"year": "2018",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16308,7 +16308,7 @@
 		"page": 336,
 		"year": "2015",
 		"notes": "D-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16340,12 +16340,12 @@
 		"No": 1351,
 		"title": "Tibbin Gelecegine Yolculuk",
 		"publisher": "Optimist Kitap",
-		"author": "Bertalan  Mesko",
+		"author": "Bertalan Mesko",
 		"lang": "Turkce",
 		"page": 184,
 		"year": "2018",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2352,
@@ -16369,7 +16369,7 @@
 		"page": 416,
 		"year": "2021",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16466,7 +16466,7 @@
 		"page": 384,
 		"year": "2016",
 		"notes": "C-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16491,7 +16491,7 @@
 		"page": 372,
 		"year": "2019",
 		"notes": "B-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16540,7 +16540,7 @@
 		"page": 182,
 		"year": "2012",
 		"notes": "E-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2368,
@@ -16660,7 +16660,7 @@
 		"page": 420,
 		"year": "2012",
 		"notes": "D-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -16974,7 +16974,7 @@
 		"page": 248,
 		"year": "2008",
 		"notes": "D-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -17059,7 +17059,7 @@
 		"page": 208,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2411,
@@ -17071,7 +17071,7 @@
 		"page": 216,
 		"year": "2019",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -17132,7 +17132,7 @@
 		"page": 256,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2417,
@@ -17192,7 +17192,7 @@
 		"page": 73,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2422,
@@ -17240,7 +17240,7 @@
 		"page": 420,
 		"year": "2007",
 		"notes": "B-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2426,
@@ -17288,7 +17288,7 @@
 		"page": 312,
 		"year": "2009",
 		"notes": "B-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2430,
@@ -17312,7 +17312,7 @@
 		"page": 440,
 		"year": "2011",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -17409,7 +17409,7 @@
 		"page": 288,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2440,
@@ -17421,7 +17421,7 @@
 		"page": 216,
 		"year": "2022",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -17520,7 +17520,7 @@
 		"page": 436,
 		"year": "2011",
 		"notes": "B-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -17653,7 +17653,7 @@
 		"page": 168,
 		"year": "2013",
 		"notes": "C-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2460,
@@ -17761,7 +17761,7 @@
 		"page": 316,
 		"year": "2006",
 		"notes": "E-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2469,
@@ -17821,7 +17821,7 @@
 		"page": 324,
 		"year": "2014",
 		"notes": "E-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2474,
@@ -17905,7 +17905,7 @@
 		"page": 280,
 		"year": "2020",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -17918,7 +17918,7 @@
 		"page": 296,
 		"year": "2018",
 		"notes": "B-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2482,
@@ -18038,7 +18038,7 @@
 		"page": 320,
 		"year": "2015",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -18099,7 +18099,7 @@
 		"page": 176,
 		"year": "2016",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2497,
@@ -18135,7 +18135,7 @@
 		"page": 320,
 		"year": "2010",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -18148,7 +18148,7 @@
 		"page": 384,
 		"year": "2011",
 		"notes": "D-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2501,
@@ -18184,7 +18184,7 @@
 		"page": 144,
 		"year": "2021",
 		"notes": "B-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -18377,7 +18377,7 @@
 		"page": 63,
 		"year": "2017",
 		"notes": "C-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -18510,7 +18510,7 @@
 		"page": 140,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2531,
@@ -18654,7 +18654,7 @@
 		"page": 327,
 		"year": "2021",
 		"notes": "A-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
