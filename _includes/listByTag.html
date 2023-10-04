@@ -1,7 +1,9 @@
 {% assign books_data = site.data.list %} {% assign reread_yes = books_data |
-where: "reread", "yes" | size %}
+where: "reread", "yes" | size %} {% assign ereread_data = site.data.reread %} {%
+assign ereread_yes = ereread_data | size %} {% assign read_data = site.data.list
+%} {% assign status_read = read_data | where: "status", "Read" | size %}
 <i
 	><a href="https://homelibrary.nonfictionbooks.xyz/reread">reread: </a>{{
-	reread_yes | plus: '18' }}</i
+	reread_yes | plus: ereread_yes }}</i
 >
-<div><i>read: </i></div>
+<div><i>read: {{ status_read }} </i></div>

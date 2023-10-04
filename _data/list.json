@@ -81,7 +81,7 @@
 		"page": 200,
 		"year": "2014",
 		"notes": "E-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1008,
@@ -297,7 +297,7 @@
 		"page": 296,
 		"year": "2009",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -370,7 +370,7 @@
 		"page": 144,
 		"year": "2021",
 		"notes": "F-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1032,
@@ -382,7 +382,7 @@
 		"page": 224,
 		"year": "2017",
 		"notes": "E-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1033,
@@ -490,7 +490,7 @@
 		"page": 128,
 		"year": "2013",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -746,7 +746,7 @@
 		"page": 360,
 		"year": "2020",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -904,7 +904,7 @@
 		"page": 368,
 		"year": "2016",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -1255,7 +1255,7 @@
 		"page": 128,
 		"year": "2016",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -1753,7 +1753,7 @@
 		"page": 466,
 		"year": "2021",
 		"notes": "A-3",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1146,
@@ -2116,7 +2116,7 @@
 		"page": 224,
 		"year": "2019",
 		"notes": "C-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1176,
@@ -3890,7 +3890,7 @@
 		"page": 160,
 		"year": "2013",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4379,7 +4379,7 @@
 		"page": 152,
 		"year": "2013",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -4693,7 +4693,7 @@
 		"page": 376,
 		"year": "2020",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -5395,7 +5395,7 @@
 		"page": 272,
 		"year": "2021",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -5456,7 +5456,7 @@
 		"page": 105,
 		"year": "2021",
 		"notes": "B-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1451,
@@ -6169,7 +6169,7 @@
 		"page": 440,
 		"year": "2020",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -7381,7 +7381,7 @@
 		"page": 346,
 		"year": "2021",
 		"notes": "E-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1610,
@@ -7442,7 +7442,7 @@
 		"page": 192,
 		"year": "2022",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 1615,
@@ -7827,7 +7827,7 @@
 		"page": 192,
 		"year": "2020",
 		"notes": "C-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -9551,7 +9551,7 @@
 		"page": 96,
 		"year": "2023",
 		"notes": "A-2",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -11905,7 +11905,7 @@
 		"page": 272,
 		"year": "2021",
 		"notes": "A-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12232,7 +12232,7 @@
 		"page": 304,
 		"year": "2021",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -12994,7 +12994,7 @@
 		"page": 160,
 		"year": "2013",
 		"notes": "C-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -15946,7 +15946,7 @@
 		"page": 416,
 		"year": "2009",
 		"notes": "E-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2319,
@@ -16066,7 +16066,7 @@
 		"page": 280,
 		"year": "2017",
 		"notes": "E-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2329,
@@ -16224,7 +16224,7 @@
 		"page": 400,
 		"year": "2017",
 		"notes": "A-2",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2342,
@@ -17458,7 +17458,7 @@
 		"page": 304,
 		"year": "2023",
 		"notes": "B-1",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -17495,7 +17495,7 @@
 		"page": 160,
 		"year": "2015",
 		"notes": "A-3",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -18293,7 +18293,7 @@
 		"page": 112,
 		"year": "2022",
 		"notes": "A-4",
-		"status": ""
+		"status": "Read"
 	},
 	{
 		"bookshelf": 2513,
