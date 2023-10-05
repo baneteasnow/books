@@ -1,21 +1,34 @@
+<!--  -->
 {% assign books_data = site.data.list %} {% assign reread_yes = books_data |
-where: "reread", "yes" | size %} {% assign ereread_data = site.data.reread %} {%
-assign ereread_yes = ereread_data | size %} {% assign read_data = site.data.list
-%} {% assign status_read = read_data | where: "status", "Read" | size %} {%
-assign gaveaway_data = site.data.gaveaway %} {% assign gaveaway_yes =
+where: "reread", "yes" | size %}
+<!--  -->
+{% assign ereread_data = site.data.reread %} {% assign ereread_yes =
+ereread_data | size %}
+<!--  -->
+{% assign read_data = site.data.list %} {% assign status_read = read_data |
+where: "status", "Read" | size %}
+<!--  -->
+{% assign gaveaway_data = site.data.gaveaway %} {% assign gaveaway_yes =
 gaveaway_data | size %}
-
-<i
-	><a href="https://homelibrary.nonfictionbooks.xyz/reread">reread: </a>{{
-	reread_yes | plus: ereread_yes }}</i
->
+<!--  -->
+{% assign justread_data = site.data.list %} {% assign status_justread =
+justread_data | where: "status", "JustRead" | size %}
 <div>
 	<i>read: {{ status_read | plus: gaveaway_yes | plus: '45' }}</i>
 </div>
-<br />
+<div>
+	<i>just read: {{ status_justread }}</i>
+</div>
+<div>
+	<i>
+		<a href="https://homelibrary.nonfictionbooks.xyz/reread">reread: </a>{{
+		reread_yes | plus: ereread_yes }}
+	</i>
+</div>
+<!-- <br />
 <div>reread_yes {{ reread_yes }}</div>
 <div>ereread_yes {{ ereread_yes }}</div>
 <br />
 <div>status_read {{ status_read }}</div>
 <div>gaveaway {{ gaveaway_yes }}</div>
-<div>justread 22</div>
+<div>justread 22</div> -->
