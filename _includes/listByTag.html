@@ -1,23 +1,30 @@
-<!--  -->
+<!-- reread_yes -->
 {% assign books_data = site.data.list %} {% assign reread_yes = books_data |
 where: "reread", "yes" | size %}
-<!--  -->
+<!-- ereread_yes -->
 {% assign ereread_data = site.data.reread %} {% assign ereread_yes =
 ereread_data | size %}
-<!--  -->
+<!-- status_read -->
 {% assign read_data = site.data.list %} {% assign status_read = read_data |
 where: "status", "Read" | size %}
-<!--  -->
+<!-- gaveaway_yes -->
 {% assign gaveaway_data = site.data.gaveaway %} {% assign gaveaway_yes =
 gaveaway_data | size %}
-<!--  -->
+<!-- status_justread -->
 {% assign justread_data = site.data.list %} {% assign status_justread =
 justread_data | where: "status", "JustRead" | size %}
+<!-- reading_yes -->
+{% assign reading_data = site.data.list %} {% assign status_reading =
+reading_data | where: "status", "Reading" | size %}
+<!-- plus: '45' = read as ebook - - - includes: reread.html -->
 <div>
 	<i>read: {{ status_read | plus: gaveaway_yes | plus: '45' }}</i>
 </div>
 <div>
 	<i>just read: {{ status_justread }}</i>
+</div>
+<div>
+	<i>reading: {{ status_reading }}</i>
 </div>
 <div>
 	<i>
