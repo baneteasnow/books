@@ -17,19 +17,19 @@ justread_data | where: "status", "JustRead" | size %}
 {% assign reading_data = site.data.list %} {% assign status_reading =
 reading_data | where: "status", "Reading" | size %}
 <!-- plus: '45' = read as ebook - - - includes: reread.html -->
-<div>
+<div style="color: #b7b2b2">
 	<i>read: {{ status_read | plus: gaveaway_yes | plus: '45' }}</i>
 </div>
-<div>
+<div style="color: #b7b2b2">
 	<i>just read: {{ status_justread }}</i>
 </div>
-<div>
+<div style="color: #b7b2b2">
 	<i>
 		<a href="https://www.nonfictionbooks.xyz/now.html">reading: </a>
 		{{ status_reading }}
 	</i>
 </div>
-<div>
+<div style="color: #b7b2b2">
 	<i>
 		<a href="https://homelibrary.nonfictionbooks.xyz/reread">reread: </a>{{
 		reread_yes | plus: ereread_yes }}
