@@ -539,7 +539,7 @@
 		"page": 428,
 		"year": "2013",
 		"notes": "B-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -6356,7 +6356,7 @@
 	{
 		"bookshelf": 1525,
 		"No": 525,
-		"title": "Google Olsa Ne Yapardi",
+		"title": "Google Olsa Ne Yapardi?",
 		"publisher": "MediaCat Kitaplari",
 		"author": "Jeff Jarvis",
 		"lang": "Turkce",
@@ -6689,7 +6689,7 @@
 		"page": 262,
 		"year": "2015",
 		"notes": "A-4",
-		"status": "",
+		"status": "Read",
 		"reread": "yes"
 	},
 	{
@@ -8230,7 +8230,7 @@
 	{
 		"bookshelf": 1680,
 		"No": 680,
-		"title": "Insanlik 2.0",
+		"title": "Insanlik 2.0 - Tekillige Dogru Biyolojisini Asan Insan",
 		"publisher": "Alfa Yayinlari",
 		"author": "Ray Kurzweil",
 		"lang": "Turkce",
@@ -12744,7 +12744,7 @@
 	{
 		"bookshelf": 2054,
 		"No": 1054,
-		"title": "Orjinaller - Geleneklere Uymayanlar Dunyayi Nasil Ileri Tasiyor?",
+		"title": "Orijinaller - Geleneklere Uymayanlar Dunyayi Nasil Ileri Tasiyor?",
 		"publisher": "Modus Kitap",
 		"author": "Adam Grant",
 		"lang": "Turkce",
@@ -14854,7 +14854,7 @@
 		"No": 1228,
 		"title": "Sindrella Kompleksi - Cagdas Kadinin Bagimsizlik Korkusu",
 		"publisher": "Afrika Yayinlari",
-		"author": "Collette Dowling",
+		"author": "Colette Dowling",
 		"lang": "Turkce",
 		"page": 264,
 		"year": "2020",
