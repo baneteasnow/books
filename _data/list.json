@@ -454,7 +454,7 @@
 		"page": 152,
 		"year": "2023",
 		"notes": "new",
-		"status": ""
+		"status": "Reading"
 	},
 	{
 		"bookshelf": 1039,
@@ -674,7 +674,7 @@
 		"page": 336,
 		"year": "2013",
 		"notes": "B-2",
-		"status": ""
+		"status": "Reading"
 	},
 	{
 		"bookshelf": 1057,
@@ -18442,7 +18442,8 @@
 		"page": 272,
 		"year": "2022",
 		"notes": "new",
-		"status": "Reading"
+		"status": "JustRead",
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2525,
@@ -18814,6 +18815,162 @@
 		"author": "Matt Alder, Mervyn Dinnen",
 		"lang": "Turkce",
 		"page": 296,
+		"year": "2023",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2556,
+		"No": 1556,
+		"title": "Kadinlar Neden Sismanlar",
+		"publisher": "Kuraldisi Yayinlari",
+		"author": "Susie Orbach",
+		"lang": "Turkce",
+		"page": 196,
+		"year": "1998",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2557,
+		"No": 1557,
+		"title": "Kutuphanelerin Bilinmeyen Dunyasi",
+		"publisher": "The Kitap",
+		"author": "Susan Orlean",
+		"lang": "Turkce",
+		"page": 352,
+		"year": "2020",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2558,
+		"No": 1558,
+		"title": "Hakikat Sonrasi Cagda Edebiyat Eseri",
+		"publisher": "The Kitap",
+		"author": "Christopher Schaberg",
+		"lang": "Turkce",
+		"page": 216,
+		"year": "2020",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2559,
+		"No": 1559,
+		"title": "Organizasyon Kulturu ve Liderlik",
+		"publisher": "The Kitap",
+		"author": "Edgar H. Schein, Peter Schein",
+		"lang": "Turkce",
+		"page": 352,
+		"year": "2022",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2560,
+		"No": 1560,
+		"title": "Ucurumdan Gecmek – Anaakim Tuketiciye Yikici Urunler Pazarlamak ve Satmak",
+		"publisher": "Albaraka Yayinlari",
+		"author": "Geoffrey Moore",
+		"lang": "Turkce",
+		"page": 240,
+		"year": "2021",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2561,
+		"No": 1561,
+		"title": "Blockbusters Hit Yapim Stratejileri ve Riskler - Eglencenin Buyuk Ekonomisi",
+		"publisher": "Garaj Yayinlari",
+		"author": "Anita Elberse",
+		"lang": "Turkce",
+		"page": 288,
+		"year": "2023",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2562,
+		"No": 1562,
+		"title": "Cinselligin Onemi - Arzuya Kavusmak",
+		"publisher": "Ayrinti Yayinlari",
+		"author": "Ghislaine Paris",
+		"lang": "Turkce",
+		"page": 160,
+		"year": "2020",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2563,
+		"No": 1563,
+		"title": "Freud ve Psikanaliz",
+		"publisher": "Pinhan Yayincilik",
+		"author": "Carl Gustav Jung",
+		"lang": "Turkce",
+		"page": 320,
+		"year": "2020",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2564,
+		"No": 1564,
+		"title": "Dayaniklilik Çagi - Yabanlasan Dunyadaki Varolusumuz",
+		"publisher": "Dogan Kitap",
+		"author": "Jeremy Rifkin",
+		"lang": "Turkce",
+		"page": 368,
+		"year": "2023",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2565,
+		"No": 1565,
+		"title": "Tez Nasıl Yazılır?",
+		"publisher": "Can Yayinlari",
+		"author": "Umberto Eco",
+		"lang": "Turkce",
+		"page": 320,
+		"year": "2010",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2566,
+		"No": 1566,
+		"title": "Sihirli Cocuk",
+		"publisher": "Gorunmez Adam Yayinlari",
+		"author": "Joseph Chilton Pearce",
+		"lang": "Turkce",
+		"page": 341,
+		"year": "2020",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2567,
+		"No": 1567,
+		"title": "Kitaplardan Kurtulabileceginizi Sanmayin",
+		"publisher": "Can Yayinlari",
+		"author": "Umberto Eco, Jean Claude Carriere",
+		"lang": "Turkce",
+		"page": 264,
+		"year": "2023",
+		"notes": "new",
+		"status": ""
+	},
+	{
+		"bookshelf": 2568,
+		"No": 1568,
+		"title": "Bedenin Bilgeligi",
+		"publisher": "Okuyan Us Yayincilik",
+		"author": "Hillary L. McBride",
+		"lang": "Turkce",
+		"page": 288,
 		"year": "2023",
 		"notes": "new",
 		"status": ""
