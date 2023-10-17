@@ -18822,7 +18822,7 @@
 	{
 		"bookshelf": 2556,
 		"No": 1556,
-		"title": "Kadinlar Neden Sismanlar",
+		"title": "Kadinlar Neden Sismanlar?",
 		"publisher": "Kuraldisi Yayinlari",
 		"author": "Susie Orbach",
 		"lang": "Turkce",
@@ -18924,7 +18924,7 @@
 		"lang": "Turkce",
 		"page": 368,
 		"year": "2023",
-		"notes": "new",
+		"notes": "C-3",
 		"status": ""
 	},
 	{
@@ -18936,7 +18936,7 @@
 		"lang": "Turkce",
 		"page": 320,
 		"year": "2010",
-		"notes": "new",
+		"notes": "B-2",
 		"status": ""
 	},
 	{
@@ -18948,7 +18948,7 @@
 		"lang": "Turkce",
 		"page": 341,
 		"year": "2020",
-		"notes": "new",
+		"notes": "A-2",
 		"status": ""
 	},
 	{
@@ -18960,7 +18960,7 @@
 		"lang": "Turkce",
 		"page": 264,
 		"year": "2023",
-		"notes": "new",
+		"notes": "B-2",
 		"status": ""
 	},
 	{
@@ -18972,6 +18972,18 @@
 		"lang": "Turkce",
 		"page": 288,
 		"year": "2023",
+		"notes": "A-1",
+		"status": ""
+	},
+	{
+		"bookshelf": 2569,
+		"No": 1569,
+		"title": "Psikanaliz Nedir? - Psikanaliz Okullar ve Psikoterapi Uzerine Eslestirel Bir Giris",
+		"publisher": "Say Yayinlari",
+		"author": "Ian Craib",
+		"lang": "Turkce",
+		"page": 320,
+		"year": "201",
 		"notes": "new",
 		"status": ""
 	}
