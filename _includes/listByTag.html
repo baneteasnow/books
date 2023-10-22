@@ -13,6 +13,9 @@ gaveaway_data | size %}
 <!-- status_justread -->
 {% assign justread_data = site.data.list %} {% assign status_justread =
 justread_data | where: "status", "JustRead" | size %}
+<!-- status_tobeupdated -->
+{% assign tobeupdated_data = site.data.list %} {% assign status_tobeupdated =
+tobeupdated_data | where: "newstatus", "ToBeUpdated" | size %}
 <!-- reading_yes -->
 {% assign reading_data = site.data.list %} {% assign status_reading =
 reading_data | where: "status", "Reading" | size %}
@@ -22,6 +25,9 @@ reading_data | where: "status", "Reading" | size %}
 </div>
 <div style="color: #b7b2b2">
 	<i>just finished: {{ status_justread }}</i>
+</div>
+<div style="color: #b7b2b2">
+	<i>to be updated: {{ status_tobeupdated }}</i>
 </div>
 <div style="color: #b7b2b2">
 	<i>
