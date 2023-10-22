@@ -27,6 +27,14 @@ reading_data | where: "status", "Reading" | size %}
 	<i>just finished: {{ status_justread }}</i>
 </div>
 <div style="color: #b7b2b2">
+	<b>
+		<i
+			>total read: {{ status_read | plus: gaveaway_yes | plus: '45' | plus:
+			status_justread }}</i
+		>
+	</b>
+</div>
+<div style="color: #b7b2b2">
 	<i>to be updated: {{ status_tobeupdated }}</i>
 </div>
 <div style="color: #b7b2b2">
