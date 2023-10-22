@@ -15,7 +15,8 @@ layout: null
       "page"      : "{{ item.page }}",
       "uniqueid"  : "{{ item.bookshelf }}",
       "status"    : "{{ item.status }}",
-      "reread"    : "{{ item.reread }}"
+      "reread"    : "{{ item.reread }}",
+      "status2"   : "{{ item.newstatus }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
