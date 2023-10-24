@@ -14154,7 +14154,8 @@
 		"year": "2023",
 		"notes": "A-2",
 		"reread": "yes",
-		"status": "Reading"
+		"status": "Read",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2166,
