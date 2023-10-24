@@ -62,6 +62,16 @@ title: "Home Library Book List"
 	>
 		<i>{{ item.status }}</i>
 	</div>
+		<div
+		class="decorated"
+		style="font-size: 85%; color: lightgray"
+	>
+		{% if item.newstatus != "ToBeUpdated" %}
+		<div style="visibility: hidden"></div>
+		{% else %}
+		<i>to be updated</i>
+		{% endif %}
+	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%; color: lightgray"
