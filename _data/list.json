@@ -19059,5 +19059,101 @@
 		"year": "201",
 		"notes": "C-3",
 		"status": ""
+	},
+	{
+		"bookshelf": 2570,
+		"No": 1570,
+		"title": "Zihinde Bir Dalga - Yazar, Okur ve Hayal Gucu Uzerine",
+		"publisher": "Metis Yayinlari",
+		"author": "Ursula K. Le Guin",
+		"lang": "Turkce",
+		"page": 292,
+		"year": "2017",
+		"notes": "B-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2571,
+		"No": 1571,
+		"title": "Jungiyen Ruya Analizi",
+		"publisher": "Timas Yayinlari",
+		"author": "James A. Hall",
+		"lang": "Turkce",
+		"page": 224,
+		"year": "2023",
+		"notes": "A-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2572,
+		"No": 1572,
+		"title": "Modern Psikoloji",
+		"publisher": "Dorlion Yayinevi",
+		"author": "Alfred Adler",
+		"lang": "Turkce",
+		"page": 248,
+		"year": "2020",
+		"notes": "A-1",
+		"status": ""
+	},
+	{
+		"bookshelf": 2573,
+		"No": 1573,
+		"title": "Gurultu - Insan Yargisinda Hata",
+		"publisher": "Pegasus Yayinlari",
+		"author": "Daniel Kahneman, Olivier Sibony, Cass R. Sunstein",
+		"lang": "Turkce",
+		"page": 512,
+		"year": "2023",
+		"notes": "A-1",
+		"status": ""
+	},
+	{
+		"bookshelf": 2574,
+		"No": 1574,
+		"title": "Pandemi A.S. - Biz Hastayken Zengin Olan Kapitalistlerin ve Hirsizlarin Pesinde",
+		"publisher": "Otantik Kitap",
+		"author": "J. David McSwane",
+		"lang": "Turkce",
+		"page": 288,
+		"year": "2023",
+		"notes": "C-3",
+		"status": ""
+	},
+	{
+		"bookshelf": 2575,
+		"No": 1575,
+		"title": "21. Yuzyilda Turkiye - 2000'li Yillarda Turkiye'nin Toplumsal Yapisi",
+		"publisher": "Remzi Kitabevi",
+		"author": "Emre Kongar",
+		"lang": "Turkce",
+		"page": 725,
+		"year": "2016",
+		"notes": "C-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2576,
+		"No": 1576,
+		"title": "Dumeni Yaraticiliga Kirmak - Hikaye Denizine Yelken Acmak Icin Bir 21. Yuzyil Kilavuzu",
+		"publisher": "Hep Kitap",
+		"author": "Ursula K. Le Guin",
+		"lang": "Turkce",
+		"page": 144,
+		"year": "2022",
+		"notes": "B-1",
+		"status": ""
+	},
+	{
+		"bookshelf": 2577,
+		"No": 1577,
+		"title": "Tadinda Ekonomi - Ac Bir Ekonomistin Gozunden Dunya",
+		"publisher": "Domingo Yayinevi",
+		"author": "Ha-Joon Chang",
+		"lang": "Turkce",
+		"page": 224,
+		"year": "2023",
+		"notes": "C-2",
+		"status": ""
 	}
 ]
