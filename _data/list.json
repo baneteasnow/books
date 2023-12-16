@@ -19348,5 +19348,29 @@
 		"year": "2023",
 		"notes": "C-3",
 		"status": ""
+	},
+	{
+		"bookshelf": 2594,
+		"No": 1594,
+		"title": "Asiriliktan Kurtulmak - Buyume Sonrasi Ekonomiye Giden Yol",
+		"publisher": "Yeni Insan Yayinevi",
+		"author": "Niko Paech",
+		"lang": "Turkce",
+		"page": 103,
+		"year": "2023",
+		"notes": "C-3",
+		"status": ""
+	},
+	{
+		"bookshelf": 2595,
+		"No": 1595,
+		"title": "Elestirel Dusunmenin Yollari",
+		"publisher": "Profil Kitap",
+		"author": "Antony Flew",
+		"lang": "Turkce",
+		"page": 244,
+		"year": "2023",
+		"notes": "B-2",
+		"status": ""
 	}
 ]
