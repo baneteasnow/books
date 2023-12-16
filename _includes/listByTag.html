@@ -19,7 +19,7 @@ tobeupdated_data | where: "newstatus", "ToBeUpdated" | size %}
 <!-- reading_yes -->
 {% assign reading_data = site.data.list %} {% assign status_reading =
 reading_data | where: "status", "Reading" | size %}
-<!-- plus: '45' = read as ebook - - - includes: reread.html -->
+<!-- plus: '46' = read as ebook - - - includes and comes from: reread.html -->
 <div style="color: #b7b2b2">
 	<i>read: {{ status_read | plus: gaveaway_yes | plus: '45' }}</i>
 </div>
@@ -29,7 +29,7 @@ reading_data | where: "status", "Reading" | size %}
 <div style="color: #b7b2b2">
 	<b>
 		<i
-			>total read: {{ status_read | plus: gaveaway_yes | plus: '45' | plus:
+			>total read: {{ status_read | plus: gaveaway_yes | plus: '46' | plus:
 			status_justread }}</i
 		>
 	</b>
