@@ -44,9 +44,10 @@ reading_data | where: "status", "Reading" | size %}
 			style="color: #b7b2b2"
 			>reading:
 		</a>
-		{{ status_reading }}
+		{{ status_reading | plus: '2' }}
 	</i>
 </div>
+<!--plus: '2' - reading an ebook-->
 <div style="color: #b7b2b2">
 	<i>
 		<a
