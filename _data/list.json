@@ -19372,5 +19372,17 @@
 		"year": "2023",
 		"notes": "B-2",
 		"status": ""
+	},
+	{
+		"bookshelf": 2596,
+		"No": 1596,
+		"title": "Toplum Gibi Gormek",
+		"publisher": "Zoom Kitap",
+		"author": "James C. Scott",
+		"lang": "Turkce",
+		"page": 176,
+		"year": "2016",
+		"notes": "C-4",
+		"status": ""
 	}
 ]
