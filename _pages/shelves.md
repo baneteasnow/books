@@ -8,4 +8,4 @@ published: true
 {%-include numberofbooks.html-%}
 {%-include listByTag.html-%}
 
-{%-include t.md-%}
+{%-include t.html-%}

@@ -1,0 +1,40 @@
+<table>
+	<thead>
+		<tr>
+			<th>A</th>
+			<th>B</th>
+			<th>C</th>
+			<th>D</th>
+			<th>E</th>
+			<th>F</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				{% assign books_data = site.data.list %} {% assign shelf_a1 = books_data
+				| where: "notes", "A-1" | size %}&lt;i&gt;{{ shelf_a1 }}&lt;/i&gt;
+			</td>
+			<td>
+				{% assign books_data = site.data.list %} {% assign shelf_b1 = books_data
+				| where: "notes", "B-1" | size %}{{ shelf_b1 }}
+			</td>
+			<td>
+				{% assign books_data = site.data.list %} {% assign shelf_c1 = books_data
+				| where: "notes", "C-1" | size %}&lt;i&gt;{{ shelf_c1 }}&lt;/i&gt;
+			</td>
+			<td>
+				{% assign books_data = site.data.list %} {% assign shelf_a1 = books_data
+				| where: "notes", "A-1" | size %}&lt;i&gt;{{ shelf_a1 }}&lt;/i&gt;
+			</td>
+			<td>
+				{% assign books_data = site.data.list %} {% assign shelf_e1 = books_data
+				| where: "notes", "E-1" | size %}&lt;i&gt;{{ shelf_e1 }}&lt;/i&gt;
+			</td>
+			<td>
+				{% assign books_data = site.data.list %} {% assign shelf_f1 = books_data
+				| where: "notes", "F-1" | size %}&lt;i&gt;{{ shelf_f1 }}&lt;/i&gt;
+			</td>
+		</tr>
+	</tbody>
+</table>
