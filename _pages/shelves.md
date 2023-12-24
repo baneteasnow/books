@@ -4,8 +4,7 @@ title: bookshelves
 published: true
 ---
 
-{%-include table.md-%}
+{%-include t.html-%}
+<br />
 {%-include numberofbooks.html-%}
 {%-include listByTag.html-%}
-
-{%-include t.html-%}
