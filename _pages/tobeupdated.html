@@ -5,11 +5,10 @@ last_modified_at: 2023-12-17
 title: "ToBeUpdated List"
 ---
 
-{%-include backtotop.html-%}
-<br />
-{% assign tobeupdated_data = site.data.list %} {% assign status_tobeupdated =
-tobeupdated_data | where: "newstatus", "ToBeUpdated" | size %} {% for item in
-site.data.list %} {% if item.newstatus == "ToBeUpdated" %}
+{%-include backtotop.html-%} {% assign tobeupdated_data = site.data.list %} {%
+assign status_tobeupdated = tobeupdated_data | where: "newstatus", "ToBeUpdated"
+| size %} {% for item in site.data.list %} {% if item.newstatus == "ToBeUpdated"
+%}
 <br />
 <div>
 	<i
@@ -23,4 +22,9 @@ site.data.list %} {% if item.newstatus == "ToBeUpdated" %}
 </div>
 {% else %}
 <div style="visibility: hidden"></div>
+<br />
 {% endif %} {% endfor %} {{ status_tobeupdated | plus: '3' }}
+<br />
+<span>the woman in me</span>
+<span>why i’m no longer talking to white people about race</span>
+<span>know my name</span>
