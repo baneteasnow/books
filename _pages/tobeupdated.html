@@ -7,7 +7,11 @@ title: "ToBeUpdated List"
 
 {%-include backtotop.html-%}
 <br />
-{% for item in site.data.list %} {% if item.newstatus == "ToBeUpdated" %}
+{% assign tobeupdated_data = site.data.list %} {% assign status_tobeupdated =
+tobeupdated_data | where: "newstatus", "ToBeUpdated" | size %} {% for item in
+site.data.list %} {% if item.newstatus == "ToBeUpdated" %} {{ status_tobeupdated
+| plus: '3' }}
+<br />
 <div>
 	<i
 		><a
