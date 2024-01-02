@@ -10,7 +10,7 @@ title: "ToBeUpdated List"
 {% assign tobeupdated_data = site.data.list %} {% assign status_tobeupdated =
 tobeupdated_data | where: "newstatus", "ToBeUpdated" | size %} {% for item in
 site.data.list %} {% if item.newstatus == "ToBeUpdated" %}
-<br />
+<div style="clear: both"></div>
 <div>
 	<i
 		><a
@@ -23,8 +23,9 @@ site.data.list %} {% if item.newstatus == "ToBeUpdated" %}
 </div>
 {% else %}
 <div style="visibility: hidden"></div>
-
 {% endif %} {% endfor %}
+<div style="clear: both"></div>
+<br />
 <i
 	><div>the woman in me</div>
 	<div>why i’m no longer talking to white people about race</div>
