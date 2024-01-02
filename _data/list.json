@@ -19239,7 +19239,8 @@
 		"page": 72,
 		"year": "2022",
 		"notes": "B-4",
-		"status": "Reading"
+		"status": "Reading",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2585,
