@@ -9,8 +9,7 @@ title: "ToBeUpdated List"
 <br />
 {% assign tobeupdated_data = site.data.list %} {% assign status_tobeupdated =
 tobeupdated_data | where: "newstatus", "ToBeUpdated" | size %} {% for item in
-site.data.list %} {% if item.newstatus == "ToBeUpdated" %} {{ status_tobeupdated
-| plus: '3' }}
+site.data.list %} {% if item.newstatus == "ToBeUpdated" %}
 <br />
 <div>
 	<i
@@ -24,4 +23,4 @@ site.data.list %} {% if item.newstatus == "ToBeUpdated" %} {{ status_tobeupdated
 </div>
 {% else %}
 <div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
+{% endif %} {% endfor %} {{ status_tobeupdated | plus: '3' }}
