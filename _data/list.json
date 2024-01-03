@@ -19385,5 +19385,53 @@
 		"year": "2016",
 		"notes": "C-4",
 		"status": ""
+	},
+	{
+		"bookshelf": 2597,
+		"No": 1597,
+		"title": "Yorum ve Asiri Yorum",
+		"publisher": "Ayrinti Yayinlari",
+		"author": "Umberto Eco",
+		"lang": "Turkce",
+		"page": 176,
+		"year": "2023",
+		"notes": "C-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2598,
+		"No": 1598,
+		"title": "Sentetik Cag - Evrimin Daha Guclu Tasarimi, Soyu Tukenen Turlerin Geri Getirilmesi ve Dunyamizin Yeniden Yapilandirilmasi",
+		"publisher": "Tellekt",
+		"author": "Christopher J. Preston",
+		"lang": "Turkce",
+		"page": 248,
+		"year": "2023",
+		"notes": "B-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2599,
+		"No": 1599,
+		"title": "Ben ve Biz - Postmodern Insanin Psikanalizi",
+		"publisher": "Yapi Kredi Yayinlari",
+		"author": "Rainer Funk",
+		"lang": "Turkce",
+		"page": 264,
+		"year": "2018",
+		"notes": "A-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2600,
+		"No": 1600,
+		"title": "Bilincdisi ve Insan",
+		"publisher": "Cem Yayinevi",
+		"author": "Jean Paul Charrier",
+		"lang": "Turkce",
+		"page": 125,
+		"year": "2018",
+		"notes": "A-2",
+		"status": ""
 	}
 ]
