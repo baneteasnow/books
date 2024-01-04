@@ -4686,14 +4686,15 @@
 	{
 		"bookshelf": 1385,
 		"No": 385,
-		"title": "Duyarli Makine Yapay Zekanin Olgunluk Cagi",
+		"title": "Duyarli Makine - Yapay Zekanin Olgunluk Cagi",
 		"publisher": "Siyah Kitap",
 		"author": "Amir Husain",
 		"lang": "Turkce",
 		"page": 218,
 		"year": "2019",
 		"notes": "B-1",
-		"status": ""
+		"status": "Reading",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 1386,
@@ -19239,7 +19240,7 @@
 		"page": 72,
 		"year": "2022",
 		"notes": "B-4",
-		"status": "Reading",
+		"status": "JustRead",
 		"newstatus": "ToBeUpdated"
 	},
 	{
