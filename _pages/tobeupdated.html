@@ -41,4 +41,5 @@ site.data.list %} {% if item.newstatus == "ToBeUpdated" %}
 	</div>
 </i>
 <br />
-{{ status_tobeupdated | plus: '4' | plus: '1'}}
+{{ status_tobeupdated | plus: '4' | plus: '1' | plus: '1' }}
+<!--1st plus read as an ebook; 2nd plus 'done'; 3rd plus "reading"-->
