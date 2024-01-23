@@ -19590,5 +19590,77 @@
 		"year": "2021",
 		"notes": "A-2",
 		"status": ""
+	},
+	{
+		"bookshelf": 2614,
+		"No": 1614,
+		"title": "Mona Lisa Kacirildi - Sanatin Bizden Gizledikleti",
+		"publisher": "Ayronti Yayinlari",
+		"author": "Darian Leader",
+		"lang": "Turkce",
+		"page": 192,
+		"year": "2018",
+		"notes": "A-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2615,
+		"No": 1615,
+		"title": "Astral Beden ve Diger Astral Fenomenler",
+		"publisher": "Hermes Yayinlari",
+		"author": "Arthur E. Powell",
+		"lang": "Turkce",
+		"page": 288,
+		"year": "2023",
+		"notes": "A-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2616,
+		"No": 1616,
+		"title": "ABD Tarihi",
+		"publisher": "Dogu Bati Yayinlari",
+		"author": "Allan Nevins, Henry Steele Commager",
+		"lang": "Turkce",
+		"page": 544,
+		"year": "2022",
+		"notes": "B-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2617,
+		"No": 1617,
+		"title": "Aura ve Cakra Kullanma Kilavuzu",
+		"publisher": "Cem Yayinevi",
+		"author": "Karla Mclaren",
+		"lang": "Turkce",
+		"page": 281,
+		"year": "2013",
+		"notes": "A-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2618,
+		"No": 1618,
+		"title": "Yanlis Inanislar - MantiksizSeylere Neden Inaniriz?",
+		"publisher": "Optimist Kitap",
+		"author": "Dan Ariely",
+		"lang": "Turkce",
+		"page": 416,
+		"year": "2018",
+		"notes": "A-2",
+		"status": ""
+	},
+	{
+		"bookshelf": 2619,
+		"No": 1619,
+		"title": "Kisa Amerka Birlesik Devletleri Tarihi",
+		"publisher": "Cem Yayinevi",
+		"author": "James West Davidson",
+		"lang": "Turkce",
+		"page": 416,
+		"year": "2018",
+		"notes": "A-3",
+		"status": ""
 	}
 ]
