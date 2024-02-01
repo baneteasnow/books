@@ -190,7 +190,7 @@
 		"page": 336,
 		"year": "2018",
 		"notes": "A-3",
-		"status": ""
+		"status": "Reading"
 	},
 	{
 		"bookshelf": 1017,
@@ -19673,6 +19673,6 @@
 		"page": 208,
 		"year": "2023",
 		"notes": "A-3",
-		"status": "Reading"
+		"status": "JustRead"
 	}
 ]
