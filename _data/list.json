@@ -190,7 +190,7 @@
 		"page": 336,
 		"year": "2018",
 		"notes": "A-3",
-		"status": "Reading"
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 1017,
@@ -19444,7 +19444,7 @@
 		"lang": "Turkce",
 		"page": 648,
 		"year": "2006",
-		"notes": "C-4",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19456,7 +19456,7 @@
 		"lang": "Turkce",
 		"page": 416,
 		"year": "2011",
-		"notes": "C-4",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19468,8 +19468,8 @@
 		"lang": "Turkce",
 		"page": 607,
 		"year": "2003",
-		"notes": "C-4",
-		"status": ""
+		"notes": "Izmir",
+		"status": "Reading"
 	},
 	{
 		"bookshelf": 2604,
@@ -19480,7 +19480,7 @@
 		"lang": "Turkce",
 		"page": 464,
 		"year": "2020",
-		"notes": "A-4",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19492,7 +19492,7 @@
 		"lang": "Turkce",
 		"page": 200,
 		"year": "2018",
-		"notes": "A-3",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19504,7 +19504,7 @@
 		"lang": "Turkce",
 		"page": 328,
 		"year": "2015",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19516,7 +19516,7 @@
 		"lang": "Turkce",
 		"page": 386,
 		"year": "2016",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19528,7 +19528,7 @@
 		"lang": "Turkce",
 		"page": 224,
 		"year": "2018",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19540,7 +19540,7 @@
 		"lang": "Turkce",
 		"page": 656,
 		"year": "2008",
-		"notes": "C-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19552,7 +19552,7 @@
 		"lang": "Turkce",
 		"page": 125,
 		"year": "2018",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19564,7 +19564,7 @@
 		"lang": "Turkce",
 		"page": 360,
 		"year": "2024",
-		"notes": "A-3",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19576,7 +19576,7 @@
 		"lang": "Turkce",
 		"page": 176,
 		"year": "2022",
-		"notes": "A-3",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19588,7 +19588,7 @@
 		"lang": "Turkce",
 		"page": 360,
 		"year": "2021",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19600,7 +19600,7 @@
 		"lang": "Turkce",
 		"page": 192,
 		"year": "2018",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19612,7 +19612,7 @@
 		"lang": "Turkce",
 		"page": 288,
 		"year": "2023",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19624,7 +19624,7 @@
 		"lang": "Turkce",
 		"page": 544,
 		"year": "2022",
-		"notes": "B-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19636,19 +19636,19 @@
 		"lang": "Turkce",
 		"page": 281,
 		"year": "2013",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
 		"bookshelf": 2618,
 		"No": 1618,
-		"title": "Yanlis Inanislar - MantiksizSeylere Neden Inaniriz?",
+		"title": "Yanlis Inanislar - Mantiksiz Seylere Neden Inaniriz?",
 		"publisher": "Optimist Kitap",
 		"author": "Dan Ariely",
 		"lang": "Turkce",
 		"page": 416,
 		"year": "2018",
-		"notes": "A-2",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19660,7 +19660,7 @@
 		"lang": "Turkce",
 		"page": 416,
 		"year": "2018",
-		"notes": "A-3",
+		"notes": "Izmir",
 		"status": ""
 	},
 	{
@@ -19672,7 +19672,7 @@
 		"lang": "Turkce",
 		"page": 208,
 		"year": "2023",
-		"notes": "A-3",
+		"notes": "Izmir",
 		"status": "JustRead"
 	}
 ]
