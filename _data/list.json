@@ -20084,8 +20084,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2654,
-		"No": 1654,
+		"bookshelf": 2655,
+		"No": 1655,
 		"title": "Sanatin Kisa Oykusu - Ana Akimlara, Eserlere, Temalara ve Tekniklere Yonelik Cep Kilavuzu",
 		"publisher": "Hep Kitap",
 		"author": "Susie Hodge",
@@ -20096,8 +20096,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2655,
-		"No": 1655,
+		"bookshelf": 2656,
+		"No": 1656,
 		"title": "Modern Sanatin Kisa Oykusu",
 		"publisher": "Hep Kitap",
 		"author": "Susie Hodge",
@@ -20108,8 +20108,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2656,
-		"No": 1656,
+		"bookshelf": 2657,
+		"No": 1657,
 		"title": "100 Basyapitta Sanat - En Onemli Sanat Eserleri Ne Anlatiyor?",
 		"publisher": "Say Yayinlari",
 		"author": "Susie Hodge",
@@ -20120,8 +20120,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2657,
-		"No": 1657,
+		"bookshelf": 2658,
+		"No": 1658,
 		"title": "101 Derste Psikoloji - Psikoloji Hakkinda Bilmeniz Gereken Her Sey",
 		"publisher": "Say Yayinlari",
 		"author": "Tim Bono, Matthew Frederick",
@@ -20132,8 +20132,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2658,
-		"No": 1658,
+		"bookshelf": 2659,
+		"No": 1659,
 		"title": "Anneni ve Babani Terk Edeceksin",
 		"publisher": "Fol Kitap",
 		"author": "Philippe Julien",
@@ -20144,8 +20144,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2659,
-		"No": 1659,
+		"bookshelf": 2660,
+		"No": 1660,
 		"title": "Hakikatin Gucu - Amerika Birlesik Devletleri Halklarinin Tarihi Uzerine Sohbetler",
 		"publisher": "Imge Kitabevi Yayinlari",
 		"author": "Howard Zinn, Ray Suarez",
@@ -20156,8 +20156,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2660,
-		"No": 1660,
+		"bookshelf": 2661,
+		"No": 1661,
 		"title": "Asagidaki Mucize - Vajina ve Kadin Cinselligi Kilavuzu",
 		"publisher": "Epsilon Yayinevi",
 		"author": "Nina Brochmann, Ellen Stokken Dahl",
@@ -20168,8 +20168,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2661,
-		"No": 1661,
+		"bookshelf": 2662,
+		"No": 1662,
 		"title": "Bir Yazar Nasil Okunur? Cagdas Dunya Edebiyatindan Yazarlarla Soylesiler",
 		"publisher": "Hep Kitap",
 		"author": "John Freeman",
@@ -20180,8 +20180,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2662,
-		"No": 1662,
+		"bookshelf": 2663,
+		"No": 1663,
 		"title": "Karanligi Aydinlat - Yazarlar Anlatiyor - Yaraticilik, Ilham ve Sanatsal Yaratim Sureci",
 		"publisher": "Hep Kitap",
 		"author": "Joe Fassler",
@@ -20192,8 +20192,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2663,
-		"No": 1663,
+		"bookshelf": 2664,
+		"No": 1664,
 		"title": "Civisi Cikmis Dunya - Uygarliklarimiz Tukendiginde",
 		"publisher": "Yapi Kredi Yayinlari",
 		"author": "Amin Maalouf",
@@ -20204,8 +20204,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2664,
-		"No": 1664,
+		"bookshelf": 2665,
+		"No": 1665,
 		"title": "Uygarliklarin Batisi",
 		"publisher": "Yapi Kredi Yayinlari",
 		"author": "Amin Maalouf",
@@ -20216,8 +20216,8 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2665,
-		"No": 1665,
+		"bookshelf": 2666,
+		"No": 1666,
 		"title": "Olumcul Kimlikler",
 		"publisher": "Yapi Kredi Yayinlari",
 		"author": "Amin Maalouf",
@@ -20228,13 +20228,37 @@
 		"status": ""
 	},
 	{
-		"bookshelf": 2665,
-		"No": 1665,
-		"title": "",
-		"publisher": "Fol Kitap",
-		"author": "Axel Honneth",
+		"bookshelf": 2667,
+		"No": 1667,
+		"title": "Yazarin Odasi 1",
+		"publisher": "Timas Yayinlari",
+		"author": "Orhan Pamuk, Raymond Carver, Paul Auster, Saul Bellow, Toni Morrison, Philip Roth, Ezra Pound, Haruki Murakami, Alice Munro, Philip Gourevitch",
 		"lang": "Turkce",
-		"page": 96,
+		"page": 304,
+		"year": "2017",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2668,
+		"No": 1668,
+		"title": "Yazarin Odasi 2",
+		"publisher": "Timas Yayinlari",
+		"author": "Orhan Pamuk, Raymond Carver, Paul Auster, Saul Bellow, Toni Morrison, Philip Roth, Ezra Pound, Haruki Murakami, Alice Munro",
+		"lang": "Turkce",
+		"page": 336,
+		"year": "2017",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2669,
+		"No": 1669,
+		"title": "Iliklerine Kadar Yazmak",
+		"publisher": "Hep Kitap",
+		"author": "Natalie Goldberg",
+		"lang": "Turkce",
+		"page": 232,
 		"year": "2023",
 		"notes": "Izmir",
 		"status": ""
