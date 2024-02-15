@@ -20122,7 +20122,115 @@
 	{
 		"bookshelf": 2657,
 		"No": 1657,
-		"title": "101 Derste",
+		"title": "101 Derste Psikoloji - Psikoloji Hakkinda Bilmeniz Gereken Her Sey",
+		"publisher": "Say Yayinlari",
+		"author": "Tim Bono, Matthew Frederick",
+		"lang": "Turkce",
+		"page": 216,
+		"year": "2024",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2658,
+		"No": 1658,
+		"title": "Anneni ve Babani Terk Edeceksin",
+		"publisher": "Fol Kitap",
+		"author": "Philippe Julien",
+		"lang": "Turkce",
+		"page": 112,
+		"year": "2023",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2659,
+		"No": 1659,
+		"title": "Hakikatin Gucu - Amerika Birlesik Devletleri Halklarinin Tarihi Uzerine Sohbetler",
+		"publisher": "Imge Kitabevi Yayinlari",
+		"author": "Howard Zinn, Ray Suarez",
+		"lang": "Turkce",
+		"page": 187,
+		"year": "2021",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2660,
+		"No": 1660,
+		"title": "Asagidaki Mucize - Vajina ve Kadin Cinselligi Kilavuzu",
+		"publisher": "Epsilon Yayinevi",
+		"author": "Nina Brochmann, Ellen Stokken Dahl",
+		"lang": "Turkce",
+		"page": 342,
+		"year": "2022",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2661,
+		"No": 1661,
+		"title": "Bir Yazar Nasil Okunur? Cagdas Dunya Edebiyatindan Yazarlarla Soylesiler",
+		"publisher": "Hep Kitap",
+		"author": "John Freeman",
+		"lang": "Turkce",
+		"page": 376,
+		"year": "2018",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2662,
+		"No": 1662,
+		"title": "Karanligi Aydinlat - Yazarlar Anlatiyor - Yaraticilik, Ilham ve Sanatsal Yaratim Sureci",
+		"publisher": "Hep Kitap",
+		"author": "Joe Fassler",
+		"lang": "Turkce",
+		"page": 352,
+		"year": "2019",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2663,
+		"No": 1663,
+		"title": "Civisi Cikmis Dunya - Uygarliklarimiz Tukendiginde",
+		"publisher": "Yapi Kredi Yayinlari",
+		"author": "Amin Maalouf",
+		"lang": "Turkce",
+		"page": 216,
+		"year": "2019",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2664,
+		"No": 1664,
+		"title": "Uygarliklarin Batisi",
+		"publisher": "Yapi Kredi Yayinlari",
+		"author": "Amin Maalouf",
+		"lang": "Turkce",
+		"page": 200,
+		"year": "2019",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2665,
+		"No": 1665,
+		"title": "Olumcul Kimlikler",
+		"publisher": "Yapi Kredi Yayinlari",
+		"author": "Amin Maalouf",
+		"lang": "Turkce",
+		"page": 136,
+		"year": "2022",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2665,
+		"No": 1665,
+		"title": "",
 		"publisher": "Fol Kitap",
 		"author": "Axel Honneth",
 		"lang": "Turkce",
@@ -20130,5 +20238,5 @@
 		"year": "2023",
 		"notes": "Izmir",
 		"status": ""
-	},
+	}
 ]
