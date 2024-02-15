@@ -20046,5 +20046,89 @@
 		"year": "2023",
 		"notes": "Izmir",
 		"status": ""
-	}
+	},
+	{
+		"bookshelf": 2652,
+		"No": 1652,
+		"title": "Manifest Et - Dunyani Degistir",
+		"publisher": "Flipper Yayinlari",
+		"author": "Gill Thackray",
+		"lang": "Turkce",
+		"page": 128,
+		"year": "2023",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2652,
+		"No": 1652,
+		"title": "Seylerin Tuhaf Duzeni",
+		"publisher": "ODTU Gelistirme Vakfi Yayincilik",
+		"author": "Antonio Damasio",
+		"lang": "Turkce",
+		"page": 356,
+		"year": "2022",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2653,
+		"No": 1653,
+		"title": "Curumenin Kitabi",
+		"publisher": "Metis Yayinlari",
+		"author": "Emil Michel Ciaron",
+		"lang": "Turkce",
+		"page": 192,
+		"year": "2023",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2654,
+		"No": 1654,
+		"title": "Sanatin Kisa Oykusu - Ana Akimlara, Eserlere, Temalara ve Tekniklere Yonelik Cep Kilavuzu",
+		"publisher": "Hep Kitap",
+		"author": "Susie Hodge",
+		"lang": "Turkce",
+		"page": 224,
+		"year": "2021",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2655,
+		"No": 1655,
+		"title": "Modern Sanatin Kisa Oykusu",
+		"publisher": "Hep Kitap",
+		"author": "Susie Hodge",
+		"lang": "Turkce",
+		"page": 224,
+		"year": "2022",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2656,
+		"No": 1656,
+		"title": "100 Basyapitta Sanat - En Onemli Sanat Eserleri Ne Anlatiyor?",
+		"publisher": "Say Yayinlari",
+		"author": "Susie Hodge",
+		"lang": "Turkce",
+		"page": 224,
+		"year": "2024",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2657,
+		"No": 1657,
+		"title": "101 Derste",
+		"publisher": "Fol Kitap",
+		"author": "Axel Honneth",
+		"lang": "Turkce",
+		"page": 96,
+		"year": "2023",
+		"notes": "Izmir",
+		"status": ""
+	},
 ]
