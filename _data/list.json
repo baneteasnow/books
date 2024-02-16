@@ -20274,5 +20274,29 @@
 		"year": "2007",
 		"notes": "Izmir",
 		"status": ""
+	},
+	{
+		"bookshelf": 2671,
+		"No": 1671,
+		"title": "Tanri Yanilgisi",
+		"publisher": "Kuzey Yayinlari",
+		"author": "Richard Dawkins",
+		"lang": "Turkce",
+		"page": 352,
+		"year": "2008",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2672,
+		"No": 1672,
+		"title": "Nietzsche Agladiginda",
+		"publisher": "Ayrinti Yayinlari",
+		"author": "Irvin D. Yalom",
+		"lang": "Turkce",
+		"page": 415,
+		"year": "2007",
+		"notes": "Izmir",
+		"status": ""
 	}
 ]
