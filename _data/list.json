@@ -20298,5 +20298,29 @@
 		"year": "2007",
 		"notes": "Izmir",
 		"status": ""
+	},
+	{
+		"bookshelf": 2673,
+		"No": 1673,
+		"title": "Enerji Tibbi - Optimum Saglik, Mutluluk ve Canlilik Icin Beden Enerjilerinizi Dengeleyin",
+		"publisher": "Butik Yayincilik",
+		"author": "Donna Eden, David Feinstein",
+		"lang": "Turkce",
+		"page": 420,
+		"year": "2014",
+		"notes": "Izmir",
+		"status": ""
+	},
+	{
+		"bookshelf": 2674,
+		"No": 1674,
+		"title": "Vazgecebilmenin Isiginda 365 Gun",
+		"publisher": "Destek Yayinlari",
+		"author": "Guy Finley",
+		"lang": "Turkce",
+		"page": 408,
+		"year": "2023",
+		"notes": "Izmir",
+		"status": ""
 	}
 ]
