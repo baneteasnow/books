@@ -19780,8 +19780,8 @@
 		"lang": "Turkce",
 		"page": 112,
 		"year": "2018",
-		"notes": "Izmir",
-		"status": "Reading"
+			"notes": "Izmir",
+		"status": "JustRead"
 	},
 	{
 		"bookshelf": 2630,
@@ -20393,6 +20393,6 @@
 		"page": 392,
 		"year": "2020",
 		"notes": "Izmir",
-		"status": ""
+		"status": "Reading"
 	}
 ]
