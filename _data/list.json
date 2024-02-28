@@ -190,7 +190,8 @@
 		"page": 336,
 		"year": "2018",
 		"notes": "A-3",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 1017,
@@ -7187,7 +7188,8 @@
 		"page": 412,
 		"year": "2016",
 		"notes": "A-3",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 1591,
@@ -7503,7 +7505,8 @@
 		"page": 456,
 		"year": "2016",
 		"notes": "A-3",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 1617,
@@ -19469,7 +19472,8 @@
 		"page": 607,
 		"year": "2003",
 		"notes": "Izmir",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2604,
@@ -19673,7 +19677,8 @@
 		"page": 208,
 		"year": "2023",
 		"notes": "Izmir",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2621,
@@ -19780,8 +19785,9 @@
 		"lang": "Turkce",
 		"page": 112,
 		"year": "2018",
-			"notes": "Izmir",
-		"status": "JustRead"
+		"notes": "Izmir",
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2630,
@@ -20009,7 +20015,8 @@
 		"page": 208,
 		"year": "2015",
 		"notes": "Izmir",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2649,
@@ -20033,7 +20040,8 @@
 		"page": 200,
 		"year": "2023",
 		"notes": "Izmir",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2651,
@@ -20129,7 +20137,8 @@
 		"page": 216,
 		"year": "2024",
 		"notes": "Izmir",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2659,
@@ -20321,7 +20330,8 @@
 		"page": 328,
 		"year": "2022",
 		"notes": "Izmir",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2675,
@@ -20393,6 +20403,7 @@
 		"page": 392,
 		"year": "2020",
 		"notes": "Izmir",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	}
 ]
