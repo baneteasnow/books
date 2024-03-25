@@ -19955,7 +19955,8 @@
 		"page": 464,
 		"year": "2023",
 		"notes": "Izmir",
-		"status": "JustRead"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2644,
@@ -20028,7 +20029,7 @@
 		"page": 240,
 		"year": "2020",
 		"notes": "Izmir",
-		"status": ""
+		"status": "Reading"
 	},
 	{
 		"bookshelf": 2650,
