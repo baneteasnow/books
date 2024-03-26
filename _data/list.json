@@ -20409,5 +20409,17 @@
 		"notes": "Izmir",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated"
+	},
+	{
+		"bookshelf": 2681,
+		"No": 1681,
+		"title": "Her Seyin Nedeni - Dunya'daki Yasamin Mucizesi",
+		"publisher": "Alfa Yayinlari",
+		"author": "John Gribbin",
+		"lang": "Turkce",
+		"page": 256,
+		"year": "2015",
+		"notes": "Izmir",
+		"status": ""
 	}
 ]
