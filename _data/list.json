@@ -20029,7 +20029,8 @@
 		"page": 240,
 		"year": "2020",
 		"notes": "Izmir",
-		"status": "Reading"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated"
 	},
 	{
 		"bookshelf": 2650,
