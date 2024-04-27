@@ -11,7 +11,7 @@
 		"notes": "A-2",
 		"status": "n/a",
 		"newstatus": "n/a",
-		"categories": "action",
+		"categories": "n/a",
 		"reread": "n/a"
 	},
 	{
@@ -26,7 +26,7 @@
 		"notes": "B-4",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "romance",
+		"categories": "n/a",
 		"reread": "no"
 	},
 	{
@@ -41,7 +41,7 @@
 		"notes": "A-2",
 		"status": "n/a",
 		"newstatus": "n/a",
-		"categories": "unknown",
+		"categories": "n/a",
 		"reread": "n/a"
 	},
 	{
@@ -3009,7 +3009,10 @@
 		"page": 224,
 		"year": "2021",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1202,
@@ -3021,7 +3024,10 @@
 		"page": 120,
 		"year": "2022",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1203,
@@ -3033,7 +3039,10 @@
 		"page": 144,
 		"year": "2019",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1204,
@@ -3045,7 +3054,10 @@
 		"page": 144,
 		"year": "2020",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1205,
@@ -3057,7 +3069,10 @@
 		"page": 168,
 		"year": "2022",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1206,
@@ -3069,7 +3084,10 @@
 		"page": 224,
 		"year": "2019",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1207,
@@ -3081,7 +3099,10 @@
 		"page": 80,
 		"year": "2021",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1208,
@@ -3093,7 +3114,10 @@
 		"page": 326,
 		"year": "1998",
 		"notes": "D-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1209,
@@ -3105,7 +3129,10 @@
 		"page": 262,
 		"year": "2011",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1210,
@@ -3118,7 +3145,9 @@
 		"year": "2014",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1211,
@@ -3131,7 +3160,9 @@
 		"year": "2013",
 		"notes": "B-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1212,
@@ -3144,7 +3175,9 @@
 		"year": "2018",
 		"notes": "A-2",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1213,
@@ -3157,7 +3190,9 @@
 		"year": "2022",
 		"notes": "B-2",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1214,
@@ -3169,7 +3204,10 @@
 		"page": 280,
 		"year": "2019",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1215,
@@ -3181,7 +3219,10 @@
 		"page": 312,
 		"year": "2022",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1216,
@@ -3193,7 +3234,10 @@
 		"page": 581,
 		"year": "2016",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1217,
@@ -3205,7 +3249,10 @@
 		"page": 308,
 		"year": "2021",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1218,
@@ -3219,7 +3266,8 @@
 		"notes": "C-4",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1219,
@@ -3231,7 +3279,10 @@
 		"page": 264,
 		"year": "2022",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1220,
@@ -3243,7 +3294,10 @@
 		"page": 308,
 		"year": "2017",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1221,
@@ -3255,7 +3309,10 @@
 		"page": 321,
 		"year": "2003",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1222,
@@ -3268,7 +3325,9 @@
 		"year": "2012",
 		"notes": "D-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1223,
@@ -3280,7 +3339,10 @@
 		"page": 232,
 		"year": "2016",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1224,
@@ -3292,7 +3354,10 @@
 		"page": 208,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1225,
@@ -3305,7 +3370,9 @@
 		"year": "2022",
 		"notes": "C-1",
 		"status": "Read",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1226,
@@ -3317,7 +3384,10 @@
 		"page": 136,
 		"year": "2018",
 		"notes": "A-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1227,
@@ -3329,7 +3399,10 @@
 		"page": 400,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1228,
@@ -3341,7 +3414,10 @@
 		"page": 204,
 		"year": "2011",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1229,
@@ -3353,7 +3429,10 @@
 		"page": 224,
 		"year": "2013",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1230,
@@ -3365,7 +3444,10 @@
 		"page": 119,
 		"year": "2021",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1231,
@@ -3377,7 +3459,10 @@
 		"page": 348,
 		"year": "2015",
 		"notes": "B-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1232,
@@ -3390,7 +3475,9 @@
 		"year": "2020",
 		"notes": "A-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1233,
@@ -3403,7 +3490,9 @@
 		"year": "2011",
 		"notes": "D-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1234,
@@ -3415,7 +3504,10 @@
 		"page": 346,
 		"year": "2011",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1235,
@@ -3427,7 +3519,10 @@
 		"page": 456,
 		"year": "2009",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1236,
@@ -3439,7 +3534,10 @@
 		"page": 232,
 		"year": "2017",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1237,
@@ -3451,7 +3549,10 @@
 		"page": 762,
 		"year": "2017",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1238,
@@ -3463,7 +3564,10 @@
 		"page": 207,
 		"year": "1999",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1239,
@@ -3475,7 +3579,10 @@
 		"page": 176,
 		"year": "2006",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1240,
@@ -3488,7 +3595,9 @@
 		"year": "2017",
 		"notes": "E-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1241,
@@ -3500,7 +3609,10 @@
 		"page": 240,
 		"year": "2013",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1242,
@@ -3512,7 +3624,10 @@
 		"page": 296,
 		"year": "2017",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1243,
@@ -3524,7 +3639,10 @@
 		"page": 348,
 		"year": "2016",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1244,
@@ -3536,7 +3654,10 @@
 		"page": 144,
 		"year": "2017",
 		"notes": "F-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1245,
@@ -3548,7 +3669,10 @@
 		"page": 112,
 		"year": "2017",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1246,
@@ -3560,7 +3684,10 @@
 		"page": 336,
 		"year": "2016",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1247,
@@ -3573,7 +3700,9 @@
 		"year": "2017",
 		"notes": "B-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1248,
@@ -3585,7 +3714,10 @@
 		"page": 248,
 		"year": "2012",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1249,
@@ -3598,7 +3730,9 @@
 		"year": "2021",
 		"notes": "C-4",
 		"status": "JustRead",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1250,
@@ -3612,7 +3746,8 @@
 		"notes": "C-4",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1251,
@@ -3624,7 +3759,10 @@
 		"page": 320,
 		"year": "2022",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1252,
@@ -3636,7 +3774,10 @@
 		"page": 264,
 		"year": "2021",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1253,
@@ -3650,7 +3791,8 @@
 		"notes": "B-1",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1254,
@@ -3662,7 +3804,10 @@
 		"page": 276,
 		"year": "2004",
 		"notes": "B-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1255,
@@ -3674,7 +3819,10 @@
 		"page": 384,
 		"year": "2016",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1256,
@@ -3687,7 +3835,9 @@
 		"year": "2017",
 		"notes": "A-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1257,
@@ -3700,7 +3850,9 @@
 		"year": "2018",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1258,
@@ -3712,7 +3864,10 @@
 		"page": 400,
 		"year": "2000",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1259,
@@ -3724,7 +3879,10 @@
 		"page": 93,
 		"year": "2017",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1260,
@@ -3736,7 +3894,10 @@
 		"page": 328,
 		"year": "2021",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1261,
@@ -3748,7 +3909,10 @@
 		"page": 80,
 		"year": "2014",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1262,
@@ -3760,7 +3924,10 @@
 		"page": 160,
 		"year": "2014",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1263,
@@ -3773,7 +3940,9 @@
 		"year": "2021",
 		"notes": "B-2",
 		"status": "JustRead",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1264,
@@ -3785,7 +3954,10 @@
 		"page": 272,
 		"year": "2021",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1265,
@@ -3798,7 +3970,9 @@
 		"year": "2015",
 		"notes": "B-2",
 		"status": "JustRead",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1266,
@@ -3810,7 +3984,10 @@
 		"page": 208,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1267,
@@ -3822,7 +3999,10 @@
 		"page": 416,
 		"year": "2014",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1268,
@@ -3834,7 +4014,10 @@
 		"page": 368,
 		"year": "1997",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1269,
@@ -3846,7 +4029,10 @@
 		"page": 704,
 		"year": "2019",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1270,
@@ -3858,7 +4044,10 @@
 		"page": 351,
 		"year": "2015",
 		"notes": "E-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1271,
@@ -3872,7 +4061,8 @@
 		"notes": "C-4",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1272,
@@ -3884,7 +4074,10 @@
 		"page": 216,
 		"year": "2011",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1273,
@@ -3897,7 +4090,9 @@
 		"year": "2010",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1274,
@@ -3910,7 +4105,9 @@
 		"year": "2013",
 		"notes": "C-1",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1275,
@@ -3922,7 +4119,10 @@
 		"page": 120,
 		"year": "2023",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1276,
@@ -3934,7 +4134,10 @@
 		"page": 336,
 		"year": "2015",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1277,
@@ -3946,7 +4149,10 @@
 		"page": 290,
 		"year": "2013",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1278,
@@ -3958,7 +4164,10 @@
 		"page": 355,
 		"year": "2006",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1279,
@@ -3970,7 +4179,10 @@
 		"page": 64,
 		"year": "2013",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1280,
@@ -3982,7 +4194,10 @@
 		"page": 352,
 		"year": "2016",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1281,
@@ -3994,7 +4209,10 @@
 		"page": 250,
 		"year": "2014",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1282,
@@ -4006,7 +4224,10 @@
 		"page": 400,
 		"year": "2017",
 		"notes": "C-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1283,
@@ -4018,7 +4239,10 @@
 		"page": 456,
 		"year": "2022",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1284,
@@ -4031,7 +4255,9 @@
 		"year": "2020",
 		"notes": "B-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1285,
@@ -4043,7 +4269,10 @@
 		"page": 330,
 		"year": "2013",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1286,
@@ -4055,7 +4284,10 @@
 		"page": 744,
 		"year": "2019",
 		"notes": "D-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1287,
@@ -4067,7 +4299,10 @@
 		"page": 264,
 		"year": "2021",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1288,
@@ -4080,7 +4315,9 @@
 		"year": "2014",
 		"notes": "D-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1289,
@@ -4092,7 +4329,10 @@
 		"page": 366,
 		"year": "2011",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1290,
@@ -4104,7 +4344,10 @@
 		"page": 264,
 		"year": "2021",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1291,
@@ -4117,7 +4360,9 @@
 		"year": "2010",
 		"notes": "B-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1292,
@@ -4129,7 +4374,10 @@
 		"page": 168,
 		"year": "2017",
 		"notes": "C-1",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1293,
@@ -4141,7 +4389,10 @@
 		"page": 160,
 		"year": "2010",
 		"notes": "n/a",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1294,
@@ -4153,7 +4404,10 @@
 		"page": 488,
 		"year": "2016",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1295,
@@ -4165,7 +4419,10 @@
 		"page": 416,
 		"year": "2022",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1296,
@@ -4177,7 +4434,10 @@
 		"page": 416,
 		"year": "2022",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1297,
@@ -4189,7 +4449,10 @@
 		"page": 144,
 		"year": "2017",
 		"notes": "C-1",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1298,
@@ -4201,7 +4464,10 @@
 		"page": 648,
 		"year": "2020",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1299,
@@ -4213,7 +4479,10 @@
 		"page": 304,
 		"year": "2016",
 		"notes": "E-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1300,
@@ -4225,7 +4494,10 @@
 		"page": 344,
 		"year": "2013",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1301,
@@ -4237,7 +4509,10 @@
 		"page": 400,
 		"year": "2021",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1302,
@@ -4249,7 +4524,10 @@
 		"page": 144,
 		"year": "2002",
 		"notes": "D-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1303,
@@ -4261,7 +4539,10 @@
 		"page": 800,
 		"year": "2021",
 		"notes": "A-2",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1304,
@@ -4274,7 +4555,9 @@
 		"year": "2014",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1305,
@@ -4286,7 +4569,10 @@
 		"page": 384,
 		"year": "2017",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1306,
@@ -4298,7 +4584,10 @@
 		"page": 270,
 		"year": "2010",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1307,
@@ -4310,7 +4599,10 @@
 		"page": 176,
 		"year": "2013",
 		"notes": "F-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1308,
@@ -4322,7 +4614,10 @@
 		"page": 206,
 		"year": "1995",
 		"notes": "n/a",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1309,
@@ -4334,7 +4629,10 @@
 		"page": 212,
 		"year": "1995",
 		"notes": "n/a",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1310,
@@ -4346,7 +4644,10 @@
 		"page": 244,
 		"year": "2021",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1311,
@@ -4358,7 +4659,10 @@
 		"page": 257,
 		"year": "2002",
 		"notes": "E-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1312,
@@ -4370,7 +4674,10 @@
 		"page": 280,
 		"year": "2022",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1313,
@@ -4382,7 +4689,10 @@
 		"page": 120,
 		"year": "2018",
 		"notes": "B-1",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1314,
@@ -4394,7 +4704,10 @@
 		"page": 192,
 		"year": "2015",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1315,
@@ -4407,7 +4720,9 @@
 		"year": "2012",
 		"notes": "D-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1316,
@@ -4419,7 +4734,10 @@
 		"page": 144,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1317,
@@ -4431,7 +4749,10 @@
 		"page": 328,
 		"year": "2020",
 		"notes": "D-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1318,
@@ -4443,7 +4764,10 @@
 		"page": 224,
 		"year": "2020",
 		"notes": "C-1",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1319,
@@ -4455,7 +4779,10 @@
 		"page": 168,
 		"year": "2015",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1320,
@@ -4467,7 +4794,10 @@
 		"page": 375,
 		"year": "2000",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1321,
@@ -4481,7 +4811,8 @@
 		"notes": "C-1",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1322,
@@ -4493,7 +4824,10 @@
 		"page": 312,
 		"year": "2017",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1323,
@@ -4505,7 +4839,10 @@
 		"page": 210,
 		"year": "1995",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1324,
@@ -4517,7 +4854,10 @@
 		"page": 304,
 		"year": "1998",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1325,
@@ -4529,7 +4869,10 @@
 		"page": 264,
 		"year": "2018",
 		"notes": "D-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1326,
@@ -4541,7 +4884,10 @@
 		"page": 176,
 		"year": "2021",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1327,
@@ -4554,7 +4900,9 @@
 		"year": "2010",
 		"notes": "D-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1328,
@@ -4567,7 +4915,9 @@
 		"year": "2017",
 		"notes": "B-1",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1329,
@@ -4579,7 +4929,10 @@
 		"page": 120,
 		"year": "2003",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1330,
@@ -4591,7 +4944,10 @@
 		"page": 248,
 		"year": "2022",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1331,
@@ -4603,7 +4959,10 @@
 		"page": 224,
 		"year": "2018",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1332,
@@ -4616,7 +4975,9 @@
 		"year": "2018",
 		"notes": "B-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1333,
@@ -4630,7 +4991,8 @@
 		"notes": "A-1",
 		"status": "JustRead",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1334,
@@ -4642,7 +5004,10 @@
 		"page": 368,
 		"year": "2013",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1335,
@@ -4654,7 +5019,10 @@
 		"page": 192,
 		"year": "2019",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1336,
@@ -4666,7 +5034,10 @@
 		"page": 288,
 		"year": "2014",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1337,
@@ -4678,7 +5049,10 @@
 		"page": 214,
 		"year": "2001",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1338,
@@ -4690,7 +5064,10 @@
 		"page": 392,
 		"year": "2019",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1339,
@@ -4702,7 +5079,10 @@
 		"page": 416,
 		"year": "2020",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1340,
@@ -4714,7 +5094,10 @@
 		"page": 192,
 		"year": "2019",
 		"notes": "C-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1341,
@@ -4726,7 +5109,10 @@
 		"page": 479,
 		"year": "2019",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1342,
@@ -4738,7 +5124,10 @@
 		"page": 288,
 		"year": "2014",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1343,
@@ -4750,7 +5139,10 @@
 		"page": 200,
 		"year": "2011",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1344,
@@ -4762,7 +5154,10 @@
 		"page": 184,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1345,
@@ -4774,7 +5169,10 @@
 		"page": 192,
 		"year": "2020",
 		"notes": "F-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1346,
@@ -4787,7 +5185,9 @@
 		"year": "2016",
 		"notes": "B-2",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1347,
@@ -4799,7 +5199,10 @@
 		"page": 360,
 		"year": "2019",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1348,
@@ -4812,7 +5215,9 @@
 		"year": "2018",
 		"notes": "A-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1349,
@@ -4824,7 +5229,10 @@
 		"page": 168,
 		"year": "2019",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1350,
@@ -4836,7 +5244,10 @@
 		"page": 200,
 		"year": "2019",
 		"notes": "E-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1351,
@@ -4849,7 +5260,9 @@
 		"year": "2017",
 		"notes": "C-2",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1352,
@@ -4862,7 +5275,9 @@
 		"year": "2017",
 		"notes": "A-2",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1353,
@@ -4874,7 +5289,10 @@
 		"page": 192,
 		"year": "2022",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1354,
@@ -4886,7 +5304,10 @@
 		"page": 470,
 		"year": "2006",
 		"notes": "D-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1355,
@@ -4898,7 +5319,10 @@
 		"page": 448,
 		"year": "2016",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1356,
@@ -4910,7 +5334,10 @@
 		"page": 438,
 		"year": "2003",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1357,
@@ -4922,7 +5349,10 @@
 		"page": 456,
 		"year": "2007",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1358,
@@ -4934,7 +5364,10 @@
 		"page": 192,
 		"year": "2018",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1359,
@@ -4946,7 +5379,10 @@
 		"page": 216,
 		"year": "2017",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1360,
@@ -4958,7 +5394,10 @@
 		"page": 384,
 		"year": "2016",
 		"notes": "B-1",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1361,
@@ -4971,7 +5410,9 @@
 		"year": "2013",
 		"notes": "C-1",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1362,
@@ -4983,7 +5424,10 @@
 		"page": 256,
 		"year": "2022",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1363,
@@ -4995,7 +5439,10 @@
 		"page": 448,
 		"year": "2018",
 		"notes": "C-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1364,
@@ -5007,7 +5454,10 @@
 		"page": 256,
 		"year": "1995",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1365,
@@ -5019,7 +5469,10 @@
 		"page": 144,
 		"year": "2015",
 		"notes": "E-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1366,
@@ -5031,7 +5484,10 @@
 		"page": 424,
 		"year": "2008",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1367,
@@ -5043,7 +5499,10 @@
 		"page": 344,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1368,
@@ -5055,7 +5514,10 @@
 		"page": 192,
 		"year": "2019",
 		"notes": "A-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1369,
@@ -5067,7 +5529,10 @@
 		"page": 336,
 		"year": "2013",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1370,
@@ -5079,7 +5544,10 @@
 		"page": 312,
 		"year": "2015",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1371,
@@ -5092,7 +5560,9 @@
 		"year": "2013",
 		"notes": "B-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1372,
@@ -5104,7 +5574,10 @@
 		"page": 20,
 		"year": "2016",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1373,
@@ -5116,7 +5589,10 @@
 		"page": 213,
 		"year": "2003",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1374,
@@ -5128,7 +5604,10 @@
 		"page": 208,
 		"year": "2019",
 		"notes": "C-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1375,
@@ -5140,7 +5619,10 @@
 		"page": 422,
 		"year": "1999",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1376,
@@ -5152,7 +5634,10 @@
 		"page": 231,
 		"year": "2023",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1377,
@@ -5164,7 +5649,10 @@
 		"page": 112,
 		"year": "2015",
 		"notes": "C-1",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1378,
@@ -5176,7 +5664,10 @@
 		"page": 200,
 		"year": "2017",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1379,
@@ -5188,7 +5679,10 @@
 		"page": 152,
 		"year": "2008",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1380,
@@ -5200,7 +5694,10 @@
 		"page": 225,
 		"year": "2019",
 		"notes": "C-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1381,
@@ -5212,7 +5709,10 @@
 		"page": 144,
 		"year": "2019",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1382,
@@ -5224,7 +5724,10 @@
 		"page": 252,
 		"year": "2012",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1383,
@@ -5236,7 +5739,10 @@
 		"page": 384,
 		"year": "2015",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1384,
@@ -5248,7 +5754,10 @@
 		"page": 320,
 		"year": "2023",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1385,
@@ -5261,7 +5770,9 @@
 		"year": "2019",
 		"notes": "B-1",
 		"status": "JustRead",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1386,
@@ -5273,7 +5784,10 @@
 		"page": 280,
 		"year": "2019",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1387,
@@ -5287,7 +5801,8 @@
 		"notes": "C-4",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1388,
@@ -5299,7 +5814,10 @@
 		"page": 296,
 		"year": "2018",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1389,
@@ -5311,7 +5829,10 @@
 		"page": 336,
 		"year": "2013",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1390,
@@ -5323,7 +5844,10 @@
 		"page": 152,
 		"year": "2015",
 		"notes": "E-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1391,
@@ -5335,7 +5859,10 @@
 		"page": 224,
 		"year": "2022",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1392,
@@ -5347,7 +5874,10 @@
 		"page": 440,
 		"year": "2018",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1393,
@@ -5359,7 +5889,10 @@
 		"page": 232,
 		"year": "2017",
 		"notes": "n/a",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1394,
@@ -5371,7 +5904,10 @@
 		"page": 250,
 		"year": "2006",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1395,
@@ -5383,7 +5919,10 @@
 		"page": 268,
 		"year": "2009",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1396,
@@ -5396,7 +5935,9 @@
 		"year": "2012",
 		"notes": "E-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1397,
@@ -5408,7 +5949,10 @@
 		"page": 270,
 		"year": "2005",
 		"notes": "n/a",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1398,
@@ -5422,7 +5966,8 @@
 		"notes": "C-4",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1399,
@@ -5434,7 +5979,10 @@
 		"page": 328,
 		"year": "2020",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1400,
@@ -5446,7 +5994,10 @@
 		"page": 292,
 		"year": "2017",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1401,
@@ -5458,7 +6009,10 @@
 		"page": 136,
 		"year": "2016",
 		"notes": "n/a",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1402,
@@ -5470,7 +6024,10 @@
 		"page": 276,
 		"year": "2017",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1403,
@@ -5482,7 +6039,10 @@
 		"page": 128,
 		"year": "2018",
 		"notes": "A-2",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1404,
@@ -5494,7 +6054,10 @@
 		"page": 263,
 		"year": "2006",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1405,
@@ -5506,7 +6069,10 @@
 		"page": 220,
 		"year": "2017",
 		"notes": "E-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1406,
@@ -5518,7 +6084,10 @@
 		"page": 500,
 		"year": "2018",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1407,
@@ -5530,7 +6099,10 @@
 		"page": 304,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1408,
@@ -5542,7 +6114,10 @@
 		"page": 448,
 		"year": "2017",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1409,
@@ -5554,7 +6129,10 @@
 		"page": 128,
 		"year": "1996",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1410,
@@ -5566,7 +6144,10 @@
 		"page": 136,
 		"year": "2017",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1411,
@@ -5578,7 +6159,10 @@
 		"page": 367,
 		"year": "2017",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1412,
@@ -5590,7 +6174,10 @@
 		"page": 353,
 		"year": "2018",
 		"notes": "C-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1413,
@@ -5602,7 +6189,10 @@
 		"page": 448,
 		"year": "2016",
 		"notes": "E-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1414,
@@ -5614,7 +6204,10 @@
 		"page": 200,
 		"year": "2009",
 		"notes": "n/a",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1415,
@@ -5626,7 +6219,10 @@
 		"page": 64,
 		"year": "2016",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1416,
@@ -5638,7 +6234,10 @@
 		"page": 72,
 		"year": "2022",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1417,
@@ -5650,7 +6249,10 @@
 		"page": 456,
 		"year": "2014",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1418,
@@ -5662,7 +6264,10 @@
 		"page": 144,
 		"year": "2021",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1419,
@@ -5674,7 +6279,10 @@
 		"page": 160,
 		"year": "2017",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1420,
@@ -5686,7 +6294,10 @@
 		"page": 256,
 		"year": "2001",
 		"notes": "E-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1421,
@@ -5698,7 +6309,10 @@
 		"page": 192,
 		"year": "2015",
 		"notes": "E-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1422,
@@ -5710,7 +6324,10 @@
 		"page": 128,
 		"year": "2021",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1423,
@@ -5722,7 +6339,10 @@
 		"page": 190,
 		"year": "1993",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1424,
@@ -5734,7 +6354,10 @@
 		"page": 338,
 		"year": "2000",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1425,
@@ -5746,7 +6369,10 @@
 		"page": 280,
 		"year": "2010",
 		"notes": "D-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1426,
@@ -5758,7 +6384,10 @@
 		"page": 376,
 		"year": "2021",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1427,
@@ -5770,7 +6399,10 @@
 		"page": 296,
 		"year": "2022",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1428,
@@ -5782,7 +6414,10 @@
 		"page": 240,
 		"year": "2008",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1429,
@@ -5794,7 +6429,10 @@
 		"page": 384,
 		"year": "2006",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1430,
@@ -5808,7 +6446,8 @@
 		"notes": "B-2",
 		"status": "JustRead",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1431,
@@ -5820,7 +6459,10 @@
 		"page": 118,
 		"year": "2016",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1432,
@@ -5832,7 +6474,10 @@
 		"page": 375,
 		"year": "2016",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1433,
@@ -5844,7 +6489,10 @@
 		"page": 192,
 		"year": "2011",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1434,
@@ -5858,7 +6506,8 @@
 		"notes": "A-1",
 		"status": "JustRead",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1435,
@@ -5870,7 +6519,10 @@
 		"page": 240,
 		"year": "2019",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1436,
@@ -5883,7 +6535,9 @@
 		"year": "2017",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1437,
@@ -5895,7 +6549,10 @@
 		"page": 160,
 		"year": "2021",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1438,
@@ -5907,7 +6564,10 @@
 		"page": 124,
 		"year": "1989",
 		"notes": "F-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1439,
@@ -5920,7 +6580,9 @@
 		"year": "2009",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1440,
@@ -5932,7 +6594,10 @@
 		"page": 464,
 		"year": "2019",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1441,
@@ -5944,7 +6609,10 @@
 		"page": 192,
 		"year": "2018",
 		"notes": "E-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1442,
@@ -5956,7 +6624,10 @@
 		"page": 224,
 		"year": "2021",
 		"notes": "F-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1443,
@@ -5968,7 +6639,10 @@
 		"page": 216,
 		"year": "2016",
 		"notes": "E-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1444,
@@ -5980,7 +6654,10 @@
 		"page": 295,
 		"year": "2016",
 		"notes": "B-1",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1445,
@@ -5994,7 +6671,8 @@
 		"notes": "C-4",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1446,
@@ -6006,7 +6684,10 @@
 		"page": 368,
 		"year": "2016",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1447,
@@ -6018,7 +6699,10 @@
 		"page": 248,
 		"year": "2016",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1448,
@@ -6030,7 +6714,10 @@
 		"page": 280,
 		"year": "2017",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1449,
@@ -6042,7 +6729,10 @@
 		"page": 312,
 		"year": "2018",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1450,
@@ -6054,7 +6744,10 @@
 		"page": 105,
 		"year": "2021",
 		"notes": "B-2",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1451,
@@ -6066,7 +6759,10 @@
 		"page": 386,
 		"year": "2013",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1452,
@@ -6078,7 +6774,10 @@
 		"page": 309,
 		"year": "2015",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1453,
@@ -6090,7 +6789,10 @@
 		"page": 394,
 		"year": "2021",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1454,
@@ -6102,7 +6804,10 @@
 		"page": 487,
 		"year": "2021",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1455,
@@ -6114,7 +6819,10 @@
 		"page": 108,
 		"year": "2020",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1456,
@@ -6126,7 +6834,10 @@
 		"page": 200,
 		"year": "2017",
 		"notes": "C-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1457,
@@ -6138,7 +6849,10 @@
 		"page": 112,
 		"year": "1997",
 		"notes": "C-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1458,
@@ -6150,7 +6864,10 @@
 		"page": 150,
 		"year": "2005",
 		"notes": "C-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1459,
@@ -6162,7 +6879,10 @@
 		"page": 128,
 		"year": "1999",
 		"notes": "C-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1460,
@@ -6174,7 +6894,10 @@
 		"page": 240,
 		"year": "2018",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1461,
@@ -6186,7 +6909,10 @@
 		"page": 144,
 		"year": "2018",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1462,
@@ -6198,7 +6924,10 @@
 		"page": 222,
 		"year": "2001",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1463,
@@ -6210,7 +6939,10 @@
 		"page": 101,
 		"year": "2011",
 		"notes": "E-2",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1464,
@@ -6222,7 +6954,10 @@
 		"page": 304,
 		"year": "2017",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1465,
@@ -6234,7 +6969,10 @@
 		"page": 296,
 		"year": "2021",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1466,
@@ -6246,7 +6984,10 @@
 		"page": 172,
 		"year": "2009",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1467,
@@ -6258,7 +6999,10 @@
 		"page": 432,
 		"year": "2016",
 		"notes": "E-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1468,
@@ -6270,7 +7014,10 @@
 		"page": 400,
 		"year": "2015",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1469,
@@ -6282,7 +7029,10 @@
 		"page": 208,
 		"year": "2000",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1470,
@@ -6294,7 +7044,10 @@
 		"page": 248,
 		"year": "2005",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1471,
@@ -6306,7 +7059,10 @@
 		"page": 256,
 		"year": "2017",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1472,
@@ -6318,7 +7074,10 @@
 		"page": 742,
 		"year": "2004",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1473,
@@ -6330,7 +7089,10 @@
 		"page": 320,
 		"year": "2016",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1474,
@@ -6342,7 +7104,10 @@
 		"page": 128,
 		"year": "2016",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1475,
@@ -6354,7 +7119,10 @@
 		"page": 259,
 		"year": "2009",
 		"notes": "B-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1476,
@@ -6366,7 +7134,10 @@
 		"page": 312,
 		"year": "2023",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1477,
@@ -6378,7 +7149,10 @@
 		"page": 500,
 		"year": "2018",
 		"notes": "D-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1478,
@@ -6390,7 +7164,10 @@
 		"page": 383,
 		"year": "1995",
 		"notes": "E-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1479,
@@ -6402,7 +7179,10 @@
 		"page": 520,
 		"year": "2017",
 		"notes": "E-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1480,
@@ -6414,7 +7194,10 @@
 		"page": 272,
 		"year": "2015",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1481,
@@ -6426,7 +7209,10 @@
 		"page": 248,
 		"year": "2014",
 		"notes": "E-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1482,
@@ -6438,7 +7224,10 @@
 		"page": 237,
 		"year": "1997",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1483,
@@ -6451,7 +7240,9 @@
 		"year": "2017",
 		"notes": "B-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1484,
@@ -6464,7 +7255,9 @@
 		"year": "2014",
 		"notes": "A-2",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1485,
@@ -6476,7 +7269,10 @@
 		"page": 632,
 		"year": "2016",
 		"notes": "B-1",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1486,
@@ -6488,7 +7284,10 @@
 		"page": 224,
 		"year": "2010",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1487,
@@ -6501,7 +7300,9 @@
 		"year": "2013",
 		"notes": "E-3",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1488,
@@ -6513,7 +7314,10 @@
 		"page": 320,
 		"year": "2011",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1489,
@@ -6525,7 +7329,10 @@
 		"page": 320,
 		"year": "2017",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1490,
@@ -6537,7 +7344,10 @@
 		"page": 336,
 		"year": "2010",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1491,
@@ -6549,7 +7359,10 @@
 		"page": 124,
 		"year": "1996",
 		"notes": "n/a",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1492,
@@ -6562,7 +7375,9 @@
 		"year": "2017",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1493,
@@ -6574,7 +7389,10 @@
 		"page": 288,
 		"year": "2010",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1494,
@@ -6586,7 +7404,10 @@
 		"page": 240,
 		"year": "2022",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1495,
@@ -6598,7 +7419,10 @@
 		"page": 271,
 		"year": "1997",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1496,
@@ -6610,7 +7434,10 @@
 		"page": 230,
 		"year": "2014",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1497,
@@ -6622,7 +7449,10 @@
 		"page": 180,
 		"year": "2012",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1498,
@@ -6634,7 +7464,10 @@
 		"page": 256,
 		"year": "2015",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1499,
@@ -6646,7 +7479,10 @@
 		"page": 295,
 		"year": "2022",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1500,
@@ -6658,7 +7494,10 @@
 		"page": 288,
 		"year": "2013",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1501,
@@ -6670,7 +7509,10 @@
 		"page": 304,
 		"year": "2020",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1502,
@@ -6682,7 +7524,10 @@
 		"page": 454,
 		"year": "2021",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1503,
@@ -6695,7 +7540,9 @@
 		"year": "2018",
 		"notes": "A-1",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1504,
@@ -6707,7 +7554,10 @@
 		"page": 152,
 		"year": "1990",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1505,
@@ -6719,7 +7569,10 @@
 		"page": 208,
 		"year": "2019",
 		"notes": "C-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1506,
@@ -6731,7 +7584,10 @@
 		"page": 208,
 		"year": "2016",
 		"notes": "C-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1507,
@@ -6743,7 +7599,10 @@
 		"page": 272,
 		"year": "2021",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1508,
@@ -6755,7 +7614,10 @@
 		"page": 416,
 		"year": "2022",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1509,
@@ -6769,7 +7631,8 @@
 		"notes": "A-4",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1510,
@@ -6781,7 +7644,10 @@
 		"page": 368,
 		"year": "1996",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1511,
@@ -6793,7 +7659,10 @@
 		"page": 260,
 		"year": "2018",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1512,
@@ -6805,7 +7674,10 @@
 		"page": 320,
 		"year": "2015",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1513,
@@ -6817,7 +7689,10 @@
 		"page": 218,
 		"year": "1994",
 		"notes": "D-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1514,
@@ -6829,7 +7704,10 @@
 		"page": 308,
 		"year": "2004",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1515,
@@ -6841,7 +7719,10 @@
 		"page": 192,
 		"year": "2004",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1516,
@@ -6853,7 +7734,10 @@
 		"page": 272,
 		"year": "2021",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1517,
@@ -6865,7 +7749,10 @@
 		"page": 152,
 		"year": "2020",
 		"notes": "A-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1518,
@@ -6877,7 +7764,10 @@
 		"page": 248,
 		"year": "2021",
 		"notes": "B-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1519,
@@ -6889,7 +7779,10 @@
 		"page": 124,
 		"year": "2013",
 		"notes": "C-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1520,
@@ -6901,7 +7794,10 @@
 		"page": 528,
 		"year": "2022",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1521,
@@ -6915,7 +7811,8 @@
 		"notes": "A-2",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1522,
@@ -6927,7 +7824,10 @@
 		"page": 306,
 		"year": "2016",
 		"notes": "B-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1523,
@@ -6939,7 +7839,10 @@
 		"page": 408,
 		"year": "2006",
 		"notes": "D-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1524,
@@ -6951,7 +7854,10 @@
 		"page": 320,
 		"year": "2018",
 		"notes": "E-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1525,
@@ -6963,7 +7869,10 @@
 		"page": 326,
 		"year": "2010",
 		"notes": "D-2",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1526,
@@ -6975,7 +7884,10 @@
 		"page": 432,
 		"year": "2017",
 		"notes": "D-2",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1527,
@@ -6987,7 +7899,10 @@
 		"page": 352,
 		"year": "2014",
 		"notes": "B-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1528,
@@ -6999,7 +7914,10 @@
 		"page": 320,
 		"year": "2006",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1529,
@@ -7011,7 +7929,10 @@
 		"page": 166,
 		"year": "2019",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1530,
@@ -7023,7 +7944,10 @@
 		"page": 104,
 		"year": "2018",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1531,
@@ -7035,7 +7959,10 @@
 		"page": 244,
 		"year": "2006",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1532,
@@ -7047,7 +7974,10 @@
 		"page": 304,
 		"year": "2016",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1533,
@@ -7059,7 +7989,10 @@
 		"page": 368,
 		"year": "2019",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1534,
@@ -7071,7 +8004,10 @@
 		"page": 272,
 		"year": "2001",
 		"notes": "E-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1535,
@@ -7083,7 +8019,10 @@
 		"page": 228,
 		"year": "2015",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1536,
@@ -7095,7 +8034,10 @@
 		"page": 228,
 		"year": "2015",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1537,
@@ -7108,7 +8050,9 @@
 		"year": "2012",
 		"notes": "B-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1538,
@@ -7122,7 +8066,8 @@
 		"notes": "A-1",
 		"status": "JustRead",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1539,
@@ -7134,7 +8079,10 @@
 		"page": 256,
 		"year": "2022",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1540,
@@ -7146,7 +8094,10 @@
 		"page": 240,
 		"year": "2016",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1541,
@@ -7158,7 +8109,10 @@
 		"page": 320,
 		"year": "2013",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1542,
@@ -7170,7 +8124,10 @@
 		"page": 320,
 		"year": "2006",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1543,
@@ -7182,7 +8139,10 @@
 		"page": 248,
 		"year": "2019",
 		"notes": "E-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1544,
@@ -7194,7 +8154,10 @@
 		"page": 352,
 		"year": "2014",
 		"notes": "E-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1545,
@@ -7206,7 +8169,10 @@
 		"page": 144,
 		"year": "yok",
 		"notes": "F-2",
-		"status": ""
+		"status": "",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1546,
@@ -7218,7 +8184,10 @@
 		"page": 254,
 		"year": "2010",
 		"notes": "E-4",
-		"status": ""
+		"status": "",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1547,
@@ -7230,7 +8199,10 @@
 		"page": 431,
 		"year": "1999",
 		"notes": "E-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1548,
@@ -7242,7 +8214,10 @@
 		"page": 588,
 		"year": "2005",
 		"notes": "E-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1549,
@@ -7254,7 +8229,10 @@
 		"page": 296,
 		"year": "2013",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1550,
@@ -7266,7 +8244,10 @@
 		"page": 363,
 		"year": "2018",
 		"notes": "B-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1551,
@@ -7278,7 +8259,10 @@
 		"page": 500,
 		"year": "2019",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1552,
@@ -7291,7 +8275,10 @@
 		"year": "2015",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1553,
@@ -7303,7 +8290,10 @@
 		"page": 188,
 		"year": "2005",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1554,
@@ -7315,7 +8305,10 @@
 		"page": 560,
 		"year": "2014",
 		"notes": "D-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1555,
@@ -7328,7 +8321,9 @@
 		"year": "2007",
 		"notes": "C-2",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1556,
@@ -7340,7 +8335,10 @@
 		"page": 168,
 		"year": "2019",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1557,
@@ -7352,7 +8350,10 @@
 		"page": 328,
 		"year": "2022",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1558,
@@ -7364,7 +8365,10 @@
 		"page": 408,
 		"year": "2017",
 		"notes": "A-3",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1559,
@@ -7377,7 +8381,9 @@
 		"year": "2004",
 		"notes": "A-4",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1560,
@@ -7389,7 +8395,10 @@
 		"page": 272,
 		"year": "2015",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1561,
@@ -7401,7 +8410,10 @@
 		"page": 296,
 		"year": "2011",
 		"notes": "E-3",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1562,
@@ -7413,7 +8425,10 @@
 		"page": 152,
 		"year": "2019",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1563,
@@ -7425,7 +8440,10 @@
 		"page": 365,
 		"year": "2017",
 		"notes": "A-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1564,
@@ -7437,7 +8455,10 @@
 		"page": 196,
 		"year": "2009",
 		"notes": "A-4",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1565,
@@ -7450,7 +8471,9 @@
 		"year": "2007",
 		"notes": "B-2",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1566,
@@ -7462,7 +8485,10 @@
 		"page": 320,
 		"year": "2022",
 		"notes": "B-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1567,
@@ -7474,7 +8500,10 @@
 		"page": 192,
 		"year": "2017",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1568,
@@ -7486,7 +8515,10 @@
 		"page": 298,
 		"year": "2019",
 		"notes": "C-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1569,
@@ -7500,7 +8532,8 @@
 		"notes": "B-3",
 		"status": "JustRead",
 		"reread": "yes",
-		"newstatus": "ToBeUpdated"
+		"newstatus": "ToBeUpdated",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1570,
@@ -7512,7 +8545,10 @@
 		"page": 136,
 		"year": "2014",
 		"notes": "A-4",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1571,
@@ -7524,7 +8560,10 @@
 		"page": 360,
 		"year": "2022",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1572,
@@ -7536,7 +8575,10 @@
 		"page": 156,
 		"year": "2018",
 		"notes": "A-2",
-		"status": "Read"
+		"status": "Read",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1573,
@@ -7548,7 +8590,10 @@
 		"page": 232,
 		"year": "2016",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1574,
@@ -7561,7 +8606,9 @@
 		"year": "2014",
 		"notes": "A-1",
 		"status": "Read",
-		"reread": "yes"
+		"reread": "yes",
+		"newstatus": "n/a",
+		"categories": "n/a"
 	},
 	{
 		"bookshelf": 1575,
@@ -7573,7 +8620,10 @@
 		"page": 496,
 		"year": "2017",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1576,
@@ -7585,7 +8635,10 @@
 		"page": 176,
 		"year": "2021",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1577,
@@ -7597,7 +8650,10 @@
 		"page": 382,
 		"year": "2020",
 		"notes": "A-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1578,
@@ -7609,7 +8665,10 @@
 		"page": 208,
 		"year": "2013",
 		"notes": "B-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1579,
@@ -7621,7 +8680,10 @@
 		"page": 336,
 		"year": "2009",
 		"notes": "C-2",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1580,
@@ -7633,7 +8695,10 @@
 		"page": 192,
 		"year": "2017",
 		"notes": "C-1",
-		"status": ""
+		"status": "n/a",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	},
 	{
 		"bookshelf": 1581,
