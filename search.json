@@ -5,18 +5,19 @@ layout: null
   {% for item in site.data.list %}
     {
 
-      "title"     : "{{ item.title }}",
-      "url"       : "{{ site.baseurl }}booklist#{{ item.bookshelf }}",
-      "author"    : "{{ item.author }}",
-      "year"      : "{{ item.year }}",
-      "no"        : "{{ item.No }}",
-      "bookshelf" : "{{ item.notes }}",
-      "publisher" : "{{ item.publisher }}",
-      "page"      : "{{ item.page }}",
-      "uniqueid"  : "{{ item.bookshelf }}",
-      "status"    : "{{ item.status }}",
-      "reread"    : "{{ item.reread }}",
-      "status2"   : "{{ item.newstatus }}"
+      "title"      : "{{ item.title }}",
+      "url"        : "{{ site.baseurl }}booklist#{{ item.bookshelf }}",
+      "author"     : "{{ item.author }}",
+      "year"       : "{{ item.year }}",
+      "no"         : "{{ item.No }}",
+      "bookshelf"  : "{{ item.notes }}",
+      "publisher"  : "{{ item.publisher }}",
+      "page"       : "{{ item.page }}",
+      "uniqueid"   : "{{ item.bookshelf }}",
+      "status"     : "{{ item.status }}",
+      "reread"     : "{{ item.reread }}",
+      "status2"    : "{{ item.newstatus }}",
+      "categories" : "{{ item.categories }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
