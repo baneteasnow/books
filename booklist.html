@@ -62,7 +62,7 @@ title: "Home Library Book List"
 	>
 		<i>{{ item.status }}</i>
 	</div>
-		<div
+	<div
 		class="decorated"
 		style="font-size: 85%; color: lightgray"
 	>
@@ -80,6 +80,16 @@ title: "Home Library Book List"
 		<div style="visibility: hidden"></div>
 		{% else %}
 		<i>reread</i>
+		{% endif %}
+	</div>
+	<div
+		class="decorated"
+		style="font-size: 85%; color: darkgray"
+	>
+		{% if item.categories != "n/a" %}
+		<div style="visibility: hidden"></div>
+		{% else %}
+		<i>{{ item.categories }}</i>
 		{% endif %}
 	</div>
 	<div
