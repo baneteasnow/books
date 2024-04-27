@@ -86,7 +86,7 @@ title: "Home Library Book List"
 		class="decorated"
 		style="font-size: 85%; color: darkgray"
 	>
-		{% if item.categories != "n/a" %}
+		{% if item.categories == "n/a" %}
 		<div style="visibility: hidden"></div>
 		{% else %}
 		<i>{{ item.categories }}</i>
