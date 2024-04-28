@@ -8,7 +8,7 @@ title: "Categories"
 {%-include backtotop.html-%}
 <br />
 <h4><i>Psikoloji</i></h4>
-{% for item in site.data.list %} {% if item.status == "psikoloji" %}
+{% for item in site.data.list %} {% if item.categories == "psikoloji" %}
 <div>
 	<i
 		><a
@@ -23,7 +23,7 @@ title: "Categories"
 {% endif %} {% endfor %}
 <br />
 <h4><i>Sosyoloji</i></h4>
-{% for item in site.data.list %} {% if item.status == "sosyoloji" %}
+{% for item in site.data.list %} {% if item.categories == "sosyoloji" %}
 <div>
 	<i
 		><a
@@ -38,7 +38,7 @@ title: "Categories"
 {% endif %} {% endfor %}
 <br />
 <h4><i>Tarih</i></h4>
-{% for item in site.data.list %} {% if item.status == "tarih" %}
+{% for item in site.data.list %} {% if item.categories == "tarih" %}
 <div>
 	<i
 		><a
@@ -53,7 +53,7 @@ title: "Categories"
 {% endif %} {% endfor %}
 <br />
 <h4><i>Yapay Zeka</i></h4>
-{% for item in site.data.list %} {% if item.status == "yapay zeka" %}
+{% for item in site.data.list %} {% if item.categories == "yapay zeka" %}
 <div>
 	<i
 		><a
