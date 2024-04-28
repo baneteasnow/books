@@ -567,7 +567,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1039,
@@ -836,7 +836,7 @@
 		"notes": "B-2",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -2876,7 +2876,7 @@
 		"notes": "D-4",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "uretkenlik ve teknoloji",
 		"reread": "n/a"
 	},
 	{
@@ -2951,7 +2951,7 @@
 		"notes": "F-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "sosyal bilimler",
 		"reread": "n/a"
 	},
 	{
@@ -3371,7 +3371,7 @@
 		"notes": "C-1",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "otivasyon",
 		"reread": "n/a"
 	},
 	{
@@ -3731,7 +3731,7 @@
 		"notes": "C-4",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "lifestyle",
 		"reread": "n/a"
 	},
 	{
@@ -3792,7 +3792,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "teknoloji"
 	},
 	{
 		"bookshelf": 1254,
@@ -3941,7 +3941,7 @@
 		"notes": "B-2",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "felsefe",
 		"reread": "n/a"
 	},
 	{
@@ -3971,7 +3971,7 @@
 		"notes": "B-2",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "felsefe",
 		"reread": "n/a"
 	},
 	{
@@ -4992,7 +4992,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1334,
@@ -6447,7 +6447,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1431,
@@ -6507,7 +6507,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "sosyoloji"
 	},
 	{
 		"bookshelf": 1435,
@@ -8067,7 +8067,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "sosyoloji"
 	},
 	{
 		"bookshelf": 1539,
@@ -8532,7 +8532,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1570,
@@ -9626,7 +9626,7 @@
 		"notes": "A-4",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "veganlik",
 		"reread": "n/a"
 	},
 	{
@@ -9912,7 +9912,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1662,
@@ -11861,7 +11861,7 @@
 		"notes": "F-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "sosyal bilimler",
 		"reread": "n/a"
 	},
 	{
@@ -11981,7 +11981,7 @@
 		"notes": "B-3",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -12071,7 +12071,7 @@
 		"notes": "B-1",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "motivasyon",
 		"reread": "n/a"
 	},
 	{
@@ -13121,7 +13121,7 @@
 		"notes": "B-1",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "teknoloji",
 		"reread": "n/a"
 	},
 	{
@@ -14697,7 +14697,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 1981,
@@ -16422,7 +16422,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 2096,
@@ -16632,7 +16632,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 2110,
@@ -17472,7 +17472,7 @@
 		"reread": "yes",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 2166,
@@ -17516,7 +17516,7 @@
 		"notes": "B-1",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "teknoloji",
 		"reread": "n/a"
 	},
 	{
@@ -17892,7 +17892,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 2194,
@@ -18897,7 +18897,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "yapay zeka"
 	},
 	{
 		"bookshelf": 2261,
@@ -19631,7 +19631,7 @@
 		"notes": "F-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "sosyal bilimler",
 		"reread": "n/a"
 	},
 	{
@@ -19812,7 +19812,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 2322,
@@ -20516,7 +20516,7 @@
 		"notes": "B-1",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "felsefe",
 		"reread": "n/a"
 	},
 	{
@@ -21027,7 +21027,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "sosyoloji"
 	},
 	{
 		"bookshelf": 2403,
@@ -21506,7 +21506,7 @@
 		"notes": "B-2",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "lifestyle",
 		"reread": "n/a"
 	},
 	{
@@ -22466,7 +22466,7 @@
 		"notes": "B-1",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -22857,7 +22857,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 2525,
@@ -22931,7 +22931,7 @@
 		"notes": "A-2",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -23157,7 +23157,7 @@
 		"status": "JustRead",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 2545,
@@ -23411,7 +23411,7 @@
 		"notes": "B-3",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "pazarlama",
 		"reread": "n/a"
 	},
 	{
@@ -23756,7 +23756,7 @@
 		"notes": "B-4",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "felsefe",
 		"reread": "n/a"
 	},
 	{

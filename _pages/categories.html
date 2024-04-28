@@ -67,3 +67,109 @@ title: "Categories"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+<h4><i>Felsefe</i></h4>
+{% for item in site.data.list %} {% if item.categories == "felsefe" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Pazarlama</i></h4>
+{% for item in site.data.list %} {% if item.categories == "pazarlama" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Teknoloji</i></h4>
+{% for item in site.data.list %} {% if item.categories == "teknoloji" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Lifestyle</i></h4>
+{% for item in site.data.list %} {% if item.categories == "lifestyle" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Uretkenlik ve Teknoloji</i></h4>
+{% for item in site.data.list %} {% if item.categories == "uretkenlik ve
+teknoloji" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Motivasyon</i></h4>
+{% for item in site.data.list %} {% if item.categories == "motivasyon" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Sosyal Bilimler</i></h4>
+{% for item in site.data.list %} {% if item.categories == "sosyal bilimler" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
