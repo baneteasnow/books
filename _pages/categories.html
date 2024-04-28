@@ -1,0 +1,69 @@
+---
+layout: page-6
+published: true
+last_modified_at: 2024-04-28
+title: "Categories"
+---
+
+{%-include backtotop.html-%}
+<br />
+<h4><i>Psikoloji</i></h4>
+{% for item in site.data.list %} {% if item.status == "psikoloji" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Sosyoloji</i></h4>
+{% for item in site.data.list %} {% if item.status == "sosyoloji" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Tarih</i></h4>
+{% for item in site.data.list %} {% if item.status == "tarih" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Yapay Zeka</i></h4>
+{% for item in site.data.list %} {% if item.status == "yapay zeka" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
