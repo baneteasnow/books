@@ -7,7 +7,23 @@ title: "Completed List"
 
 {%-include backtotop.html-%}
 <br />
+<h4><i>Read</i></h4>
 {% for item in site.data.list %} {% if item.status == "Read" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />
+<h4><i>Read</i></h4>
+{% for item in site.data.list %} {% if item.status == "JustRead" %}
 <div>
 	<i
 		><a
