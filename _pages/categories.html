@@ -173,3 +173,18 @@ teknoloji" %}
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+<h4><i>Mindfulness</i></h4>
+{% for item in site.data.list %} {% if item.categories == "mindfulness" %}
+<div>
+	<i
+		><a
+			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
+			name="{{ item.bookshelf }}"
+			>{{ item.title }} | {{ item.author }}</a
+		>
+	</i>
+</div>
+{% else %}
+<div style="visibility: hidden"></div>
+{% endif %} {% endfor %}
+<br />

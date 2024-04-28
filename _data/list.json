@@ -1542,7 +1542,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 1104,
@@ -2097,7 +2097,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1141,
@@ -2996,7 +2996,7 @@
 		"notes": "F-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "sosyal bilimler",
 		"reread": "n/a"
 	},
 	{
@@ -4062,7 +4062,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "motivasyon"
 	},
 	{
 		"bookshelf": 1272,
@@ -7812,7 +7812,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 1522,
@@ -13421,7 +13421,7 @@
 		"notes": "C-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "mindfulness",
 		"reread": "n/a"
 	},
 	{
@@ -13587,7 +13587,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "teknoloji"
 	},
 	{
 		"bookshelf": 1907,
@@ -15117,7 +15117,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 2009,
@@ -16032,7 +16032,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 2070,
