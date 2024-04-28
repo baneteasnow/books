@@ -2876,7 +2876,7 @@
 		"notes": "D-4",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "uretkenlik ve teknoloji",
+		"categories": "uretkenlik ve",
 		"reread": "n/a"
 	},
 	{
@@ -4812,7 +4812,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 1322,
@@ -5967,7 +5967,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 1399,
@@ -16107,7 +16107,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 2075,
