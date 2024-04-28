@@ -101,7 +101,7 @@
 		"notes": "E-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "cevre",
 		"reread": "n/a"
 	},
 	{
@@ -372,7 +372,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "cevre"
 	},
 	{
 		"bookshelf": 1026,
@@ -461,7 +461,7 @@
 		"notes": "F-4",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "lifestyle",
 		"reread": "no"
 	},
 	{
@@ -612,7 +612,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1042,
@@ -927,7 +927,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1063,
@@ -1122,7 +1122,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "cevre"
 	},
 	{
 		"bookshelf": 1076,
@@ -1557,7 +1557,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1105,
@@ -2171,7 +2171,7 @@
 		"notes": "A-3",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -2621,7 +2621,7 @@
 		"notes": "C-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "motivasyon",
 		"reread": "n/a"
 	},
 	{
@@ -2876,7 +2876,7 @@
 		"notes": "D-4",
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
-		"categories": "uretkenlik ve",
+		"categories": "uretkenlik teknoloji",
 		"reread": "n/a"
 	},
 	{
@@ -5802,7 +5802,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1388,
@@ -6672,7 +6672,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "mindfulness"
 	},
 	{
 		"bookshelf": 1446,
@@ -6746,7 +6746,7 @@
 		"notes": "B-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "felsefe",
 		"reread": "n/a"
 	},
 	{
@@ -7632,7 +7632,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "beslenme"
 	},
 	{
 		"bookshelf": 1510,
@@ -9131,7 +9131,7 @@
 		"notes": "E-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "motivasyon",
 		"reread": "n/a"
 	},
 	{
@@ -9206,7 +9206,7 @@
 		"notes": "A-2",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "ogrenmeyi ogrenmek",
 		"reread": "n/a"
 	},
 	{
@@ -9687,7 +9687,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1647,
@@ -11832,7 +11832,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1790,
@@ -14757,7 +14757,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "psikoloji"
 	},
 	{
 		"bookshelf": 1985,
@@ -15162,7 +15162,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "saglik"
 	},
 	{
 		"bookshelf": 2012,
@@ -19916,7 +19916,7 @@
 		"notes": "E-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "motivasyon",
 		"reread": "n/a"
 	},
 	{
@@ -20921,7 +20921,7 @@
 		"notes": "C-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -21642,7 +21642,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "yapay zeka"
 	},
 	{
 		"bookshelf": 2444,
@@ -21687,7 +21687,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "motivasyon"
 	},
 	{
 		"bookshelf": 2447,
@@ -22676,7 +22676,7 @@
 		"notes": "A-4",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "lifestyle",
 		"reread": "n/a"
 	},
 	{
