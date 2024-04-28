@@ -7,184 +7,39 @@ title: "Categories"
 
 {%-include backtotop.html-%}
 <br />
-<h4><i>Psikoloji</i></h4>
-{% for item in site.data.list %} {% if item.categories == "psikoloji" %}
+<div><a href="https://homelibrary.nonfictionbooks.xyz/felsefe">Felsefe</a></div>
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/lifestyle">Lifestyle</a>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Sosyoloji</i></h4>
-{% for item in site.data.list %} {% if item.categories == "sosyoloji" %}
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/mindfulness">Mindfulness</a>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Tarih</i></h4>
-{% for item in site.data.list %} {% if item.categories == "tarih" %}
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/motivasyon">Motivasyon</a>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Yapay Zeka</i></h4>
-{% for item in site.data.list %} {% if item.categories == "yapay zeka" %}
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/pazarlama">Pazarlama</a>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Felsefe</i></h4>
-{% for item in site.data.list %} {% if item.categories == "felsefe" %}
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/psikoloji">Psikoloji</a>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Pazarlama</i></h4>
-{% for item in site.data.list %} {% if item.categories == "pazarlama" %}
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/sosyal-bilimler"
+		>Sosyal Bilimler</a
+	>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Teknoloji</i></h4>
-{% for item in site.data.list %} {% if item.categories == "teknoloji" %}
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/sosyoloji">Sosyoloji</a>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Lifestyle</i></h4>
-{% for item in site.data.list %} {% if item.categories == "lifestyle" %}
+<div><a href="https://homelibrary.nonfictionbooks.xyz/tarih">Tarih</a></div>
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/teknoloji">Teknoloji</a>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Uretkenlik ve Teknoloji</i></h4>
-{% for item in site.data.list %} {% if item.categories == "uretkenlik ve
-teknoloji" %}
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/uretkenlik-ve-teknoloji"
+		>Uretkenlik ve Teknoloji</a
+	>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Motivasyon</i></h4>
-{% for item in site.data.list %} {% if item.categories == "motivasyon" %}
 <div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
+	<a href="https://homelibrary.nonfictionbooks.xyz/ypay-zeka">Yapay Zeka</a>
 </div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Sosyal Bilimler</i></h4>
-{% for item in site.data.list %} {% if item.categories == "sosyal bilimler" %}
-<div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
-</div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
-<h4><i>Mindfulness</i></h4>
-{% for item in site.data.list %} {% if item.categories == "mindfulness" %}
-<div>
-	<i
-		><a
-			href="{{ site.baseurl }}booklist#{{ item.bookshelf }}"
-			name="{{ item.bookshelf }}"
-			>{{ item.title }} | {{ item.author }}</a
-		>
-	</i>
-</div>
-{% else %}
-<div style="visibility: hidden"></div>
-{% endif %} {% endfor %}
-<br />
