@@ -3267,7 +3267,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 1219,
@@ -3747,7 +3747,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "meditasyon"
 	},
 	{
 		"bookshelf": 1251,
@@ -15552,7 +15552,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 2038,
@@ -18101,7 +18101,7 @@
 		"notes": "C-4",
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
-		"categories": "n/a",
+		"categories": "motivasyon",
 		"reread": "n/a"
 	},
 	{
