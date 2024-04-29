@@ -21,3 +21,9 @@ title: "Fen Bilimleri"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_fenbilimleri = cat_data |
+where: "categories", "fen bilimleri" | size %}
+<!-- {{ }} -->
+{{ cat_fenbilimleri }}

@@ -21,3 +21,9 @@ title: "Yonetim"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_yonetim = cat_data | where:
+"categories", "yonetim" | size %}
+<!-- {{ }} -->
+{{ cat_yonetim }}

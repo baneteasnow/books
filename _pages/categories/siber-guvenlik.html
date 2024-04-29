@@ -21,3 +21,9 @@ title: "Siber Guvenlik"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_siberguvenlik = cat_data |
+where: "categories", "siber guvenlik" | size %}
+<!-- {{ }} -->
+{{ cat_siberguvenlik }}

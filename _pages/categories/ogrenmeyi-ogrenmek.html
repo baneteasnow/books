@@ -22,3 +22,9 @@ title: "Ogrenmeyi Ogrenmek"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_ogrenmeyiogrenmek =
+cat_data | where: "categories", "ogrenmeyi ogrenmek" | size %}
+<!-- {{ }} -->
+{{ cat_ogrenmeyiogrenmek }}

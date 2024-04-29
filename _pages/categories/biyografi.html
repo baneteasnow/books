@@ -21,3 +21,9 @@ title: "Biyografi"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_biyografi = cat_data |
+where: "categories", "biyografi" | size %}
+<!-- {{ }} -->
+{{ cat_biyografi }}

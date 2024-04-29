@@ -21,3 +21,9 @@ title: "Etik"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_etik = cat_data | where:
+"categories", "etik" | size %}
+<!-- {{ }} -->
+{{ cat_etik }}

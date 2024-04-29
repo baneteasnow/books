@@ -22,3 +22,9 @@ title: "Uretkenlik ve Teknoloji"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_uretkenlikteknoloji =
+cat_data | where: "categories", "uretkenlik teknoloji" | size %}
+<!-- {{ }} -->
+{{ cat_uretkenlikteknoloji }}

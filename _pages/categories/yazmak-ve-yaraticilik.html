@@ -22,3 +22,9 @@ title: "Yazmak ve Yaraticilik"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_yazmakyaraticilik =
+cat_data | where: "categories", "yazmak yaraticilik" | size %}
+<!-- {{ }} -->
+{{ cat_yazmakyaraticilik }}

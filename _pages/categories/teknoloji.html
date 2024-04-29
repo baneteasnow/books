@@ -21,3 +21,9 @@ title: "Teknoloji"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_teknoloji = cat_data |
+where: "categories", "teknoloji" | size %}
+<!-- {{ }} -->
+{{ cat_teknoloji }}

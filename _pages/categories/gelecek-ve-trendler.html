@@ -21,3 +21,9 @@ title: "Gelecek ve Trrendler"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_gelecektrendler = cat_data
+| where: "categories", "gelecek trendler" | size %}
+<!-- {{ }} -->
+{{ cat_gelecektrendler }}

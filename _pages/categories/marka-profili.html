@@ -21,3 +21,9 @@ title: "Marka Profili"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_markaprofili = cat_data |
+where: "categories", "marka profili" | size %}
+<!-- {{ }} -->
+{{ cat_markaprofili }}

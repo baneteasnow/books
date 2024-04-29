@@ -21,3 +21,9 @@ title: "Felsefe"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_felsefe = cat_data | where:
+"categories", "felsefe" | size %}
+<!-- {{ }} -->
+{{ cat_felsefe }}

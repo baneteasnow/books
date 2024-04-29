@@ -21,3 +21,9 @@ title: "Egitim"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_egitim = cat_data | where:
+"categories", "egitim" | size %}
+<!-- {{ }} -->
+{{ cat_egitim }}

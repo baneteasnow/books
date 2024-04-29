@@ -21,3 +21,9 @@ title: "Sifir Atik Yasam"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_sifiratikyasam = cat_data |
+where: "categories", "sifir atik" | size %}
+<!-- {{ }} -->
+{{ cat_sifiratikyasam }}

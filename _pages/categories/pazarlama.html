@@ -21,3 +21,9 @@ title: "Pazarlama"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_pazarlama = cat_data |
+where: "categories", "pazarlama" | size %}
+<!-- {{ }} -->
+{{ cat_pazarlama }}

@@ -21,3 +21,9 @@ title: "Hayvan Haklari"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_hayvanhaklari = cat_data |
+where: "categories", "hayvan haklari" | size %}
+<!-- {{ }} -->
+{{ cat_hayvanhaklari }}

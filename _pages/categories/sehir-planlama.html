@@ -21,3 +21,9 @@ title: "Sehir Planlama"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_sehirplanlama = cat_data |
+where: "categories", "sehir planlama" | size %}
+<!-- {{ }} -->
+{{ cat_sehirplanlama }}
