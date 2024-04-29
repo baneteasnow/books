@@ -1046,7 +1046,7 @@
 		"notes": "D-4",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "tuketici",
 		"reread": "n/a"
 	},
 	{
@@ -2547,7 +2547,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "teknoloji"
 	},
 	{
 		"bookshelf": 1171,
@@ -3162,7 +3162,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "gelecek trendler"
 	},
 	{
 		"bookshelf": 1212,
@@ -3461,7 +3461,7 @@
 		"notes": "B-3",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "calisma yasami",
 		"reread": "n/a"
 	},
 	{
@@ -3597,7 +3597,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "teknoloji"
 	},
 	{
 		"bookshelf": 1241,
@@ -3806,7 +3806,7 @@
 		"notes": "B-3",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "lifestyle",
 		"reread": "n/a"
 	},
 	{
@@ -3837,7 +3837,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 1257,
@@ -4917,7 +4917,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "uretkenlik teknoloji"
 	},
 	{
 		"bookshelf": 1329,
@@ -5937,7 +5937,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "internet"
 	},
 	{
 		"bookshelf": 1397,
@@ -7302,7 +7302,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "teknoloji"
 	},
 	{
 		"bookshelf": 1488,
@@ -7871,7 +7871,7 @@
 		"notes": "D-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "marka profili",
 		"reread": "n/a"
 	},
 	{
@@ -7886,7 +7886,7 @@
 		"notes": "D-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "yonetim",
 		"reread": "n/a"
 	},
 	{
@@ -8277,7 +8277,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "felsefe"
 	},
 	{
 		"bookshelf": 1553,
@@ -8322,7 +8322,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "yazilim"
 	},
 	{
 		"bookshelf": 1556,
@@ -8951,7 +8951,7 @@
 		"notes": "B-4",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "gelecek trendler",
 		"reread": "n/a"
 	},
 	{
@@ -9117,7 +9117,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "sosyal medya"
 	},
 	{
 		"bookshelf": 1609,
@@ -9657,7 +9657,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "endustriyel tasarim"
 	},
 	{
 		"bookshelf": 1645,
@@ -9701,7 +9701,7 @@
 		"notes": "D-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -11291,7 +11291,7 @@
 		"notes": "C-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "ekonomi",
 		"reread": "n/a"
 	},
 	{
@@ -11891,7 +11891,7 @@
 		"notes": "E-4",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "calisma yasami",
 		"reread": "n/a"
 	},
 	{
@@ -12867,7 +12867,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "yonetim"
 	},
 	{
 		"bookshelf": 1859,
@@ -13346,7 +13346,7 @@
 		"notes": "B-3",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "biyografi",
 		"reread": "n/a"
 	},
 	{
@@ -16302,7 +16302,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "moda markalari"
 	},
 	{
 		"bookshelf": 2088,
@@ -16347,7 +16347,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "dijital kultur"
 	},
 	{
 		"bookshelf": 2091,
@@ -16586,7 +16586,7 @@
 		"notes": "B-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "uretkenlik teknoloji",
 		"reread": "n/a"
 	},
 	{
@@ -16856,7 +16856,7 @@
 		"notes": "A-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -16872,7 +16872,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "uretkenlik teknoloji"
 	},
 	{
 		"bookshelf": 2126,
@@ -18912,7 +18912,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "uretkenlik teknoloji"
 	},
 	{
 		"bookshelf": 2262,
@@ -22016,7 +22016,7 @@
 		"notes": "E-4",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "marka profili",
 		"reread": "n/a"
 	},
 	{
@@ -22496,7 +22496,7 @@
 		"notes": "D-3",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "calisma yasami",
 		"reread": "n/a"
 	},
 	{
