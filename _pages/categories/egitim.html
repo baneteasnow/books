@@ -2,12 +2,12 @@
 layout: page-6
 published: true
 last_modified_at: 2024-04-28
-title: "Bahce Tarimi"
+title: "Egitim"
 ---
 
 {%-include backtotop.html-%}
 <br />
-{% for item in site.data.list %} {% if item.categories == "bahce tarimi" %}
+{% for item in site.data.list %} {% if item.categories == "egitim" %}
 <div>
 	<i
 		><a
@@ -21,9 +21,3 @@ title: "Bahce Tarimi"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
-
-<!-- size -->
-{% assign cat_data = site.data.list %} {% assign cat_bahcetarimi = cat_data |
-where: "categories", "bahce tarimi" | size %}
-<!-- {{ }} -->
-{{ cat_bahcetarimi }}
