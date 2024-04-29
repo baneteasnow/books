@@ -7,8 +7,7 @@ title: "Tuketici Davranislari"
 
 {%-include backtotop.html-%}
 <br />
-{% for item in site.data.list %} {% if item.categories == "tuketici
-davranislari" %}
+{% for item in site.data.list %} {% if item.categories == "tuketici" %}
 <div>
 	<i
 		><a
@@ -25,6 +24,6 @@ davranislari" %}
 
 <!-- size -->
 {% assign cat_data = site.data.list %} {% assign cat_tuketicidavranislari =
-cat_data | where: "categories", "tuketici davranislari" | size %}
+cat_data | where: "categories", "tuketici" | size %}
 <!-- {{ }} -->
 {{ cat_tuketicidavranislari }}

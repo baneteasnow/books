@@ -3327,7 +3327,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "tuketici davranislari"
+		"categories": "tuketici"
 	},
 	{
 		"bookshelf": 1223,
@@ -3492,7 +3492,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "tuketici davranislari"
+		"categories": "tuketici"
 	},
 	{
 		"bookshelf": 1234,
@@ -10797,7 +10797,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "reklam"
 	},
 	{
 		"bookshelf": 1721,
@@ -18762,7 +18762,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "tuketici davranislari"
+		"categories": "tuketici"
 	},
 	{
 		"bookshelf": 2252,
@@ -19977,7 +19977,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "teknoloji"
 	},
 	{
 		"bookshelf": 2333,
@@ -20442,7 +20442,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "tuketici davranislari"
+		"categories": "tuketici"
 	},
 	{
 		"bookshelf": 2364,
