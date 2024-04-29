@@ -24,6 +24,7 @@ title: "Beslenme"
 
 <!-- size -->
 <br />
-{% assign books_data = site.data.list %} {% assign categories_beslenme =
-books_data | where: "categories", "beslenme" | size %}
+{% assign cat_data = site.data.list %} {% assign cat_beslenme = cat_data |
+where: "categories", "beslenme" | size %}
 <br />
+{{ cat_beslenme }}
