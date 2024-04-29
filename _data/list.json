@@ -686,7 +686,7 @@
 		"notes": "B-4",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "davranissal iktisat",
 		"reread": "n/a"
 	},
 	{
@@ -1301,7 +1301,7 @@
 		"notes": "B-3",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "sosyoloji",
 		"reread": "n/a"
 	},
 	{
@@ -2067,7 +2067,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "ekonomi"
 	},
 	{
 		"bookshelf": 1139,
@@ -3327,7 +3327,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "tuketici davranislari"
 	},
 	{
 		"bookshelf": 1223,
@@ -3492,7 +3492,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "tuketici davranislari"
 	},
 	{
 		"bookshelf": 1234,
@@ -9162,7 +9162,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "uretkenlik teknoloji"
 	},
 	{
 		"bookshelf": 1612,
@@ -10227,7 +10227,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "uretkenlik teknoloji"
 	},
 	{
 		"bookshelf": 1683,
@@ -11457,7 +11457,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "uretkenlik teknoloji"
 	},
 	{
 		"bookshelf": 1765,
@@ -14246,7 +14246,7 @@
 		"notes": "E-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "lifestyle",
 		"reread": "n/a"
 	},
 	{
@@ -16932,7 +16932,7 @@
 		"status": "Read",
 		"reread": "yes",
 		"newstatus": "n/a",
-		"categories": "n/a"
+		"categories": "yonetim"
 	},
 	{
 		"bookshelf": 2130,
@@ -18251,7 +18251,7 @@
 		"notes": "D-2",
 		"status": "Read",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "girisimcilik",
 		"reread": "n/a"
 	},
 	{
