@@ -21,3 +21,15 @@ title: "Beslenme"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+
+<!-- size -->
+1
+<br />
+{% assign category_data = site.data.list %} {% assign categories_beslenme =
+category_data | where: "categories", "beslenme" | size %}
+<br />
+2
+<br />
+{% assign category_data = site.data.list %} {% assign categories_beslenme =
+category_data | where: "Categories", "beslenme" | size %}
+<br />
