@@ -21,3 +21,8 @@ title: "Dijital Kultur"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+<!-- size -->
+{% assign cat_data = site.data.list %} {% assign cat_dijitalkultur = cat_data |
+where: "categories", "dijital kultur" | size %}
+<!-- {{ }} -->
+{{ cat_dijitalkultur }}
