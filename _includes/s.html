@@ -353,15 +353,3 @@
 		</tr>
 	</tbody>
 </table>
-<br />
-Izmir
-<br />
-{% assign books_data = site.data.list %} {% assign shelf_izmir = books_data |
-where: "notes", "Izmir" | size %} {{ shelf_izmir }}
-<br />Didim<br />
-{% assign books_data = site.data.list %} {% assign shelf_didim = books_data |
-where: "notes", "Didim" | size %} {{ shelf_didim }}
-<br />new<br />
-{% assign books_data = site.data.list %} {% assign shelf_new = books_data |
-where: "notes", "new" | size %} {{ shelf_new }}
-<br />
