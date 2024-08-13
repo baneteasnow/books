@@ -26533,5 +26533,35 @@
 		"newstatus": "n/a",
 		"categories": "n/a",
 		"reread": "n/a"
+	},
+	{
+		"bookshelf": 2770,
+		"No": 1770,
+		"title": "Gel Hayattan Konusalim",
+		"publisher": "Dogan Kitap",
+		"author": "Alper Hasanoglu, Filiz Aygunduz",
+		"lang": "Turkce",
+		"page": 176,
+		"year": "2020",
+		"notes": "A-6",
+		"status": "UnRead",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
+	},
+	{
+		"bookshelf": 2771,
+		"No": 1771,
+		"title": "Duygusal Cehalet - Duygu Biliminde Kaybolarak Kendini Bulmak",
+		"publisher": "Nova Yayinlari",
+		"author": "Dean Burnett",
+		"lang": "Turkce",
+		"page": 408,
+		"year": "2024",
+		"notes": "A-4",
+		"status": "UnRead",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	}
 ]
