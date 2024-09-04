@@ -12,7 +12,7 @@ self.addEventListener("install", function (event) {
 
 			if (
 				offlineFallbackPage ===
-				"https://homelibrary.nonfictionbooks.xyz/offline.html"
+				"https://homelibrary.next52books.com/offline.html"
 			) {
 				return cache.add(
 					new Response(

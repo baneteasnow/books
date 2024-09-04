@@ -1,9 +1,9 @@
-title: homelibrary.nonfictionbooks.xyz # name of the site
-author: nonfictionbooks.xyz # name of site's author
-url: https://homelibrary.nonfictionbooks.xyz # root address of the site
+title: homelibrary.next52books.com # name of the site
+author: next52books.com # name of site's author
+url: https://homelibrary.next52books.com # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  nonfictionbooks.xyz - home library
+  next52books.com - home library
 
 # set timezone
 timezone: Australia/Sydney
