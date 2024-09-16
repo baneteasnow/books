@@ -3504,7 +3504,7 @@
 		"page": 346,
 		"year": "2011",
 		"notes": "C-1",
-		"status": "UnRead",
+		"status": "Reading",
 		"newstatus": "n/a",
 		"categories": "n/a",
 		"reread": "n/a"
@@ -26349,7 +26349,7 @@
 		"page": 94,
 		"year": "2023",
 		"notes": "G-8",
-		"status": "UnRead",
+		"status": "Reading",
 		"newstatus": "n/a",
 		"categories": "n/a",
 		"reread": "n/a"
@@ -26424,7 +26424,7 @@
 		"page": 272,
 		"year": "2021",
 		"notes": "G-6",
-		"status": "Reading",
+		"status": "JustRead",
 		"newstatus": "n/a",
 		"categories": "n/a",
 		"reread": "n/a"
@@ -26603,7 +26603,7 @@
 		"lang": "Turkce",
 		"page": 320,
 		"year": "2007",
-		"notes": "A-5",
+		"notes": "C-4",
 		"status": "JustRead",
 		"newstatus": "n/a",
 		"categories": "n/a",
@@ -26618,7 +26618,7 @@
 		"lang": "Turkce",
 		"page": 479,
 		"year": "2005",
-		"notes": "A-5",
+		"notes": "C-4",
 		"status": "UnRead",
 		"newstatus": "n/a",
 		"categories": "n/a",
@@ -26694,7 +26694,7 @@
 		"page": 272,
 		"year": "2023",
 		"notes": "C-1",
-		"status": "UnRead",
+		"status": "Reading",
 		"newstatus": "n/a",
 		"categories": "n/a",
 		"reread": "n/a"
