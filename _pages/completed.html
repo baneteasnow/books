@@ -22,6 +22,12 @@ title: "Completed List"
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
 <br />
+<!-- size -->
+{% assign read_data = site.data.list %} {% assign status_read = read_data |
+where: "status", "Read" | size %}
+<!-- {{ }} -->
+{{ status_read }}
+<br />
 <h4><i>Just Read</i></h4>
 {% for item in site.data.list %} {% if item.status == "JustRead" %}
 <div>
@@ -36,4 +42,82 @@ title: "Completed List"
 {% else %}
 <div style="visibility: hidden"></div>
 {% endif %} {% endfor %}
+<br />
+<!-- size -->
+{% assign justread_data = site.data.list %} {% assign status_justread =
+justread_data | where: "status", "JustRead" | size %}
+<!-- {{ }} -->
+{{ status_justread }}
+<br />
+<h4><i>Read as an E-Book</i></h4>
+<br />
+<i>
+	<div>Building a Second Brain | Tiago Forte</div>
+	<div>Atomic Habits | James Clear</div>
+	<div>The Job | Ellen Ruppel Shell</div>
+	<div>The Cult of We | Eliot Brown, Maureen Farrell</div>
+	<div>The Almanack of Naval Ravikant | Eric Jorgenson</div>
+	<div>No Filter | Sarah Frier</div>
+	<div>Why Good People Can’t Get Jobs | Peter Cappelli</div>
+	<div>
+		Our House is on Fire | Malena Ernman, Greta Thunberg, Beata Ernman, Svante
+		Thunberg
+	</div>
+	<div>The End of Education | Neil Postman</div>
+	<div>Deep Medicine | Eric J. Topol</div>
+	<div>What I Talk About When I Talk About Running | Haruki Murakami</div>
+	<div>Reading The World | Ann Morgan</div>
+	<div>Lightly | Francine Jay</div>
+	<div>A Woman Makes A Plan | Maye Musk</div>
+	<div>What We Talk About When We Talk About Books | Leah Price</div>
+	<div>Project 333 | Courtney Carver</div>
+	<div>Why We Love Dogs, Eat Pigs, and Wear Cows | Melanie Joy</div>
+	<div>Hired | James Bloodwroth</div>
+	<div>Whistleblower | Susan Fowler</div>
+	<div>Factfulness | Hans Rosling, Anna Rosling Rönnlund, Ola Rosling</div>
+	<div>The Miracle Morning | Hal Elrod</div>
+	<div>Troublemaker | Leah Remini</div>
+	<div>Show Your Work | Austin Kleon</div>
+	<div>How To Take Smart Notes | Sonke Ahrens</div>
+	<div>Shoe Dog | Phil Knight</div>
+	<div>How to Make Sense of Any Mess | Abby Covert</div>
+	<div>Digital Minimalism | Cal Newport</div>
+	<div>A World Without Email | Cal Newport</div>
+	<div>Payoff | Dan Ariely</div>
+	<div>Humans Are Underrated | Geoff Colvin</div>
+	<div>How To Avoid a Climate Disaster | Bill Gates</div>
+	<div>Adventures in Opting Out | Cait Flanders</div>
+	<div>
+		101 Things I Learned in Advertising School | Tracy Arrington, Matthew
+		Frederick
+	</div>
+	<div>
+		101 Things I Learned in Urban Design School | Matthew Frederick, Vikas Mehta
+	</div>
+	<div>
+		101 Things I Learned in Law School | Vibeke Norgaard Martin, Matthew
+		Frederick
+	</div>
+	<div>
+		101 Things I Learned in Product Design School | Sung Jang, Martin Thaler,
+		Matthew Frederick
+	</div>
+	<div>The 4-Hour Work Week | Tim Ferriss</div>
+	<div>The Bullet Journal Method | Ryder Carroll</div>
+	<div>Why We Sleep | Matthew Walker</div>
+	<div>Soulful Simplicity | Courtney Carver</div>
+	<div>Talking To Strangers | Malcolm Gladwell</div>
+	<div>The Bomber Mafia | Malcolm Gladwell</div>
+	<div>Bad Blood | John Carreyrou</div>
+	<div>Hayvan Deneyleri | Yagmur Ozgur Guven, Oguzcan Kinikoglu</div>
+	<div>Vegan Devrimi ve Hayvan Ozgurlugu | Zulal Kalkandelen</div>
+	<div>Know My Name | Chanel Miller</div>
+	<div>
+		Why I’m No Longer Talking To White People About Race | Reni Eddo-Lodge
+	</div>
+	<div>The Woman In Me | Britney Spears</div>
+	<div>Self-Made Man | Norah Vincent</div>
+</i>
+<div style="clear: both"></div>
+49
 <br />
