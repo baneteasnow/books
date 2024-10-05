@@ -28108,5 +28108,35 @@
 		"newstatus": "n/a",
 		"categories": "n/a",
 		"reread": "n/a"
+	},
+	{
+		"bookshelf": 2875,
+		"No": 1875,
+		"title": "15 OOrnekle Adim Adim Aciklamali Teknik Analiz",
+		"publisher": "Epsilon Yayinevi",
+		"author": "Ibrahim Babadagi",
+		"lang": "Turkce",
+		"page": 144,
+		"year": "2024",
+		"notes": "F-2",
+		"status": "UnRead",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
+	},
+	{
+		"bookshelf": 2876,
+		"No": 1876,
+		"title": "Borsada İki Milyon Doları Nasıl Kazandım?",
+		"publisher": "Epsilon Yayinevi",
+		"author": "Nicolas Darvas",
+		"lang": "Turkce",
+		"page": 180,
+		"year": "2024",
+		"notes": "F-2",
+		"status": "UnRead",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	}
 ]
