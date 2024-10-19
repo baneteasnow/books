@@ -237,7 +237,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "tarih",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1017,
@@ -4984,7 +4984,7 @@
 		"No": 333,
 		"title": "Disa Bakan Ruya Gorur Ice Bakan Uyanir",
 		"publisher": "Destek Yayinlari",
-		"author": "Cark Gustav Jung",
+		"author": "Carl Gustav Jung",
 		"lang": "Turkce",
 		"page": 128,
 		"year": "2020",
@@ -8847,7 +8847,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "tarih",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1591,
@@ -9237,7 +9237,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "tarih",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1617,
@@ -24297,7 +24297,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "psikoloji",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2621,
@@ -24432,7 +24432,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "sosyoloji",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2630,
@@ -24747,7 +24747,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "psikoloji",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2651,
@@ -24882,7 +24882,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2660,
@@ -25317,7 +25317,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2689,
@@ -25467,7 +25467,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2699,
@@ -25512,7 +25512,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2702,
@@ -26352,7 +26352,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2758,
@@ -26907,7 +26907,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2795,
