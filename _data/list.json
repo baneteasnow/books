@@ -8559,10 +8559,10 @@
 		"page": 360,
 		"year": "2022",
 		"notes": "A-6",
-		"status": "Read",
-		"newstatus": "n/a",
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1572,
