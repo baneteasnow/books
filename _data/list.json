@@ -13089,7 +13089,7 @@
 		"page": 272,
 		"year": "2018",
 		"notes": "C-5",
-		"status": "Reading",
+		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
 		"reread": "n/a"
@@ -25197,7 +25197,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "psikoloji",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2681,
