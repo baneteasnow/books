@@ -28137,7 +28137,7 @@
 		"status": "JustRead",
 		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2877,
