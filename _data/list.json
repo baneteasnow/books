@@ -3372,7 +3372,7 @@
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
 		"categories": "otivasyon",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1226,
@@ -6612,7 +6612,7 @@
 		"status": "Read",
 		"newstatus": "n/a",
 		"categories": "motivasyon",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1442,
@@ -17200,9 +17200,9 @@
 		"year": "2005",
 		"notes": "H-8",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "yes",
 		"categories": "psikoloji",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2148,
@@ -18102,7 +18102,7 @@
 		"status": "Read",
 		"newstatus": "ToBeUpdated",
 		"categories": "motivasyon",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2208,
@@ -22677,7 +22677,7 @@
 		"status": "Read",
 		"newstatus": "n/a",
 		"categories": "lifestyle",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2513,
