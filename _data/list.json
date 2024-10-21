@@ -2862,7 +2862,7 @@
 		"status": "Read",
 		"newstatus": "n/a",
 		"categories": "yazmak yaraticilik",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1192,
@@ -4767,7 +4767,7 @@
 		"status": "Read",
 		"newstatus": "n/a",
 		"categories": "motivasyon",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1319,
@@ -8757,7 +8757,7 @@
 		"status": "Read",
 		"newstatus": "n/a",
 		"categories": "veganlik",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 1585,
