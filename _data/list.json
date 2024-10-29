@@ -26994,10 +26994,10 @@
 		"page": 328,
 		"year": "2024",
 		"notes": "H-6",
-		"status": "Reading",
-		"newstatus": "n/a",
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
-		"reread": "n/a"
+		"reread": "yes"
 	},
 	{
 		"bookshelf": 2801,
@@ -27309,7 +27309,7 @@
 		"page": 142,
 		"year": "2021",
 		"notes": "C-5",
-		"status": "UnRead",
+		"status": "Reading",
 		"newstatus": "n/a",
 		"categories": "n/a",
 		"reread": "n/a"
