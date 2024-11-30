@@ -26320,7 +26320,7 @@
 		"year": "2022",
 		"notes": "A-6",
 		"status": "JustRead",
-		"newstatus": "TobeUpdated",
+		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
 		"reread": "n/a"
 	},
@@ -29199,8 +29199,8 @@
 		"page": 192,
 		"year": "2023",
 		"notes": "G-7",
-		"status": "UnRead",
-		"newstatus": "n/a",
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
 		"reread": "n/a"
 	},
@@ -29214,8 +29214,8 @@
 		"page": 220,
 		"year": "2024",
 		"notes": "G-7",
-		"status": "Reading",
-		"newstatus": "n/a",
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
 		"reread": "n/a"
 	},
