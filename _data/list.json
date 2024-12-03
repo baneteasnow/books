@@ -29623,5 +29623,50 @@
 		"newstatus": "n/a",
 		"categories": "n/a",
 		"reread": "n/a"
+	},
+	{
+		"bookshelf": 2976,
+		"No": 1976,
+		"title": "Her Sey Nasil Cokebilir? – Simdiki Nesiller Icin Cokusbilim Elkitabi",
+		"publisher": "Is Bankasi Kultur Yayinlari",
+		"author": "Pablo Servigne, Raphaël Stevens",
+		"lang": "Turkce",
+		"page": 224,
+		"year": "2024",
+		"notes": "A-6",
+		"status": "UnRead",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
+	},
+	{
+		"bookshelf": 2977,
+		"No": 1977,
+		"title": "Transhumanist Devrim - Tekno-Tip Ve Dunyanın Uberleşmesi Hayatlarimizi Nasil Altust Edecek?",
+		"publisher": "Is Bankasi Kultur Yayinlari",
+		"author": "Luc Ferry",
+		"lang": "Turkce",
+		"page": 192,
+		"year": "2023",
+		"notes": "A-6",
+		"status": "UnRead",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
+	},
+	{
+		"bookshelf": 2978,
+		"No": 1978,
+		"title": "Dijital Cehennem - Bir Like'in Ucuna Yolculuk",
+		"publisher": "Is Bankasi Kultur Yayinlari",
+		"author": "Guillaume Pitron",
+		"lang": "Turkce",
+		"page": 264,
+		"year": "2023",
+		"notes": "A-6",
+		"status": "UnRead",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
 	}
 ]
