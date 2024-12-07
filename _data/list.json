@@ -400,9 +400,9 @@
 		"year": "2011",
 		"notes": "F-3",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "zaman planlamasi",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1028,
@@ -671,7 +671,7 @@
 		"notes": "D-7",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "davranissal iktisat"
 	},
 	{
@@ -701,7 +701,7 @@
 		"notes": "D-7",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "davranissal iktisat"
 	},
 	{
@@ -2381,7 +2381,7 @@
 		"notes": "C-9",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "yonetim"
 	},
 	{
@@ -3146,7 +3146,7 @@
 		"notes": "C-7",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "psikoloji"
 	},
 	{
@@ -3851,7 +3851,7 @@
 		"notes": "D-4",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "felsefe"
 	},
 	{
@@ -4315,9 +4315,9 @@
 		"year": "2014",
 		"notes": "C-8",
 		"status": "Read",
-		"reread": "yes",
-		"newstatus": "n/a",
-		"categories": "psikoloji"
+		"reread": "no",
+		"newstatus": "updated",
+		"categories": "sosyal psikoloji"
 	},
 	{
 		"bookshelf": 1289,
@@ -4361,7 +4361,7 @@
 		"notes": "C-8",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "dijital kultur"
 	},
 	{
@@ -4720,9 +4720,9 @@
 		"year": "2012",
 		"notes": "C-3",
 		"status": "Read",
-		"reread": "yes",
-		"newstatus": "n/a",
-		"categories": "tuketici"
+		"reread": "no",
+		"newstatus": "updated",
+		"categories": "tuketici davranislari"
 	},
 	{
 		"bookshelf": 1316,
@@ -4976,7 +4976,7 @@
 		"notes": "C-2",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "psikoloji"
 	},
 	{
@@ -5276,8 +5276,8 @@
 		"notes": "D-2",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
-		"categories": "psikoloji"
+		"newstatus": "updated",
+		"categories": "motivasyon"
 	},
 	{
 		"bookshelf": 1353,
@@ -5561,7 +5561,7 @@
 		"notes": "D-7",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "davranissal iktisat"
 	},
 	{
@@ -7120,9 +7120,9 @@
 		"year": "2009",
 		"notes": "D-2",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "calisma yasami",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1476,
@@ -7849,15 +7849,15 @@
 		"No": 524,
 		"title": "Google Nasil Yonetiliyor?",
 		"publisher": "Timas Yayinlari",
-		"author": "Jonathan Rosenberg, Eric Schmidt",
+		"author": "Eric Schmidt, Jonathan Rosenberg, Alan Eagle",
 		"lang": "Turkce",
 		"page": 320,
 		"year": "2018",
 		"notes": "C-2",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "marka profili",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1525,
@@ -7900,9 +7900,9 @@
 		"year": "2014",
 		"notes": "D-2",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "calisma yasami",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1528,
@@ -8051,7 +8051,7 @@
 		"notes": "C-7",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "psikoloji"
 	},
 	{
@@ -8410,9 +8410,9 @@
 		"year": "2011",
 		"notes": "E-1",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "biyografi",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1562,
@@ -8471,7 +8471,7 @@
 		"notes": "C-2",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "calisma yasami"
 	},
 	{
@@ -9101,7 +9101,7 @@
 		"notes": "C-8",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "dijital kultur"
 	},
 	{
@@ -12131,8 +12131,8 @@
 		"notes": "C-8",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
-		"categories": "dijital kultur"
+		"newstatus": "updated",
+		"categories": "sosyal psikoloji"
 	},
 	{
 		"bookshelf": 1810,
@@ -12146,7 +12146,7 @@
 		"notes": "C-7",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "psikoloji"
 	},
 	{
@@ -13600,9 +13600,9 @@
 		"year": "2006",
 		"notes": "C-9",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "calisma yasami",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1908,
@@ -14621,7 +14621,7 @@
 		"notes": "A-6",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "felsefe"
 	},
 	{
@@ -17456,7 +17456,7 @@
 		"notes": "C-6",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "psikoloji"
 	},
 	{
@@ -18671,7 +18671,7 @@
 		"notes": "C-6",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "felsefe"
 	},
 	{
@@ -18986,7 +18986,7 @@
 		"notes": "C-7",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "dijital kultur"
 	},
 	{
@@ -19240,9 +19240,9 @@
 		"year": "2007",
 		"notes": "F-3",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "biyografi",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 2284,
@@ -20500,9 +20500,9 @@
 		"year": "2012",
 		"notes": "E-3",
 		"status": "Read",
-		"newstatus": "n/a",
-		"categories": "gelecek trendler",
-		"reread": "n/a"
+		"newstatus": "updated",
+		"categories": "gelecek ve trendler",
+		"reread": "no"
 	},
 	{
 		"bookshelf": 2368,
@@ -21461,7 +21461,7 @@
 		"notes": "C-7",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "psikoloji"
 	},
 	{
@@ -21716,7 +21716,7 @@
 		"notes": "C-6",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "sosyoloji"
 	},
 	{
@@ -28179,8 +28179,8 @@
 		"page": 272,
 		"year": "2024",
 		"notes": "G-6",
-		"status": "Reading",
-		"newstatus": "n/a",
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated",
 		"categories": "n/a",
 		"reread": "n/a"
 	},
