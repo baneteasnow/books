@@ -8215,9 +8215,9 @@
 		"year": "2005",
 		"notes": "D-1",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "marka profili",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1549,
@@ -14126,8 +14126,8 @@
 		"notes": "C-2",
 		"status": "Read",
 		"reread": "yes",
-		"newstatus": "n/a",
-		"categories": "girisimcilik"
+		"newstatus": "updated",
+		"categories": "pazarlama"
 	},
 	{
 		"bookshelf": 1943,
@@ -14530,9 +14530,9 @@
 		"year": "2011",
 		"notes": "D-2",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "marka profili",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1970,
@@ -15085,9 +15085,9 @@
 		"year": "2012",
 		"notes": "B-1",
 		"status": "Read",
-		"newstatus": "n/a",
-		"categories": "tuketici",
-		"reread": "n/a"
+		"newstatus": "updated",
+		"categories": "tuketici davranislari",
+		"reread": "no"
 	},
 	{
 		"bookshelf": 2007,
@@ -15580,9 +15580,9 @@
 		"year": "2011",
 		"notes": "F-1",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "marka profili",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 2040,
@@ -20650,9 +20650,9 @@
 		"year": "2012",
 		"notes": "C-3",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "psikoloji",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 2378,
