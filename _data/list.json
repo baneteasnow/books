@@ -340,9 +340,9 @@
 		"year": "2016",
 		"notes": "E-5",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "motivasyon",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1024,
@@ -13720,9 +13720,9 @@
 		"year": "2018",
 		"notes": "A-9",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "mimarlik",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1916,
@@ -13930,9 +13930,9 @@
 		"year": "2011",
 		"notes": "A-9",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "moda tasarim",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1930,
@@ -14149,15 +14149,15 @@
 		"No": 944,
 		"title": "Muhendislik Okulunda Ogrendigim 101 Sey",
 		"publisher": "Optimist Kitap",
-		"author": "John Kuprenas",
+		"author": "John Kuprenas, Matthew Frederick",
 		"lang": "Turkce",
 		"page": 216,
 		"year": "2014",
 		"notes": "A-9",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "muhendislik",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1945,
@@ -14320,9 +14320,9 @@
 		"year": "2003",
 		"notes": "C-2",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "calisma yasami",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 1956,
@@ -19255,7 +19255,7 @@
 		"year": "2016",
 		"notes": "E-4",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "u[dated",
 		"categories": "motivasyon",
 		"reread": "yes"
 	},
@@ -22090,9 +22090,9 @@
 		"year": "2014",
 		"notes": "E-2",
 		"status": "Read",
-		"newstatus": "n/a",
+		"newstatus": "updated",
 		"categories": "teknoloji",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 2474,
@@ -29829,6 +29829,21 @@
 		"page": 248,
 		"year": "2019",
 		"notes": "G-7",
+		"status": "UnRead",
+		"newstatus": "n/a",
+		"categories": "n/a",
+		"reread": "n/a"
+	},
+	{
+		"bookshelf": 2990,
+		"No": 1990,
+		"title": "Risk Toplumu - Baska Bir Modernlige Dogru",
+		"publisher": "Ithaki Yayinlari",
+		"author": "Ulrich Beck",
+		"lang": "Turkce",
+		"page": 392,
+		"year": "2014",
+		"notes": "G-5",
 		"status": "UnRead",
 		"newstatus": "n/a",
 		"categories": "n/a",
