@@ -47,7 +47,7 @@ defaults:
       permalink: :slug
       published: false
       
- # _pages
+  # _pages
   -
     scope: 
       path: ""
@@ -75,4 +75,3 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  
