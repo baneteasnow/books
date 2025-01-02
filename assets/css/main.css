@@ -27,7 +27,7 @@ body[a="dark"] .emoji {
 }
 html,
 body {
-	background: red;
+	background: white;
 }
 
 html {
@@ -37,12 +37,22 @@ html {
 
 body {
 	color: black;
+	font-family: "EB Garamond", serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.188rem; /*1.125rem - 1.6rem;*/
+	line-height: 2; /* 16px */
+	/* letter-spacing: 0.5px; */
+	margin: 0;
+	min-height: 100%;
+	/*
 	font-family: monospace;
 	font-size: 16px;
 	line-height: 1.4;
 	margin: 0;
 	min-height: 100%;
 	overflow-wrap: break-word;
+*/
 }
 
 .post-meta {
