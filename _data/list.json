@@ -27904,9 +27904,9 @@
 		"page": 96,
 		"year": "2019",
 		"notes": "A-5",
-		"status": "UnRead",
+		"status": "Reading",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
@@ -30156,10 +30156,10 @@
 		"page": 144,
 		"year": "2024",
 		"notes": "A-7",
-		"status": "UnRead",
-		"newstatus": "n/a",
-		"categories": "n/a",
-		"reread": "n/a"
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated",
+		"categories": "psikoloji",
+		"reread": "no"
 	},
 	{
 		"bookshelf": 3011,
@@ -30296,7 +30296,7 @@
 		"categories": "n/a",
 		"reread": "n/a"
 	},
- {
+	{
 		"bookshelf": 3020,
 		"No": 2020,
 		"title": "Et Yoyenler Arasinda Yasamak - Vejetaryenler ve Veganlar Icin Hayatta kalma Rehberi",
