@@ -29330,10 +29330,10 @@
 		"page": 432,
 		"year": "2024",
 		"notes": "F-6",
-		"status": "Reading",
-		"newstatus": "n/a",
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated",
 		"categories": "saglik",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 2956,
@@ -30186,9 +30186,9 @@
 		"page": 200,
 		"year": "2021",
 		"notes": "B-9",
-		"status": "UnRead",
+		"status": "Reading",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "saglik",
 		"reread": "n/a"
 	},
 	{
@@ -30231,9 +30231,9 @@
 		"page": 204,
 		"year": "2024",
 		"notes": "B-6",
-		"status": "UnRead",
+		"status": "Reading",
 		"newstatus": "n/a",
-		"categories": "n/a",
+		"categories": "psikoloji",
 		"reread": "n/a"
 	},
 	{
