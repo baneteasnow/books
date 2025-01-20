@@ -30186,10 +30186,10 @@
 		"page": 200,
 		"year": "2021",
 		"notes": "B-9",
-		"status": "Reading",
-		"newstatus": "n/a",
+		"status": "JustRead",
+		"newstatus": "ToBeUpdated",
 		"categories": "saglik",
-		"reread": "n/a"
+		"reread": "no"
 	},
 	{
 		"bookshelf": 3013,
